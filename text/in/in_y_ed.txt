@@ -1,0 +1,124 @@
+
+
+1 :
+The value of LR_A00 is incorrect.
+
+
+2 :
+
+{1}{1}{1}{1}{1}{1}{1}{1}
+
+
+
+
+
+
+
+    L
+
+i
+
+f
+
+e
+
+ 
+
+r
+
+e
+
+a
+
+d
+
+i
+
+n
+
+g
+
+:
+
+ 
+
+1
+
+3 :
+
+{16:4}
+
+4 :
+
+{1}{1}{1}{1}{1}{1}
+
+
+
+
+
+5 :
+
+{16:0x}This story is not over yet.{16:1}
+
+{1}
+
+{16:0x}Because only you are in the infinity loop.{16:1}
+
+{16:4}
+
+6 :
+
+
+{1}{1}{1}{1}{1}{1}
+
+
+
+
+{16:0x}This story is not over yet.{16:1}
+
+{1}
+
+{16:0x}Because only you are in the infinity loop.{16:1}
+
+{16:4}
+
+7 :
+Opening The Third Eye‡LThe Last Chapter:{1}
+Finding £o¢o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3905 @@
+
+
+1 :
+[Takeshi]
+.........
+
+The sound of boiling, bubbling oil filled the
+room.
+
+I fried the tuna in silence.
+
+After getting up, we all gathered in front of
+the sandwich shop as usual.
+
+As luck would have it, everyone showed up at
+the same time.
+
+I guess I could have called it lucky...
+
+
+2 :
+[Y¤u]
+.........
+
+[£o¢o]
+.........
+
+[Kid]
+.........
+
+
+3 :
+[Sora]
+.........
+
+[Tsugumi]
+.........
+
+[Pipi]
+.........
+
+
+4 :
+Hardly anyone said a thing.
+
+Everyone had glum expressions on their faces
+and ate silently.
+
+There was a strange atmosphere surrounding
+us. For some reason, it had become hard for us
+to look one another in the eyes.
+
+It felt like the beginning of a bottomless
+rift amongst us.
+
+And at the same time, there was a strange
+smell in the air...
+
+
+5 :
+Sizzle!
+
+[Takeshi]
+Aggghh!
+
+There was smoke coming from the tip of my
+finger!
+
+[Takeshi]
+Smoke! Smoke! Aaaggggh, that's hot...!
+
+I had been firmly pressing it against the
+grill.
+
+I hastily cut the power.
+
+A juicy smell, not unlike sausage, was coming
+from the burnt tip of my finger.
+
+[Takeshi]
+Ooooooww, that hurts...
+
+[Takeshi]
+I'm such an idiot...
+
+As I blew on my finger to cool it off, I
+looked around at everyone.
+
+
+6 :
+[Y¤u]
+.........
+
+[£o¢o]
+.........
+
+[Kid]
+.........
+
+
+7 :
+[Sora]
+.........
+
+[Tsugumi]
+.........
+
+
+8 :
+They had noticed, but they all turned their
+gazes down.
+
+
+{PIPI_06}
+[Pipi]
+*Whine*...
+
+Only Pipi was kind enough to acknowledge me.
+
+[Takeshi]
+"Yeah, Pipi, I burnt myself pretty good, 
+hahaha."
+
+[Pipi]
+.........
+
+But soon, even Pipi turned his face away from
+me.
+
+[Takeshi]
+Hey...
+
+It seemed like everyone hated me. I felt
+totally alone.
+
+The sandwich I had just finished cooled off, and
+soon it was no longer palatable.
+
+It felt like the morning after a funeral.
+
+
+9 :
+Everyone knew why things had sunk so low.
+
+
+Everyone knew, but nobody wanted to say
+anything.
+
+A moment of carelessness had opened our
+hearts up to despair...
+
+They shoveled the tuna sandwiches into
+their mouths in silence.
+
+
+10 :
+After we were all finished eating, everyone
+went to the conference room.
+
+
+11 :
+
+{T6A000}
+[Sora]
+"There is an important reason why I've called 
+all of you here."
+
+
+{T6A001}
+[Sora]
+"There is something that I wanted to inform 
+you about as soon as possible."
+
+
+{T6A002}
+[Sora]
+"I know it is difficult, but it is important 
+for you to accurately realize the full gravity 
+of this situation."
+
+
+{T6A003}
+[Sora]
+"Please don't panic, settle down... and listen 
+carefully."
+
+
+12 :
+Sora paused for a second.
+
+Sora looked at all five of us in turn... Y¤u,
+Tsugumi, £o¢o, the Kid, and me.
+
+The conference room was silent.
+
+But I could hear the sound of water coming
+faintly from somewhere.
+
+Was it water lapping in the hallways...?
+
+Moments later, I couldn't hear it anymore.
+
+As if Sora was waiting for that cue, she
+slowly opened her mouth.
+
+
+13 :
+
+{T6A004}
+[Sora]
+The situation... is not good.
+
+
+14 :
+Sora extended her hand, and a holographic
+window appeared in the space in front of us.
+
+I felt like I hadn't seen her do that for a
+while.
+
+
+15 :
+
+{T6A005}
+[Sora]
+"Currently, there are no areas that 
+show signs of new flooding."
+
+
+{T6A006}
+[Sora]
+"Since the flooding of the Cosmic Whale area 
+in Dritter Stock last night, there have been 
+no further reports of significant damage."
+
+
+{T6A007}
+[Sora]
+"The burden being placed on LeMU's support 
+columns has increased due to the flooding."
+
+
+{T6A008}
+[Sora]
+"The structural distortion between floors is 
+increasing."
+
+
+{T6A009}
+[Sora]
+"If this continues, LeMU will eventually lose 
+its equilibrium and tilt dramatically."
+
+
+{T6A010}
+[Sora]
+"If the damage to the areas connecting the 
+floors of different sectors increases, there 
+is the possibility that pipe leaks could 
+flood the dry sectors."
+
+
+{T6A011}
+[Sora]
+"In other words... we can't afford to be 
+careless. Things are critical."
+
+
+16 :
+
+{T6A012}
+[Sora]
+I think that I told you this before...
+
+
+{T6A013}
+[Sora]
+"Implosion of LeMU is estimated to occur at 
+4:30 a.m. on May 7th."
+
+
+{T6A014}
+[Sora]
+"The calculation has a margin of error of plus 
+or minus twelve hours."
+
+
+{T6A015}
+[Sora]
+"There has been no significant change in this 
+prediction."
+
+
+{T6A016}
+[Sora]
+"In one area, the strength limits of 
+partitions have already been exceeded."
+
+
+{T6A017}
+[Sora]
+"The destruction of LeMU will be gradual, but 
+it will inevitably and steadily occur."
+
+
+{T6A018}
+[Sora]
+It is... only a matter of time.
+
+
+17 :
+Sora told all of us that with a calm look on
+her face.
+
+We all swallowed and held our breath as we
+listened.
+
+We knew we were reaching our time limit.
+
+We had no choice but to accept that reality.
+
+There was no avoiding the situation.
+
+
+18 :
+
+{T6A019}
+[Sora]
+"Presently, the power generator is functioning 
+normally."
+
+
+{T6A020}
+[Sora]
+"However, if by chance there is a 
+blackout... we will switch to the emergency 
+power source battery."
+
+
+{T6A021}
+[Sora]
+"This is generally meant for supporting the 
+emergency lighting and the maintenance on 
+LeMU's system... It should last for about two 
+hours."
+
+
+19 :
+However...
+
+While I listened to Sora's report...
+
+
+I couldn't help thinking about the two Soras from
+the previous day‡Lthe real one and the fake.
+
+How much of her thought processing had been
+'repaired'?
+
+
+20 :
+Speaking in front of me was a Sora who was
+practical, businesslike, and simply responding
+to the situation at hand.
+
+She looked at me as if nothing had
+transpired, and I was of little importance to
+her.
+
+Which Sora was she? The real one or the fake
+one...?
+
+But...
+
+I had other things to worry about.
+
+
+21 :
+Sora's matter-of-fact way of speaking only
+raised the tension in our minds.
+
+For Y¤u, £o¢o, Kid, Pipi...
+
+
+22 :
+...And even Tsugumi.
+
+Everyone was listening calmly to what Sora
+had to say. No one was panicking yet...
+
+The previous night, Tsugumi's yells had pierced my
+heart. Yet her bitter bullet didn't come out
+my back, but remained lodged inside as a
+constant reminder.
+
+
+23 :
+She refused to look at me.
+
+Instead, Tsugumi just stared blankly in front
+of her.
+
+Perhaps that was for the best...
+
+But...
+
+I had other things to worry about.
+
+
+24 :
+I turned back to the situation at hand,
+listening carefully to Sora's report.
+
+
+25 :
+
+{T6A022}
+[Sora]
+"The normal communication channels are still 
+not functioning."
+
+
+{T6A023}
+[Sora]
+Nor have I found an escape route.
+
+
+{T6A024}
+[Sora]
+However...
+
+
+{T6A025}
+[Sora]
+"I have made protecting you my top priority, 
+and LeMMIH is devoting all of its resources 
+to that objective."
+
+
+26 :
+
+{T6A026}
+[Sora]
+"I am also using all sensors, lights, 
+manipulators, and means at my disposal outside 
+of the complex..."
+
+
+{T6A027}
+[Sora]
+"And I am still investigating whether there 
+are any means of communicating with the 
+outside using light, radio, or sound."
+
+
+27 :
+Sora nodded her head, straightened her back,
+and surveyed the room. We were all silent.
+
+There was a look of determination in her eyes.
+
+
+28 :
+
+{T6A028}
+[Sora]
+Let me say one thing more...
+
+
+{T6A029}
+[Sora]
+That... as long as I, Akanegasaki Sora, exist...
+
+
+{T6A030}
+[Sora]
+"And while my powers are limited, as long as 
+you are here..."
+
+
+{T6A031}
+[Sora]
+"I will do my utmost to find a way for you to 
+escape to safety."
+
+
+29 :
+
+{T6A032}
+[Sora]
+"We do not have much longer together, but I, 
+Akanegasaki Sora, am at your service."
+
+She concluded with a serious nod.
+
+We also nodded in agreement.
+
+
+30 :
+
+{T6A033}
+[Sora]
+"We must wait... and believe that help is on 
+its way."
+
+Sora's serious expression gave way to a smile.
+
+
+{T6A034}
+[Sora]
+Everyone, let's pray for a safe rescue.
+
+
+31 :
+Her calmness was the result of her efficiently
+functioning AI.
+
+Thankfully, nobody panicked.
+
+But...
+
+
+32 :
+Was that a genuine smile from Sora?
+
+I was pretty sure it was.
+
+Because if that was a fake smile...
+
+No, even if it was Sora's real smile...
+
+Thinking about it, it was kind of sad.
+
+
+Not wanting anyone to realize my thoughts, I
+bit my lip.
+
+
+33 :
+The gloomy atmosphere that had been hanging
+over the gathering lightened, and everyone
+started thinking about how they should spend
+their time.
+
+
+34 :
+The gloomy atmosphere that had been hanging
+over the gathering lightened, and everyone
+started thinking about how they should spend
+their time.
+
+Sora's smile instilled everyone with courage.
+
+I was grateful for that piece of code in
+Sora's program, the function that allowed her
+to be calm in times of trouble...
+
+
+35 :
+We transferred to the rest area.
+
+Everyone found a seat around the central stage.
+
+A ripple ran through the water on the floor.
+
+A wave swashed back and forth from wall to
+wall.
+
+[Takeshi]
+This is serious...
+
+[Takeshi]
+What are we going we do...?
+
+I didn't have any ideas.
+
+A few quiet discussions were going on.
+
+Yet from where I stood, it seemed the more
+people spoke, the murkier the answers became.
+
+From the beginning, it was the same debate
+repeated over and over again.
+
+Should we wait for help?
+
+Should we seek an escape route?
+
+All I could do was look to the ceiling.
+
+There was no sign that any bright ideas were
+on their way to my head.
+
+We were just waiting for the walls and
+ceiling to come crumbling down.
+
+
+36 :
+
+{T6A035}
+[Kid]
+Ahhhh...!
+
+
+{T6A036}
+[Y¤u]
+What happened, Kid?
+
+
+37 :
+
+{T6A037}
+[Kid]
+Everyone, be careful!
+
+
+{T6A038}
+[Kid]
+Don't move! Don't stand up!
+
+
+38 :
+A deep moan rumbled through the room as the
+floor began to shake.
+
+A wave of fear ran through us.
+
+
+39 :
+Soon the shaking ceased.
+
+
+40 :
+
+{T6A039}
+[Kid]
+Y-Y¤u...
+
+
+{T6A040}
+[Y¤u]
+Don't worry! It's okay.
+
+
+{T6A041}
+[Y¤u]
+Right, Sora?
+
+
+41 :
+
+{T6A042}
+[Sora]
+Yes. The shaking just now was...
+
+
+{T6A043}
+[Sora]
+"I believe it was only due to a large amount 
+of activity from the thermal vents on the 
+ocean floor. It should only be temporary."
+
+
+42 :
+[Kid]
+.........
+
+But her facial coloring still hadn't returned
+to normal.
+
+
+43 :
+Everyone looked around the room, exchanging
+glances.
+
+And just like that, nervous tension filled
+the room again.
+
+[Takeshi]
+Not again...
+
+I decided to take charge.
+
+
+44 :
+[Takeshi]
+Alright! Listen up, everyone!
+
+I rose to my feet and shouted to everyone.
+
+
+45 :
+[Takeshi]
+Listen, just stay where you all are!
+
+[Takeshi]
+"I'm going to check the kiosk on the second 
+floor!"
+
+
+46 :
+Everyone looked shocked as I yelled.
+
+Some jaws even dropped.
+
+
+47 :
+They may have been half put off by me.
+
+Still, I didn't concern myself with that.
+
+
+48 :
+No matter how stupid it seemed, I continued...
+
+[Takeshi]
+"I'm going above to grab some snacks for 
+everybody. There's plenty up there, and we 
+should still be able to eat it."
+
+[Takeshi]
+"It'll be a pain to go get it later, and it 
+doesn't make sense to let them go to waste."
+
+[Takeshi]
+Alright? We're going to eat here.
+
+[Takeshi]
+And let's have a good time...
+
+[Takeshi]
+Oh, that's right. Does anybody want beer...?
+
+
+49 :
+
+{T6A044}
+[Y¤u]
+What? B-but...
+
+Y¤u raised her hand timidly.
+
+
+{T6A045}
+[Y¤u]
+But we don't sell alcohol at the LeMU kiosks.
+
+
+50 :
+
+{T6A046}
+[Y¤u]
+"We've had a lot of complaints about customers 
+having bad hangovers due to the difference 
+in air pressure down here."
+
+[Takeshi]
+That's too bad.
+
+[Takeshi]
+"Well, hardly any of you look like you could 
+hold your drink anyway. I guess it'll have to 
+be juice..."
+
+
+51 :
+
+{T6A047}
+[Kid]
+Excuse me, Takeshi?
+
+Next, it was the Kid who raised his hand.
+
+
+52 :
+
+{T6A048}
+[Kid]
+"There are probably plenty of drinks at the 
+tuna sandwich shop. That way, you won't 
+have to go above."
+
+
+{T6A049}
+[Kid]
+"There's canned juice and paper cups... Why 
+don't I go and get them?"
+
+[Takeshi]
+Alright, Kid, you do that.
+
+
+53 :
+
+{T6A050}
+[Kid]
+Alright. Leave it to me!
+
+The Kid laughed. It seemed he was over the
+events from the day before.
+
+
+54 :
+
+{T6A051}
+[£o¢o]
+Hey, let me help!
+
+An excited £o¢o raised her hand, volunteering.
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+
+{T6A052}
+[£o¢o]
+I think Pipi wants to help too!
+
+[Takeshi]
+"Great! Alright, let's go and get the 
+supplies."
+
+
+55 :
+
+{T6A053}
+[Y¤u]
+Sora, do we still have time?
+
+Y¤u asked Sora this in a small voice.
+
+
+{T6A054}
+[Sora]
+"I am sorry. I am not able to run an accurate 
+simulation..."
+
+
+{T6A055}
+[Sora]
+"There may not be much time, but we will be 
+safe until 2 p.m. I can guarantee that."
+
+Sora replied casually.
+
+
+56 :
+
+{T6A056}
+[Y¤u]
+Alright...
+
+
+57 :
+Y¤u nodded and looked up.
+
+
+58 :
+
+{T6A057}
+[Y¤u]
+"Kid, are you ready? Let's grab all the 
+drinks we can carry."
+
+
+{T6A058}
+[Kid]
+Okay, let's go.
+
+
+59 :
+
+{T6A059}
+[Y¤u]
+Oh, that's right!
+
+Y¤u slammed her fist into her palm excitedly
+and looked about the room.
+
+
+60 :
+
+{T6A060}
+[Y¤u]
+What about Tsugumi?
+
+
+61 :
+
+{T6A061}
+[Y¤u]
+Tsugumi? H-huh...?
+
+
+{T6A062}
+[Y¤u]
+She's not here...
+
+
+62 :
+[Takeshi]
+What!?
+
+
+63 :
+I frantically surveyed the room as well, but
+Tsugumi was nowhere in sight.
+
+[Takeshi]
+"Where the heck did she go? And when'd she 
+leave?"
+
+
+64 :
+
+{T6A063}
+[Sora]
+"I believe Komachi-san slipped out of here just a 
+short while ago."
+
+
+{T6A064}
+[Sora]
+"She seems to have left for the second 
+floor..."
+
+[Takeshi]
+.........
+
+
+65 :
+
+{T6A065}
+[Y¤u]
+There's nothing we can do.
+
+
+66 :
+
+{T6A066}
+[Y¤u]
+She'll be back soon, right, Kuranari?
+
+[Takeshi]
+Y-yeah...
+
+
+67 :
+
+{T6A067}
+[Y¤u]
+Okay, everyone, let's get ready to party!
+
+
+68 :
+
+{T6A068}
+[£o¢o]
+Okay!
+
+
+{T6A069}
+[Kid]
+Alright!
+
+
+{T6A070}
+[Sora]
+Yes!
+
+
+{PIPI_01}
+[Pipi]
+*Woof*!
+
+[Takeshi]
+Y-yeah!
+
+
+{T6A071}
+[£o¢o]
+Let's party~ Party~
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+I had only thrown out the idea as a way to
+lighten the mood...
+
+And before I knew it, we had ourselves a
+full-blown 'party' in the making.
+
+...Well, whatever.
+
+It was better than having everyone moping
+around.
+
+
+69 :
+Soon, £o¢o, Pipi, and I left to get food. We
+took the emergency stairs.
+
+
+70 :
+
+{T6A072}
+[£o¢o]
+Laaaalala... lalalala~
+
+
+{T6A073}
+[£o¢o]
+Falalalala... lalalala~
+
+
+{T6A074}
+[£o¢o]
+Falala... falala~
+
+
+{T6A075}
+[£o¢o]
+LALALA~
+
+
+{PIPI_01}
+[Pipi]
+*Woof*!
+
+As we climbed the stairs, £o¢o sang some
+crazy song.
+
+[Takeshi]
+You seem like you're in a good mood, £o¢o.
+
+
+71 :
+
+{T6A076}
+[£o¢o]
+"Well, you know, I just get excited 
+sometimes..."
+
+
+72 :
+
+{T6A077}
+[£o¢o]
+Looks like we've come to the climax!
+
+
+73 :
+
+{T6A078}
+[£o¢o]
+"The damsel in distress is in a pinch and in 
+waltzes our dashing hero!"
+
+
+74 :
+
+{T6A079}
+[£o¢o]
+"Young lady, are you alright? Are you not 
+injured?"
+
+
+75 :
+
+{T6A080}
+[£o¢o]
+"And there is our masked villain. I can't 
+forgive you for this, you evil scoundrel!"
+
+
+{T6A081}
+[£o¢o]
+"Using my neutrino energy power, I'll kill 
+you! Ayah!"
+
+
+76 :
+
+{T6A082}
+[£o¢o]
+...Oh, I can pretend, can't I~
+
+[Takeshi]
+.........
+
+
+77 :
+
+{T6A083}
+[£o¢o]
+Huh, Takepyon? Are you fed up with me?
+
+[Takeshi]
+N-no...
+
+
+78 :
+
+{T6A084}
+[£o¢o]
+"You think I'm just a silly girl, don't you? 
+Ah! So sad! But you want to see what kind of 
+parents could have raised me."
+
+[Takeshi]
+No, no. It's not that... not at all!
+
+I mussed up her hair affectionately.
+
+
+79 :
+
+{T6A085}
+[£o¢o]
+Heh heh heh...
+
+
+80 :
+
+{T6A086}
+[£o¢o]
+"If I were in a pinch like that, I'm sure 
+someone would come to my rescue!"
+
+
+{T6A087}
+[£o¢o]
+"I just can't help but think of how wonderful 
+that would be..."
+
+
+81 :
+
+{T6A088}
+[£o¢o]
+"You know? What's wrong with dreaming like 
+that?"
+
+[Takeshi]
+Yeah, you're right.
+
+[Takeshi]
+"You know... To tell you the truth, I'm 
+thinking the same way."
+
+[Takeshi]
+I think that someone might come to rescue us!
+
+[Takeshi]
+I don't know about the neutrino stuff though.
+
+
+82 :
+
+{T6A089}
+[£o¢o]
+Yeah, yeah! You're right~
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+
+83 :
+We wanted to believe that a hero was on the
+way...
+
+...And that went for £o¢o, Pipi, and me too.
+
+
+84 :
+We reached the second floor.
+
+We turned down the corridor and entered the
+souvenir shop.
+
+
+85 :
+Someone had beaten us there.
+
+
+{T6A090}
+[£o¢o]
+Hey, is that you? Tsugumin?
+
+
+86 :
+
+{T6A091}
+[Tsugumi]
+Yes...
+
+I was shocked to see her...
+
+I totally blanked and went speechless.
+
+
+{T6A092}
+[Tsugumi]
+Is there a reason I shouldn't be here?
+
+Tsugumi spit out her words coldly.
+
+It was the typical way she talked.
+
+
+87 :
+
+{T6A093}
+[£o¢o]
+No, not at all...
+
+
+88 :
+
+{T6A094}
+[£o¢o]
+Tsugumin, how about you help us out?
+
+[Tsugumi]
+.........
+
+
+89 :
+
+{T6A095}
+[Tsugumi]
+"Well, alright. I don't suppose I really have 
+a choice."
+
+Tsugumi nodded reluctantly.
+
+
+{T6A096}
+[Tsugumi]
+So what should I do, £o¢o?
+
+
+90 :
+
+{T6A097}
+[£o¢o]
+Well... Let's see...
+
+[Takeshi]
+.........
+
+
+91 :
+Tsugumi glanced at me...
+
+
+92 :
+She didn't say anything and looked away
+quickly.
+
+Her eyes seemed dead.
+
+Thinking about it made me sad.
+
+
+93 :
+
+{T6A098}
+[Tsugumi]
+You're taking too long...
+
+Tsugumi looked a little miffed.
+
+
+94 :
+
+{T6A099}
+[Tsugumi]
+Well, what is it you want me to carry?
+
+[Takeshi]
+.........
+
+
+95 :
+
+{T6A100}
+[Tsugumi]
+"What is it, Takeshi? You look like a pigeon 
+caught in a shotgun blast."
+
+[Takeshi]
+Oh, it's nothing. Nothing.
+
+I was surprised she even said anything to me.
+
+[Takeshi]
+Okay, let's get started!
+
+
+96 :
+One hour later‡L
+
+We began our party in an elevated part of the
+rest area.
+
+Even without alcohol, the party was lively.
+
+The Kid and I distributed the snacks and
+drinks to everyone.
+
+It was then that Y¤u volunteered to provide
+some entertainment.
+
+{16:4}
+
+97 :
+First, she performed an impersonation of a
+strange old archaeologist who had a talent
+for cracking a whip...
+
+Then £o¢o came out in a makeshift sumo outfit
+and stomped her feet on the stage...
+
+Sora kept busy filling the room with hologram
+projections of rainbows.
+
+The rainbow-colored bubbles that floated from
+the water surface through the air were
+particularly pretty.
+
+{16:4}
+
+98 :
+After that, Tsugumi joined us...
+
+She added a little magic to the show as she
+dropped her hamster in her skirt pocket only
+to have it reappear in her breast pocket.
+
+That really impressed the crowd.
+
+Although I knew about her hamster, Chami, many
+didn't even know Tsugumi kept a pet.
+
+{16:4}
+
+99 :
+Then Kid and I performed a comedy skit.
+
+We pulled out one-liners and impromptu gags
+which got huge laughter from everyone.
+
+{16:4}
+
+100 :
+
+{T6A101}
+[Kid]
+Thank you! Thank you very much!
+
+[Takeshi]
+Thanks!
+
+
+101 :
+Kid and I exited the stage to thunderous
+applause.
+
+
+102 :
+
+{T6A102}
+[£o¢o]
+Hahahahaha~ That was great!
+
+
+{T6A103}
+[Y¤u]
+That was absolutely wonderful!
+
+
+103 :
+
+{T6A104}
+[Tsugumi]
+Better than I expected...
+
+
+{T6A105}
+[Sora]
+Those two were perfect together.
+
+[Takeshi]
+No, no, thank you, thank you...
+
+
+{T6A106}
+[Kid]
+Thank you, thank you...
+
+
+104 :
+[Takeshi]
+"Actually, I was surprised that you poked 
+fun at yourself using the truth about you 
+losing your memory as a gag."
+
+
+105 :
+
+{T6A107}
+[Kid]
+"Well, that's just how the skit flowed. It 
+fit perfectly into our act."
+
+[Takeshi]
+Yeah, I guess you're right...
+
+[Takeshi]
+"Well, it looks like I've got nothing more to 
+teach you! So go ahead and follow in my 
+comedy footsteps!"
+
+
+106 :
+
+{T6A108}
+[Kid]
+"Ah, sorry. I've already forgotten everything 
+you taught me."
+
+[Takeshi]
+"Well, that's too bad... You should at least 
+take notes. Notes!"
+
+[Takeshi]
+"But never fear! I ain't taught you nothin' 
+yet!"
+
+
+107 :
+
+{T6A109}
+[Kid]
+Is that true?
+
+And that was about it...
+
+
+108 :
+The party gradually wound down.
+
+
+109 :
+I then took a trip back to the tuna
+sandwich stand and brought sandwiches back
+for everyone.
+
+
+110 :
+We all munched on hot sandwiches.
+
+(These... are so good!)
+
+It wasn't exactly the ideal breakfast food.
+
+Everyone happily downed their meals.
+
+
+111 :
+Food...
+
+If LeMU collapsed soon...
+
+I thought that could be everyone's last meal...
+
+
+Everyone understood that, yet said nothing.
+
+No...
+
+Everyone understood, which was why they said
+nothing.
+
+.........
+
+......
+
+
+112 :
+[Takeshi]
+Tsugumi...
+
+After finishing my sandwich, I got up the
+nerve to speak to Tsugumi.
+
+
+113 :
+
+{T6A110}
+[Tsugumi]
+What?
+
+
+{T6A111}
+[Tsugumi]
+What do you want, Takeshi...?
+
+
+114 :
+Tsugumi crouched on the stage.
+
+I crouched beside her and looked to see what
+she was doing.
+
+
+115 :
+There, Tsugumi was drawing something on the
+stage with a thick marker.
+
+As usual, Tsugumi didn't look at me.
+
+[Takeshi]
+Ah, well... It's...
+
+She stopped scribbling for a moment. I
+decided to come out and say what I had to say.
+
+[Takeshi]
+About yesterday...
+
+[Takeshi]
+I'm sorry. I don't know what to say, but...
+
+
+116 :
+
+{T6A112}
+[Tsugumi]
+What is it?
+
+
+{T6A113}
+[Tsugumi]
+"I don't really know what you're talking 
+about."
+
+Tsugumi was curt in her response.
+
+[Takeshi]
+Tsu-Tsugumi!
+
+[Takeshi]
+You're joking, right?
+
+[Takeshi]
+There's no way you could've forgotten.
+
+[Takeshi]
+I know I haven't.
+
+[Takeshi]
+"That's not something you can... just simply 
+forget about."
+
+[Takeshi]
+"I realize it's not something you can talk 
+about casually, but..."
+
+
+117 :
+[Tsugumi]
+.........
+
+Her eyes wandered around the room for a moment.
+
+Then she looked down again at the scribbles
+she had been drawing.
+
+
+118 :
+
+{T6A114}
+[Tsugumi]
+I don't really care.
+
+
+{T6A115}
+[Tsugumi]
+I don't care about what happened yesterday...
+
+
+119 :
+
+{T6A116}
+[Tsugumi]
+So, would you please stop talking about it?
+
+
+{T6A117}
+[Tsugumi]
+Don't say anything.
+
+[Takeshi]
+.........
+
+Tsugumi went back to her drawing on the stage
+floor.
+
+
+{T6A118}
+[Tsugumi]
+I...
+
+
+120 :
+
+{T6A119}
+[Tsugumi]
+"I'm trying to think of a way to get out of 
+here too."
+
+
+{T6A120}
+[Tsugumi]
+So don't... bother me.
+
+[Takeshi]
+.........
+
+Tsugumi refused to look at me as she spoke.
+
+After that, I felt a little put off.
+
+[Takeshi]
+Okay.
+
+
+121 :
+I stood up and left her there.
+
+I walked over toward where Sora was.
+
+[Takeshi]
+Hey, Sora.
+
+
+122 :
+
+{T6A121}
+[Sora]
+Hello. What may I help you with, Kuranari-san?
+
+Sora smiled softly when she looked at me.
+
+[Takeshi]
+Nothing much... I just have a lot on my mind.
+
+
+123 :
+
+{T6A122}
+[Sora]
+"Right now, LeMMIH is handling operations and 
+will alert me if any troubles arise."
+
+
+{T6A123}
+[Sora]
+"LeMMIH is also currently continuing 
+investigation of means of escape as well as 
+communication with the outside."
+
+
+{T6A124}
+[Sora]
+Please do not worry.
+
+[Takeshi]
+Thanks, Sora... That helps.
+
+[Takeshi]
+"Can I ask what time it is? I need to set it 
+on my..."
+
+
+{T6A125}
+[Sora]
+No problem. The current time is‡L
+
+[Takeshi]
+Hold on for a second.
+
+I took my PDA from my pocket.
+
+
+124 :
+[Takeshi]
+Sora...
+
+I made up my mind to speak to her about the
+important things I had on my mind... right
+after finishing my sandwich.
+
+
+125 :
+
+{T6A126}
+[Sora]
+Yes? What is it?
+
+With a slight smile, Sora gazed at me.
+
+Her eyes were like a clear, cloudless sky.
+
+[Takeshi]
+Ah, well, it's just that...
+
+When I saw her smile, I wavered slightly.
+Yet I continued to speak.
+
+[Takeshi]
+About yesterday...
+
+[Takeshi]
+I'm sorry. I don't know what to say, but...
+
+
+126 :
+
+{T6A127}
+[Sora]
+What is it?
+
+
+{T6A128}
+[Sora]
+"I am not quite sure what you are talking 
+about."
+
+Sora spoke brusquely.
+
+[Takeshi]
+S-Sora!
+
+[Takeshi]
+You're joking, right?
+
+[Takeshi]
+There's no way you could've forgotten.
+
+[Takeshi]
+I know I haven't.
+
+[Takeshi]
+"That's not something you can... just simply 
+forget about."
+
+[Takeshi]
+"I realize it's not something you can talk 
+about casually, but..."
+
+
+127 :
+
+{T6A129}
+[Sora]
+Hahaha...
+
+Sora gave me a bitter smile.
+
+
+128 :
+
+{T6A130}
+[Sora]
+"I'm sorry, Kuranari-san. I really do not remember 
+the events of last night."
+
+[Takeshi]
+What?
+
+
+{T6A131}
+[Sora]
+I... do not remember.
+
+
+{T6A132}
+[Sora]
+I am sorry.
+
+
+{T6A133}
+[Sora]
+"I forgot them. There is a gap in my memory 
+of a few hours."
+
+[Takeshi]
+How... Why?
+
+[Takeshi]
+You're lying... You've got to be...
+
+I didn't want to believe it.
+
+
+129 :
+
+{T6A134}
+[Sora]
+Listen, Kuranari-san. I...
+
+She laughed again and gazed out at the others
+around the stage.
+
+
+{T6A135}
+[Sora]
+I love this.
+
+
+{T6A136}
+[Sora]
+"Seeing the people around me laugh... I love 
+that."
+
+
+130 :
+
+{T6A137}
+[Sora]
+"Right now, LeMMIH is handling operations and 
+will alert me if any troubles arise."
+
+
+{T6A138}
+[Sora]
+"I have been hoping that no trouble befalls 
+us..."
+
+
+{T6A139}
+[Sora]
+It is my duty to watch over you all.
+
+
+{T6A140}
+[Sora]
+"When people return a smile, it warms my 
+heart..."
+
+
+{T6A141}
+[Sora]
+And for that very reason...
+
+
+{T6A142}
+[Sora]
+That is why I am always able to laugh.
+
+
+{T6A143}
+[Sora]
+That was how my creator made me...
+
+[Takeshi]
+.........
+
+I didn't want her to talk about herself as
+something 'made' or how she was
+'manufactured'.
+
+
+131 :
+
+{T6A144}
+[Sora]
+"Kuranari-san, please do not look at me as if you 
+are going to cry."
+
+[Takeshi]
+Yeah, right... Fine.
+
+I wanted to kick myself for what I'd done the
+previous night.
+
+But it was too late to take it back...
+
+
+132 :
+Just then...
+
+
+133 :
+
+{T6A145}
+[Tsugumi]
+Excuse me, Sora?
+
+
+{T6A146}
+[Sora]
+Ah yes, Komachi-san... What is on your mind?
+
+Tsugumi was suddenly standing right between
+Sora and me.
+
+Her smile seemed just a little forced.
+
+
+134 :
+
+{T6A147}
+[Tsugumi]
+"There's something I want to talk with you 
+about. Alone..."
+
+
+135 :
+
+{T6A148}
+[Sora]
+In private?
+
+
+{T6A149}
+[Tsugumi]
+Yes... please.
+
+
+136 :
+
+{T6A150}
+[Tsugumi]
+"Actually, I have a proposal, an idea of how to 
+escape from here."
+
+
+137 :
+
+{T6A151}
+[Sora]
+"Yes, really? Have you come up with a good 
+method?"
+
+
+{T6A152}
+[Tsugumi]
+Yes. I might be able to help in some way.
+
+
+{T6A153}
+[Tsugumi]
+"I want to hear from you whether or not my 
+idea is feasible."
+
+[Takeshi]
+Huh...? Hey, Tsugumi, hold on. Sora is...
+
+
+138 :
+
+{T6A154}
+[Tsugumi]
+Shut up, Takeshi.
+
+Tsugumi held out her hand as if stopping my
+mouth in one motion.
+
+[Takeshi]
+.........
+
+
+{T6A155}
+[Tsugumi]
+I want to speak to Sora. Alone.
+
+
+139 :
+
+{T6A156}
+[Tsugumi]
+Surely you don't mind?
+
+
+{T6A157}
+[Sora]
+"...Of course. Then we will speak in the 
+central control room."
+
+
+{T6A158}
+[Tsugumi]
+Alright. Let's go then.
+
+
+140 :
+The two got down from the stage and set off
+with very serious looks on their faces.
+
+[Takeshi]
+Hey, wait, you two! What about us!?
+
+[Takeshi]
+Why can't you just talk here!?
+
+
+141 :
+
+{T6A159}
+[Tsugumi]
+Takeshi...!
+
+Tsugumi turned around and shot a sharp glare
+at me.
+
+Her eyes were like ice.
+
+
+142 :
+
+{T6A160}
+[Tsugumi]
+I told you to shut up, didn't I?
+
+[Takeshi]
+.........
+
+
+143 :
+Sora and Tsugumi turned their backs to me and
+left together.
+
+
+144 :
+The room suddenly fell silent.
+
+[Takeshi]
+What the hell.
+
+[Takeshi]
+What the hell is going on here...?
+
+I felt alone. Balling up the sandwich
+wrapper, I threw it as hard as I could.
+
+
+145 :
+Splash.
+
+The wrapper fell in the water, creating a
+series of ripples.
+
+
+146 :
+
+{T6A161}
+[Y¤u]
+Kuranari... What do you think you're doing?
+
+
+{T6A162}
+[Y¤u]
+You shouldn't litter, you know?
+
+Y¤u picked the wrapper out of the water and
+twisted it around her finger.
+
+[Takeshi]
+"Wh-who cares? It doesn't matter at this point 
+anyway..."
+
+
+147 :
+
+{T6A163}
+[Y¤u]
+Oh, not that again. Quit your sulking, pal!
+
+[Takeshi]
+I'm not sulking.
+
+
+{T6A164}
+[Y¤u]
+If you saaay so...
+
+Y¤u shrugged and let out a deep sigh.
+
+
+148 :
+
+{T6A165}
+[Y¤u]
+*Sigh*...
+
+
+149 :
+
+{T6A166}
+[Y¤u]
+Alright!
+
+I glanced over to the corner of the room and
+saw £o¢o and Kid climbing a statue.
+
+Looking over at them...
+
+Y¤u and I sat down on the circular stage.
+
+
+150 :
+
+{T6A167}
+[Y¤u]
+The reason is totally obvious.
+
+
+{T6A168}
+[Y¤u]
+You don't have to say anything.
+
+
+{T6A169}
+[Y¤u]
+"Even if you look fine, I know it's just for 
+show."
+
+
+{T6A170}
+[Y¤u]
+I know you're depressed, Kuranari.
+
+[Takeshi]
+"W-well, because! I mean, i-it isn't like that 
+at all...!"
+
+
+151 :
+
+{T6A171}
+[Y¤u]
+What's this 'because'?
+
+
+{T6A172}
+[Y¤u]
+"Obviously, you're hiding something. You said 
+'because'."
+
+
+{T6A173}
+[Y¤u]
+That's a little strange, don't you think?
+
+
+152 :
+
+{T6A174}
+[Y¤u]
+Come on, try to prove me wrong.
+
+[Takeshi]
+.........
+
+I was pretending I was fine.
+
+Even I knew the reason was obvious.
+
+I was worried about 'her'...
+
+
+153 :
+
+{T6A175}
+[Y¤u]
+*Sigh*...
+
+Y¤u let out another fake sigh again.
+
+
+154 :
+
+{T6A176}
+[Y¤u]
+"Well, if you're not going to tell me, do you 
+mind if I ask a question?"
+
+[Takeshi]
+Go ahead...
+
+[Takeshi]
+As you wish...
+
+[Takeshi]
+*Sigh*...
+
+That time, I was the one to sigh.
+
+
+155 :
+
+{T6A177}
+[Y¤u]
+Okay! Here I go!
+
+[Takeshi]
+Well, hurry up already.
+
+
+156 :
+
+{T6A178}
+[Y¤u]
+What are you so angry about?
+
+[Takeshi]
+I'm not angry about anything.
+
+
+157 :
+
+{T6A179}
+[Y¤u]
+Okay, okay...
+
+
+158 :
+The Kid and Pipi were playing sumo. £o¢o was
+the referee.
+
+I was watching them...
+
+...As Y¤u spoke.
+
+
+159 :
+
+{T6A180}
+[Y¤u]
+Hey, Kuranari...
+
+
+{T6A181}
+[Y¤u]
+"Do you know about the malfunction in Sora's 
+thought process?"
+
+[Takeshi]
+I don't know.
+
+[Takeshi]
+No, wait, maybe I do know.
+
+
+{T6A182}
+[Y¤u]
+Well, which one is it?
+
+[Takeshi]
+I can't say either way.
+
+
+{T6A183}
+[Y¤u]
+"Ah, so you're one of those indecisive types, 
+huh?"
+
+[Takeshi]
+Alright, alright...
+
+[Takeshi]
+But I can't talk about it.
+
+[Takeshi]
+It's a secret between Sora and me.
+
+It was likely that Sora was jealous of
+Tsugumi and me.
+
+But I was pretty sure AI didn't understand
+emotions like jealousy.
+
+Always bothered by emotions that she didn't
+understand. Sora...
+
+Asking me to explain them to her. Sora...
+
+Sharp twinges nagged at my heart.
+
+
+{T6A184}
+[Y¤u]
+Oh really? I see. It's a secret, huh?
+
+[Takeshi]
+.........
+
+
+{T6A185}
+[Y¤u]
+By the way...
+
+
+{T6A186}
+[Y¤u]
+"When I was searching through LeMMIH, I found 
+out..."
+
+
+{T6A187}
+[Y¤u]
+"One feature of Sora's system is the ability 
+to engage in self-study, but she's unable to 
+manipulate memories."
+
+[Takeshi]
+...What?
+
+[Takeshi]
+What did you just say?
+
+
+{T6A188}
+[Y¤u]
+"She's able to store information she accumulates 
+through self-study."
+
+[Takeshi]
+No, the part after that...
+
+
+{T6A189}
+[Y¤u]
+"She isn't able to manipulate or delete 
+memories... by herself. The only thing that 
+can change is the priority she puts on 
+information in her database."
+
+
+{T6A190}
+[Y¤u]
+"The only way to perform a system recovery is 
+when the system crashes. As a last resort..."
+
+
+{T6A191}
+[Y¤u]
+"And only humans approved by the system can 
+restart her."
+
+[Takeshi]
+.........
+
+Meaning that she couldn't have undergone a
+system recovery the previous night.
+
+Sora...
+
+She told me the truth.
+
+But at the same time, she lied.
+
+A computer program that could only accept
+'yes' or 'no', 'ones' and 'zeroes', had tried
+desperately to accept a contradiction...
+
+
+{T6A192}
+[Y¤u]
+In a sense, AI is similar to people.
+
+
+{T6A193}
+[Y¤u]
+"It can pretend that it didn't notice 
+something, but it's not easy for it to forget 
+things..."
+
+[Takeshi]
+Why are you telling me this?
+
+
+{T6A194}
+[Y¤u]
+I wonder?
+
+Y¤u said that sarcastically, playing dumb.
+
+Then she laughed mischievously.
+
+[Takeshi]
+Listen... Y¤u...
+
+
+{T6A195}
+[Y¤u]
+Whaaat?
+
+[Takeshi]
+"Even if Sora's memory was being stored 
+somewhere above us, do you think she really 
+wants to be rescued with the rest of us?"
+
+
+{T6A196}
+[Y¤u]
+What do you think, Kuranari?
+
+[Takeshi]
+"Of course I... I want her to be saved along 
+with everyone else."
+
+[Takeshi]
+"LeMU is Sora's eyes, her body. Even if her 
+mind is in another section, if this part 
+sinks, part of her will go down with it."
+
+[Takeshi]
+"And if that's the case, no matter what we 
+do, there's no way to rescue her from here 
+completely..."
+
+
+{T6A197}
+[Y¤u]
+"Yeah. I really hope that we can all escape 
+together."
+
+[Takeshi]
+"It sure would be nice for that wish to come 
+true..."
+
+
+{T6A198}
+[Y¤u]
+Yeah... It would.
+
+£o¢o and Pipi...
+
+I could hear splashes as they ran.
+
+
+{T6A199}
+[Y¤u]
+"Actually, a close friend of mine told me 
+this once, but..."
+
+
+{T6A200}
+[Y¤u]
+Believe it, desire it, and it can come true...
+
+[Takeshi]
+Believe it, desire it, and it can...?
+
+[Takeshi]
+What is that, something you read in a book?
+
+
+{T6A201}
+[Y¤u]
+Well... not exactly.
+
+
+{T6A202}
+[Y¤u]
+"It's a sort of phenomenon. I don't know if 
+it's true or not. It's just a kind of 
+hypothesis."
+
+[Takeshi]
+Hypothesis?
+
+
+{T6A203}
+[Y¤u]
+Yeah.
+
+
+{T6A204}
+[Y¤u]
+It's called...
+
+
+{T6A205}
+[Y¤u]
+Curé.
+
+[Takeshi]
+Curé?
+
+Curé...
+
+I pondered the word for a moment.
+
+
+160 :
+
+{T6A206}
+[Y¤u]
+Hey... Kuranari...
+
+
+{T6A207}
+[Y¤u]
+About Tsugumi's injury...
+
+
+{T6A208}
+[Y¤u]
+It's healing really quickly...
+
+
+{T6A209}
+[Y¤u]
+She didn't even need stitches, you know.
+
+[Takeshi]
+.........
+
+
+{T6A210}
+[Y¤u]
+"Tsugumi seems like she leads a normal life, 
+just like you and me..."
+
+
+{T6A211}
+[Y¤u]
+"And I try not to worry too much about her 
+and just accept things as I see them, but..."
+
+
+{T6A212}
+[Y¤u]
+But that just isn't normal.
+
+She looked down at her feet when she spoke.
+
+
+{T6A213}
+[Y¤u]
+Have you heard about Tsugumi's condition?
+
+[Takeshi]
+No, I haven't...
+
+[Takeshi]
+Wait, I might have.
+
+
+{T6A214}
+[Y¤u]
+You can really be vague sometimes, you know?
+
+
+{T6A215}
+[Y¤u]
+Which one is it?
+
+[Takeshi]
+I'm sorry... I forgot.
+
+
+{T6A216}
+[Y¤u]
+You forgot!?
+
+[Takeshi]
+.........
+
+
+{T6A217}
+[Y¤u]
+"So you're one of those indecisive type of 
+guys, hmmm?"
+
+[Takeshi]
+.........
+
+
+{T6A218}
+[Y¤u]
+Come on! Say something...
+
+I was silent.
+
+I figured it was something just between
+Tsugumi and me.
+
+And...
+
+I didn't really know enough about her
+condition to say, 'Yeah, I know something.'
+
+I was still having a difficult time
+believing the whole thing.
+
+Even when I saw it with my own eyes, part of
+my brain refused to accept it.
+
+
+{T6A219}
+[Y¤u]
+Let's just drop it...
+
+
+{T6A220}
+[Y¤u]
+Haha. You really forgot, didn't you?
+
+[Takeshi]
+.........
+
+
+{T6A221}
+[Y¤u]
+"Well, I guess there's nothing we can do about 
+it."
+
+[Takeshi]
+.........
+
+[Takeshi]
+How come you asked me about it?
+
+
+{T6A222}
+[Y¤u]
+I wonder why?
+
+Y¤u said that sarcastically, playing dumb.
+
+And then a serious look formed on her face.
+
+
+{T6A223}
+[Y¤u]
+The truth is...
+
+
+{T6A224}
+[Y¤u]
+"When I was looking at LeMMIH, I came upon 
+some interesting information in the medical 
+database."
+
+
+{T6A225}
+[Y¤u]
+"It was from the Leiblich Pharmaceuticals 
+database..."
+
+[Takeshi]
+Leiblich Pharmaceuticals?
+
+[Y¤u]
+.........
+
+[Takeshi]
+Database?
+
+
+{T6A226}
+[Y¤u]
+"I think they use it during treatment in the 
+infirmary, but..."
+
+£o¢o and Pipi...
+
+I could hear the splashes from their running
+echo.
+
+
+{T6A227}
+[Y¤u]
+"When I scoured the database... I couldn't 
+believe what I read."
+
+
+{T6A228}
+[Y¤u]
+A body that doesn't grow old...
+
+
+{T6A229}
+[Y¤u]
+A mutated body type because of a virus...
+
+
+{T6A230}
+[Y¤u]
+"It shakes the foundations of modern 
+science..."
+
+[Takeshi]
+.........
+
+
+{T6A231}
+[Y¤u]
+"I might have found something related to 
+Tsugumi's condition."
+
+
+{T6A232}
+[Y¤u]
+"In the database, I searched through a number 
+of old medical records."
+
+
+{T6A233}
+[Y¤u]
+I found one that mirrors Tsugumi's condition.
+
+
+{T6A234}
+[Y¤u]
+"Generally speaking, the number of known cases of 
+this virus is very small.."
+
+[Takeshi]
+What...?
+
+[Takeshi]
+Hey, hey, hold on.
+
+[Takeshi]
+How come LeMU has that kind of information?
+
+
+{T6A235}
+[Y¤u]
+I don't know! Why ask me?
+
+
+{T6A236}
+[Y¤u]
+"All I know is that data and the name of 
+the virus."
+
+[Takeshi]
+The name of the... virus?
+
+
+{T6A237}
+[Y¤u]
+Yeah, the name...
+
+
+{T6A238}
+[Y¤u]
+It's called...
+
+
+{T6A239}
+[Y¤u]
+Curé.
+
+[Takeshi]
+Curé?
+
+Curé.
+
+I pondered the word for a moment.
+
+
+161 :
+Just then...
+
+
+{T6A240}
+[Kid]
+Everyone! We've got trouble!
+
+
+162 :
+The Kid came running into the room, yelling.
+
+
+163 :
+[Takeshi]
+Kid? Where the heck did you just go?
+
+
+{T6A241}
+[Y¤u]
+Trouble? What kind of trouble?
+
+
+164 :
+
+{T6A242}
+[Kid]
+C-come on! We've gotta go and stop it!
+
+The Kid was breathing heavily, yelling between
+breaths.
+
+[Takeshi]
+Stop what? Hey, explain what's going on.
+
+
+{T6A243}
+[£o¢o]
+Wh-what happened?
+
+
+{PIPI_00}
+[Pipi]
+*Woof*
+
+£o¢o and Pipi came over to see what all the
+commotion was about.
+
+
+165 :
+
+{T6A244}
+[Kid]
+The central control room...!
+
+
+{T6A245}
+[Kid]
+"Sora and Tsugumi were gone for such a long 
+time, I..."
+
+
+{T6A246}
+[Kid]
+I went to go find them...
+
+
+{T6A247}
+[Kid]
+And I found them fighting!
+
+[Takeshi]
+!
+
+
+{T6A248}
+[Kid]
+I just couldn't watch, so I...
+
+
+{T6A249}
+[Y¤u]
+This is bad news... at a time like this.
+
+
+{T6A250}
+[£o¢o]
+L-let's go! We've got to stop them!
+
+[Takeshi]
+Y-yeah! We'd better hurry!
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+
+166 :
+The Kid, £o¢o, Pipi, Y¤u, and I...
+
+We sped along the wet floor to the central
+control room.
+
+
+167 :
+
+{T6A251}
+[Y¤u]
+Sora!
+
+
+{T6A252}
+[£o¢o]
+Tsugumin!
+
+I pushed the button to open the door.
+
+
+168 :
+
+{T6A253}
+[Tsugumi]
+...!
+
+
+{T6A254}
+[Sora]
+...!
+
+
+169 :
+We burst into the room...
+
+
+170 :
+Tsugumi and Sora were in the middle of an
+argument so intense that it seemed they might
+start going at it hand-to-hand.
+
+Neither one would budge. They just glared
+at one another.
+
+It looked as though they had been fighting
+for several minutes. The room was filled with
+tension.
+
+
+{T6A255}
+[Sora]
+Beneath us?
+
+
+{T6A256}
+[Sora]
+"There aren't any floors underneath Dritter 
+Stock. We can't go down any farther."
+
+
+171 :
+
+{T6A257}
+[Tsugumi]
+Liar...
+
+
+{T6A258}
+[Tsugumi]
+You're lying.
+
+
+{T6A259}
+[Tsugumi]
+"I saw down from Qualle, and borrowing your 
+eyes, I was able to access LeMMIH. It took a 
+while, though..."
+
+
+172 :
+
+{T6A260}
+[Tsugumi]
+I finally got proof. There is another floor under LeMU.
+
+
+{T6A261}
+[Tsugumi]
+"No, there's another facility other than 
+LeMU... and it's right below us. Really far 
+down."
+
+
+{T6A262}
+[Tsugumi]
+I'm right, aren't I?
+
+
+173 :
+[Sora]
+..........
+
+
+174 :
+
+{T6A263}
+[Sora]
+I can't answer that question...
+
+
+175 :
+
+{T6A264}
+[Tsugumi]
+Don't tell me that, just answer me!
+
+
+{T6A265}
+[Tsugumi]
+"I did a Turing test, and I found out that 
+you really are AI."
+
+
+176 :
+
+{T6A266}
+[Tsugumi]
+"As long as you aren't blocked by a protection 
+routine, you have to answer humans honestly, right?"
+
+
+{T6A267}
+[Tsugumi]
+That's part of your functioning.
+
+
+177 :
+[Sora]
+.........
+
+
+{T6A268}
+[Tsugumi]
+"It isn't possible to get there using normal 
+elevators."
+
+
+{T6A269}
+[Tsugumi]
+The only way there is through a locked door.
+
+
+178 :
+
+{T6A270}
+[Tsugumi]
+That room...
+
+
+{T6A271}
+[Tsugumi]
+HIMMEL... That's your name, isn't it, Sora?
+
+[Sora]
+.........
+
+
+179 :
+
+{T6A272}
+[Tsugumi]
+"We aren't getting anywhere just sitting 
+around."
+
+
+180 :
+
+{T6A273}
+[Tsugumi]
+We're fighting against time!
+
+
+{T6A274}
+[Tsugumi]
+The truth is behind that door.
+
+
+{T6A275}
+[Tsugumi]
+"Tell us the password to that door... the one 
+leading to Himmel, Sora!"
+
+
+{T6A276}
+[Sora]
+It is true...
+
+
+{T6A277}
+[Sora]
+'Himmel' in German... means 'sky'‡Lmy name.
+
+
+{T6A278}
+[Sora]
+But, Komachi-san, I...
+
+
+{T6A279}
+[Sora]
+"I don't have the security access to open 
+that door."
+
+
+{T6A280}
+[Sora]
+I'm sorry...
+
+
+181 :
+
+{T6A281}
+[Tsugumi]
+That's a lie!
+
+
+182 :
+
+{T6A282}
+[Sora]
+It is not!
+
+
+183 :
+
+{T6A283}
+[Tsugumi]
+"Some AI you are! You think I'm stupid? You 
+think you can fool me?"
+
+
+{T6A284}
+[Sora]
+It is not a lie! I am telling the truth!
+
+
+{T6A285}
+[Sora]
+"I don't have any information of what's 
+behind that door..."
+
+
+184 :
+
+{T6A286}
+[£o¢o]
+Stop it!
+
+
+185 :
+£o¢o jumped between them.
+
+
+186 :
+
+{T6A287}
+[£o¢o]
+Stop it, both of you!
+
+
+187 :
+Both of them flinched for a moment but
+continued to look bitter.
+
+
+188 :
+
+{T6A288}
+[Sora]
+£o¢o-chan...
+
+
+{T6A289}
+[Tsugumi]
+£o¢o...
+
+
+189 :
+
+{T6A290}
+[£o¢o]
+Stop it... okay? Please!
+
+
+190 :
+
+{T6A291}
+[Sora]
+£o¢o-chan, this is between Komachi-san and I.
+
+
+{T6A292}
+[Tsugumi]
+"Get back, £o¢o... or I'm really going to get 
+mad."
+
+
+{T6A293}
+[£o¢o]
+Why?
+
+
+{T6A294}
+[£o¢o]
+Tsugumin, Sora-san, stop it!
+
+
+{T6A295}
+[£o¢o]
+Why are you arguing?
+
+
+{T6A296}
+[Sora]
+This isn't an argument.
+
+
+{T6A297}
+[Tsugumi]
+We aren't.
+
+
+191 :
+
+{T6A298}
+[£o¢o]
+You're lying... It's a lie...!
+
+
+192 :
+
+{T6A299}
+[£o¢o]
+We shouldn't be fighting...!
+
+Large tears welled and flowed from £o¢o's eyes.
+
+
+193 :
+[Sora]
+.........
+
+[Tsugumi]
+.........
+
+The tears had a freezing effect on Sora and
+Tsugumi.
+
+
+194 :
+
+{T6A300}
+[£o¢o]
+Agh...
+
+
+{T6A301}
+[£o¢o]
+Aaaghh...
+
+
+{T6A302}
+[£o¢o]
+Waagghh...
+
+
+195 :
+£o¢o started gasping.
+
+She suddenly ran to the corner of the console.
+
+
+196 :
+Or rather... fell there.
+
+She leaned against the console, barely able
+to support herself.
+
+£o¢o's body was shaking slightly.
+
+Her lips trembled.
+
+I could see that her lips had rapidly gone pale.
+
+
+It was different than crying...
+
+[Takeshi]
+£o¢o...
+
+[Takeshi]
+H-hey, what...?
+
+[Takeshi]
+What's up with you all of a sudden...?
+
+
+197 :
+
+{T6A303}
+[£o¢o]
+Agh...!
+
+198 :
+
+
+
+199 :
+£o¢o's lips were suddenly... stained red.
+
+
+{T6A304}
+[Kid]
+£o¢o!
+
+The Kid opened his eyes wide, looking shocked.
+
+
+200 :
+
+{T6A305}
+[£o¢o]
+Agh... Ah... Uugh...
+
+
+{T6A306}
+[£o¢o]
+Uggh... Aaaah... Aaaahhh...
+
+
+{T6A307}
+[£o¢o]
+Nnn... Uuuh... Uuugh...
+
+
+{T6A308}
+[Y¤u]
+£o¢o!
+
+Blood was flowing onto the floor of the
+control room.
+
+It wouldn't stop.
+
+It kept falling from her mouth.
+
+
+{T6A309}
+[Tsugumi]
+What's happening!?
+
+
+{T6A310}
+[Sora]
+£o¢o-chan!
+
+£o¢o shook her head and trembled violently.
+
+
+She had her hand to her mouth, desperately
+trying not to cough.
+
+
+{T6A311}
+[Sora]
+It can't be...!
+
+
+{T6A312}
+[Sora]
+These... These symptoms are...!
+
+Sora looked as if she was about to panic.
+
+
+{T6A313}
+[Tsugumi]
+Symptoms!? Who cares about symptoms!?
+
+Tsugumi screamed furiously.
+
+
+{T6A314}
+[Tsugumi]
+"Can't you tell!? If this keeps up, £o¢o's 
+going to...!"
+
+
+{T6A315}
+[Kid]
+£o¢o, hang in there!
+
+
+{T6A316}
+[Y¤u]
+Ku-Kuranari... what are we going to do!?
+
+[Takeshi]
+Wait! Don't panic! Everyone just calm down!
+
+I screamed out in a loud voice to everyone.
+
+[Takeshi]
+Calm down, calm down!
+
+[Takeshi]
+Oh, wait... Maybe I need to calm down too...
+
+[Takeshi]
+Whew...
+
+Everyone took deep breaths, trying to settle
+down.
+
+[Takeshi]
+£o¢o, just relax. You're going to be okay...
+
+
+{T6A317}
+[£o¢o]
+Ugh...
+
+
+{T6A318}
+[£o¢o]
+I'm... al... right... Take... pyon.
+
+Steadying her trembling eyes, £o¢o looked at
+me firmly.
+
+[Takeshi]
+Alright, okay. Good girl...
+
+[Takeshi]
+Now hang onto me, £o¢o!
+
+I turned around and thrust out my back toward
+her.
+
+[Takeshi]
+Can you get on?
+
+
+{T6A319}
+[£o¢o]
+Ye... Yeah.
+
+
+{PIPI_06}
+[Pipi]
+*Whine*...
+
+Pipi looked up at £o¢o worriedly.
+
+[Takeshi]
+We're going to the infirmary on Zweiter.
+
+
+{T6A320}
+[Y¤u]
+O-okay!
+
+
+{PIPI_04}
+[Pipi]
+*Woof*! *Woof*!
+
+I realized that I was holding onto £o¢o.
+
+
+201 :
+We were rushing up to Zweiter Stock, some
+seventeen meters above us.
+
+I held £o¢o on my back, with Y¤u and Tsugumi
+supporting her from the sides.
+
+Sora led the way, and the Kid brought
+up the rear.
+
+
+202 :
+We emerged at the second floor
+emergency corridor.
+
+[Takeshi]
+Which way is it, left or right!?
+
+
+203 :
+
+{T6A321}
+[Sora]
+Straight ahead!
+
+[Takeshi]
+Okay!
+
+
+204 :
+
+{T6A322}
+[Tsugumi]
+Don't run so fast! Stop shaking her so much!
+
+[Takeshi]
+I know! Just pipe down, would you!?
+
+
+205 :
+[Tsugumi]
+.........
+
+
+206 :
+£o¢o was groaning in pain on my back.
+
+But I could still make it.
+
+There was no way I was going to fail.
+
+I wasn't going to say, 'It's no use, we're too
+late', and I wasn't going to let anyone else
+say it either.
+
+As long as there was some hope left, I
+wouldn't give up.
+
+
+207 :
+I took a shortcut to the nearest elevator
+and rushed £o¢o to the infirmary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

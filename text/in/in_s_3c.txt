@@ -1,0 +1,2344 @@
+
+
+1 :
+We quickly climbed the stairs.
+
+We were told that it wasn't urgent, but we
+still couldn't afford to be careless.
+
+Tsugumi quietly shouldered the heavy toolbox,
+climbing higher and higher.
+
+Sara and I followed her while Takeshi and Sora
+lagged behind.
+
+[Kid]
+Hey, Tsugumi?
+
+I called out to Tsugumi up ahead.
+
+
+{S3B000}
+[Tsugumi]
+What?
+
+Tsugumi responded without looking back.
+
+[Kid]
+There's something that's been bugging me.
+
+
+{S3B001}
+[Tsugumi]
+What?
+
+[Kid]
+Why were you eating a hotdog?
+
+I still couldn't figure it out... Tsugumi's
+behavior was incomprehensible to me.
+
+Then I hit upon it. It was like she had been
+showing off.
+
+But what she said was...
+
+
+2 :
+
+{S3B002}
+[Tsugumi]
+Because I wanted to eat a hotdog.
+
+[Kid]
+That's it?
+
+
+{S3B003}
+[Tsugumi]
+Something wrong with that?
+
+[Kid]
+I don't think it's wrong, but...
+
+
+{S3B004}
+[Sara]
+"But didn't you think that it might make 
+Takeshi angry?"
+
+Sara chimed in with a question of her own.
+
+
+3 :
+
+{S3B005}
+[Tsugumi]
+How could I know what he's thinking?
+
+[Sara]
+.........
+
+[Kid]
+"I suppose you're right. We didn't know about 
+them until right before either."
+
+After that, we fell into silence.
+
+It looked like Takeshi and Sora were having a
+low-key conversation behind us.
+
+
+4 :
+
+{S3B006}
+[Tsugumi]
+Well...
+
+Tsugumi started to speak suddenly.
+
+
+{S3B007}
+[Tsugumi]
+"Maybe I did want to play a trick on him, just 
+a little bit."
+
+[Kid]
+?
+
+
+{S3B008}
+[Sara]
+?
+
+For a second, I didn't know what she was
+talking about.
+
+Then I realized she meant the whole hotdog
+thing.
+
+
+5 :
+
+{S3B009}
+[Tsugumi]
+"Heehee... He's even more stubborn than I 
+thought."
+
+Tsugumi gave a rare laugh.
+
+But it was the kind of laugh that would raise
+the hair on the back of your neck.
+
+
+6 :
+We finally arrived at Zweiter Stock.
+
+Looking around the floor, everything seemed
+normal, but we could hear a hissing sound
+coming from somewhere.
+
+We walked toward the sound.
+
+
+7 :
+
+{S3B010}
+[Takeshi]
+Yesterday, everything was fine here.
+
+
+{S3B011}
+[Takeshi]
+"Why do you think something would go wrong all 
+of a sudden?"
+
+
+{S3B012}
+[Sora]
+"Well... everything doesn't always go 
+according to plan..."
+
+
+8 :
+
+{S3B013}
+[Tsugumi]
+"It's probably because you were all running 
+around like lunatics."
+
+
+9 :
+[Kid]
+Huh?
+
+
+{S3B014}
+[Tsugumi]
+You guys were making such a fuss...
+
+
+{S3B015}
+[Tsugumi]
+It probably threw LeMU off its axis.
+
+
+10 :
+[Everyone]
+...
+
+
+{S3B016}
+[Tsugumi]
+Just kidding.
+
+
+11 :
+[Everyone]
+.........
+
+Tsugumi's flippant remark had frozen the air
+around us.
+
+
+12 :
+
+{S3B017}
+[Tsugumi]
+"What's wrong? If you don't hurry, I'll leave 
+you behind."
+
+
+13 :
+Tsugumi walked briskly ahead.
+
+
+14 :
+[Kid]
+H-hey... What's the matter with her?
+
+
+{S3B018}
+[Sara]
+How would I know?
+
+
+15 :
+
+{S3B019}
+[Takeshi]
+She probably fell on her head.
+
+
+16 :
+
+{S3B020}
+[Sora]
+She really is quite unpredictable...
+
+For a while, all we could do was stand around,
+not knowing what to say.
+
+
+17 :
+We had arrived in front of the room making the
+strange noise.
+
+
+18 :
+
+{S3B021}
+[Takeshi]
+So it is coming from inside the warehouse.
+
+
+19 :
+
+{S3B022}
+[Sora]
+"I will run a scan to determine the situation 
+inside."
+
+
+20 :
+Saying that, Sora disappeared.
+
+
+21 :
+
+{S3B023}
+[Takeshi]
+"The steam in there isn't going to explode if 
+we open the door, right?"
+
+Tsugumi fixed her eyes on the door.
+
+
+22 :
+
+{S3B024}
+[Tsugumi]
+Hmmm...
+
+
+{S3B025}
+[Tsugumi]
+It's probably fine.
+
+
+23 :
+
+{S3B026}
+[Takeshi]
+How would you know? Do you...?
+
+
+{S3B027}
+[Tsugumi]
+I'm just saying what you want to hear.
+
+Sora appeared in front of the door.
+
+
+24 :
+
+{S3B028}
+[Sora]
+I have finished the diagnostic.
+
+
+25 :
+
+{S3B029}
+[Sora]
+"Atmospheric pressure is normal. No traces of 
+toxic gas detected; however, the temperature 
+and humidity of the room are rising in 
+slight increments."
+
+
+{S3B030}
+[Sora]
+"An area of the pipe has ruptured, and there 
+is a slight water leak. The water is about 
+ten centimeters at its deepest point."
+
+
+26 :
+
+{S3B031}
+[Tsugumi]
+*Sigh*... Exactly as I thought.
+
+
+27 :
+
+{S3B032}
+[Sora]
+What?
+
+
+28 :
+
+{S3B033}
+[Tsugumi]
+"Nothing. If that's all that's wrong, it 
+should be no problem."
+
+
+29 :
+
+{S3B034}
+[Sora]
+No, I suppose not...
+
+
+30 :
+
+{S3B035}
+[Takeshi]
+"Let's go in. If we fix it, there won't be a 
+problem, right?"
+
+
+{S3B036}
+[Sora]
+Yes. Please hurry.
+
+
+31 :
+I opened the door.
+
+I looked toward the wall that was making the
+hissing sound.
+
+There was a faint crack in the
+pressure-regulating pipe, and water was
+dancing out of it in a fine mist.
+
+
+32 :
+
+{S3B037}
+[Sara]
+Are... Are you sure this is okay?
+
+
+{S3B038}
+[Takeshi]
+Maybe...
+
+
+{S3B039}
+[Tsugumi]
+"Sure. Something small like this, we can fix in 
+a second."
+
+Tsugumi opened up the toolbox and started
+spreading a few tools out in front of her.
+
+
+33 :
+
+{S3B040}
+[Takeshi]
+What should I do?
+
+
+{S3B041}
+[Tsugumi]
+"The pipe is bent a little bit... I'm going to 
+clamp a metal sleeve on it. Would you support 
+the pipe for me?"
+
+
+{S3B042}
+[Takeshi]
+Roger that!
+
+
+34 :
+
+{S3B043}
+[Sara]
+What should I do?
+
+
+35 :
+
+{S3B044}
+[Tsugumi]
+"On the other side of this... there should be 
+a valve attached to this pipe. You see it? I 
+want you to loosen that a bit."
+
+
+36 :
+
+{S3B045}
+[Sara]
+At your service!
+
+
+37 :
+[Kid]
+And what about me?
+
+
+38 :
+
+{S3B046}
+[Tsugumi]
+"I'll tell you which tools I need and you pass 
+them to me."
+
+[Kid]
+Okay.
+
+
+39 :
+We all started working in unison.
+
+We opened and closed a number of valves,
+connected and repaired pipes, and welded shut
+cracks...
+
+
+40 :
+
+{S3B047}
+[Takeshi]
+You seem really used to all this.
+
+
+{S3B048}
+[Tsugumi]
+What do you mean?
+
+
+{S3B049}
+[Takeshi]
+Welding. Where'd you learn that?
+
+
+41 :
+
+{S3B050}
+[Tsugumi]
+You really want to know?
+
+
+42 :
+
+{S3B051}
+[Takeshi]
+Uh, well, it's just that...
+
+
+{S3B052}
+[Tsugumi]
+"You know, asking meaningless questions is a 
+bad habit of yours."
+
+[Takeshi]
+.........
+
+
+43 :
+
+{S3B053}
+[Tsugumi]
+Satisfied?
+
+
+44 :
+
+{S3B054}
+[Takeshi]
+Huh? What does that mean?
+
+[Tsugumi]
+.........
+
+
+{S3B055}
+[Takeshi]
+Alright. I won't ask anymore.
+
+
+45 :
+[Kid]
+.........
+
+Every once in a while, I felt that Tsugumi's
+words seemed out of place.
+
+I stole a glance at Tsugumi's expression as I
+handed over the pliers.
+
+Of course, her face didn't really tell me
+anything...
+
+Sora watched us for a while from the side.
+
+
+46 :
+After a while, an intercom in the corner of the
+room sounded.
+
+
+47 :
+
+{S3B056}
+[Takeshi]
+What's that? Somebody calling?
+
+
+{S3B057}
+[Sora]
+"It's from Tanaka-san. It appears that she is in the 
+security office."
+
+
+48 :
+
+{S3B058}
+[Sara]
+So Nakkyu is alright?
+
+
+49 :
+[Kid]
+That's a relief.
+
+
+50 :
+
+{S3B059}
+[Sora]
+"Excuse me, everyone, but Tanaka-san is calling me.
+I must be going."
+
+
+51 :
+
+{S3B060}
+[Takeshi]
+"Okay, go for it. We should be able to handle 
+the rest ourselves."
+
+
+52 :
+
+{S3B061}
+[Sora]
+Okay. I'll leave the rest to you.
+
+
+53 :
+Sora approached the intercom and disappeared
+as if it had sucked her in.
+
+I knew she could travel instantly, but... it
+was still an odd sight.
+
+
+54 :
+
+{S3B062}
+[Tsugumi]
+"Kid? I'm all set here, so please work on the 
+valves for me."
+
+[Kid]
+Huh? Sure. No problem.
+
+
+55 :
+I moved over to the area by the pipes that she
+indicated.
+
+
+{S3B063}
+[Tsugumi]
+First, take that blue valve and...
+
+
+56 :
+(What?)
+
+
+57 :
+(Oh, what was that?)
+
+For a second, I saw something.
+
+
+{S3B064}
+[Tsugumi]
+Now twist the red valve...
+
+The intercom continued to ring, and the hissing
+sound of the steam persisted.
+
+(That feeling I just had... that was like
+before...)
+
+(I know! It was like when I was going to the
+conference room from the kiosk this morning.)
+
+
+{S3B065}
+[Tsugumi]
+Now, Sara, wait just a bit.
+
+
+{S3B066}
+[Sara]
+Okay, I'm ready~
+
+
+{S3B067}
+[Tsugumi]
+"Kid, turn the valves in the order I told 
+you."
+
+[Kid]
+...
+
+
+58 :
+
+{S3B068}
+[Tsugumi]
+Hey, Kid, are you listening?
+
+[Kid]
+"Huh? Yeah, I got it. Sorry. The blue and then 
+the red, right?"
+
+
+59 :
+
+{S3B069}
+[Tsugumi]
+Yeah. Loosen them, then shut them again.
+
+
+60 :
+I set to work on the blue valve in front of me.
+
+I was supposed to loosen it...
+
+And right then, it happened again‡L
+
+
+61 :
+The inside of my head went all white.
+
+It felt like my consciousness was whisked off
+somewhere else.
+
+(Wh-what was that?)
+
+An image flashed at the back of my mind, and
+it felt like my brain was being hammered by
+light.
+
+It would stop and start, stop and start.
+
+Boxes falling and shattering to the floor.
+
+Massive amounts of water cascading down.
+
+And then...
+
+
+62 :
+[Kid]
+.........
+
+I remembered losing all power to stand and
+crumpling right there on the spot.
+
+(That was...)
+
+(That was......)
+
+(It can't be...!)
+
+
+63 :
+
+{S3B070}
+[Takeshi]
+Hey! What's the matter? Hey!
+
+Takeshi shook my shoulders, bringing me back
+from wherever I'd been.
+
+
+64 :
+[Kid]
+Takeshi...?
+
+
+65 :
+
+{S3B071}
+[Takeshi]
+It's me, Kid. You okay?
+
+[Kid]
+Takeshi... Trouble...
+
+
+66 :
+
+{S3B072}
+[Takeshi]
+Huh?
+
+[Kid]
+"If we stay here, there's going to be 
+trouble... We have to escape... Now..."
+
+I coughed the words out deliriously.
+
+[Kid]
+"Things are going to fall... and water will 
+flood in... and someone will get really hurt..."
+
+
+67 :
+
+{S3B073}
+[Takeshi]
+"What're you talking about...? You aren't 
+making sense."
+
+[Kid]
+Right now... We have to escape!
+
+I felt like I was filling up with fear and
+panic.
+
+
+{S3B074}
+[Takeshi]
+Calm down! Just calm down!
+
+
+{S3B075}
+[Tsugumi]
+Out of the way.
+
+
+68 :
+[Kid]
+.........
+
+My left cheek burned like it had been scalded.
+
+
+69 :
+
+{S3B076}
+[Tsugumi]
+Calm down.
+
+[Kid]
+......
+
+Pressing my hand on my hurting face, I stood up.
+
+The pounding of my heart finally got under
+control.
+
+
+70 :
+
+{S3B077}
+[Tsugumi]
+You've done enough.
+
+Saying that, Tsugumi pointed to a corner of the
+room.
+
+
+{S3B078}
+[Tsugumi]
+Go over there and sit quietly.
+
+[Kid]
+What?
+
+
+71 :
+
+{S3B079}
+[Tsugumi]
+"You don't get it? I'm saying you're in the 
+way."
+
+[Kid]
+.........
+
+
+{S3B080}
+[Takeshi]
+"Hey, that's a little harsh, don't you think? I 
+mean, he's probably tired, that's all."
+
+
+72 :
+
+{S3B081}
+[Tsugumi]
+You be quiet.
+
+
+{S3B082}
+[Tsugumi]
+"Listen. At times like this, people like him 
+are a liability."
+
+
+{S3B083}
+[Tsugumi]
+He's going to make a costly mistake.
+
+[Kid]
+.........
+
+
+73 :
+
+{S3B084}
+[Tsugumi]
+"You don't want to cause an accident here, do 
+you?"
+
+
+{S3B085}
+[Takeshi]
+Well, that makes sense, but...
+
+
+74 :
+
+{S3B086}
+[Tsugumi]
+"Now you know what I mean. Get out of the way. 
+We'll get somebody else to do this."
+
+[Kid]
+Alright...
+
+
+75 :
+I walked meekly to the corner.
+
+
+76 :
+.........
+
+After that, the work went smoothly... and
+finally, we succeeded in getting everything
+back to normal.
+
+What I had seen hadn't been real.
+
+Thankfully, my predictions had been off.
+
+
+77 :
+With the repairs finished, everyone left the
+room, and I was in the warehouse alone.
+
+I wondered what had been going on in my mind
+before.
+
+While everything had all turned out alright,
+it bothered me to no end.
+
+Yesterday‡Lin the generator room‡Land then
+that... I wondered what was wrong with me.
+
+I was still without my memory.
+
+I couldn't even find any of the pieces.
+
+(But maybe...)
+
+I thought that maybe the crazy flashes that
+kept occurring had something to do with my
+lost memory.
+
+(Maybe I'm closer to getting my memory
+back...?)
+
+I floated around the warehouse thinking about
+it.
+
+Suddenly, I noticed that there was another door
+deeper in the corner of the room.
+
+There appeared to be another room on the other
+side of the wall.
+
+The door was open, as if it were inviting me
+in.
+
+
+78 :
+It was a tiny, tiny room.
+
+Inside, the room was dimly lit, and it smelled
+damp and moldy.
+
+The lights were off, and closing the door made
+it even darker. I could just make out the
+interior of the room.
+
+The wall looked cold and sturdy. The room was
+covered with cables and pipes.
+
+I imagined that the room was used for storing
+equipment used in the warehouse.
+
+The far wall had a small, square window.
+
+
+...My mind felt all foggy.
+
+Maybe I was just fatigued like Takeshi said.
+
+A lot had happened over the last three days. I
+had heard a lot and thought about a lot of
+things.
+
+(I don't know what it is... but I feel so
+sluggish...)
+
+
+79 :
+I sat down in a corner of the room and hugged
+my knees.
+
+Looking up, I saw moonlight streaming in
+through the window.
+
+It was warm, full light.
+
+
+80 :
+I noticed that the walls of the room were made
+of concrete.
+
+As I sat with my back against the cold wall, I
+stared up at the full moon shining in from
+outside the window.
+
+The moon was far away.
+
+The broad night sky was contained in that
+little square space.
+
+The bluish shadows of the moonlight crawled
+slowly across the gray walls.
+
+I looked at the moon and its shadows, and I let
+out a sigh in the darkness.
+
+I didn't want to think about anything.
+
+I pretended not to notice the freezing
+coldness.
+
+The room had a very small bed.
+
+The sheets were pulled tight. There wasn't a
+single wrinkle or even a speck of dust.
+
+Next to the bed lay a chair with all of
+the sharp edges rounded off.
+
+One of the chair's legs was bent off in an
+unnatural direction.
+
+The door was closed. It was a steel door with
+no knob.
+
+
+81 :
+I felt eyes upon me from the corner of the
+ceiling.
+
+A sharp, intense pair of eyes piercing my
+body.
+
+I couldn't see the body belonging to the eyes,
+but a harsh laugh rang loudly in my ears.
+
+Next to the lens, a red light was on.
+
+The red light was shining as if it was cutting off
+the corner of the ceiling.
+
+
+Suddenly, I heard the sobbing voice of someone
+behind me.
+
+Someone was crying on the other side of the
+wall.
+
+
+82 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B087}
+{16:0x}Ouch... Ouch...{16:1}
+
+{16:4}
+
+83 :
+The small voice of a girl echoed in the
+darkness.
+
+And then I heard...
+
+
+84 :
+Whack!
+
+
+85 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B088}
+{16:0x}Shut up! Quit whining!{16:1}
+
+{16:4}
+
+86 :
+It was the gruff voice of a man ringing out.
+
+I suspected that the girl had been hit. It
+sounded like she had fallen on the hard
+concrete and was crying even harder.
+
+
+87 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B089}
+{16:0x}Owwww! It hurts!{16:1}
+
+{16:4}
+
+88 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B090}
+{16:0x}Help... Someone...{16:1}
+
+{16:4}
+
+89 :
+I covered my ears with my hands and shook my
+head.
+
+
+90 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B091}
+{16:0x}I'm sorry, I'm sorry‡L{1}
+I'm sorry, I'm sorry, I'm sorry‡L{16:1}
+
+{16:4}
+
+91 :
+Still, the girl's cries of pain didn't stop.
+
+As if trying to escape, I crawled across the
+floor to the opposite corner of the room and
+curled up.
+
+The moon's light was bright.
+
+I covered myself with a blanket as if to hide
+and closed my eyes.
+
+The girl just cried and cried.
+
+
+92 :
+Gong! Gong!
+
+
+93 :
+Gong! Gong!
+
+
+94 :
+Thud!
+
+...I wondered what that sound could be.
+
+I didn't want to think about it anymore.
+
+Even if I closed my eyes, even if I plugged my
+ears, the image of the girl struggling on the
+floor jumped back into my mind.
+
+
+95 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B092}
+{16:0x}Ouch... Owwwww...{16:1}
+
+{16:4}
+
+96 :
+The voice gradually got weaker and faded.
+
+Finally, it disappeared completely...
+
+In the silence, only a muffled sob echoed
+hollowly.
+
+The air in the room was so dank and stale that
+it felt heavy and strange on the skin.
+
+
+97 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B093}
+{16:0x}Help me...{16:1}
+
+{16:4}
+
+98 :
+I heard a feeble voice.
+
+
+99 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B094}
+{16:0x}Help... Help me...{16:1}
+
+{16:4}
+
+100 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B095}
+{16:0}It's all your fault!{16:1}
+
+101 :
+The sudden curses of the man drowned out the
+girl's voice.
+
+
+102 :
+
+{1}{1}
+
+{S3B096}
+{16:0}All of this is just the way you wanted it.{16:1}
+
+{S3B097}
+{16:0}Right? You best fess up to all of it.{16:1}
+
+{S3B098}
+{16:0}You knew from the start that{1}
+things would turn out like this...{16:1}
+
+103 :
+[Kid]
+NO! I didn't know!
+
+
+104 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B099}
+{16:0}Liar! So why did you run away?{16:1}
+
+105 :
+[Kid]
+I didn't run away!
+
+
+106 :
+
+{1}{1}{1}
+
+
+{S3B100}
+{16:0}No, you ran away.{16:1}
+
+{S3B101}
+{16:0}You left that girl and ran away.{16:1}
+
+107 :
+[Kid]
+No... I... I promised...
+
+
+108 :
+
+{1}{1}
+
+{S3B102}
+{16:0}And you broke it.{16:1}
+
+{S3B103}
+{16:0}Or maybe you always meant to break it?{16:1}
+
+
+109 :
+[Kid]
+No...
+
+
+110 :
+
+{1}{1}{1}
+
+
+{S3B104}
+{16:0}You bought happiness for yourself.{1}{16:1}
+
+{16:0}You traded it for that girl's life...{1}{16:1}
+
+{16:0}Hahahaha...{16:1}
+
+{16:4}
+
+111 :
+[Kid]
+"No... No... No... No... No... 
+No... No... No... No..."
+
+
+112 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B105}
+{16:0x}Yeah, I promise.{16:1}
+
+{16:4}
+
+113 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B106}
+{16:0x}To wait like a good kid until you come for me.{16:1}
+
+{16:4}
+
+114 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B107}
+{16:0x}I'll wait... like a good girl...{16:1}
+
+{16:4}
+
+115 :
+
+{1}{1}{1}{1}
+
+
+
+{S3B108}
+{16:0x}I'll wait... forever...{16:1}
+
+{16:4}
+
+116 :
+[Kid]
+...NO!
+
+I shouted and grabbed the chair lying on the
+floor with both hands.
+
+I took the chair, as if to scare away a ghost,
+and pounded it on the wall.
+
+
+117 :
+Thud!
+
+Wildly, I put all of my limited strength into
+it... Over and over...
+
+
+118 :
+Thud!
+
+
+119 :
+Thud!
+
+
+120 :
+Thud!
+
+The chair bent awkwardly and scraped against
+the dented wall.
+
+Outside the window... the moonlight shined far
+away...
+
+[Kid]
+Damn you!
+
+I took the chair and threw it at the moon with
+all my strength.
+
+
+121 :
+‡LCrash!
+
+The moon scattered like fireworks, shattering
+to pieces.
+
+
+122 :
+[Kid]
+I'll kill you.
+
+Saying that, I threw my body into the steel
+door.
+
+
+123 :
+Bang... Bang... Bang... Bang...
+
+The door wouldn't budge.
+
+But I didn't give up.
+
+If I had to pulverize my body, I was still
+going to open that door.
+
+
+124 :
+Bang... Bang... Bang... Bang...
+
+
+125 :
+Bang... Bang... Bang... Bang...
+
+
+126 :
+Bang... Bang... Bang... Bang...
+
+I hurled myself against the door again and
+again.
+
+The rage I felt made my blood boil and my body
+shake with fury.
+
+Something hot and sticky flowed from near my
+temple.
+
+Every time I crashed into the door, a shock of
+pain ran through my body.
+
+I thought that my shoulder might already be
+broken.
+
+
+127 :
+Bang... Bang... Bang... Bang...
+
+A dull sound echoed in the darkness endlessly.
+
+
+128 :
+
+{S3B109}
+[???]
+What are you doing?
+
+Suddenly, the door opened...
+
+White light poured into my eyes.
+
+[Kid]
+Ah... Ah... Ungh...
+
+Tears overflowed in my eyes and dripped down.
+
+
+129 :
+Through my blurred vision, I could make out
+Sara.
+
+Sara stood surrounded by the bright light, her
+hands outstretched to me.
+
+
+130 :
+Finally, my consciousness was sucked into the
+light.
+
+Powerless, I slumped to the floor, lying there.
+
+My body felt heavy like lead, like it would
+sink into the floor.
+
+
+131 :
+The next thing I knew, I was on a bed.
+
+The ceiling was so white that it was slightly
+blinding...
+
+It smelled of disinfectant...
+
+Was it the... infirmary?
+
+
+{S3B110}
+[???]
+Are you awake now?
+
+A shadow passed above me on the bed.
+
+
+132 :
+It was Y¤u.
+
+Déjà vu...
+
+No, it was something that I had actually
+experienced before.
+
+Two days before, when I woke up on the first
+day, Y¤u was at my side...
+
+[Kid]
+Where is Sara...?
+
+
+{S3B111}
+[Y¤u]
+Who knows? Probably resting somewhere.
+
+
+133 :
+
+{S3B112}
+[Y¤u]
+"I just replaced her a little bit ago. She 
+looked after you the whole time until then."
+
+[Kid]
+I see...
+
+
+134 :
+I took both hands out from the blanket and
+stared dreamily at my palms.
+
+The countless wrinkles etched there...
+intertwining, reaching out like the branches
+of a tree in complicated patterns...
+
+The pinkish skin... and buried deeper, the
+slightly blue veins...
+
+And... five fingers...
+
+Five on the left, five on the right, and ten in
+total. The same as always.
+
+My lost finger still hadn't come back to me
+yet.
+
+There was still the deep scar on my left thumb.
+
+Like always, I gently ran my pinky over the scar.
+
+
+Like always?
+
+(I see. Maybe this is a habit of mine.)
+
+Strangely, that fact had penetrated naturally
+into my mind.
+
+But...
+
+I wondered when, where, and how I had injured
+my thumb.
+
+Maybe the scar held some kind of clue to
+help me remember my past.
+
+As I traced the wound with my pinky, it caused
+a slight stinging pain that tickled a little
+bit.
+
+I was finally feeling completely calmed down.
+
+
+135 :
+
+{S3B113}
+[Y¤u]
+What happened?
+
+Y¤u poured me a cup of freshly brewed coffee,
+handed it to me, and sat down next to my bed.
+
+I took the coffee. After a sip, I started to
+explain.
+
+
+136 :
+.........
+
+......
+
+...
+
+
+137 :
+
+{S3B114}
+[Y¤u]
+I see...
+
+
+{S3B115}
+[Y¤u]
+"So that little room and the room that you 
+were in before were similar somehow?"
+
+[Kid]
+Probably.
+
+
+{S3B116}
+[Y¤u]
+"Listening to that, it sounds like a sickroom 
+or isolation ward somewhere."
+
+[Kid]
+Sickroom?
+
+
+138 :
+
+{S3B117}
+[Y¤u]
+"You've probably been hospitalized before 
+somewhere."
+
+[Kid]
+...
+
+
+139 :
+
+{S3B118}
+[Y¤u]
+Maybe I shouldn't say this, but...
+
+
+{S3B119}
+[Y¤u]
+Kid, maybe you've had the same...
+
+
+140 :
+
+{S3B120}
+[Y¤u]
+"I mean, maybe you've lost your memory or had 
+violent fits repeatedly before."
+
+
+{S3B121}
+[Y¤u]
+"So maybe you were detained in a sickroom with 
+a tiny window like that..."
+
+Y¤u touched on the harsh reality of the
+situation, yet chose her words with care.
+
+
+141 :
+
+{S3B122}
+[Y¤u]
+"Of course, it's not for sure or anything. 
+It's just one possibility."
+
+
+{S3B123}
+[Y¤u]
+"You probably had a waking dream... That is a 
+possibility too."
+
+[Kid]
+I... I was dreaming.
+
+
+{S3B124}
+[Y¤u]
+While you were awake, though.
+
+
+142 :
+Finally, Y¤u gave me an easy to understand
+explanation about the connectedness of
+memories and dreams.
+
+According to Y¤u, dreams and memory were
+clearly deeply related, but not everything
+seen in a dream was something experienced in
+reality.
+
+In other words, something had set off my
+hallucination, but...
+
+That alone didn't mean that I really had been
+held in a sickroom.
+
+
+Dreams could often appear as symbols of
+something else.
+
+So what I had seen earlier might have been
+caused by my repressed memories.
+
+In any case, there was no way to be sure of
+anything.
+
+And I still hadn't gotten my memory back.
+
+I felt that my experience in a sickroom or
+somewhere like one was as unreal as a strange
+small animal that might appear in a dream.
+
+(Maybe it was just a dream.)
+
+At some point, I had become sure of it.
+
+I felt sure that it was just my mind
+playing a nasty trick on me.
+
+
+143 :
+Y¤u stood from beside the bed.
+
+
+144 :
+
+{S3B125}
+[Y¤u]
+"Okay. For now, shall we go to check it out 
+one more time?"
+
+[Kid]
+Go check what?
+
+
+145 :
+
+{S3B126}
+[Y¤u]
+That little room. To set the record straight.
+
+Y¤u held out her hands out to me.
+
+
+{S3B127}
+[Y¤u]
+"You might find a clue to help you jog your 
+memory and get it back."
+
+[Kid]
+...
+
+I thought that was unlikely.
+
+(I know that was just my mind playing tricks
+on me.)
+
+I was convinced that there was no connection
+between that room and my memory.
+
+Even so, I had to agree to go.
+
+If she was willing to take me, I couldn't
+turn her down.
+
+I took Y¤u's hands and got up from the bed.
+
+It only made sense, but her hands felt a lot
+different from Sara's.
+
+
+146 :
+The inside of the little room was in shambles.
+
+I was amazed that I could have made that much
+of a mess. That was how terrible it was.
+
+I didn't think that even if you compressed all
+of the world's poltergeists into that itty-bitty
+space they could have done much more.
+
+
+All I could do was stand there with my jaw on
+the floor as Y¤u said...
+
+
+147 :
+
+{S3B128}
+[Y¤u]
+You did this?
+
+She was saying it as if to make sure.
+
+
+148 :
+
+{S3B129}
+[Y¤u]
+And? What was it we were going to...?
+
+[Kid]
+Huh?
+
+
+{S3B130}
+[Y¤u]
+"If I remember correctly... You came into the 
+room and sat on the floor, right?"
+
+[Kid]
+Y-yeah...
+
+
+149 :
+
+{S3B131}
+[Y¤u]
+Whereabouts?
+
+[Kid]
+About here, I think.
+
+I pointed to the area around Y¤u's feet.
+
+
+{S3B132}
+[Y¤u]
+What about the door?
+
+[Kid]
+The door?
+
+
+150 :
+
+{S3B133}
+[Y¤u]
+I'm asking whether the door was shut or not.
+
+[Kid]
+Uh... I shut it, I think.
+
+[Kid]
+"After the door shut, I wanted to escape and 
+started throwing myself against the door..."
+
+I closed the door as I answered.
+
+
+151 :
+Just like before, the room was thrown into
+darkness.
+
+The only source of light was the moonlight
+pouring through the little window...
+
+(What? Moonlight?)
+
+
+{S3B134}
+[Y¤u]
+I can't see anything like this.
+
+Y¤u grasped around in the dark with her hands.
+
+I could see everything perfectly.
+
+
+152 :
+
+{S3B135}
+[Y¤u]
+Where's the light switch?
+
+Y¤u walked along the wall looking for the
+switch, sometimes tripping on plastic boxes
+scattered on the floor.
+
+Y¤u's body gave off a faint light.
+
+Every time she took a step, a faint
+streak-like image followed her.
+
+It was like the flame of a candle flickering
+in a thick mist.
+
+
+153 :
+Light shone down from the ceiling.
+
+
+{S3B136}
+[Y¤u]
+"Geez. Can you believe they're still using 
+electronic fossils like this these days?"
+
+Y¤u muttered that as she stared at the light
+switch.
+
+
+154 :
+
+{S3B137}
+[Y¤u]
+"They should spend money on places like this 
+even if the customers won't see them."
+
+
+{S3B138}
+[Y¤u]
+"It's because they cut corners in places like 
+this that they get accidents..."
+
+[Kid]
+.........
+
+
+155 :
+
+{S3B139}
+[Y¤u]
+That's not important right now.
+
+
+156 :
+Y¤u whipped around.
+
+Then, scouring the room, she said...
+
+
+157 :
+
+{S3B140}
+[Y¤u]
+By the way...
+
+
+158 :
+
+{S3B141}
+[Y¤u]
+...Where's the window?
+
+
+159 :
+There wasn't a single window in the whole room.
+
+
+Thinking about it, it made sense.
+
+Nobody would fork over the cash for a little
+window with special pressure-resistant glass
+in a little storage room stuck on the side of
+a warehouse.
+
+I looked around for the moonlight that had been
+there until a second ago.
+
+There was no moon.
+
+I wondered if it was because I had shattered
+it.
+
+But that wasn't it.
+
+What I had mistaken for a window was... just a
+little square hole.
+
+
+160 :
+
+{S3B142}
+[Y¤u]
+Is this the window?
+
+
+{S3B143}
+[Y¤u]
+You're saying you thought this was a window?
+
+
+161 :
+Y¤u followed my eyes, then went and stood in
+front of the square hole.
+
+I went over beside her and looked up at the
+hole.
+
+The hole was bordered by a steel frame.
+
+It was about the same size as a coin locker.
+
+It was about 50 centimeters on each side.
+
+
+There was a door on the hole.
+
+I might have broken it, but the door was bent
+completely and hung loose at a hinge on the
+side of the hole.
+
+The hole was more than an empty space.
+
+A bunch of colored wiring, something like an
+integrated circuit board, some kind of plug,
+and something like a small lever were all
+packed into it.
+
+[Kid]
+What is this?
+
+
+162 :
+I had no idea what it was.
+
+
+{S3B144}
+[Y¤u]
+It's probably an inverter unit or something.
+
+[Kid]
+Inverter unit?
+
+
+163 :
+
+{S3B145}
+[Y¤u]
+"To change the AC power that comes from the 
+generator into DC..."
+
+
+{S3B146}
+[Y¤u]
+"It's a mechanism for changing the electrical 
+current into one that the tools in this 
+warehouse can use."
+
+
+{S3B147}
+[Y¤u]
+"That means this device controls those 
+functions."
+
+[Kid]
+I see...
+
+Everything she was saying was like gibberish
+to me, but I nodded.
+
+
+164 :
+
+{S3B148}
+[Y¤u]
+Or to be more precise, it WAS that.
+
+[Kid]
+Huh?
+
+
+{S3B149}
+[Y¤u]
+That WAS the inverter unit.
+
+
+{S3B150}
+[Y¤u]
+It looks broken now...
+
+
+165 :
+
+{S3B151}
+[Y¤u]
+I have no idea who broke it, but...
+
+
+166 :
+Y¤u said it straight-faced and without looking
+at me.
+
+I reached out to touch the inverter unit thing.
+
+
+It was a little bit warm.
+
+Or maybe I had it backwards.
+
+Maybe I knew that it was warm before I touched
+it.
+
+So I had wanted to make sure by touching it...
+
+
+167 :
+In the end, we really didn't learn anything.
+
+No... But...
+
+But it did seem like something was trying to
+move... at least to me.
+
+It felt like...
+
+It felt like someone inside me was tossing and
+turning in his sleep.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

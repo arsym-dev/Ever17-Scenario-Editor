@@ -1,0 +1,790 @@
+
+
+1 :
+Two years later...
+
+
+2 :
+
+{YEP000}
+[Y工]
+Wow, this is great weather~
+
+Y工 and I were riding on a boat.
+
+The infinitely deep, blue ocean spread as far
+as we could see.
+
+A clear blue sky unfolded above us.
+
+There was a pair of seagulls flying overhead.
+
+
+The sea breeze whipped at us a little strongly,
+and Y工 used her hand to hold her hair in
+check.
+
+She had recently started to grow her hair out.
+
+It seemed that she was starting to look
+more like 'her'.
+
+That, and... she seemed to have become a bit
+more easygoing and ladylike...
+
+
+{YEP001}
+[Y工]
+So how is college going?
+
+[Kid]
+It's alright, I guess.
+
+Yes. I had somehow gotten into college and
+was in my first year.
+
+Of course, I was going to a different school
+than Y工, so we never had a chance to meet
+on campus.
+
+
+{YEP002}
+[Y工]
+"Why on earth did you decide to major in 
+archaeology?"
+
+[Kid]
+You really want to know?
+
+
+{YEP003}
+[Y工]
+That's why I'm asking.
+
+[Kid]
+"You know, it might be better if you didn't 
+ask."
+
+
+{YEP004}
+[Y工]
+Huh?
+
+[Kid]
+You still sure you want to know?
+
+
+{YEP005}
+[Y工]
+W-well...
+
+
+{YEP006}
+[Y工]
+Then I won't ask.
+
+[Kid]
+Alright. I won't tell.
+
+
+{YEP007}
+[Y工]
+Huh?
+
+
+{YEP008}
+[Y工]
+Why? Tell me!
+
+[Kid]
+But... you just said you weren't going to ask.
+
+
+{YEP009}
+[Y工]
+"That's because you said I probably 
+shouldn't..."
+
+[Kid]
+This is too confusing...
+
+
+{YEP010}
+[Y工]
+"You're the one who made this conversation 
+confusing."
+
+
+{YEP011}
+[Y工]
+"Anyway, I guess I'll listen to your 
+reasoning."
+
+There she went changing her mind again.
+
+[Kid]
+You can really be twisted sometimes.
+
+
+{YEP012}
+[Y工]
+Come on, say I'm pure at heart!
+
+[Kid]
+"What are you talking about? If you were pure, 
+then I'd be..."
+
+[Kid]
+.........
+
+
+{YEP013}
+[Y工]
+"Huh? You would be... what? Then you'd be 'the 
+pure-hearted Kid'?"
+
+[Kid]
+Hey... Stop it.
+
+[Kid]
+I've changed since then...
+
+But after that, I was reluctant to speak.
+
+I wondered if I really was different from the
+person I was at that time.
+
+...I probably was.
+
+Since then, no inexplicable, mysterious
+things had happened to me.
+
+I couldn't predict things anymore.
+
+I had gotten my memory back.
+
+...Or maybe... Maybe I was the same.
+
+Maybe I was the same as ever.
+
+I knew that people learned, got hurt, and lost
+things... and that they changed as they
+lived life.
+
+But my basic nature hadn't changed.
+
+Some things changed. Some things never did.
+
+I was still 'me'... but myself in the past was
+different...
+
+If I had to explain it, I might say that it
+was like 'me in another world'...
+
+Maybe that was it.
+
+
+{YEP014}
+[Y工]
+"You're right. You're not like you used 
+to be."
+
+[Kid]
+?
+
+
+{YEP015}
+[Y工]
+Well, for one thing you got so tall~
+
+She stood on her tiptoes and raised her
+hand over my head.
+
+I had grown a head taller over the previous two
+years.
+
+{YEP016}
+[Y工]
+So are you going to tell me or not?
+
+[Kid]
+What?
+
+
+{YEP017}
+[Y工]
+About the reason you majored in archaeology.
+
+[Kid]
+Alright... It's because...
+
+[Kid]
+I want to know myself better.
+
+
+{YEP018}
+[Y工]
+To know yourself?
+
+[Kid]
+Yes.
+
+[Kid]
+To know more about myself at that time...
+
+[Kid]
+"At that time, I thought that it would be best 
+to major in archaeology, the same as you, 
+to better understand the weird stuff that 
+was happening to me."
+
+
+{YEP019}
+[Y工]
+You're not going to...
+
+
+{YEP020}
+[Y工]
+Study the third eye?
+
+[Kid]
+I sure am.
+
+[Y工]
+............
+
+[Kid]
+I told you...
+
+[Kid]
+It was probably better that you don't ask.
+
+
+{YEP021}
+[Y工]
+You haven't changed... A bit, I mean...
+
+
+{YEP022}
+[Y工]
+Nope... You haven't changed at all.
+
+[Kid]
+Neither have you.
+
+[Kid]
+That reminds me. Your clothes are...
+
+
+{YEP023}
+[Y工]
+Huh?
+
+[Kid]
+The same ones you wore then, right?
+
+
+{YEP024}
+[Y工]
+Yeah... You're right.
+
+There was a thin black stain on the hem of her
+jacket that had remained.
+
+It was a memorable stain.
+
+Our memory...
+
+I started to think as I gazed at the ocean.
+
+I thought about the time when I met Y工.
+
+About those unforgettable seven days...
+
+But I should talk about the things that
+happened after that.
+
+After that...
+
+
+3 :
+For some time, we just stood there enjoying
+the sunshine on the floating island.
+
+The sun looked extremely bright after a week
+without it. Its rays were warm.
+
+At that moment...
+
+Someone patted me on the shoulder.
+
+I turned back and...
+
+There was...
+
+
+4 :
+
+{YEP025}
+[Sora]
+Good morning.
+
+
+5 :
+[Kid]
+...So-So-So-Sora!?
+
+
+{YEP026}
+[Sora]
+"I promised you that I would see you again 
+soon, didn't I?"
+
+[Kid]
+Bu-but... why are you here?
+
+
+6 :
+
+{YEP027}
+[Sora]
+Am I bothering you?
+
+
+{YEP028}
+[Y工]
+No, not all! I'm glad to see you again.
+
+
+7 :
+Hearing that, Sora smiled gently.
+
+I exchanged a handshake with Sora when
+I met her again.
+
+
+8 :
+I looked up at the sky above.
+
+The clear blue sky seemed to spread on forever.
+
+
+{YEP029}
+[Sora]
+Doctor Tanaka is waiting for you.
+
+
+{YEP030}
+[Sora]
+Please come this way...
+
+
+9 :
+[Kid]
+Oh, you're...!
+
+The person called 'Doctor Tanaka' who appeared in
+front of us was the woman I'd seen on the
+monitor...
+
+It was the person who had claimed to be
+Y工's mother.
+
+
+{YEP031}
+[Y工]
+M-mother...
+
+
+{YEP032}
+[Doctor Tanaka]
+Y工... I'm so happy you're alive...
+
+
+{YEP033}
+[Y工]
+Why are you...?
+
+
+{YEP034}
+[Doctor Tanaka]
+"I promised that I would tell you everything 
+when you got to the floating island, right?"
+
+[Y工]
+...............
+
+
+{YEP035}
+[Doctor Tanaka]
+It's been a long time...
+
+[Kid]
+What?
+
+I wondered if she was talking to me.
+
+It seemed like it was the first time that
+I'd met her...
+
+Or had I met her in the past...?
+
+
+{YEP036}
+[Doctor Tanaka]
+"What's wrong? Is there something that 
+you would like to ask?"
+
+[Kid]
+Y-yes! I have tons of things I want to ask.
+
+
+{YEP037}
+[Doctor Tanaka]
+Fine. Don't worry, I'll tell you everything.
+
+[Kid]
+Alright then... F-first, I want to...
+
+
+{YEP038}
+[Y工]
+Hold on!
+
+
+{YEP039}
+[Y工]
+Wait just a minute...
+
+[Kid]
+...Y工?
+
+
+{YEP040}
+[Y工]
+First, there's something I have to ask.
+
+
+{YEP041}
+[Y工]
+Is that alright?
+
+
+{YEP042}
+[Doctor Tanaka]
+Go ahead.
+
+[Y工]
+.........
+
+
+{YEP043}
+[Y工]
+You said... that you're not my real mother.
+
+
+{YEP044}
+[Y工]
+You also said that I was your child.
+
+[Doctor Tanaka]
+.........
+
+
+{YEP045}
+[Y工]
+There's only one thing I want to ask.
+
+
+{YEP046}
+[Y工]
+Are you... my real 'mother'?
+
+
+10 :
+[Doctor Tanaka]
+...............
+
+Doctor Tanaka looked down.
+
+She twisted her lips sadly.
+
+
+{YEP047}
+[Y工]
+Which is it?
+
+I wondered why Y工 would ask such a thing.
+
+She should've already known the answer...
+
+
+{YEP048}
+[Doctor Tanaka]
+...<I am You>...
+
+
+{YEP049}
+[Y工]
+...Huh?
+
+
+11 :
+
+{YEP050}
+[Doctor Tanaka]
+I can say this for certain now...
+
+
+{YEP051}
+[Doctor Tanaka]
+I am... your...
+
+
+{YEP052}
+[Doctor Tanaka]
+'Mother'... Y工...
+
+She stared Y工 in the eye as she said that.
+
+
+{YEP053}
+[Y工]
+...Mother...
+
+..................
+
+
+12 :
+After a while, we asked Doctor Tanaka question
+after question.
+
+{16:4}
+
+13 :
+...How did we get trapped?
+
+...Was it an accident or not?
+
+...Why could I predict things?
+
+...Why did I lose my memory?
+
+...What had happened in my past?
+
+...Did the girl I'd seen really exist?
+Who was she?
+
+...What had happened in Y工's past?
+
+{16:4}
+
+14 :
+...Did Y工's father and mother really die?
+
+...If so, then who was she... 'Doctor Tanaka'?
+
+
+...What was the meaning of the haiku
+password?
+
+...What was Blick Winkel?
+
+...What was the connection between the
+TB virus and the accident?
+
+And...
+
+{16:4}
+
+15 :
+What was 'the third eye'?
+
+.........
+
+......
+
+...
+
+{16:4}
+
+16 :
+
+
+{1}{1}{1}{1}
+
+{16:0}It was a long, long story.{16:1}
+
+{16:4}
+
+17 :
+
+{YEP054}
+[Y工]
+"You're thinking about the things that 
+happened then, aren't you?"
+
+[Kid]
+Huh? Yeah...
+
+[Kid]
+Hey, Y工?
+
+[Kid]
+"Do you know the proverb 'Water flows and 
+people live'?"
+
+
+{YEP055}
+[Y工]
+?
+
+[Kid]
+Water flows from high to lower places...
+
+[Kid]
+"But the flow, its path has an infinite 
+number of possibilities."
+
+[Kid]
+"People live... Just like water, there are
+infinite ways for life to flow."
+
+[Kid]
+That's what it means.
+
+
+{YEP056}
+[Y工]
+Hmmmm.
+
+[Kid]
+"If life has infinite possibilities, there 
+might be another me somewhere who has a 
+different history than the me in the present."
+
+
+{YEP057}
+[Y工]
+Somewhere?
+
+[Kid]
+Yeah, say, beyond this broad sky...
+
+[Kid]
+Beyond this limitless universe...
+
+[Kid]
+There should be another universe...
+
+[Kid]
+Another me in another universe...
+
+[Y工]
+.........
+
+[Kid]
+I was thinking about that other me.
+
+
+{YEP058}
+[Y工]
+Another universe, huh?
+
+
+{YEP059}
+[Y工]
+"Hey, if there is another universe like 
+you say..."
+
+
+{YEP060}
+[Y工]
+"In that other world, is there another pair of
+us dating like we are now?"
+
+[Kid]
+Sure there is.
+
+
+{YEP061}
+[Y工]
+How can you tell?
+
+[Kid]
+I can tell because I can.
+
+
+{YEP062}
+[Y工]
+?
+
+[Kid]
+You see, if I do this...
+
+
+18 :
+I drew Y工 close and kissed her.
+
+
+We were surrounded by the spring sun, clouds
+floating in the sky, the rippling ocean, and
+the song of seagulls.
+
+I felt everything about Y工 through her skin.
+
+Her warmth, her scent, her touch, her heartbeat,
+and even the color of her heart...
+
+I could see through Y工 completely then.
+
+It was exactly... the third eye.
+
+Ultimate wisdom.
+
+Yes, if I did that...
+
+
+19 :
+
+
+{1}{1}{1}{1}
+
+{16:0}Then we could transcend time.{16:1}
+
+20 :
+
+{16:4}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

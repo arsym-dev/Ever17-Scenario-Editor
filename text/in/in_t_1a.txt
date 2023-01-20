@@ -1,0 +1,896 @@
+
+
+1 :
+I turned the knob, and the door to the
+elevator opened slowly.
+
+
+{T1A000}
+[Announcement]
+<System-Wiederaufnahme.>
+
+I heard the mechanical announcement but
+didn't understand what it meant.
+
+[Takeshi]
+The battery is probably dead...
+
+I pushed the button, but my PDA didn't respond.
+
+Thanks to the help of the backlight of my
+display, I had found the door's emergency manual
+opening mechanism.
+
+[Takeshi]
+Hey, are you alive?
+
+I spoke to the girl.
+
+
+2 :
+
+{T1A001}
+[Girl]
+...Yes.
+
+She looked a little tired.
+
+The floor was silent.
+
+I heard the sound of water flowing somewhere.
+
+It was a muffled sound....
+
+But there was no sign of anyone around.
+
+[Takeshi]
+What's going on here?
+
+
+3 :
+
+{T1A002}
+[Girl]
+I don't... know...
+
+[Takeshi]
+Let's go see if we can find anyone else.
+
+
+4 :
+We went into the corridor.
+
+Most of the doors were locked as if to keep us
+from intruding.
+
+We found a floor directory, so we decided to
+look around the rooms listed on it.
+
+
+5 :
+We came out to an open space.
+
+It was called the 'rest area'.
+
+There was a scattered mess of bags, a pair of shoes,
+wrapping paper from the souvenir shop, and other stuff
+discarded on the floor.
+
+As I had expected, there was no one there.
+
+There was a thick set of shutters in the
+circular space in the center of the area.
+
+[Takeshi]
+...Ahahaha.
+
+I laughed an empty laugh.
+
+[Takeshi]
+I wonder if this area is under construction.
+
+[Takeshi]
+"That's probably why nobody's here. Yeah, 
+I'll bet that's why."
+
+
+6 :
+[Girl]
+.........
+
+[Takeshi]
+Let's try the next place.
+
+
+7 :
+We continued down the path we had been walking.
+
+The door down the corridor was shut firmly.
+
+[Takeshi]
+Doesn't this door open?
+
+
+8 :
+
+{T1A003}
+[Girl]
+I don't think it will. I don't see a switch.
+
+We chose a corridor which was open and slowly
+walked down it.
+
+We didn't come across anyone.
+
+It felt like we were walking a route that
+someone had set up for us....
+
+
+9 :
+A door on the side of the corridor had been
+left open, and we went in.
+
+There was a stand selling tuna sandwiches.
+
+It smelled like they had been cooking until
+recently.
+
+[Takeshi]
+"Hey, buddy, I'll take two of the sandwiches 
+that are half price on weekdays."
+
+[Takeshi]
+...If only someone were here...
+
+[Takeshi]
+"Looks like he ran off and left his stand. 
+Doesn't he have any pride?"
+
+[Takeshi]
+Huh? There aren't any other customers here!
+
+[Takeshi]
+Business isn't exactly booming, is it?
+
+
+10 :
+[Girl]
+.........
+
+[Takeshi]
+I'm hungry...
+
+[Takeshi]
+I wasted too much energy walking around...
+
+[Takeshi]
+"And my friends took off somewhere without 
+telling me..."
+
+[Takeshi]
+Don't you think that's rude?
+
+
+11 :
+
+{T1A004}
+[Girl]
+...Not really.
+
+
+{T1A005}
+[Girl]
+"We just met, and I don't particularly care 
+about you."
+
+[Takeshi]
+Okay, okay. Whatever you say.
+
+
+12 :
+We returned to the corridor we'd come from,
+turned at an intersection, and looked for
+other rooms.
+
+
+13 :
+Everywhere looked the same.
+
+[Takeshi]
+I wonder if everyone is hiding somewhere.
+
+[Takeshi]
+Maybe they're trying to surprise us.
+
+
+14 :
+
+{T1A006}
+[Girl]
+What? Why do you think so?
+
+[Takeshi]
+Well, it's just kind of a feeling...
+
+I had to speak to stay calm.
+
+I felt like if I went quiet, I would return
+to the darkness of before.
+
+
+15 :
+In the room we went in next, ruins were
+awaiting us.
+
+'Lemurian Ruins'...
+
+They were filled with silence.
+
+If it wasn't for the paper garbage strewn
+across the floor, it would have been hard to
+believe that anyone had been around.
+
+[Takeshi]
+Where is everybody...?
+
+[Takeshi]
+Hey!
+
+[Takeshi]
+Gimme a break here!
+
+[Takeshi]
+Where did everybody go?
+
+[Takeshi]
+"...There's a limit to how far you can take a 
+joke..."
+
+
+16 :
+[Girl]
+.........
+
+[Takeshi]
+.........
+
+
+17 :
+[Takeshi]
+*Sigh*...
+
+[Takeshi]
+Why doesn't anyone come out...?
+
+I sank to the floor.
+
+I didn't know why, but I was having trouble
+breathing.
+
+Against my will, I started to sweat.
+
+[Takeshi]
+"What do you think? What happened here? Why 
+haven't we seen anyone?"
+
+
+18 :
+
+{T1A007}
+[Girl]
+"I don't know... There's only one thing for 
+sure."
+
+She said that without changing the expression
+on her face.
+
+
+{T1A008}
+[Girl]
+This is not normal.
+
+
+{T1A009}
+[Girl]
+If this keeps up...
+
+
+{T1A010}
+[Girl]
+We could be in danger.
+
+
+19 :
+
+{T1A011}
+[Girl]
+Don't you think so?
+
+[Takeshi]
+.........
+
+She stared at me with calm eyes.
+
+
+20 :
+I thought I heard a low groan from somewhere.
+
+I swallowed nervously...
+
+I nodded uncomfortably...
+
+
+21 :
+The next instant, the girl dashed to the
+other side of the corridor.
+
+
+22 :
+I quickly stood up and followed her.
+
+I was exhausted, but I used every bit of my
+power to push ahead.
+
+We jumped into a small entrance on the side
+of the corridor.
+
+
+23 :
+We headed up.
+
+We started climbing up stairs at top speed.
+
+
+24 :
+We ignored our pounding hearts. We simply ran.
+
+
+25 :
+We ran without looking back.
+
+
+26 :
+We ran...
+
+
+27 :
+We reached the top floor and I put my hand on
+the emergency hatch connected to the floating
+island.
+
+The knob didn't budge.
+
+[Takeshi]
+Damn, why won't it open!?
+
+
+28 :
+Gabaaaang!
+
+The whole structure rocked.
+
+
+29 :
+The hatch gave off a squeaking sound and the
+knob bent unnaturally.
+
+[Takeshi]
+!?
+
+
+{T1A012}
+[Girl]
+This way!
+
+The girl screamed.
+
+
+30 :
+We rushed back to the stairs again.
+
+We had no time to go down each step.
+
+We jumped down toward the direction where we
+could see the corridor.
+
+
+31 :
+The impact with the ground rattled my knees
+terribly, but I ignored the pain.
+
+
+32 :
+[Takeshi]
+*Pant*, *pant*...
+
+[Takeshi]
+Phew... *pant*... *pant*...
+
+I was out of breath. I gasped.
+
+[Takeshi]
+Haaaa... haaaa... haaaaa.
+
+[Takeshi]
+Fwaaaa... huuuu... haaaaa.
+
+[Takeshi]
+Hiihii... huuuu... haaaaa.
+
+[Takeshi]
+...Safe place, pokopon.
+
+
+33 :
+
+{T1A013}
+[Girl]
+...?
+
+The girl's expression didn't change.
+
+(Anyway, she hasn't lost her breath much
+after running that hard...)
+
+
+34 :
+[Takeshi]
+Hey, don't you want to rest?
+
+[Takeshi]
+I want to rest...
+
+
+35 :
+
+{T1A014}
+[Girl]
+Go ahead. Do what you want...
+
+[Takeshi]
+...Fine then.
+
+
+36 :
+I sat down on the floor.
+
+The girl walked slowly ahead down the corridor.
+
+We could see hundreds of colorful fish
+swimming comfortably outside the windows.
+
+The room was quiet too.
+
+It was just the two of us. Me and her.
+
+Then I remembered that I still didn't know
+who she was.
+
+She had told me to 'do what I want', but...
+
+Until then, we'd been trying to escape together.
+
+I wondered what she was all about.
+
+It was all... a mystery to me.
+
+
+37 :
+
+{T1A015}
+[Girl]
+...Who?
+
+Her voice caused me to look up.
+
+She hadn't said it to me.
+
+[Takeshi]
+Hey, was somebody there?
+
+I asked this as I stood.
+
+
+38 :
+[Girl]
+...
+
+The girl stood still. Her eyes were focused
+in the distance.
+
+I followed her gaze.
+
+
+39 :
+A lady had appeared where there had been no
+sign of anyone a moment before, and she was
+dressed as a park employee.
+
+I hadn't heard any footsteps.
+
+(Huh?)
+
+(When did she get here?)
+
+
+{T1A016}
+[Park staff]
+...From here.
+
+
+{T1A017}
+[Park staff]
+This area is not safe. Please escape.
+
+
+{T1A018}
+[Park staff]
+Please. Please, you must escape from here.
+
+
+{T1A019}
+[Park staff]
+It is dangerous, it is dangerous...
+
+She looked slightly panicked.
+
+[Takeshi]
+"Hey, hey. What's happened? What's dangerous? 
+Stay calm. Explain what's going on..."
+
+
+{T1A020}
+[Park staff]
+"You need to escape... We have had... 
+unexpected... trouble."
+
+
+{T1A021}
+[Park staff]
+Level... Delta... Tief... Blau.
+
+She mumbled this again.
+
+
+{T1A022}
+[Park staff]
+Please escape. Please.
+
+
+40 :
+
+{T1A023}
+[Park staff]
+Please get out of here!
+
+
+41 :
+Crash!
+
+
+42 :
+Fwaaaaaash!
+
+[Takeshi]
+UuuuwwWWAAaaaahh!!
+
+Glass shattered.
+
+A massive amount of seawater...
+
+And countless fish came flooding in.
+
+
+43 :
+It was as if they were attacking me!
+
+
+44 :
+
+{T1A024}
+[Girl]
+What're you doing? Hurry!
+
+[Takeshi]
+W-whoaaa!
+
+
+45 :
+The destructive force of the water was
+incredible.
+
+The approaching swell mowed down everything
+in its path.
+
+It swirled and swallowed debris on the floor,
+someone's dropped purse, a floor guide for the
+facility... anything and everything it
+encountered.
+
+(I wonder how fast that water is moving...)
+
+Ridiculous thoughts flashed through my mind.
+
+(And... I wonder how fast I can run.)
+
+There was no guarantee the water wouldn't
+catch me.
+
+
+46 :
+[Takeshi]
+Whoa! Whoaaa! Whoaaaaaa!
+
+I ran frantically.
+
+And jumped in the air.
+
+There was water flowing underfoot.
+
+
+47 :
+[Takeshi]
+Whoooooa....
+
+
+48 :
+I slipped.
+
+I knew the situation was bad.
+
+If I took a spill, I would be sleeping with
+those fish!
+
+
+{T1A025}
+[Girl]
+You're so much trouble...!
+
+
+49 :
+I was carried along into the air.
+
+The girl had grabbed my arm and yanked me
+forward with incredible force.
+
+She ran lithely, like a tiny gazelle....
+
+And her speed was like I had just hopped
+into a car.
+
+It almost felt as though she might rip my arm
+off.
+
+Her strength was unbelievable.
+
+
+50 :
+
+{T1A026}
+[Park staff]
+Over here! Hurry! Hurry!
+
+
+{T1A027}
+[Girl]
+I know!
+
+[Takeshi]
+!?
+
+And even harder to believe was that the park
+attendant was running ahead of us, leading
+the way.
+
+(When did she...?)
+
+It looked like she had just been sucked into
+the swirling waters ahead, but... no...
+
+
+51 :
+
+{T1A028}
+[Girl]
+Damn...
+
+
+{T1A029}
+[Park staff]
+"This is no good! It's not functioning! Go 
+back!"
+
+
+52 :
+
+{T1A030}
+[Girl]
+There's no time!
+
+
+53 :
+We bounded from the slope into another
+corridor.
+
+[Takeshi]
+Crap. Which way do we take to get outta here?
+
+We all ran without stopping, looking for an
+exit.
+
+
+54 :
+[Takeshi]
+It's a dead end...!
+
+
+55 :
+
+{T1A031}
+[Girl]
+Can we go through here?
+
+
+{T1A032}
+[Park staff]
+Yes!
+
+
+56 :
+
+{T1A033}
+[Girl]
+I'm going!
+
+
+57 :
+[Takeshi]
+Hey... this isn't a corridor... aggh!
+
+
+58 :
+She kicked through some metal mesh and into a
+big air exhaust duct.
+
+It was a sloping pipe-like tube.
+
+We shot down the incline, stumbling.
+
+It sounded like there was a crazed froth of
+angry water roaring behind me.
+
+No, I was already caught up in it.
+
+Everyone was just flushed along.
+
+We were spun in circles. I had no idea which
+way was up and which was down.
+
+And then we were all spit out in a corridor
+on the lower level.
+
+
+59 :
+Saved by a hair, the shutter on the duct
+clanked shut solidly behind us.
+
+The flow of water finally stopped.
+
+
+60 :
+...
+
+Aaah...
+
+It was solid ground.
+
+It was a floor.
+
+I was safe.
+
+I wasn't in the water.
+
+I was alive.
+
+That was good...
+
+...
+
+(Good?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4079 @@
+
+
+1 :
+Before going for repairs, we had to secure
+tools.
+
+When the four of us ascended from Zweiter Stock,
+we stopped by the warehouse first.
+
+Fortunately, we found the tools we needed
+right away.
+
+Pliers, a spanner, a screwdriver, a hammer,
+a small welding machine... et cetera, et cetera...
+
+We packed all of the tools we imagined we
+might need into a toolbox and headed for the
+neutral buoyancy elevator.
+
+
+2 :
+‡LThe neutral buoyancy elevator 'Ei'.
+
+'Ei' meant 'egg' in German.
+
+It was also a literal take on the egg-shaped
+elevator that traveled up and down rails into
+the ocean on the side of LeMU.
+
+A ballast tank was attached to the floor.
+
+It would take in or release seawater from the
+tank as necessary to increase or reduce
+buoyancy, making the elevator rise or sink.
+
+
+3 :
+Once we were inside, we sealed the watertight
+doors on the LeMU side of the elevator.
+
+All we had to do was release the lock
+connecting us to LeMU, and the 'egg' would
+sink away.
+
+
+4 :
+Y¤u pulled the operating lever next to the
+door.
+
+[Kid]
+.........
+
+[Takeshi]
+.........
+
+[Sara]
+...
+
+[Y¤u]
+...
+
+Nothing happened.
+
+
+5 :
+
+{S2B000}
+[Takeshi]
+What's going on? We're not sinking at all.
+
+
+{S2B001}
+[Y¤u]
+No... It doesn't seem like it.
+
+[Kid]
+Do you think it's because the power is out?
+
+
+6 :
+
+{S2B002}
+[Y¤u]
+"No. The Ei elevator is a neutral buoyancy 
+elevator, so it basically doesn't require 
+outside power."
+
+
+{S2B003}
+[Y¤u]
+"But it does need power for the intake and 
+release of water for the ballast tank... This 
+is the only time it needs power."
+
+
+7 :
+
+{S2B004}
+[Sara]
+But we're in a blackout right now...
+
+[Kid]
+"...So there's no way to control the ballast 
+valve‡Lis that the problem?"
+
+
+{S2B005}
+[Y¤u]
+Yes.
+
+
+8 :
+
+{S2B006}
+[Takeshi]
+"Oh great. So that means we can't move this 
+thing at all then!"
+
+
+9 :
+
+{S2B007}
+[Y¤u]
+"Stupid. That's wrong. And you're supposed to 
+be a college student?"
+
+
+10 :
+
+{S2B008}
+[Takeshi]
+"Well, excuse me! So put it in terms I can 
+understand."
+
+
+11 :
+
+{S2B009}
+[Sara]
+Professor! I know, I know!
+
+
+12 :
+
+{S2B010}
+[Y¤u]
+Alright, Matsunaga-kun.
+
+
+13 :
+
+{S2B011}
+[Sara]
+"In order to use buoyancy to rise or sink, 
+the weight of the elevator must exceed the 
+buoyancy for the object to sink, or vice 
+versa."
+
+
+14 :
+
+{S2B012}
+[Y¤u]
+That's correct.
+
+
+{S2B013}
+[Y¤u]
+You figured it out too, Kid, right?
+
+15 :
+{11:0-4d}
+{11:1}I got it
+
+{11:1}I don't understand
+
+
+16 :
+[Kid]
+Yeah. You mean the Archimedes principle, right?
+
+[Kid]
+"The buoyancy of a submerged object is equal 
+to the weight of the liquid displaced by the 
+object."
+
+[Kid]
+"Right now, the buoyancy of the elevator is 
+exactly balanced with the elevator's weight."
+
+[Kid]
+"So if we make the elevator heavier, it will 
+outweigh the buoyancy, and so the elevator
+will sink, right?"
+
+
+17 :
+
+{S2B014}
+[Y¤u]
+Wow! Good work, you two! What brains!
+
+Y¤u patted our heads as she praised us.
+
+
+18 :
+[Kid]
+Sorry... I don't get it at all.
+
+
+19 :
+
+{S2B015}
+[Y¤u]
+"Well, the Kid's lost his memory, so it's to be 
+expected."
+
+
+20 :
+
+{S2B016}
+[Y¤u]
+Alright then, Mayo, how about an explanation?
+
+
+21 :
+
+{S2B017}
+[Sara]
+Okay.
+
+
+22 :
+
+{S2B018}
+[Sara]
+"The Archimedes principle states that the buoyant 
+force on a submerged object is equal to the 
+weight of the liquid displaced by the object."
+
+
+{S2B019}
+[Sara]
+"That means that right now, the buoyancy of the 
+elevator is exactly balanced with the 
+elevator's weight."
+
+
+{S2B020}
+[Sara]
+"So if we make the elevator heavier, it will 
+outweigh the buoyancy..."
+
+[Kid]
+And so the elevator will sink, right?
+
+
+23 :
+
+{S2B021}
+[Sara]
+You got it.
+
+
+24 :
+
+{S2B022}
+[Y¤u]
+Wow! Good work, Mayo! What brains!
+
+Y¤u patted Sara's head as she praised her.
+
+
+25 :
+
+{S2B023}
+[Y¤u]
+Smart, smart girl!
+
+
+26 :
+
+{S2B024}
+[Y¤u]
+...Not like some other people here.
+
+
+27 :
+[Takeshi]
+.........
+
+[Kid]
+"So the reason that Ei won't sink yet is that 
+it's not heavy enough, right?"
+
+
+28 :
+
+{S2B025}
+[Y¤u]
+Yes. We need to find something heavy...
+
+
+29 :
+We split up and went in search of things we
+could use as weights.
+
+And several minutes later...
+
+
+30 :
+
+{S2B026}
+[Takeshi]
+Gggrrrrppphh!
+
+
+31 :
+Takeshi was carrying a massive planting pot.
+
+
+32 :
+
+{S2B027}
+[Y¤u]
+Heave-ho, heave-ho...
+
+
+33 :
+Y¤u brought a plaster ornament.
+
+And I brought a magazine holder and a bundle
+of magazines from the security office.
+
+And Sara...
+
+
+34 :
+
+{S2B028}
+[Sara]
+Heave... Heave...
+
+Pull, pull...
+
+[Kid]
+S-Sara? That's...
+
+
+{S2B029}
+[Takeshi]
+What in the name of...
+
+Sara... was dragging a massive tuna.
+
+
+35 :
+
+{S2B030}
+[Y¤u]
+What... happened to that?
+
+
+36 :
+
+{S2B031}
+[Sara]
+It was in the corridor over there.
+
+
+{S2B032}
+[Sara]
+"I guess it probably washed out from the 
+kitchen fridge during the flood."
+
+[Kid]
+.........
+
+
+37 :
+[Y¤u]
+.........
+
+[Takeshi]
+.........
+
+
+38 :
+
+{S2B033}
+[Sara]
+It's a little cold, but it's okay, right?
+
+
+39 :
+So the four of us packed ourselves into Ei
+and headed down to Dritter Stock holding a
+frozen tuna.
+
+Ei began to descend ever so slowly...
+
+Peeking through the window and into the blue,
+we could see the outside of LeMU.
+
+The blue gradually got darker, and the steel
+bulkhead appeared to move farther away upward.
+
+[Kid]
+.........
+
+[Sara]
+.........
+
+[Y¤u]
+.........
+
+[Takeshi]
+.........
+
+We were silent during that time.
+
+What was there really to talk about?
+
+No, actually, Y¤u did say one thing...
+
+
+{S2B034}
+[Y¤u]
+"Hey, wasn't catching dolphins for food banned 
+under some international treaty?"
+
+It seemed that Y¤u was having trouble with the
+difference between a dolphin and a tuna.
+
+No one tried to answer her.
+
+I... decided not to think about anything.
+
+
+40 :
+Dritter Stock Sector Seven was another area
+sealed off because of flooding.
+
+That was where we got off.
+
+Once the four of us holding the tuna got off,
+Ei lost its baggage and floated up to Zweiter
+Stock again.
+
+[Kid]
+"Oh, no. What'll we do...? We can't get back 
+now."
+
+
+41 :
+
+{S2B035}
+[Y¤u]
+"No problem. There's one more Ei. I checked, 
+and it's stopped on this floor."
+
+[Kid]
+Oh... That surprised the heck out of me...
+
+
+42 :
+
+{S2B036}
+[Takeshi]
+"HAHAHA... If there wasn't another one, 
+there's no way the four of us would ever 
+come down here."
+
+
+43 :
+
+{S2B037}
+[Sara]
+"You sure? You seemed pretty petrified with 
+fear yourself."
+
+
+44 :
+
+{S2B038}
+[Takeshi]
+Zip it! I don't want any more lip from you!
+
+
+45 :
+
+{S2B039}
+[Y¤u]
+"Alright, alright... Enough of that. Let's get 
+going."
+
+
+46 :
+We put the frozen tuna down and began walking
+toward the generator room.
+
+This side of the area was also inundated with
+water from the flood.
+
+It was still bathed in darkness.
+
+Blue light from the surface dimly pierced
+through the small round windows, making
+a wave-like shadow on the floor.
+
+The four of us relied on that and our
+flashlight as we proceeded deeper and deeper
+into the complex.
+
+
+47 :
+
+{S2B040}
+[Takeshi]
+Hey... Wait up!
+
+When we turned a corner, we heard Takeshi
+call out from behind us.
+
+
+48 :
+
+{S2B041}
+[Y¤u]
+"What are you doing? Hurry up. No dawdling or 
+we'll leave you behind."
+
+
+{S2B042}
+[Takeshi]
+"I'll show you dawdling! This toolbox weighs 
+a ton!"
+
+
+49 :
+Looking back, there was Takeshi with the
+toolbox on the floor, breathing hard.
+
+
+{S2B043}
+[Y¤u]
+Geez. Gimme a break. Kid, give him a hand.
+
+[Kid]
+A-alright.
+
+
+50 :
+I hurried to where Takeshi was.
+
+
+51 :
+[Kid]
+Takeshi, I'll help you.
+
+
+52 :
+
+{S2B044}
+[Takeshi]
+Thanks. Take it from that side.
+
+[Kid]
+Okay.
+
+The two of us took the toolbox from both sides.
+
+
+53 :
+
+{S2B045}
+[Takeshi]
+"Whew! Thanks. I thought my arms would fall 
+off, carrying it all alone."
+
+[Kid]
+Quit exaggerating...
+
+[Kid]
+"Oh, Takeshi! Watch out! There's a bump 
+sticking out there!"
+
+
+54 :
+
+{S2B046}
+[Takeshi]
+Whoa! Th-that was close!
+
+Takeshi was just able to right himself.
+
+
+55 :
+
+{S2B047}
+[Takeshi]
+"Whew. That surprised the heck outta 
+me... I just about fell down..."
+
+
+{S2B048}
+[Takeshi]
+"Glad you noticed that, Kid. It being so dark 
+and everything... Good job."
+
+[Kid]
+Huh? You really think it's that dark...?
+
+[Kid]
+Takeshi, maybe you've got bad night vision.
+
+
+{S2B049}
+[Takeshi]
+Hmmm... Could be.
+
+
+56 :
+
+{S2B050}
+[Takeshi]
+"What is it that causes that? Lack of vitamin 
+A or something? I hate liver and carrots."
+
+[Kid]
+You shouldn't be so picky.
+
+
+57 :
+Finally, as we caught up with Y¤u and Sara, we
+reached our destination.
+
+Dim yellow and black stripes appeared
+ahead.
+
+58 :
+
+{S2B051}
+[Takeshi]
+This is it? This is the generator room...?
+
+There was a plate with information on the
+front of the door, but it was too dark to read.
+
+
+59 :
+
+{S2B052}
+[Y¤u]
+I'll take a look.
+
+
+60 :
+Y¤u reached toward the door handle...
+
+
+61 :
+(‡L‡L!?)
+
+[Kid]
+Wa-wait a second!
+
+Instinctively, I grabbed Y¤u's arm.
+
+
+62 :
+
+{S2B053}
+[Y¤u]
+Wh-what? What is it...?
+
+
+{S2B054}
+[Takeshi]
+?
+
+
+{S2B055}
+[Sara]
+?
+
+Takeshi and Sara stared at me questioningly.
+
+
+63 :
+
+{S2B056}
+[Y¤u]
+What's the matter?
+
+[Kid]
+Uh... Um... The thing is...
+
+
+64 :
+I couldn't find the words to reply.
+
+I wondered why I had said what I had.
+
+I really didn't know.
+
+Yet, somehow...
+
+
+65 :
+[Kid]
+"If you don't know what's going on inside, 
+don't you think it might be dangerous to just 
+open the door?"
+
+...I was just rattling off what popped into
+my mind.
+
+No, I hadn't even thought it. It just seemed
+to jump from my throat before anything else.
+
+Kind of like when you snap your hand back
+after touching a hot stove.
+
+I just reflexively blurted it out.
+
+
+66 :
+
+{S2B057}
+[Y¤u]
+What do you mean?
+
+Y¤u wasn't buying it.
+
+I took my hand from Y¤u's arm and searched
+for words.
+
+At that moment...
+
+
+67 :
+
+{S2B058}
+[Sara]
+It's kind of like this...
+
+
+{S2B059}
+[Sara]
+"If a pipe carrying hot water burst, then the 
+room could be full of hot steam..."
+
+Sara took up the slack in my explanation.
+
+
+68 :
+(Oh, I see...)
+
+While I sensed danger, I couldn't express
+in words what it might be.
+
+The three of us nodded, satisfied.
+
+
+69 :
+
+{S2B060}
+[Takeshi]
+Okay, let's give it a try.
+
+Takeshi touched his hand to the wet floor.
+He went to place his damp fingers on the door.
+
+
+70 :
+The droplets sizzled, evaporating away.
+
+
+{S2B061}
+[Takeshi]
+It's true.
+
+It was just like Sara had said.
+
+
+71 :
+
+{S2B062}
+[Takeshi]
+Wow... That was pretty sharp, Kid.
+
+[Kid]
+Uh... Yeah.
+
+I replied, but I hadn't really known it would
+be dangerous either.
+
+The one who had known was a separate someone
+inside me.
+
+That someone had simply borrowed my voice.
+
+
+What had happened was so strange that it made
+me feel out of place in my own skin.
+
+
+{S2B063}
+[Sara]
+"Anyway, with things as they stand, there's no 
+going inside."
+
+
+72 :
+
+{S2B064}
+[Takeshi]
+Ooh, shoot.
+
+
+73 :
+
+{S2B065}
+[Y¤u]
+I'll say...
+
+
+{S2B066}
+[Y¤u]
+"First off, let's close off all the valves for 
+pipes sending hot water to the generator room."
+
+
+{S2B067}
+[Y¤u]
+"If we stop the flow of hot water, then steam 
+should stop flowing to the room."
+
+
+74 :
+
+{S2B068}
+[Sara]
+Valves? Where are those?
+
+
+75 :
+
+{S2B069}
+[Y¤u]
+"In the room next door. Down one more corridor 
+that way."
+
+
+{S2B070}
+[Y¤u]
+"It won't require that many people... Just me 
+and... one more person to help."
+
+
+76 :
+
+{S2B071}
+[Takeshi]
+Alright, leave it to me!
+
+
+77 :
+
+{S2B072}
+[Y¤u]
+Huh? Kuranari?
+
+
+78 :
+
+{S2B073}
+[Takeshi]
+Hey! What's wrong with me?
+
+
+79 :
+
+{S2B074}
+[Y¤u]
+"It's just that... if we're alone, I'm afraid 
+that you'll do something."
+
+
+80 :
+
+{S2B075}
+[Takeshi]
+Uh, that's...
+
+
+81 :
+
+{S2B076}
+[Sara]
+Uh... Maybe I should help?
+
+
+82 :
+
+{S2B077}
+[Y¤u]
+Oh no, that's okay. Mayo, you wait here.
+
+[Sara]
+.........
+
+
+83 :
+
+{S2B078}
+[Takeshi]
+Hey, Kid. So what're you gonna do?
+
+[Kid]
+Huh? Me...?
+
+84 :
+{11:0-4f}
+{11:1}I'll help Y¤u
+
+{11:1}I'll wait here
+
+
+85 :
+[Kid]
+I'm going to help out Y¤u.
+
+
+86 :
+
+{S2B079}
+[Takeshi]
+"Okay. In that case, Sara and I will hold down 
+the fort here."
+
+
+87 :
+
+{S2B080}
+[Takeshi]
+You can't complain about that, right?
+
+
+{S2B081}
+[Y¤u]
+Okay.
+
+
+88 :
+
+{S2B082}
+[Takeshi]
+Geez. Damned if I do, damned if I don't.
+
+It seemed that Takeshi was oblivious to his
+disturbing dream the night before.
+
+[Kid]
+"I figure that Y¤u is concerned about you in 
+her own way."
+
+[Kid]
+"Like when she had you carry the heavy 
+toolbox... Maybe it was her way of saying 
+'rest a bit' or 'take it easy'."
+
+
+89 :
+
+{S2B083}
+[Takeshi]
+"You think so? That's a pretty generous 
+interpretation, I'd say."
+
+
+{S2B084}
+[Takeshi]
+"Oh well. In that case, I guess Sara and 
+I will just have to sit back and relax together."
+
+
+90 :
+Takeshi tried to pat Sara on the
+shoulder... but she dodged the advance.
+
+
+91 :
+
+{S2B085}
+[Sara]
+Oh! You probably don't want to do that.
+
+
+92 :
+
+{S2B086}
+[Takeshi]
+Huh?
+
+
+{S2B087}
+[Sara]
+I'm a licensed Iga Ninja!
+
+
+93 :
+
+{S2B088}
+[Takeshi]
+Wh-what's that?
+
+
+94 :
+
+{S2B089}
+[Sara]
+"It means that if you value your life you'd 
+better stay back!"
+
+
+95 :
+[Takeshi]
+..........
+
+
+96 :
+
+{S2B090}
+[Y¤u]
+Kid, should we get going?
+
+[Kid]
+Uh, yeah...
+
+Y¤u and I left the increasingly tense
+atmosphere behind.
+
+
+97 :
+The room was covered in a massive web of pipes.
+
+
+The pipes continued into the adjacent
+generator room. It seemed that by opening
+and closing the valves, the water and oil
+pressure could be adjusted.
+
+
+98 :
+'Normally, LeMMIH is responsible for
+maintaining the generator room, but even
+it can't do much when the generator
+itself goes out.'
+
+'Anyhow, this is all because the power supply
+is down.'
+
+'This room is designed so that maintenance can
+be performed manually at times like this, or
+during blackouts.'
+
+
+99 :
+...That was what Y¤u told me.
+
+Y¤u selected one pipe from the countless rows
+of them and instructed me to close its valve.
+
+
+100 :
+As ordered, I turned the valve around and
+around.
+
+[Kid]
+Hey, Y¤u?
+
+I said that as I was closing the valve.
+
+
+101 :
+
+{S2B091}
+[Y¤u]
+What?
+
+[Kid]
+It's about the girl from yesterday.
+
+
+{S2B092}
+[Y¤u]
+"Yesterday? You mean the seventh survivor you 
+said you saw?"
+
+[Kid]
+Yeah.
+
+
+102 :
+
+{S2B093}
+[Y¤u]
+"You're sure your eyes weren't playing tricks 
+on you?"
+
+[Kid]
+I'm positive. These eyes saw her.
+
+
+{S2B094}
+[Y¤u]
+Maybe you've got some kind of eye disease.
+
+[Kid]
+Huh? Di-disease...?
+
+
+103 :
+
+{S2B095}
+[Y¤u]
+"I'm kidding... It's a joke. Why do you always 
+take everything seriously?"
+
+[Kid]
+Enough already!
+
+
+104 :
+
+{S2B096}
+[Y¤u]
+"Alright, alright... I'll listen to your 
+stories of unidentified survivors later."
+
+
+{S2B097}
+[Y¤u]
+Right now, we have to work.
+
+
+105 :
+[Kid]
+...
+
+
+106 :
+Finally, the valve was completely shut.
+
+
+107 :
+
+{S2B098}
+[Y¤u]
+That should do it.
+
+[Kid]
+Y¤u, can we talk now...?
+
+
+108 :
+
+{S2B099}
+[Y¤u]
+Let's get back to Kuranari and Sara.
+
+
+109 :
+Y¤u took off from the room as if she were a
+fugitive on the run.
+
+I was left in the room alone...
+
+I felt an unclear mess of feelings stewing
+inside my mind.
+
+
+110 :
+[Kid]
+I'll... wait here.
+
+
+111 :
+
+{S2B100}
+[Takeshi]
+So what are we going to do?
+
+
+{S2B101}
+[Y¤u]
+"Oh well... Then I'll have to make do with 
+Kuranari."
+
+
+112 :
+
+{S2B102}
+[Takeshi]
+"Geez. You're a piece of work. Can't you let 
+your real feelings show?"
+
+
+113 :
+
+{S2B103}
+[Y¤u]
+"Don't be getting any strange ideas. You do 
+and I'll knock you down. Got it?"
+
+
+114 :
+
+{S2B104}
+[Takeshi]
+"...Take it easy. There's no way I'd try 
+something on you, even by mistake."
+
+
+115 :
+When the two of them disappeared at the far
+end of the corridor, they were still going at it.
+
+
+
+116 :
+
+{S2B105}
+[Sara]
+Those two...
+
+[Kid]
+Yeah?
+
+
+117 :
+
+{S2B106}
+[Sara]
+"I don't know, I think they make a pretty good 
+couple, don't you?"
+
+[Kid]
+Think so?
+
+
+{S2B107}
+[Sara]
+"Yeah. Nakkyu is the kind of person who tells 
+people she likes what she really thinks... She 
+speaks her mind."
+
+[Kid]
+Hmmmm.
+
+
+118 :
+
+{S2B108}
+[Sara]
+Takeshi kind of seems like that too.
+
+I wasn't sure why... but somehow, I was a little
+jealous of Y¤u and Takeshi.
+
+Even if I wanted to, I couldn't open up to
+anyone like that... I had nothing to share...
+
+
+119 :
+A while after the two had disappeared...
+
+Sara and I hadn't spoken another word.
+
+The two of us just leaned against a wall and
+stared into the darkness.
+
+I was desperately trying to think of some way
+to break through the wall that had formed
+between us.
+
+[Kid]
+Sara, how old are you?
+
+Finally, the words tumbled out of my mouth.
+
+
+120 :
+
+{S2B109}
+[Sara]
+"Where did that come from...? I thought 
+I told you?"
+
+[Kid]
+I don't think so.
+
+
+121 :
+
+{S2B110}
+[Sara]
+"I'm a junior. I'm sixteen, and I was born January 
+21st. Oh, and I'm an Aquarius."
+
+Sara recited it so smoothly that it was like
+she was singing a song.
+
+
+122 :
+
+{S2B111}
+[Sara]
+And you, Kid?
+
+[Kid]
+I'm...
+
+I didn't know.
+
+When I tried to remember, it was like my mind
+would fog over.
+
+I couldn't get close to it. It was like a
+mirage in the desert.
+
+[Kid]
+I... wonder how old I am.
+
+
+{S2B112}
+[Sara]
+You don't know that either?
+
+[Kid]
+Nope.
+
+
+123 :
+
+{S2B113}
+[Sara]
+Hmmm, that's kind of sad.
+
+[Kid]
+Yeah...
+
+
+124 :
+
+{S2B114}
+[Sara]
+But maybe it's good in a way.
+
+[Kid]
+What do you mean?
+
+
+125 :
+
+{S2B115}
+[Sara]
+"Well, maybe it was something that you wanted 
+to forget about..."
+
+[Kid]
+.........
+
+
+126 :
+
+{S2B116}
+[Sara]
+Just kidding.
+
+Sara's expression relaxed into a silly look.
+
+[Kid]
+Wh-what... Don't scare me like that.
+
+
+127 :
+
+{S2B117}
+[Sara]
+Sorry.
+
+
+128 :
+
+{S2B118}
+[Sara]
+"I know. Maybe if I chopped you down we'd 
+find out how old you are."
+
+[Kid]
+Huh?
+
+
+{S2B119}
+[Sara]
+"You know, maybe you've got rings like a tree 
+stump."
+
+
+129 :
+[Kid]
+...
+
+For some reason, my eyes strayed to the palms
+of my hands.
+
+In the darkness, only dimly illuminated by the
+emergency lights, my fingers appeared to glow
+slightly white.
+
+I still didn't know what had happened to my
+finger.
+
+
+130 :
+
+{S2B120}
+[Sara]
+Your finger...
+
+
+131 :
+Muttering that, Sara grabbed my finger.
+
+[Kid]
+.........
+
+It was so sudden that it put me at a loss for words.
+
+In the darkness, Sara whispered words like she was
+confirming something as she gripped my thumb.
+
+
+{S2B121}
+[Sara]
+Moon sprite... shouldering... a long bow...
+
+
+{S2B122}
+[Sara]
+Waiting... inside a dream...
+
+............
+
+[Kid]
+What does that mean?
+
+Sara just shook her head. There was no sign
+that she was going to answer me.
+
+She just murmured the words like a spell or a
+nursery rhyme as she gently held my thumb.
+
+
+(A moon sprite...)
+
+I wondered why Sara had suddenly grabbed my
+thumb.
+
+Still, I didn't have any urge to pull it away
+from her...
+
+As I remained aware of my thumb, I searched
+for an answer from Sara's slightly sweaty,
+warm palm.
+
+
+132 :
+
+{S2B123}
+[Y¤u]
+Thanks for waiting~
+
+
+133 :
+
+{S2B124}
+[Takeshi]
+I think we'll be okay now.
+
+
+{S2B125}
+[Y¤u]
+It was a hassle looking for the valve, but...
+
+
+134 :
+With the two of them back, Sara finally released my
+thumb.
+
+In the darkness, I couldn't make out Sara's expression
+very well.
+
+The area around her mouth pulled down
+slightly in a sad motion.
+
+Warmth lingered around my thumb...
+
+I didn't know why, but I hesitated to wipe the
+warmth away and gently inserted my hand into
+my pocket, leaving my thumb extended.
+
+
+135 :
+With that, we had been able to shut off the
+hot water flowing to the generator room.
+
+Even so, on the other side of the door, it was
+still hot enough to scald.
+
+The four of us waited outside the generator
+room until we could be sure that the
+temperature inside had cooled enough.
+
+
+136 :
+When we thought the time had come, we timidly
+opened the door.
+
+It was like opening the door to a public bath. A
+cloud of steam hissed out of the door.
+
+
+137 :
+The heat inside just about defied imagination.
+
+The air in the steam-filled room was heavy and
+stuck to the skin.
+
+Inhaling felt like swallowing globs of sticky
+hot steam.
+
+Takeshi was opening and closing his mouth like
+a fish out of water.
+
+
+138 :
+
+{S2B126}
+[Takeshi]
+Isn't it hard to breathe?
+
+
+{S2B127}
+[Y¤u]
+"Stop pointing out the obvious! Talking about 
+it just makes it worse!"
+
+
+139 :
+
+{S2B128}
+[Sara]
+"Nakkyu... Let's just do what we have to do and 
+get out of here."
+
+
+140 :
+
+{S2B129}
+[Y¤u]
+"Alright. Let's divide up what we have to do 
+and be efficient about this."
+
+
+141 :
+
+{S2B130}
+[Y¤u]
+"I'll be here. Kuranari, can I get you to go 
+over there? Kid, I want you to..."
+
+
+142 :
+And so we got to work fixing the generator.
+
+
+143 :
+Takeshi and Y¤u tackled the main work.
+
+There was hardly anything for Sara and myself
+to do, as we knew squat about machines.
+
+We functioned as assistants: shining
+flashlights, handing over tools, and loosening
+valves as instructed.
+
+After a while, we succeeded in repairing
+the generator.
+
+
+144 :
+Takeshi and Y¤u did the bulk of the work.
+
+There wasn't much for Sara or me to do
+because we were helpless when it came to
+machines.
+
+Takeshi and Sara were working on the other
+side of the generator.
+
+Y¤u was doing battle with the machine and
+depending on my flashlight-wielding skills.
+
+With nothing much to do, my thoughts started
+wandering.
+
+And of course they led right to the girl that
+had disappeared.
+
+I just couldn't believe that I had imagined
+the whole thing.
+
+
+145 :
+[Kid]
+Hey, you know, I've thought a lot about it...
+
+
+{S2B131}
+[Y¤u]
+What?
+
+[Kid]
+About the girl.
+
+
+{S2B132}
+[Y¤u]
+What? You still stuck on that?
+
+[Kid]
+Just listen.
+
+[Kid]
+Maybe that girl...
+
+[Kid]
+Maybe she's a ghost.
+
+
+146 :
+
+{S2B133}
+[Y¤u]
+Huh?
+
+
+147 :
+Y¤u gave me a fed up look, shook her head, and
+went back to work.
+
+[Kid]
+That's gotta be it!
+
+[Kid]
+"That would explain why the numbers change so 
+irregularly and why she vanished all of a 
+sudden."
+
+
+{S2B134}
+[Y¤u]
+That's stupid...
+
+[Kid]
+Listen! I'm serious.
+
+
+{S2B135}
+[Y¤u]
+No.
+
+
+{S2B136}
+[Y¤u]
+"If you were talking about something serious, 
+I would take you seriously."
+
+
+{S2B137}
+[Y¤u]
+"But I'm not listening seriously to something 
+like this. Stupidity is contagious."
+
+
+{S2B138}
+[Y¤u]
+"It's like multiplication of pluses and 
+minuses..."
+
+
+{S2B139}
+[Y¤u]
+A plus times a plus is a plus.
+
+
+{S2B140}
+[Y¤u]
+But a minus times a plus is a minus...
+
+
+{S2B141}
+[Y¤u]
+"So pass me that minus-like screwdriver, 
+would you?"
+
+I suppressed my anger and put the flat-head
+screwdriver in Y¤u's hand.
+
+[Kid]
+"Okay then, you don't have to listen 
+seriously."
+
+[Kid]
+Just listen to me stupidly.
+
+
+148 :
+
+{S2B142}
+[Y¤u]
+What's that mean? Listen stupidly...
+
+[Kid]
+It's multiplication, right?
+
+[Kid]
+A minus times a minus is a plus, right?
+
+
+{S2B143}
+[Y¤u]
+I see.
+
+
+149 :
+
+{S2B144}
+[Y¤u]
+"Okay. I'll listen to the stupid 
+stuff you've got to say until I finish 
+screwing in these screws."
+
+
+{S2B145}
+[Y¤u]
+So? What is it you're dying to say?
+
+[Kid]
+It's about the girl that disappeared.
+
+[Kid]
+If she were a ghost...
+
+
+{S2B146}
+[Y¤u]
+"Hold on. Now, do you really believe in 
+ghosts?"
+
+[Kid]
+"I wouldn't say believe. But believe in the 
+possibility..."
+
+
+{S2B147}
+[Y¤u]
+"Zero. That is what possibility there is. 
+Maybe 0.000000000000000001%."
+
+[Kid]
+How do you know?
+
+
+150 :
+Y¤u sighed and started turning the next screw.
+
+
+{S2B148}
+[Y¤u]
+"Listen. Ghost stories, now and forever, are 
+almost all made up."
+
+
+{S2B149}
+[Y¤u]
+"They're just fiction with the goal of 
+entertaining people."
+
+[Kid]
+"But haven't you ever felt somebody's eyes on 
+you when you were in a room all alone?"
+
+
+{S2B150}
+[Y¤u]
+Eyes?
+
+[Kid]
+"Yeah. Like someone was watching you from 
+behind..."
+
+
+{S2B151}
+[Y¤u]
+You mean your mom?
+
+[Kid]
+I'm being serious... Oh, never mind.
+
+
+{S2B152}
+[Y¤u]
+Things like that are just your imagination.
+
+
+{S2B153}
+[Y¤u]
+"A product of an overzealous mind. A delusion
+spawned by the mental state of the person."
+
+[Kid]
+You mean my mind is playing tricks on me?
+
+
+{S2B154}
+[Y¤u]
+To be perfectly blunt, yes.
+
+
+{S2B155}
+[Y¤u]
+"UFOs and goblins are the same thing. People 
+like to imagine stuff."
+
+
+{S2B156}
+[Y¤u]
+"Thanks to the power of imagination, people 
+have been able to evolve to where we are, but 
+it's kind of a curse too."
+
+
+{S2B157}
+[Y¤u]
+"Taken to extremes, there is no distinguishing 
+between reality and delusions."
+
+[Kid]
+.........
+
+
+{S2B158}
+[Y¤u]
+"When you turn on the lights, the ghost is 
+only a shirt on a chair."
+
+
+{S2B159}
+[Y¤u]
+"People who want to be scared see what they 
+want."
+
+
+{S2B160}
+[Y¤u]
+"If you really want to believe that something 
+exists, even if it doesn't, then you still 
+feel that it does."
+
+
+{S2B161}
+[Y¤u]
+"If you're scared of something, you'll scare 
+yourself even if there's nothing there."
+
+151 :
+{11:0-51}
+{11:1}Keep arguing
+
+{11:1}Give up
+
+
+152 :
+[Kid]
+"What about sleep paralysis? How do you explain 
+that?"
+
+
+{S2B162}
+[Y¤u]
+Sleep paralysis?
+
+[Kid]
+When you wake up and you can't move.
+
+[Kid]
+Is that just a person's mind too?
+
+
+{S2B163}
+[Y¤u]
+"They probably can't move because somebody 
+tied them up when they were asleep."
+
+[Kid]
+Who?
+
+
+{S2B164}
+[Y¤u]
+Some SM freak.
+
+[Kid]
+As if that could happen!
+
+
+{S2B165}
+[Y¤u]
+I'm kidding...
+
+
+{S2B166}
+[Y¤u]
+"You're talking about when your body is still 
+asleep but your mind is awake."
+
+
+{S2B167}
+[Y¤u]
+"So that even though you're conscious, your 
+body won't move."
+
+[Kid]
+"What about the people that say they wake up 
+and saw a ghost on top of them?"
+
+
+{S2B168}
+[Y¤u]
+"They think their eyes are open, but it's 
+really just a dream."
+
+
+{S2B169}
+[Y¤u]
+"Because the brain is fully awake and the 
+body won't do what it's told, a person feels 
+fear. These two things happen at the same 
+time..."
+
+
+{S2B170}
+[Y¤u]
+"So even the most incredible dream seems like 
+reality."
+
+[Kid]
+.........
+
+
+{S2B171}
+[Y¤u]
+"I just told you, right? If you really, really 
+believe something, then even reality seems like 
+a delusion."
+
+
+153 :
+[Kid]
+.........
+
+I wasn't satisfied, but I had learned
+something...
+
+I couldn't beat Y¤u in a debate.
+
+
+154 :
+
+{S2B172}
+[Y¤u]
+So? Doesn't look like you're convinced.
+
+[Kid]
+You can't convince me. I know... I saw her.
+
+[Kid]
+At least I saw something.
+
+
+{S2B173}
+[Y¤u]
+"Don't go telling me you have special powers 
+to see spirits or anything either."
+
+[Kid]
+.........
+
+
+155 :
+
+{S2B174}
+[Y¤u]
+You're not gonna say it, right?
+
+[Kid]
+.........
+
+
+156 :
+
+{S2B175}
+[Y¤u]
+Alright, alright.
+
+
+{S2B176}
+[Y¤u]
+"But no spinning your head around 360 degrees 
+or spewing out ectoplasmic goo. Alright?"
+
+
+{S2B177}
+[Y¤u]
+"And no supernatural tricks or channeling 
+spirits either."
+
+
+{S2B178}
+[Y¤u]
+"Because if a poltergeist gets loose around 
+here, the screws I just put in could fall out."
+
+[Kid]
+"For not believing this stuff, you sure know a 
+lot about it."
+
+
+{S2B179}
+[Y¤u]
+"It's because I don't believe in it that 
+I know a lot."
+
+
+{S2B180}
+[Y¤u]
+My knowledge is not for defensive purposes.
+
+
+{S2B181}
+[Y¤u]
+It's for offensive ones.
+
+[Kid]
+Huh?
+
+
+{S2B182}
+[Y¤u]
+"I mean, there are those people that swear by 
+ghosts, the supernatural, UFOs, and that occult 
+stuff. They're completely loony."
+
+
+{S2B183}
+[Y¤u]
+"My knowledge is so I can take them down when 
+I meet them."
+
+
+{S2B184}
+[Y¤u]
+"I've stocked up on enemy information for 
+my verbal assaults."
+
+
+{S2B185}
+[Y¤u]
+That's the reason I majored in archaeology.
+
+[Kid]
+Archaeology?
+
+[Kid]
+"Archaeology... I thought that was about 
+digging, looking for artifacts and ruins, and 
+deciphering ancient letters. That kind of 
+stuff, right?"
+
+
+{S2B186}
+[Y¤u]
+Well, maybe.
+
+Y¤u studying archaeology... It just didn't click.
+
+
+[Kid]
+So what are you studying?
+
+
+{S2B187}
+[Y¤u]
+"I'm not doing anything that big. I'm still a 
+freshman, so I'm only taking basic stuff."
+
+
+{S2B188}
+[Y¤u]
+"I just listen to professors lecture and go on 
+excavation surveys. I'm still getting the 
+fundamentals of 'What is archaeology?' pounded 
+into my head."
+
+[Kid]
+Hmmm.
+
+[Kid]
+"Oh, that reminds me. Speaking of 
+archaeology... Y¤u, have you ever 
+heard of the continent Lemuria?"
+
+[Kid]
+"It seems like it's the origin of LeMU's 
+name."
+
+
+{S2B189}
+[Y¤u]
+"Have I heard of it...? I know so much about 
+it that it makes me nuts."
+
+[Kid]
+?
+
+
+{S2B190}
+[Y¤u]
+"Lemuria is the phantom continent that is said 
+to have existed from 200 million to 50 million 
+years B.C."
+
+
+{S2B191}
+[Y¤u]
+"On it thrived an advanced civilization that 
+was more advanced than what we have today, but 
+it just slipped down to the bottom 
+of the ocean overnight."
+
+Y¤u recited it off so fluently that it sounded
+like she was reading from a textbook.
+
+(Advanced civilization... Overnight... Huh?)
+
+(That sounds just like...)
+
+
+{S2B192}
+[Y¤u]
+"There are some scholars that contend that 
+this continent was the origin of mankind."
+
+
+{S2B193}
+[Y¤u]
+"But what could they be talking about? 
+That could never happen."
+
+[Kid]
+You don't believe it?
+
+
+157 :
+
+{S2B194}
+[Y¤u]
+"Of course not. Archaeologically and 
+geologically, the idea has no basis."
+
+
+{S2B195}
+[Y¤u]
+"The more real research is conducted, the more 
+the theory is shot full of holes... It's no 
+longer a legitimate field of study."
+
+[Kid]
+Is that right...?
+
+
+158 :
+
+{S2B196}
+[Y¤u]
+Reality is different from a fairy tale.
+
+
+{S2B197}
+[Y¤u]
+"Religion is like that too. Any and all of those 
+mysterious things that people get all worked 
+up about. They're mostly all make believe."
+
+
+{S2B198}
+[Y¤u]
+"Since it's all impossible to prove in the first 
+place, they can say whatever they want. That's the 
+philosophy behind it."
+
+[Kid]
+.........
+
+I thought that maybe precisely because there
+was no evidence for or against it, what
+people said was actually packed with meaning.
+
+I felt like that because those words were the
+only foothold, the only way to really nail
+down reality.
+
+I absently thought about that for a minute.
+
+
+{S2B199}
+[Y¤u]
+Hmmmmgggr... This screw is really tight.
+
+[Kid]
+Let me try.
+
+
+159 :
+We switched places, and I tried twisting the
+screw into place.
+
+
+160 :
+
+{S2B200}
+[Y¤u]
+"Ohhhh. I'm beat... My shoulders are stiff and 
+everything."
+
+Y¤u twisted and stretched. Her back popped
+loudly.
+
+[Kid]
+"Hey. You know what we were just talking 
+about..."
+
+
+161 :
+
+{S2B201}
+[Y¤u]
+What was that? Oh, Lemuria?
+
+[Kid]
+Yeah.
+
+
+162 :
+
+{S2B202}
+[Y¤u]
+"Kid... You're not one of those people that get 
+all into these stories, are you?"
+
+[Kid]
+"I... I don't know about that. But since we've 
+got time to kill, just humor me."
+
+
+{S2B203}
+[Y¤u]
+Alright, alright. What is it?
+
+[Kid]
+"Okay. I wonder if Lemuria angered God and he 
+sent it to the bottom of the ocean?"
+
+[Y¤u]
+.........
+
+[Kid]
+"That is, if the people of Lemuria had such an 
+advanced civilization, maybe God struck them 
+down for their pride or something..."
+
+[Kid]
+Huh? Y¤u?
+
+[Y¤u]
+...............
+
+[Kid]
+Hellllllllloooooo?
+
+
+163 :
+
+{S2B204}
+[Y¤u]
+"This is bad. DANGER, DANGER! I'm putting 
+myself in danger of being dragged into lunacy 
+with you."
+
+
+164 :
+
+{S2B205}
+[Y¤u]
+Stupid... Stupid...
+
+
+165 :
+
+{S2B206}
+[Y¤u]
+Alright. I should be fine now.
+
+[Kid]
+...
+
+
+166 :
+
+{S2B207}
+[Y¤u]
+"Okay, okay. I see what you're saying. You're 
+saying that it was like the Tower of Babel, 
+right?"
+
+[Kid]
+Tower of Babel?
+
+
+{S2B208}
+[Y¤u]
+"In the old testament, in Genesis, there's 
+this story about this tower."
+
+
+{S2B209}
+[Y¤u]
+"In it, people are so proud of their 
+achievements that they build this super high 
+tower... this massive structure that almost 
+reached to heaven."
+
+
+{S2B210}
+[Y¤u]
+But God was angered by their behavior.
+
+
+{S2B211}
+[Y¤u]
+"God said, 'I will bring down their pride 
+together with the trickery of their hands. 
+They are impudent.'"
+
+
+{S2B212}
+[Y¤u]
+"So God took it upon himself to destroy the 
+tower, and the building stopped, and people 
+spread to all corners of the earth."
+
+
+{S2B213}
+[Y¤u]
+That's the story of the Tower of Babel.
+
+[Kid]
+Yeah. That's what I'm talking about.
+
+I nodded without stopping my work.
+
+
+167 :
+
+{S2B214}
+[Y¤u]
+"That would have to be the work of a god like 
+Shiva."
+
+[Kid]
+Shiva?
+
+
+{S2B215}
+[Y¤u]
+The god of destruction and creation.
+
+
+{S2B216}
+[Y¤u]
+"One of the main three Hindu gods. He has 
+more than a thousand names, four arms, four 
+faces, and three eyes."
+
+
+{S2B217}
+[Y¤u]
+"He destroys the world for the purpose of 
+creation..."
+
+
+{S2B218}
+[Y¤u]
+"The destruction is so thorough that in it is 
+contained the seeds or possibility of the next 
+generation."
+
+[Kid]
+"Kind of like starting from square one is 
+better than fixing something halfway?"
+
+
+168 :
+
+{S2B219}
+[Y¤u]
+Maybe.
+
+
+{S2B220}
+[Y¤u]
+"So if Lemuria had pissed off a god enough to 
+sink it into the ocean, then that god would 
+probably have demolished it."
+
+[Kid]
+Oh, I see...
+
+(A god that would purge the world of filth by
+destroying it...)
+
+(A god that damned people drunk with pride
+and forced rebirth...)
+
+
+169 :
+
+{S2B221}
+[Y¤u]
+"Look! You're slowing down. Hurry and 
+finish up."
+
+[Kid]
+I'm already done.
+
+I had finished putting in all of the screws.
+
+
+170 :
+
+{S2B222}
+[Y¤u]
+Next, tighten these bolts.
+
+I handed the screwdriver to her and took
+the wrench.
+
+Somewhere along the line, I had been put in
+charge of the work.
+
+
+171 :
+When Y¤u pointed the flashlight near me, I saw
+three bolts in the shape of a triangle.
+
+[Kid]
+Did you say that Shiva has three eyes?
+
+
+{S2B223}
+[Y¤u]
+Yup.
+
+[Kid]
+That means...
+
+
+172 :
+I put the wrench between my eyebrows.
+
+[Kid]
+He'd have another eye right here then?
+
+
+173 :
+
+{S2B224}
+[Y¤u]
+That's right.
+
+
+{S2B225}
+[Y¤u]
+"The light from that third eye burns all in 
+the world, purifying it."
+
+[Kid]
+Wow... That sounds pretty cool.
+
+I said that as I tightened the top bolt.
+
+[Kid]
+"But I bet a visit to the optometrist would 
+be a pain."
+
+
+174 :
+
+{S2B226}
+[Y¤u]
+"Well, you'd have to buy another lens, so the 
+optometrist would love it."
+
+I thought to myself that making the custom
+frame is what would cost a fortune.
+But I didn't dare say it.
+
+
+175 :
+
+{S2B227}
+[Y¤u]
+That's enough of that...
+
+
+176 :
+
+{S2B228}
+[Y¤u]
+"But the idea of a 'third eye' is not limited to 
+Shiva. It also exists in the world of Buddhism 
+and Yoga."
+
+
+{S2B229}
+[Y¤u]
+"Clairvoyance, telescopic vision, ghost sense, 
+the gift of the prophet, the power of seeing 
+the past or future..."
+
+
+{S2B230}
+[Y¤u]
+"There are a lot of explanations behind it. 
+Some say it's a gift from the gods, others 
+that you can acquire it from intensive 
+training. But what they all have in common is..."
+
+When the third eye opens, true wisdom is
+apparent, and all becomes visible.
+
+
+177 :
+
+{S2B231}
+[Y¤u]
+"They all have something to do with 
+transcending the realm of the human... Becoming 
+superhuman somehow."
+
+[Kid]
+Real wisdom...
+
+Muttering that, I turned to face the bolt again.
+
+
+178 :
+(If I had that, I'd be able to get back my
+memory... Yeah right...)
+
+[Kid]
+If there really is such a thing, I want one.
+
+
+179 :
+
+{S2B232}
+[Y¤u]
+You want what...? A third eye?
+
+[Kid]
+"Yeah. If I had one, maybe I could see my 
+past. And maybe I'd know who that girl is."
+
+[Y¤u]
+.........
+
+[Kid]
+Anyway, I'd like to see what it's like.
+
+
+180 :
+
+{S2B233}
+[Y¤u]
+You want to see?
+
+[Kid]
+Yeah. Maybe I could see something.
+
+
+181 :
+
+{S2B234}
+[Y¤u]
+Shall I give you a look then?
+
+[Kid]
+What?
+
+I looked up.
+
+And there...
+
+
+182 :
+Was Y¤u's face.
+
+(Wh-when did she get so close?)
+
+We were at a distance where could just about
+feel each other's breath.
+
+The tips of our noses just about touched.
+That was how close her face was.
+
+[Kid]
+Y-Y¤u...?
+
+
+183 :
+
+{S2B235}
+[Y¤u]
+You want to see, right?
+
+Y¤u stared me in the eye as she said that.
+
+[Kid]
+.........
+
+I couldn't speak. My legs shook.
+
+My heart was beating as fast as it would go.
+It felt like it would jump right out of
+my chest.
+
+
+184 :
+
+{S2B236}
+[Y¤u]
+Now, take a good look.
+
+Y¤u lifted up her bangs and placed her
+finger on her forehead.
+
+
+{S2B237}
+[Y¤u]
+Right here, isn't it?
+
+
+{S2B238}
+[Y¤u]
+The third eye...
+
+[Kid]
+.........
+
+On Y¤u's face...
+
+There was nothing.
+
+All I could think about was her nice skin and
+sweet smell.
+
+[Y¤u]
+.........
+
+[Kid]
+.........
+
+
+185 :
+
+{S2B239}
+[Y¤u]
+Ah! Hahahaha~
+
+
+186 :
+Y¤u grabbed her stomach, laughing.
+
+[Kid]
+Huh? What?
+
+
+{S2B240}
+[Y¤u]
+It's a JOKE! A JOKE!
+
+[Kid]
+What...?
+
+
+{S2B241}
+[Y¤u]
+Hahaha! That was too funny.
+
+
+{S2B242}
+[Y¤u]
+"Who else would take that completely 
+seriously... You're the best."
+
+[Kid]
+You're... You're so mean... Y¤u.
+
+[Kid]
+"You tease me even though you know how serious 
+I am."
+
+
+187 :
+
+{S2B243}
+[Y¤u]
+"Sorry! Oh, I'm sorry! But you keep saying one 
+bizarre thing after another, so I just 
+couldn't help playing a joke on you."
+
+
+188 :
+
+{S2B244}
+[Y¤u]
+"Besides, what I said wasn't really a lie 
+anyway."
+
+Saying that, Y¤u pointed to her forehead again.
+
+[Kid]
+What do you mean?
+
+
+189 :
+I wondered why we only had two eyes.
+
+Common knowledge had it that, physically, two
+eyes were enough for gauging the distance to
+a point or focusing on something.
+
+But what would it be like if we really used
+to have three eyes?
+
+{16:4}
+
+190 :
+Actually...
+
+The animal ancestors of vertebrates had three
+eyes.
+
+Early species of primitive reptiles...
+
+Like the tuatara lizard that still had a third
+eye on the top of its head.
+
+{16:4}
+
+191 :
+‡LThe third eye.
+
+{1}
+
+192 :
+The organ had a similar function to the
+eyeball and lay on the top of the head.
+
+That organ would be sensitive to the light of
+the outside world and control internal hormone
+secretion and balance based on light.
+
+An eye on the crest of one's head would stare
+straight up. It seemed safe to say that it
+would sense the difference in light between
+day and night.
+
+{16:4}
+
+
+
+193 :
+A right eye, a left eye, and one above...
+
+
+
+
+An eye on the top of the head to stare at the
+sky.
+
+Only we people and higher vertebrates had lost
+the third eye over a long process of
+evolution. It had been covered over by the
+cerebrum, and we lost our ability to sense
+light directly.
+
+Therefore, we had two light sensitive eyeballs,
+one on each side, instead.
+
+The lost third eye was called a 'pineal body'.
+
+{16:4}
+
+194 :
+It had functioned in the brain for eons and
+was responsible for secreting hormones that
+helped carve out our 24-hour rhythm.
+
+What we called our 'internal clocks' existed
+because of the pineal body.
+
+{16:4}
+
+195 :
+...That was essentially the rundown that Y¤u
+gave me as I was tightening the bolts.
+
+
+{S2B245}
+[Y¤u]
+"So the third eye, in terms of human anatomical 
+science, is really no big deal."
+
+
+{S2B246}
+[Y¤u]
+"It's just an organ we lost through 
+evolution..."
+
+[Kid]
+"You mean like an appendix or the webbing 
+between fingers?"
+
+
+{S2B247}
+[Y¤u]
+That's exactly what I mean.
+
+[Kid]
+I finished with the bolt.
+
+
+196 :
+
+{S2B248}
+[Y¤u]
+Okay. Well then, our work here is done.
+
+
+197 :
+
+{S2B249}
+[Y¤u]
+Oh... I'm tired.
+
+Y¤u stretched as she said that.
+
+I put both hands on my waist and stretched.
+
+We were both drenched in sweat.
+
+
+198 :
+[Kid]
+Hey, I was wondering...
+
+
+199 :
+
+{S2B250}
+[Y¤u]
+What?
+
+[Kid]
+"So that occult stuff that you were just 
+telling me about is for offensive purposes 
+too?"
+
+
+200 :
+
+{S2B251}
+[Y¤u]
+"Well... it's not really for offensive or 
+defensive use."
+
+
+201 :
+
+{S2B252}
+[Y¤u]
+It's just a load of useless knowledge.
+
+
+202 :
+
+{S2B253}
+[Y¤u]
+Still, I can't very well just throw it away.
+
+
+{S2B254}
+[Y¤u]
+"Maybe it's completely rooted itself into my 
+brain."
+
+[Kid]
+But you planted it there yourself, right?
+
+
+203 :
+
+{S2B255}
+[Y¤u]
+No way!
+
+
+204 :
+
+{S2B256}
+[Y¤u]
+My mom's the guilty one.
+
+[Kid]
+Your mom?
+
+
+205 :
+
+{S2B257}
+[Y¤u]
+Yes. My mom's an archaeological researcher.
+
+
+{S2B258}
+[Y¤u]
+"Apparently, she's an expert in the ancient 
+concept of the third eye..."
+
+
+{S2B259}
+[Y¤u]
+"Anyway, when I was little, she told me all 
+these third eye stories instead of 
+lullabies."
+
+[Kid]
+Wow...
+
+(Hmmm? The third eye?)
+
+How about that? I wondered if the third eye
+could be related to something.
+
+I thought I would ask about possible
+connections, but my mind and body were
+completely drained.
+
+(Oh well... I'll save it for next time.)
+
+
+206 :
+
+{S2B260}
+[Y¤u]
+I used to hate archaeology...
+
+Y¤u sighed as she said that.
+
+
+207 :
+
+{S2B261}
+[Y¤u]
+"But one day, I just woke up and found myself 
+in the archaeology department."
+
+[Kid]
+Like mother, like daughter?
+
+
+208 :
+
+{S2B262}
+[Y¤u]
+It's not that simple.
+
+Y¤u's shoulders slumped, and she let out a deep
+sigh again.
+
+
+209 :
+
+{S2B263}
+[Y¤u]
+It's like some kind of curse.
+
+
+210 :
+Soon after that, it looked like Takeshi and
+Sara had finished their work as well.
+
+Well, it had turned into an adventure, but at
+least we had finished the repairs.
+
+
+211 :
+It was just like Sara had said. The cause of
+the blackout was the opening of the safety
+valve due to the drop in air pressure.
+
+'When pressure from the steam becomes
+excessive, the valve automatically opens to
+release the gas and prevent damage.'
+
+'Normally, after a release of surplus gas, the
+valve is designed to shut naturally... but
+we're only at one atmosphere.'
+
+'Because the safety valve never closed, the
+steam continued leaking.'
+
+...Anyway, that was the gist of the
+explanation.
+
+
+212 :
+We left the generator room and went to the
+pipe room...
+
+
+213 :
+There, we opened the valve we had closed
+before the repairs...
+
+
+214 :
+And returned to the generator room.
+
+
+215 :
+
+{S2B264}
+[Takeshi]
+So should we try to fire it up?
+
+Takeshi whispered the question as we stood in
+front of the generator switch.
+
+
+{S2B265}
+[Takeshi]
+I'm turning it on.
+
+Sara, Y¤u, and I nodded silently.
+
+
+{S2B266}
+[Takeshi]
+You ready?
+
+[Kid]
+Just do it.
+
+
+216 :
+
+{S2B267}
+[Takeshi]
+Pipe down, Kid.
+
+
+217 :
+
+{S2B268}
+[Takeshi]
+Let's start the countdown...
+
+
+{S2B269}
+[Takeshi]
+50 seconds to...
+
+
+{S2B270}
+[Sara]
+Huh? From 50?
+
+
+{S2B271}
+[Takeshi]
+45 seconds to...
+
+Takeshi continued, ignoring her.
+
+
+{S2B272}
+[Y¤u]
+Kuranari, that's too long...
+
+
+{S2B273}
+[Takeshi]
+40... 39... 38...
+
+It was irritating.
+
+
+{S2B274}
+[Takeshi]
+37... 36... 35...
+
+So irritating...
+
+
+{S2B275}
+[Takeshi]
+34...
+
+
+218 :
+‡LClick.
+
+
+219 :
+All three of us except Takeshi pushed the
+button.
+
+
+220 :
+
+{S2B276}
+[Takeshi]
+"Hey! What're you doing? We still have 34 
+seconds to go!"
+
+[Kid]
+"Nobody wants to wait 34 seconds. Somebody had 
+to push it!"
+
+
+{S2B277}
+[Takeshi]
+"You guys can't even wait a little more than 
+a simple 30 seconds?"
+
+
+221 :
+
+{S2B278}
+[Y¤u]
+Why wait!?
+
+
+222 :
+
+{S2B279}
+[Takeshi]
+"This... This is kind of like a 
+ritual... Anyway, it's very important..."
+
+
+223 :
+The lights lit up all at once.
+
+The light poured down, illuminating even the
+corners of the room.
+
+It was like our field of vision had expanded
+in an instant.
+
+
+224 :
+
+{S2B280}
+[Sara]
+Seventeen...
+
+
+225 :
+
+{S2B281}
+[Takeshi]
+What?
+
+
+{S2B282}
+[Sara]
+"The lights came on with seventeen seconds left 
+in the countdown."
+
+
+226 :
+
+{S2B283}
+[Y¤u]
+What are you talking about?
+
+
+227 :
+
+{S2B284}
+[Sara]
+"You don't understand? The power came back on 
+with seventeen seconds left to count."
+
+[Kid]
+Oh, I see...
+
+I understood what she was saying.
+
+[Kid]
+"You mean if we would have pushed it at seventeen 
+seconds, it would have been just right?"
+
+
+228 :
+
+{S2B285}
+[Sara]
+Yeah.
+
+
+229 :
+
+{S2B286}
+[Y¤u]
+Ahaha! That would have been something.
+
+
+{S2B287}
+[Takeshi]
+Tsk.
+
+I wasn't sure if Takeshi was over his anger,
+but he shouldered the heavy toolbox and left
+the room.
+
+
+230 :
+We retraced our path until we were in front
+of the neutral buoyancy elevator.
+
+The frozen tuna's empty eyes were waiting
+for us.
+
+The elevator we had used coming down had
+already floated up to Zweiter Stock.
+
+But to the left... the floor display was lit
+up with a number three.
+
+
+231 :
+
+{S2B288}
+[Takeshi]
+Oh, this is heavy.
+
+Takeshi groaned as he put the toolbox on the
+floor of the elevator.
+
+
+232 :
+
+{S2B289}
+[Sara]
+You sound like an old man...
+
+
+233 :
+
+{S2B290}
+[Takeshi]
+Shut up. I AM an old man compared to you.
+
+
+234 :
+While they needled each other, I pushed the up
+button next to the door.
+
+The internal and external watertight doors had
+already sealed automatically.
+
+
+235 :
+We could hear air being sent into the ballast
+tank under the floor.
+
+Finally, the egg-shaped elevator...
+
+
+236 :
+...Didn't start to float up.
+
+
+237 :
+
+{S2B291}
+[Takeshi]
+Huh? Are you serious?
+
+The sound beneath the floor had stopped, and
+silence had returned.
+
+
+{S2B292}
+[Sara]
+Not again...
+
+
+238 :
+
+{S2B293}
+[Y¤u]
+"Why do we keep running into problem after 
+problem...?"
+
+
+239 :
+Knowing it was useless, I pushed the up button
+repeatedly.
+
+
+240 :
+Of course, Ei didn't budge at all.
+
+
+241 :
+[Kid]
+Alright, so what do we do...?
+
+Just as I said that...
+
+
+242 :
+A monitor just to the right of the round
+window flickered to life.
+
+
+{S2B294}
+[Sora]
+"Kuranari-san, Tanaka-san, Matsunaga-san,
+Kid-san."
+
+
+243 :
+
+{S2B295}
+[Takeshi]
+"Sora! Where have you been? We looked 
+everywhere for you!"
+
+
+{S2B296}
+[Sora]
+"I am terribly sorry. Please accept 
+my apologies."
+
+The image of Sora in the monitor bowed deeply.
+
+
+244 :
+
+{S2B297}
+[Y¤u]
+That's not important right now.
+
+
+245 :
+I didn't have any major suspicions about
+Sora's disappearance during the blackout.
+
+I knew that she was an RSD-generated image.
+
+
+246 :
+
+{S2B298}
+[Y¤u]
+Sora? So we fixed the generator?
+
+
+{S2B299}
+[Sora]
+It would appear so.
+
+
+{S2B300}
+[Sora]
+Thank you so much. Thank you...
+
+
+247 :
+
+{S2B301}
+[Takeshi]
+"I think you know this, but we're in this 
+egg... Uh, this Ei..."
+
+
+{S2B302}
+[Sora]
+Yes, I know.
+
+
+248 :
+
+{S2B303}
+[Sora]
+The Ei is not moving, correct?
+
+
+249 :
+
+{S2B304}
+[Sara]
+What should we do?
+
+
+{S2B305}
+[Sora]
+First, in regard to the cause...
+
+
+{S2B306}
+[Sora]
+"It is likely the result of a decrease in 
+internal air pressure that has made the 
+device incapable of sufficiently expelling 
+the seawater in the ballast tank."
+
+
+250 :
+
+{S2B307}
+[Sora]
+In other words...
+
+[Kid]
+You mean it isn't buoyant enough?
+
+
+251 :
+
+{S2B308}
+[Sora]
+Correct.
+
+
+{S2B309}
+[Sora]
+"There are a number of feasible methods for 
+making it rise, but..."
+
+
+252 :
+In the end, we decided to split into pairs to
+ride the elevator.
+
+In line with the principle of Archimedes... if
+the buoyancy was insufficient, we had to
+lighten the load.
+
+First, Sara and I got in Ei.
+
+
+253 :
+Sora and Tsugumi were waiting at Zweiter Stock.
+
+
+{S2B310}
+[Sora]
+Good work, you two.
+
+[Tsugumi]
+.........
+
+Sora beamed a welcoming smile at us.
+
+Tsugumi just stood there staring at Sara
+and me.
+
+
+254 :
+Next came Y¤u...
+
+And then the tuna took the elevator to
+return to our floor.
+
+
+255 :
+
+{S2B311}
+[Y¤u]
+This is... c-c-cold...
+
+
+256 :
+[Tsugumi]
+.........
+
+I noticed that when Tsugumi saw Y¤u cradling
+the frozen fish, she grinned for the first
+time.
+
+
+257 :
+Sora, on the other hand...
+
+
+258 :
+
+{S2B312}
+[Sora]
+A-a-are you alright!? Kuranari-san!
+
+...Sora ran up next to the fish in a panic.
+
+
+259 :
+
+{S2B313}
+[Sara]
+Uh, Nakkyu... You brought along the fish?
+
+
+260 :
+
+{S2B314}
+[Y¤u]
+"Of course. It's food, after all. Waste not, 
+want not, right?"
+
+
+261 :
+
+{S2B315}
+[Sora]
+"Forget that for now... More 
+importantly... Kuranari-san..."
+
+Sora was still flustered and babbling next
+to the fish.
+
+I wondered if she really thought that Takeshi
+had turned into a tuna.
+
+
+262 :
+
+{S2B316}
+[Sora]
+"This is all my fault... Oh my gosh! 
+What can I do?"
+
+
+263 :
+
+{S2B317}
+[Takeshi]
+Uh... I know you're occupied, but...
+
+
+264 :
+
+{S2B318}
+[Sora]
+Huh?
+
+
+265 :
+
+{S2B319}
+[Takeshi]
+"I think the question is more what should I 
+do."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

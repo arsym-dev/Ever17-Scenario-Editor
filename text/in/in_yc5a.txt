@@ -1,0 +1,4045 @@
+
+
+1 :
+
+{C5A000}
+[Y¤u]
+Fraternal twins!?
+
+Y¤u yelped right next to my ear.
+
+[Kid]
+"What are you so surprised about? Didn't I 
+tell you?"
+
+
+2 :
+
+{C5A001}
+[Y¤u]
+"Well, yeah, I'd heard that you and Mayo were 
+twins, but..."
+
+
+{C5A002}
+[Y¤u]
+"Nothing about fraternal, or identical, or 
+anything like that..."
+
+[Kid]
+Oh... but, bwahahahahaaa!
+
+I laughed without thinking.
+
+
+{C5A003}
+[Y¤u]
+Hm?
+
+Y¤u cocked her head.
+
+[Kid]
+Well, of course we're fraternal twins!
+
+[Kid]
+I mean, I'm a guy, and Sara's a girl...
+
+
+{C5A004}
+[Y¤u]
+So?
+
+[Kid]
+"Monozygotic is when one egg is fertilized, 
+and then that embryo splits into two."
+
+[Kid]
+"So both twins have the exact same genetic 
+makeup... That's why they're called identical, 
+because they look the same. And of course 
+they're the same gender."
+
+[Kid]
+"So, for identical twins, you can't have 
+anything other than two girls or two boys."
+
+[Kid]
+"But dizygotic, on the other hand... is when 
+two different eggs are fertilized by 
+different sperm."
+
+[Kid]
+"So they're two separate entities from the 
+beginning, each with a different genetic 
+makeup. That way, they may or may not be the 
+same gender."
+
+[Kid]
+They may not even look much alike.
+
+[Kid]
+They're basically just like other siblings.
+
+[Kid]
+"So they're more like siblings who happened 
+to be in their mother's body and get born 
+about the same time."
+
+
+{C5A005}
+[Y¤u]
+Hmmm. I get it...
+
+
+{C5A006}
+[Y¤u]
+"So... if a boy and a girl are twins... they 
+have to be fraternal, not identical?"
+
+[Kid]
+Exactly.
+
+
+{C5A007}
+[Y¤u]
+Hmmm.
+
+
+3 :
+
+{C5A008}
+[Y¤u]
+...So... what were we talking about again?
+
+[Kid]
+You forgot?
+
+
+4 :
+
+{C5A009}
+[Y¤u]
+Um, ummmm, well...
+
+[Kid]
+It started when you said something like...
+
+[Kid]
+'So Mayo and you are twins...'
+
+[Kid]
+"'But you aren't any good at computers like 
+Mayo is.'"
+
+[Kid]
+"'In fact, you've got absolutely no aptitude 
+for them. Why is that?'"
+
+[Kid]
+And then I said...
+
+[Kid]
+'Because we're fraternal twins.'
+
+
+5 :
+
+{C5A010}
+[Y¤u]
+Ohh! Righhht! I remember now!
+
+Y¤u flailed her limbs around on top of the
+ruins.
+
+That was right, Y¤u and I were on the top of the
+Lemurian Ruins.
+
+[Kid]
+So after all that, do you get it?
+
+
+{C5A011}
+[Y¤u]
+...Huh? Get what?
+
+She paused in her flailing.
+
+[Kid]
+The reason I'm not good at computers.
+
+
+{C5A012}
+[Y¤u]
+Oh, that... It's like this, right?
+
+
+{C5A013}
+[Y¤u]
+"Because you and Mayo are as different from 
+one another as any other siblings..."
+
+
+{C5A014}
+[Y¤u]
+"Unlike identical twins, your genetic 
+strengths, characters, or whatever are 
+completely different."
+
+[Kid]
+Right.
+
+[Kid]
+"I'd say that our 'infrared vision' is the 
+only inherited trait that we even share."
+
+[Kid]
+"Aside from that, I don't think we're very 
+much alike."
+
+
+{C5A015}
+[Y¤u]
+Hmmm...
+
+
+{C5A016}
+[Y¤u]
+"...So... what were we talking about before 
+that?"
+
+[Kid]
+Ah...
+
+I sighed and started explaining.
+
+
+6 :
+But before that, I needed to explain what
+Y¤u and I were doing there.
+
+It went back to that afternoon... (before I
+knew my real name).
+
+Sora came out with some information rather
+abruptly.
+
+
+{C5A017}
+[Sora]
+"Tanaka Yoichi-san passed away seventeen years 
+ago."
+
+
+{C5A018}
+[Sora]
+"Tanaka Yukie-san passed away fifteen years ago 
+as well."
+
+'Yoichi-san' was Y¤u's father, and 'Yukie-san' was her
+mother.
+
+Both of Y¤u's parents had passed away.
+
+It was, unfortunately, a fact.
+
+There was proof, including dated mail and
+other files.
+
+I had seen them with my own eyes.
+
+But Y¤u still wasn't convinced.
+
+In her heart, she still believed that her
+father was alive.
+
+Of course, regarding her mother, she was even
+more vehement.
+
+
+{C5A019}
+[Y¤u]
+But my mother works at LeMU.
+
+
+{C5A020}
+[Y¤u]
+"We were living together until right before 
+all of this happened."
+
+
+{C5A021}
+[Y¤u]
+There's no way she died fifteen years ago...
+
+It was hard to know what to say... but I
+said...
+
+[Kid]
+Maybe she wasn't your real mother.
+
+[Kid]
+Meaning she might not even be Yukie-san...
+
+Y¤u was shaking her head back and forth as if
+to say, 'Impossible.'
+
+After a while, Y¤u spoke as if in a dream.
+
+
+{C5A022}
+[Y¤u]
+Aahhh...
+
+
+{C5A023}
+[Y¤u]
+If only I could hack into there...
+
+
+{C5A024}
+[Y¤u]
+"Then I could find out details, get the whole 
+story..."
+
+The 'there' she meant was LeMMIH's high
+security data.
+
+All afternoon and into the night, she had
+tried to hack her way in but kept getting
+rejected at the confirmation point.
+
+She knew the password.
+
+'The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me'.
+
+She kept trying different variations: caps,
+lowercase, varying widths, English, German...
+
+
+She enlisted Sora and Sara's help, and they
+tried every possibility they could think
+of... but all to no avail.
+
+LeMMIH had built a high, impenetrable castle,
+and Y¤u was turned back again and again right
+at the gates.
+
+She was stricken with frustration and grief...
+
+Finally, exhausted and at a loss, she found
+her way over to the Lemurian Ruins.
+
+.........
+
+By the time I spotted her, she had climbed
+all the way to the top.
+
+I sat down beside her. Neither of us spoke.
+
+
+But from time to time, Y¤u would let out a
+sigh like she had thought of something.
+
+Time passed slowly...
+
+
+{C5A025}
+[Y¤u]
+Listen, Kid, you get premonitions, right?
+
+After about the 153rd sigh, Y¤u suddenly came
+out with that question.
+
+
+{C5A026}
+[Y¤u]
+Can you see anything about my parents?
+
+[Kid]
+"Well, you know... premonitions... aren't the 
+same as seeing into the past..."
+
+[Kid]
+"And you're talking about fifteen and seventeen 
+years ago..."
+
+[Kid]
+"When I was only one, or not even born yet. 
+Either way, there's no way I can look that 
+far into the past."
+
+
+{C5A027}
+[Y¤u]
+You're totally useless...
+
+
+{C5A028}
+[Y¤u]
+"Even when Sora and Mayo were killing 
+themselves helping me, you were just sitting 
+there spaced out."
+
+[Kid]
+.........
+
+
+{C5A029}
+[Y¤u]
+Hey, that reminds me...
+
+
+{C5A030}
+[Y¤u]
+You and Mayo are twins, right?
+
+
+{C5A031}
+[Y¤u]
+"But you're not good with computers the way 
+she is."
+
+
+{C5A032}
+[Y¤u]
+"In fact, you don't have any aptitude with 
+them at all. Why is that?"
+
+
+7 :
+[Kid]
+That's when I answered.
+
+[Kid]
+I said, 'Because we're fraternal twins'.
+
+
+{C5A033}
+[Y¤u]
+Whoah! Banana, banaaaaana!
+
+
+{C5A034}
+[Y¤u]
+"I remember now... cow cow cow cow... 
+rememberember, cow cow cow now..."
+
+
+{C5A035}
+[Y¤u]
+Cow cow cow cow, NOW I rememberember!
+
+Y¤u appeared to be malfunctioning.
+
+The harsh reality of things must have been
+too cruel for her to bear...
+
+When Sora first told her, Y¤u went hysterical,
+almost crazy, and then burst into a sobbing
+fit like a child.
+
+Maybe she had cried herself out. Because,
+since then, she had seemed much calmer.
+
+But then...
+
+
+{C5A036}
+[Y¤u]
+Apo, apo, a pineappo?
+
+She was in bad shape.
+
+[Kid]
+Y¤u? Are you okay?
+
+
+{C5A037}
+[Y¤u]
+Wazzat?
+
+[Kid]
+"Uh, maybe you're a little 
+psychologically strained?"
+
+
+{C5A038}
+[Y¤u]
+No waaaay, I'm fine!
+
+
+{C5A039}
+[Y¤u]
+I'm starting over from here.
+
+
+{C5A040}
+[Y¤u]
+No point in moping, right?
+
+[Kid]
+.........
+
+
+{C5A041}
+[Y¤u]
+Enough about me, how about you, Hokutan?
+
+[Kid]
+Ho-Hokutan!?
+
+
+{C5A042}
+[Y¤u]
+Your name's Hokuto, right...? So... Hokutan.
+
+[Kid]
+Cut it out, don't call me that.
+
+
+{C5A043}
+[Y¤u]
+Why not?
+
+[Kid]
+"I... still can't think of myself as a 
+'Hokuto'."
+
+[Kid]
+"If I was walking down the street and someone 
+called out, 'Hokuto!'..."
+
+[Kid]
+"I wouldn't turn around. In fact, I don't think 
+I COULD."
+
+[Kid]
+"It wouldn't seem like they were calling out 
+to ME..."
+
+
+{C5A044}
+[Y¤u]
+"Well, even if that's what you think, that's 
+just too bad."
+
+
+{C5A045}
+[Y¤u]
+"Your name is 'Hokuto' until you die, and you're 
+just going to have to live with that."
+
+[Kid]
+But...
+
+[Kid]
+"If nothing else, I don't want you guys here 
+to call me 'Hokuto'."
+
+[Kid]
+"I'm used to being called 'Kid', and you guys 
+are used to it too, right?"
+
+[Kid]
+"You can't just switch in the middle like 
+that."
+
+
+{C5A046}
+[Y¤u]
+Well, I suppose, but still...
+
+
+{C5A047}
+[Y¤u]
+You really want to stay 'Kid'?
+
+[Kid]
+Yeah, that's fine.
+
+I told her how I felt.
+
+
+{C5A048}
+[Y¤u]
+You really hate 'Hokuto' that much?
+
+[Kid]
+Listen! For the millionth time...
+
+[Kid]
+I just don't think that 'Hokuto' is MY name...
+
+[Kid]
+"It's got nothing to do with liking or 
+disliking the name."
+
+
+{C5A049}
+[Y¤u]
+Reeeally...
+
+[Kid]
+"Look, I said this when we were talking about 
+Ling Ling and Lang Lang, but..."
+
+[Kid]
+I really don't care what my name is.
+
+[Kid]
+"I'm not fussy, and I'm certainly not attached 
+to it."
+
+
+{C5A050}
+[Y¤u]
+But you can't NOT care at all.
+
+
+{C5A051}
+[Y¤u]
+"Whether you like it or not, a name is like a 
+billboard for who you are."
+
+
+{C5A052}
+[Y¤u]
+"If you're going to live in a society, you'll 
+need a name eventually."
+
+
+{C5A053}
+[Y¤u]
+"I mean, any time that you make a contract, 
+or apply for something, take an exam, or 
+get arrested..."
+
+
+{C5A054}
+[Y¤u]
+"Whatever you say, your name is the most 
+important way to verify who you are."
+
+
+{C5A055}
+[Y¤u]
+Names are like ID numbers for people.
+
+[Kid]
+Identification...
+
+
+8 :
+The word just slipped out.
+
+And then!
+
+
+9 :
+
+{C5A056}
+[Y¤u]
+What!? What'd you just say!?
+
+Y¤u grabbed the back of my head and pulled my
+face toward hers.
+
+[Kid]
+Wha-wha-wha-what...?
+
+
+{C5A057}
+[Y¤u]
+"Just then! Just now! Now, now, now! Kid, 
+what did you just say!?"
+
+[Kid]
+I didn't say anything...
+
+[Kid]
+I just repeated back what you were saying...
+
+Y¤u leveled a determined glare at me.
+
+
+She raised her finger and twirled it like a
+magic wand.
+
+She breathed in through her nose.
+
+I thought she was going to exhale, but
+she continued to take one long breath in.
+
+I covered my ears.
+
+She grabbed my hands and pulled them away
+from my ears.
+
+And then...
+
+With all the air she had just sucked in, she
+let loose right next to me.
+
+
+10 :
+
+{C5A058}
+[Y¤u]
+I've GOT it!
+
+She grinned loosely.
+
+[Kid]
+?
+
+I just kept blinking at her.
+
+And then...
+
+
+{C5A059}
+[Y¤u]
+"I gawt it, I gawt it, I got it got it got 
+it~"
+
+
+{C5A060}
+[Y¤u]
+<I see, I see>, I sincerely LOVE you! Smooooch~
+
+Suddenly, out of the blue and with no
+warning‡Lshe kissed my cheek.
+
+A perfect hit.
+
+I was a little... giddy...
+
+
+{C5A061}
+[Y¤u]
+Well, hurry up, ask me!
+
+[Kid]
+...Ask?
+
+
+{C5A062}
+[Y¤u]
+"Come on, ask me, 'Hey, Y¤u, what did you 
+figure out?'"
+
+I did as I was told.
+
+[Kid]
+Hey, Y¤u, what did you figure out?
+
+
+{C5A063}
+[Y¤u]
+Funny you should ask, Kid!
+
+
+{C5A064}
+[Y¤u]
+"You see, you know the reason we couldn't get 
+past the confirmation on LeMMIH? I figured 
+it out!"
+
+[Kid]
+?
+
+
+{C5A065}
+[Y¤u]
+"All this time, we thought we had the password 
+wrong. Right?"
+
+
+{C5A066}
+[Y¤u]
+But that wasn't it.
+
+
+{C5A067}
+[Y¤u]
+The password is probably fine.
+
+
+{C5A068}
+[Y¤u]
+The empty fall sky{1}A single cuckoo calls out{1}Brings a chill to me'.
+
+[Kid]
+Huh? What do you mean?
+
+
+{C5A069}
+[Y¤u]
+So, it's gotta be this...
+
+
+{C5A070}
+[Y¤u]
+"It wasn't the password we had wrong... it was 
+the username."
+
+[Kid]
+Username?
+
+
+{C5A071}
+[Y¤u]
+Yup.
+
+
+{C5A072}
+[Y¤u]
+"A name is like an identification number for a 
+person... It's what confirms who you are..."
+
+
+{C5A073}
+[Y¤u]
+"So, if we had the name wrong, it wouldn't 
+matter how perfectly we put the password in."
+
+'Access denied. Invalid name or password.'
+
+I had seen that message umpteen times.
+
+
+{C5A074}
+[Y¤u]
+"If you were right, and the mother I know 
+isn't really my mother..."
+
+
+{C5A075}
+[Y¤u]
+It means her real name isn't 'Tanaka Yukie'.
+
+
+{C5A076}
+[Y¤u]
+Which would mean...?
+
+[Kid]
+"If you just knew her real name, you could 
+clear LeMMIH's confirmation?"
+
+
+{C5A077}
+[Y¤u]
+Exactly!
+
+Y¤u tapped my forehead.
+
+[Kid]
+But... how will you figure out her real name?
+
+
+{C5A078}
+[Y¤u]
+Well...
+
+
+{C5A079}
+[Y¤u]
+Sora ought to know, right?
+
+Before I could say, 'Sora?', Y¤u had grabbed my
+arms.
+
+A second later...
+
+
+{C5A080}
+[Y¤u]
+Aaaaiii!
+
+She jumped down off the ruins with a great cry.
+
+
+11 :
+Pulled off balance, I flew clumsily through
+the air.
+
+
+12 :
+‡LBam!
+
+I nearly toppled onto my head but managed to
+right myself like a cat and landed safely.
+
+My own excellent reflexes impressed me.
+
+As for Y¤u...
+
+She was sprawled on her belly in a puddle,
+arms and legs spread awkwardly.
+
+[Kid]
+Y¤u? Y¤u! You okay?
+
+When I called her name, Y¤u hopped up.
+
+
+13 :
+Water dripped from her hair.
+
+
+She was soaked from head to toe.
+
+
+{C5A081}
+[Y¤u]
+Well, don't just stand there, let's go!
+
+She spoke calmly.
+
+
+14 :
+Flinging off water, she headed toward the exit.
+
+From the back, she looked completely dry.
+
+
+15 :
+.........
+
+......
+
+...
+
+I stood for a minute in front of the gates of
+the Lemurian Ruins, just thinking.
+
+
+{C5A074}
+[Y¤u]
+"If you were right, and the mother I know 
+isn't really my mother..."
+
+
+{C5A075}
+[Y¤u]
+It means her real name isn't 'Tanaka Yukie'.
+
+So what was her name then...?
+
+Name... Name... Name...
+
+Y¤u's real name was Yubiseiakikana...
+
+
+16 :
+[Kid]
+...Aki?
+
+Aki... Autumn... Autumn...
+
+'The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me'.
+
+I broke it down by character.
+Empty... Fall... Sky... Single...
+Cuckoo... Calling... Brings... Chill...
+
+A jumble of bits and illogical fragments.
+
+I tried to form them into a coherent pattern,
+but they slipped away.
+
+I couldn't grasp them.
+
+But I couldn't help but feel that I had
+brushed up against another premonition, or at
+least an intuition...
+
+It was a haiku. Seventeen syllables.
+
+I muttered it out loud.
+
+[Kid]
+"The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me."
+
+[Kid]
+"The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me."
+
+It was then...
+
+Someone was standing in the darkness beyond
+the entrance to the ruins.
+
+A human figure...
+
+A female...
+
+Her body was giving off heat, glowing redder
+than red.
+
+I couldn't see her face.
+
+I could just see that she was there.
+
+She was holding her breath in the darkness,
+staring at me.
+
+[Kid]
+Wh-who are you!?
+
+She didn't answer.
+
+She didn't come any closer, but she didn't
+seem like she was going to run.
+
+The figure bathed in light looked like she
+might be a ghost.
+
+A ghost...
+
+A phantom girl...
+
+
+{C5A082}
+[???]
+Hokuto...
+
+I heard a tiny voice.
+
+'Hokuto'... My name...
+
+Was she calling to me...?
+
+
+{C5A083}
+[???]
+Hokuto...
+
+Fearfully, I went a little closer.
+
+The darkness grew deeper.
+
+And at the same time, the light she gave off
+grew more brilliant.
+
+Her outline sprang into view.
+
+It had to be...
+
+She... She was... the ghost... I had seen...
+
+
+{C5A084}
+[???]
+"The empty fall sky{1}
+A lone Hokuto calls out{1}
+Brings a chill to me."
+
+
+17 :
+
+{C5A085}
+[£o¢o]
+"The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me."
+
+[Takeshi]
+...Huh?
+
+
+18 :
+
+{C5A086}
+[£o¢o]
+Hm?
+
+[Takeshi]
+What did you just say?
+
+
+{C5A087}
+[£o¢o]
+"The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me?"
+
+[Takeshi]
+What is that...?
+
+[Takeshi]
+Is that some haiku?
+
+
+{C5A088}
+[£o¢o]
+Yeah.
+
+[Takeshi]
+Why a haiku all of a sudden...?
+
+
+19 :
+
+{C5A089}
+[£o¢o]
+Don't you think it's elegant?
+
+[Takeshi]
+Elegant?
+
+
+{C5A090}
+[£o¢o]
+Refined, isn't it?
+
+[Takeshi]
+Refined?
+
+
+20 :
+
+{C5A091}
+[£o¢o]
+"Japanese people a long time ago just 
+started making up haiku one day."
+
+
+{C5A092}
+[£o¢o]
+So you see...
+
+
+21 :
+
+{C5A093}
+[£o¢o]
+"The haiku helped them to forget their 
+everyday worries and gave them lots of 
+graceful and happy, happy feelings."
+
+[Takeshi]
+Oho... Is that so...?
+
+
+{C5A094}
+[£o¢o]
+Oho, yes it is.
+
+[Takeshi]
+"But listen, £o¢o... It's not once upon a time 
+right now, and..."
+
+[Takeshi]
+"You kind of threw me off guard with your 
+haiku-making there."
+
+
+22 :
+
+{C5A095}
+[£o¢o]
+Well I can't help it.
+
+[Takeshi]
+What do you mean you can't help it?
+
+
+{C5A096}
+[£o¢o]
+I wasn't talking to you.
+
+[Takeshi]
+What?
+
+
+{C5A097}
+[£o¢o]
+"I was talking to a life form from another 
+dimension."
+
+[Takeshi]
+A-another dimension!?
+
+
+23 :
+
+{C5A098}
+[£o¢o]
+Well, yeah?
+
+Apparently, £o¢o was radiating microwaves.
+
+
+Oh, my head... My head...
+
+I could feel my brain start to melt and
+come out of my nose...
+
+‡LWhat!? Wait a minute!
+
+My brain couldn't be coming out of my nose!
+
+I rubbed my nose with my finger.
+
+Something sticky and viscous was stuck to my
+finger. It was bright yellow.
+
+[Takeshi]
+Craaaaaaaaaaaap!
+
+[Takeshi]
+"Crap, crap, my brain, my brain, my brain 
+is meltiiiing!"
+
+
+24 :
+
+{C5A099}
+[£o¢o]
+Kyahahahaha~
+
+[Takeshi]
+Shut up, it's not funny, stupiiid!
+
+[Takeshi]
+"It's your fault, it's your fault, that my 
+brain, my brain..."
+
+
+{C5A100}
+[£o¢o]
+Neeeeheeeheeee!
+
+£o¢o was stamping her feet, grabbing her
+belly, and laughing uproariously.
+
+(Hey... Actually...)
+
+
+25 :
+It had all happened 30 minutes earlier.
+
+
+{C5A101}
+[£o¢o]
+Hey, Takepyon, Takepyon~
+
+
+{C5A102}
+[£o¢o]
+Wake up~
+
+
+{C5A103}
+[£o¢o]
+I can't go to sleep~
+
+
+{C5A104}
+[£o¢o]
+Come play with me~
+
+While saying that...
+
+She was shaking me, grasping my eyelids, and
+dropping in 'mermaid tears', as well as squirting
+mustard up my nose.
+
+Giving in to her dogged persistence, I
+reluctantly decided to keep her company.
+
+
+26 :
+Which meant... it wasn't brain soup...
+
+[Takeshi]
+It's mustard.
+
+
+27 :
+
+{C5A105}
+[£o¢o]
+Bwaahaaahyahyahyahya~
+
+£o¢o toppled over, right into a puddle.
+
+Splashing the water around, she kept laughing
+and rolling back and forth.
+
+[Takeshi]
+Damn it!
+
+[Takeshi]
+£o¢o, don't you have a tissue?
+
+
+28 :
+
+{C5A106}
+[£o¢o]
+I have a ha-ha-ha-handkerchief!
+
+She pulled a handkerchief out of her pocket
+and fluttered it at me.
+
+The handkerchief was soaked, and drops of
+water dripped from it.
+
+
+29 :
+I blew my nose into it mightily.
+
+I blew until I blew out everything there was
+to blow.
+
+[Takeshi]
+Whew, that's better.
+
+I balled it up and gave it back to £o¢o.
+
+She carefully folded it up and put it back in
+her pocket.
+
+I thought‡L'You're actually putting that
+back!?'‡Lbut held my tongue.
+
+[Takeshi]
+...So...? What were we talking about?
+
+
+30 :
+
+{C5A107}
+[£o¢o]
+About caterpillar crawling, crawling.
+
+[Takeshi]
+No we weren't!
+
+
+31 :
+
+{C5A108}
+[£o¢o]
+Caterpillar, caterpillar, crawly crawly caterpillar~
+
+
+{C5A109}
+[£o¢o]
+Caterpillar, caterpillar, boop boop de boop~
+
+£o¢o began crawling along the floor flat on her
+belly.
+
+I didn't say a word...
+
+
+32 :
+
+{C5A110}
+[£o¢o]
+Hey Takepyon, Takepyon!
+
+[Takeshi]
+I'm not playing caterpillar with you!
+
+
+33 :
+
+{C5A111}
+[£o¢o]
+What!? Why not!?
+
+[Takeshi]
+I'm just not.
+
+
+34 :
+
+{C5A112}
+[£o¢o]
+No no no no no no!
+
+
+{C5A113}
+[£o¢o]
+I wanna crawly, I wanna crawlypillar!
+
+£o¢o splashed at the water.
+
+(I went through this last night...)
+
+
+'There's NO way I'm making the same mistake
+today'‡LI swore that to myself.
+
+[Takeshi]
+I'm going to bed.
+
+
+35 :
+
+{C5A114}
+[£o¢o]
+Whaaat!?
+
+She jumped up.
+
+And clung to me, sopping wet.
+
+
+{C5A115}
+[£o¢o]
+No! I won't let you sleep!
+
+[Takeshi]
+£o¢o, I'm sleeping whether you let me or not.
+
+
+36 :
+
+{C5A116}
+[£o¢o]
+Why are you being so mean...?
+
+[Takeshi]
+You're the one being mean, £o¢o.
+
+
+{C5A117}
+[£o¢o]
+Oo... Oooo...
+
+
+37 :
+
+{C5A118}
+[£o¢o]
+"Takepyon... Takepyon... is just gonna abandon 
+poor little £o¢o?"
+
+
+{C5A119}
+[£o¢o]
+I'll be all alone...
+
+
+{C5A120}
+[£o¢o]
+Lonely... So lonely...
+
+[Takeshi]
+Why are you being like this...?
+
+[Takeshi]
+Why don't you come sleep too?
+
+
+38 :
+
+{C5A121}
+[£o¢o]
+With you...?
+
+
+{C5A122}
+[£o¢o]
+You'll come snuggle with me?
+
+[Takeshi]
+.........
+
+[£o¢o]
+.........
+
+[Takeshi]
+..................
+
+[£o¢o]
+..................
+
+[Takeshi]
+I don't think so.
+
+
+39 :
+
+{C5A123}
+[£o¢o]
+"Well, well, will you at least sing me a 
+lullaby?"
+
+[Takeshi]
+A lullaby?
+
+[Takeshi]
+Oh, you mean... that one you sang before?
+
+
+40 :
+
+{C5A124}
+[£o¢o]
+Yup~
+
+[Takeshi]
+Well, I don't mind singing, but...
+
+[Takeshi]
+I don't remember the words or the tune.
+
+
+41 :
+
+{C5A125}
+[£o¢o]
+That's okay.
+
+
+{C5A126}
+[£o¢o]
+It's easy, you'll learn it right away.
+
+
+42 :
+With that said...
+
+She burst into song abruptly.
+
+
+43 :
+
+{C5A127}
+[£o¢o]
+Moon sprite... shouldering a long bow...
+
+
+{C5A128}
+[£o¢o]
+Waiting... inside a dream...
+
+
+44 :
+
+{C5A129}
+[£o¢o]
+Tonight... a story by moonlight...
+
+
+{C5A130}
+[£o¢o]
+Hoping the wait... will be short...
+
+
+{C5A131}
+[£o¢o]
+Sleeping... curled and snug...
+
+
+{C5A132}
+[£o¢o]
+Sleeping... in mother's arms...
+
+
+45 :
+
+{C5A133}
+[£o¢o]
+Water sprite... lifting a pair of paddles...
+
+
+{C5A134}
+[£o¢o]
+Waiting... inside a dream...
+
+
+{C5A135}
+[£o¢o]
+"Tonight, the whirlpool demon... 
+waiting for a boat..."
+
+
+{C5A136}
+[£o¢o]
+Hoping the wait... will be short...
+
+
+{C5A137}
+[£o¢o]
+Rock, rock, rocked... to sleep...
+
+
+{C5A138}
+[£o¢o]
+Sleeping, sleeping... held by the ocean...
+
+
+46 :
+What was it...?
+
+As soon as I heard £o¢o's lullaby, I felt a
+wondrous tranquility.
+
+I felt a tickle in my chest, like someone had
+blown lightly on me.
+
+That breath blew away all the dust and dirt
+that had built up inside me, and it revealed
+precious feelings I had thought lost long ago.
+
+Precious wonder... like the vastness of the
+sky, as it seemed to me when I was a little
+child, or the deep blue waves, or the
+fragrance at twilight...
+
+Back then, I thought the ocean went on
+forever, and I was transfixed by the perfect
+beauty of the moon.
+
+For better or for worse, a delightfully sweet
+time...
+
+£o¢o's lullaby called up a sentimental mood
+in me.
+
+Lost in its sweet fragrance, I made the
+mistake of drowning in it.
+
+[Takeshi]
+What a good song...
+
+
+{C5A139}
+[£o¢o]
+Ehe~
+
+[Takeshi]
+What's it called?
+
+
+47 :
+
+{C5A140}
+[£o¢o]
+Who knows? I don't know its name...
+
+
+{C5A141}
+[£o¢o]
+"But I just call it the Moon and Ocean 
+Lullaby."
+
+[Takeshi]
+Moon and ocean?
+
+[Takeshi]
+"But don't the verses start with 'moon sprite' 
+and 'water sprite'?"
+
+
+{C5A142}
+[£o¢o]
+Mm-hmmm.
+
+[Takeshi]
+"So shouldn't it be the Moon and Water 
+Lullaby?"
+
+
+{C5A143}
+[£o¢o]
+Ummm...
+
+
+{C5A144}
+[£o¢o]
+"But at the end of the second verse, it says 
+'held by the ocean', right?"
+
+[Takeshi]
+Oh, that's true...
+
+
+{C5A145}
+[£o¢o]
+And... my mommy taught me this lullaby...
+
+
+{C5A146}
+[£o¢o]
+So... it's called 'The Moon and Ocean Lullaby'.
+
+[Takeshi]
+What?
+
+What was the connection between her mom and
+the moon and ocean?
+
+‡LWhat!?
+
+Mommy!? Moon and sea!?
+
+Did that mean...
+
+[Takeshi]
+When you say mommy...
+
+
+{C5A147}
+[£o¢o]
+Right. Tsugumin.
+
+
+{C5A148}
+[£o¢o]
+Tsugumin...
+
+
+48 :
+
+{C5A149}
+[£o¢o]
+She would sing it to me.
+
+[Kid]
+Tsu-Tsugumi!?
+
+[Kid]
+That's... crazy...
+
+[Kid]
+That's impossible!
+
+[Kid]
+"Because... no one knows that lullaby except Sara 
+and me..."
+
+
+49 :
+
+{C5A150}
+[£o¢o]
+Hahahahaha~
+
+[Kid]
+Why...? Why... are you laughing?
+
+
+50 :
+
+{C5A151}
+[£o¢o]
+"Hokutan? Don't you think it's strange, what 
+you're saying?"
+
+[Kid]
+What!?
+
+
+{C5A152}
+[£o¢o]
+Right now, you're a little confused.
+
+
+{C5A153}
+[£o¢o]
+So you showed your true self for a minute.
+
+
+{C5A154}
+[£o¢o]
+"The real you decided to poke his face out 
+for a teensy-weensy second."
+
+[Kid]
+?
+
+
+{C5A155}
+[£o¢o]
+Listen, Hokutan. Think about it.
+
+
+{C5A156}
+[£o¢o]
+"It's not really that strange for Tsugumin to 
+know that lullaby, right?"
+
+
+{C5A157}
+[£o¢o]
+"Mayo-chan could have just taught it to Tsugumin, 
+right?"
+
+
+{C5A158}
+[£o¢o]
+And then Tsugumin taught it to me...
+
+[Kid]
+That's not possible!
+
+
+{C5A159}
+[£o¢o]
+What makes you say that?
+
+[Kid]
+Because... Because...
+
+
+{C5A160}
+[£o¢o]
+Maybe you can't answer that?
+
+[Kid]
+.........
+
+
+{C5A161}
+[£o¢o]
+Well then, I'll just answer for you.
+
+
+{C5A162}
+[£o¢o]
+"You see, Hokutan, you know that Mayo-chan doesn't 
+exist in the world I live in."
+
+
+{C5A163}
+[£o¢o]
+That's why you just said, 'That's not possible!'
+
+
+{C5A164}
+[£o¢o]
+"And that's the reason you thought that there 
+was no way that Tsugumin could know that song."
+
+
+{C5A165}
+[£o¢o]
+Right?
+
+[Kid]
+What!? What!? What!?
+
+
+{C5A166}
+[£o¢o]
+It's okay, you don't have to be scared!
+
+
+{C5A167}
+[£o¢o]
+Just be honest with your feelings, okay?
+
+
+{C5A168}
+[£o¢o]
+There's no reason for you to lie anymore.
+
+I was getting more and more confused.
+
+I was being gobbled up by one problem after
+another, being chewed up for sport, and I
+felt like I was losing myself.
+
+I squeezed my eyes shut, took a big breath,
+and tried to maintain a grip on reality.
+
+I opened my eyes, stared at £o¢o, and asked...
+
+[Kid]
+"Um... 'The world I live in'... What does that 
+mean?"
+
+
+51 :
+
+{C5A169}
+[£o¢o]
+See now, there you go, lying again~
+
+
+52 :
+
+{C5A170}
+[£o¢o]
+You know aaaaall about the world I'm in, right?
+
+
+{C5A171}
+[£o¢o]
+"Mayo-chan's not there, and Tsugumin got hurt,
+and there's another you with a different face..."
+
+
+{C5A172}
+[£o¢o]
+You know ALL that stuff.
+
+The world £o¢o was in...
+
+Another self...
+
+Tsugumi injured...
+
+Where there was no Sara...
+
+...What...? A world without Sara?
+
+[Kid]
+"That's right! Hang on! Why do you know 
+about Sara!?"
+
+
+53 :
+
+{C5A173}
+[£o¢o]
+"Hm? Are you fiiiinally ready to come clean, 
+hmmm?"
+
+
+{C5A174}
+[£o¢o]
+Okay then, I'll tell you.
+
+
+54 :
+
+{C5A175}
+[£o¢o]
+It's because... I know everything.
+
+
+{C5A176}
+[£o¢o]
+I know everything, so I know about Mayo-chan.
+
+
+{C5A177}
+[£o¢o]
+And the reason for that is... I have ESP.
+
+
+55 :
+
+{C5A178}
+[£o¢o]
+Uheeheeheehee~
+
+[Kid]
+Stop trying to mess with me!
+
+
+{C5A179}
+[£o¢o]
+I'm not... It's true!
+
+
+56 :
+
+{C5A180}
+[£o¢o]
+"Okay, lemme ask you a question then. Hokutan,
+how come you know about me? Why DID 
+you know about me?"
+
+
+{C5A181}
+[£o¢o]
+"That first time, when we met in the 
+decompression chamber, you said my name, 
+didn't you? And why would that be?"
+
+[Kid]
+"It was... sort of like a premonition, an 
+insight..."
+
+
+{C5A182}
+[£o¢o]
+Uh-hunh...
+
+
+{C5A183}
+[£o¢o]
+Well, what about Pipi?
+
+[Kid]
+What!?
+
+
+{C5A184}
+[£o¢o]
+You know about Pipi, don't you, Hokutan?
+
+[Kid]
+No, I have no idea...
+
+
+57 :
+
+{C5A185}
+[£o¢o]
+Oh? That's funny...
+
+
+58 :
+
+{C5A186}
+[£o¢o]
+Well, Pipi is this little kitten I have...
+
+[Kid]
+‡LA cat!?
+
+
+59 :
+
+{C5A187}
+[£o¢o]
+Nyahaaaahaahaaaa~
+
+
+{C5A188}
+[£o¢o]
+Gotcha, I gotcha, you fell for it!
+
+
+60 :
+
+{C5A189}
+[£o¢o]
+"When I said 'kitten' just then, you did a 
+double take! Right!?"
+
+
+61 :
+
+{C5A190}
+[£o¢o]
+Why would that surprise you? Hm?
+
+[Kid]
+.........
+
+
+{C5A191}
+[£o¢o]
+"Because you know that Pipi is really a dog! 
+That's why!"
+
+[Kid]
+.........
+
+
+{C5A192}
+[£o¢o]
+Stop acting. And stop playing dumb.
+
+
+{C5A193}
+[£o¢o]
+You've known about my world aaallll along.
+
+
+{C5A194}
+[£o¢o]
+That's why you know everything.
+
+
+{C5A195}
+[£o¢o]
+"Tief Blau virus... Curé virus... 
+IBF... Pygmalion... The terabyte disc..."
+
+
+{C5A196}
+[£o¢o]
+"All of them, all of them! You've heard all 
+of those words before, haven't you?"
+
+[Kid]
+.........
+
+
+{C5A197}
+[£o¢o]
+And this, this, I bet you remember this...
+
+
+{C5A198}
+[£o¢o]
+"How you and Mayo-chan escaped from 34 meters
+deep down under the sea..."
+
+
+{C5A199}
+[£o¢o]
+How you escaped with Nakkyu using a siphon...
+
+
+{C5A200}
+[£o¢o]
+"Don't lie and say you forgot. I know you 
+remember."
+
+[Kid]
+.........
+
+
+{C5A201}
+[£o¢o]
+I'm the same as you.
+
+
+{C5A202}
+[£o¢o]
+"That's why I know about the world you live 
+in and the world I live in."
+
+
+{C5A203}
+[£o¢o]
+So? Do you understand now?
+
+[Kid]
+.........
+
+
+{C5A204}
+[£o¢o]
+I know everything you know.
+
+
+{C5A205}
+[£o¢o]
+And, and...
+
+
+{C5A206}
+[£o¢o]
+I know some things that you don't know yet.
+
+
+{C5A207}
+[£o¢o]
+"Things you don't know yet means... things you 
+will come to know later."
+
+[Kid]
+.........
+
+
+{C5A208}
+[£o¢o]
+But...
+
+
+62 :
+
+{C5A209}
+[£o¢o]
+"Maybe I'm telling you way too much stuff, so 
+your mind is getting all mixed up."
+
+
+63 :
+
+{C5A210}
+[£o¢o]
+"But I can tell you that you'll understand it 
+one day..."
+
+
+{C5A211}
+[£o¢o]
+So... I'll say it again...
+
+
+{C5A212}
+[£o¢o]
+You absolutely can't lie to yourself, okay?
+
+
+{C5A213}
+[£o¢o]
+Okay? Understand?
+
+[Kid]
+"I don't... I don't underst... Of course I don't 
+understand!"
+
+
+64 :
+
+{C5A214}
+[£o¢o]
+*Sigh*... Here we go again...
+
+[Kid]
+£o¢o... £o¢o... What are you!?
+
+[Kid]
+Why did you suddenly appear in front of me!?
+
+
+65 :
+At those words, £o¢o's face suddenly clouded
+over.
+
+She scrunched up her face and drew her
+eyebrows together.
+
+Tears welled up in her eyes.
+
+She blinked to hide them and spoke quietly.
+
+
+{C5A215}
+[£o¢o]
+I wanted... to see you.
+
+
+{C5A216}
+[£o¢o]
+I've been... waiting for you.
+
+
+{C5A217}
+[£o¢o]
+Waiting and waiting for you to come...
+
+
+{C5A218}
+[£o¢o]
+I wanted to see you... more than anything...
+
+
+{C5A219}
+[£o¢o]
+I wanted to see you again...
+
+
+{C5A220}
+[£o¢o]
+"I've been waiting here by myself... All by 
+myself..."
+
+£o¢o's words drifted into my heart and
+melted like a light snow.
+
+We gazed at each other without speaking.
+
+It wasn't what the words said, so much as
+that she said them at all, that moved me so
+deeply.
+
+Before I sought their meaning, I let the
+simple power of her true feelings flow
+straight into my trembling heart.
+
+I couldn't take my eyes off of £o¢o's sad,
+tear-filled eyes.
+
+[£o¢o]
+.........
+
+[Kid]
+.........
+
+
+66 :
+£o¢o laughed softly.
+
+I could tell it was forced cheer.
+
+The bravery of that laugh gripped at my heart.
+
+
+{C5A221}
+[£o¢o]
+I'm sorry, I have to go.
+
+
+67 :
+
+{C5A222}
+[£o¢o]
+We'll be apart again for a little while.
+
+[Kid]
+What?
+
+
+{C5A223}
+[£o¢o]
+"Okay, before I go, I'll tell you something 
+pretty juicy."
+
+
+{C5A224}
+[£o¢o]
+"But I'm pretty sure you've already figured 
+it out..."
+
+[Kid]
+...?
+
+
+{C5A225}
+[£o¢o]
+Hokutan, that dream you saw, it wasn't a dream.
+
+
+{C5A226}
+[£o¢o]
+It actually happened, okay?
+
+
+{C5A227}
+[£o¢o]
+Don't forget what I just said, alright?
+
+[Kid]
+.........
+
+
+68 :
+
+{C5A228}
+[£o¢o]
+See you later, Hokutan.
+
+
+69 :
+The next moment, she was gone.
+
+Without a sound, just... gone, like a candle
+snuffed out by a wandering night draft...
+
+And then I lost consciousness.
+
+
+70 :
+I sank down into the darkness for a minute.
+
+(Pull yourself together, man!)
+
+I shook my head and gathered my wits.
+
+
+71 :
+
+{C5A229}
+[£o¢o]
+"It's the £o¢o-chan show! First skit‡LWhat if a 
+dolphin were salmon roe..."
+
+
+{C5A230}
+[£o¢o]
+'Wow, big load today, tons of salmon!'
+
+
+{C5A231}
+[£o¢o]
+'Let's see, open 'em up...'
+
+
+{C5A232}
+[£o¢o]
+'Cut... Cut...'
+
+
+{C5A233}
+[£o¢o]
+"'Whoah, what's this!? Dolphins are pouring 
+out of the salmon! Hundreds of them!'"
+
+
+{C5A234}
+[£o¢o]
+'Oh no! Oh no! Mom! Mommy! Emergency!'
+
+
+{C5A235}
+[£o¢o]
+Bwahahahaha~
+
+
+{C5A236}
+[£o¢o]
+Heeheeheehee~
+
+The reason I had blacked out must have been
+£o¢o's microwaves. They got me.
+
+I still hadn't built up immunity to them...
+It was pretty rough.
+
+Why didn't I ever learn? Why was it that
+every time I wandered around, my feet kept
+taking me to her?
+
+It was strange.
+
+I wondered if she was drawing me to her with
+some mysterious frequency.
+
+
+Anyway...
+
+Having finished breakfast, I wandered around
+LeMU and got sucked into the souvenir shops.
+
+
+
+{C5A237}
+[£o¢o]
+£o¢o-chan's jokes‡LIf a dolphin... was a corpse!
+
+
+{C5A238}
+[£o¢o]
+'Oh, thank you for coming such a long way...'
+
+
+{C5A239}
+[£o¢o]
+'My sincere condolences...'
+
+
+{C5A240}
+[£o¢o]
+'Would you like to see my husband's face?'
+
+
+{C5A241}
+[£o¢o]
+'Oh, well, certainly...'
+
+
+{C5A242}
+[£o¢o]
+'Click... Click...'
+
+
+{C5A243}
+[£o¢o]
+"'Whoah! An eternally sleeping dolphin! And 
+it's belly-up, too!'"
+
+
+{C5A244}
+[£o¢o]
+"'He looks so peaceful... as if he'd jump up 
+any second...' Except you couldn't say that, 
+because you wouldn't be able to see his 
+face!"
+
+
+{C5A245}
+[£o¢o]
+Bwahahahaha~
+
+
+{C5A246}
+[£o¢o]
+Heeheeheehee~
+
+£o¢o pattered along, shaking a huge stuffed
+dolphin.
+
+Several smaller stuffed animals were strewn
+around the carpet.
+
+From the looks of the empty cabinet nearby, it
+appeared that she had pulled them all down
+from their places on the shelf.
+
+It was such a childish thing to do.
+
+A child...
+
+But £o¢o was fourteen.
+
+A fourteen-year-old who still played with stuffed
+animals...
+
+I wondered if it was really alright to let
+her just grow up like that?
+
+But when I saw her innocent, laughing face, I
+didn't have the heart to scold her.
+
+I supposed she would probably be happiest
+just being the way she was.
+
+
+£o¢o continued to crack herself up... and
+I... continued to watch...
+
+When her amusement died down a little, I
+called to her.
+
+[Takeshi]
+Hey, £o¢o? Where's Pipi?
+
+
+{C5A247}
+[£o¢o]
+"Pipi? I think he's right over there 
+somewhere..."
+
+I looked around the kiosk.
+
+
+{PIPI_23}
+[Pipi]
+*Wooo*... *Wooo*... *Woo*...!
+
+There.
+
+Pipi was gripping a stuffed animal's tail in
+his teeth, shaking it back and forth crazily.
+
+It was a stuffed lemur doll. He seemed
+completely engrossed in it.
+
+
+{C5A248}
+[£o¢o]
+Hey, Takepyon, what'cha doin' over there?
+
+[Takeshi]
+Hm? What am I doing, huh?
+
+[Takeshi]
+"You look so happy that just watching you is 
+making me happy..."
+
+[Takeshi]
+"So I guess you could say that by watching 
+you, I've slipped into a happy, stupid 
+state..."
+
+
+{C5A249}
+[£o¢o]
+Ehe~
+
+
+{C5A250}
+[£o¢o]
+"Takepyon, you're falling in love with me, 
+aren't you?"
+
+[Takeshi]
+...What?
+
+
+{C5A251}
+[£o¢o]
+You like me, you like me, don't you!
+
+
+{C5A252}
+[£o¢o]
+"Wow~ I can't believe it~ He's finally told 
+me how he feels~"
+
+
+{C5A253}
+[£o¢o]
+How embarrassing~ I'm blushing~
+
+
+{C5A254}
+[£o¢o]
+"Oh my gosh, oh my gosh! A crush! What'll I 
+do?"
+
+‡LBam! Bam!
+
+£o¢o balled up her fists and started popping
+the dolphin's belly with brutal right hooks.
+
+Punch after punch. Again and again.
+
+Until the cotton started to come out...
+
+
+{C5A255}
+[£o¢o]
+Well, to thank you...
+
+
+{C5A256}
+[£o¢o]
+Shall I tell you a new joke?
+
+[Takeshi]
+Aw, no, that's okay...
+
+
+{C5A257}
+[£o¢o]
+Why not!? You don't have to be polite!
+
+[Takeshi]
+Oh, believe me, I'm not being...
+
+
+{C5A258}
+[£o¢o]
+£o¢o-chan's joke‡Labout the doctor and the nurse.
+
+Ignoring my pleas, £o¢o launched into her
+joke.
+
+
+72 :
+.........
+
+......
+
+...
+
+It was very long.
+
+It was not funny.
+
+It was so bad, in fact, that I couldn't even
+muster a polite chuckle.
+
+It went like so...
+
+
+
+73 :
+A nurse named Kate was desperately in love
+with Robert, a doctor who worked at the same
+hospital.
+
+Robert was crazy about Kate as well.
+
+Kate stood on the left side of the room, and
+Robert stood on the right.
+
+Kate slipped out of her white uniform and
+hung it on the closet door.
+
+{16:4}
+
+74 :
+Robert stripped his uniform off in a bit of a
+hurry and simply dropped it on the floor.
+
+Kate lowered her panties. Robert threw off
+his boxers.
+
+Kate's body was lovely and supple, and Robert
+was lean and muscled.
+
+Kate put on the silk pajamas she had bought
+for the occasion.
+
+Still naked, Robert turned off the light.
+
+{16:4}
+
+75 :
+Standing on the left of the bed, Kate turned
+slowly to the right.
+
+On the right of the bed, Robert turned easily
+to the left...
+
+And they jumped into the bed and... slept.
+
+
+Oh, by the way, Kate was sleeping in the
+night duty room, and Robert was sleeping in
+his room at home.
+
+{16:4}
+
+76 :
+'Hey, what's with the face?'
+
+'Haaa, I bet you were imagining something
+dirty, weren't you!'
+
+That was the punch line.
+
+{16:4}
+
+77 :
+
+{C5A259}
+[£o¢o]
+Heeheehehehehe~
+
+£o¢o's laugh was loud enough to hear across
+the Pacific Ocean.
+
+If there were any nuclear submarines nearby,
+their sonar guys were probably laughing too.
+
+
+Even I felt the corners of my mouth twitching.
+
+
+Obviously, the joke wasn't funny.
+
+
+But £o¢o was so amused at the unamusing
+joke that it was hilarious.
+
+All was well...
+
+I thought that to myself.
+
+According to what we heard from Sora on the
+second day, LeMU's partitions would reach
+their structural limit in only one more day.
+
+So how was it that I felt so calm?
+
+
+Maybe £o¢o's innocence was contagious...
+
+
+I wasn't even tense. I was lounging around.
+
+If I stayed like that, it could be dangerous.
+
+It was fine for £o¢o to be innocent, but if I
+got swept away in it, it could be fatal.
+
+
+The thought ran through my head, but as I
+looked at her smiling face, I couldn't hold
+onto caution.
+
+It was too peaceful...
+
+It was like being in a dream.
+
+
+78 :
+I was in a dream.
+
+After £o¢o disappeared, I blacked out.
+
+Maybe I was still stuck in that state.
+
+In the dream, I felt choked and oppressed.
+
+
+It was like being plastered up inside thick
+walls...
+
+Unable to move, only my eyes could follow the
+images before me...
+
+I earnestly followed after the fragments of
+scenes that unfolded before me.
+
+
+{C5A225}
+[£o¢o]
+Hokutan, that dream you saw, it wasn't a dream.
+
+
+{C5A226}
+[£o¢o]
+It actually happened, okay?
+
+I thought about it.
+
+That dream?
+
+The dream I had on the third day, right before
+I woke up?
+
+
+{C5A170}
+[£o¢o]
+You know aaaaall about the world I'm in, right?
+
+
+{C5A171}
+[£o¢o]
+"Mayo-chan's not there, and Tsugumin got hurt,
+and there's another you with a different face..."
+
+Tsugumi... injured...
+
+Meaning it had actually happened?
+
+But no, it couldn't be...
+
+The warehouse was still fine...
+
+And Tsugumi was as perky as ever...
+
+What could it mean?
+
+
+{C5A212}
+[£o¢o]
+You absolutely can't lie to yourself, okay?
+
+£o¢o's words ran together.
+
+The scattered fragments of images began to
+come together a little, until I could make
+out a vague outline.
+
+But I still couldn't see the whole picture at
+once.
+
+It was like a freakishly large mural.
+
+Since I was imprisoned in those walls, there
+was no way to see the whole thing.
+
+What to do...?
+
+Escape from those walls...
+
+Escape from those walls......
+
+When I pushed my face out through the wall‡L
+
+
+79 :
+‡LI woke up.
+
+I was in the infirmary.
+
+I looked around.
+
+I was alone.
+
+
+80 :
+I ran out of the infirmary and headed toward
+Dritter Stock.
+
+
+81 :
+(If £o¢o was right, and there really had been
+an accident, and Tsugumi was injured...)
+
+In any case, I would find Tsugumi and
+discover the truth for myself.
+
+But I didn't know where Tsugumi was.
+
+
+82 :
+So I headed to the control room first.
+
+
+Sora was sure to be there...
+
+And Sora would know where Tsugumi was.
+
+I opened the door.
+
+
+83 :
+[Kid]
+Sora! Where's Tsugumi right now!?
+
+I ran into the room and yelled in a loud voice.
+
+
+84 :
+
+{C5A260}
+[Sora]
+What?
+
+
+{C5A261}
+[Sora]
+Komachi-san is right here...
+
+
+85 :
+Sure enough, there she was.
+
+Tsugumi, on a chair, turned around to me.
+
+
+86 :
+
+{C5A262}
+[Tsugumi]
+What happened? Why are you in such a hurry...?
+
+[Kid]
+I... Uh... Well...
+
+[Kid]
+Tsugumi, look, sorry, but...!
+
+On the spur of the moment, I lifted up
+Tsugumi's skirt.
+
+
+87 :
+
+{C5A263}
+[Tsugumi]
+Hey! What are you doing!?
+
+
+88 :
+‡LSmack!
+
+
+89 :
+A resounding slap...
+
+But it didn't hurt.
+
+As a matter of fact, I seemed to have lost all
+feeling in my entire body.
+
+Because I had seen...
+
+On Tsugumi's right thigh... a faint scar...
+
+
+[Kid]
+Wha-wha-what is that scar...!?
+
+
+90 :
+
+{C5A264}
+[Tsugumi]
+Scar?
+
+[Kid]
+The scar on your thigh!
+
+
+{C5A265}
+[Tsugumi]
+This...
+
+
+91 :
+
+{C5A266}
+[Tsugumi]
+This is just an old scar...
+
+[Kid]
+Old scar!?
+
+[Kid]
+From when!?
+
+
+{C5A267}
+[Tsugumi]
+Oh, a long time ago...
+
+
+{C5A268}
+[Tsugumi]
+A really, really long time ago.
+
+[Kid]
+Where!? Where did you get hurt!?
+
+
+{C5A269}
+[Tsugumi]
+It was...
+
+
+92 :
+I was trapped in a gondola. I couldn't move.
+
+
+I couldn't even shift my eyes.
+
+Past the skirt I was holding, I could see the
+white of her panties.
+
+The smooth curve of her thigh.
+
+Her smooth, silky skin.
+
+‡LThe scar.
+
+There was definitely a scar there.
+
+But...
+
+It looked like something that had healed
+years ago, leaving only the faint mark of
+stitches that once closed a wound.
+
+
+93 :
+
+{T5A100}
+[Tsugumi]
+"Twelve years ago, I was infected with a 
+virus."
+
+
+{T5A101}
+[Tsugumi]
+Because of that virus... The virus...
+
+
+{T5A102}
+[Tsugumi]
+It rewrote my genetic code.
+
+
+{T5A103}
+[Tsugumi]
+Cells are reborn every day.
+
+
+{T5A104}
+[Tsugumi]
+They are reborn and then die.
+
+
+{T5A105}
+[Tsugumi]
+"Normally, the human body is totally replaced 
+with new cells within five years."
+
+
+{T5A106}
+[Tsugumi]
+"When I was twelve, the cells in my body were 
+infected. And from that moment on, they 
+divided and replaced themselves..."
+
+
+{T5A107}
+[Tsugumi]
+"Five years later, all cells had been 
+replaced."
+
+
+{T5A108}
+[Tsugumi]
+"In five years, every cell that made up 
+my body had been genetically altered."
+
+
+{T5A109}
+[Tsugumi]
+And when the last of the cells had died...
+
+
+{T5A110}
+[Tsugumi]
+"The last trace of my twelve-year-old self 
+disappeared."
+
+
+{T5A111}
+[Tsugumi]
+In that moment, the old me died.
+
+
+{T5A112}
+[Tsugumi]
+"The old me died, but the new me became a body 
+that never dies."
+
+
+{T5A113}
+[Tsugumi]
+"My immune system and my metabolic 
+rate were remarkably improved..."
+
+
+{T5A114}
+[Tsugumi]
+"My telomeres began to regenerate 
+themselves..."
+
+
+{T5A115}
+[Tsugumi]
+That's right...
+
+
+{T5A116}
+[Tsugumi]
+I will never grow old and never die.
+
+
+{T5A117}
+[Tsugumi]
+"My physical growth stopped at that 
+moment in time."
+
+
+{T5A118}
+[Tsugumi]
+I'll never grow older than seventeen.
+
+
+94 :
+'The Curé virus'
+
+The Curé virus is a type of retrovirus.
+
+
+Like many retroviruses, the Curé virus is
+not contagious across species.
+
+{16:4}
+
+95 :
+When people simply say 'the Curé virus', they're
+actually referring to the human version
+of the virus.
+
+There are variants, such as the
+monkey-specific Curé, the rat-specific Curé...
+
+
+But from here on out, we'll only be
+referring to the human strain.
+
+{16:4}
+
+96 :
+Retroviruses turn their host's RNA into DNA
+with reverse transcriptase and then inject
+that DNA back into the host's genes.
+
+This means they can directly rewrite the
+host's blueprint.
+
+Infected cells, which go on processing
+proteins as usual, then unwittingly reproduce
+the virus.
+
+{16:4}
+
+97 :
+At the same time, the cells with the
+rewritten DNA go on to divide and multiply,
+spreading throughout the body like cancer
+cells.
+
+Normally, when cancer cells develop in a
+body...
+
+The body repulses them with the 'p53'
+function located on the seventeenth chromosome.
+
+{16:4}
+
+98 :
+'p53' creates certain enzymes and proteins,
+and when there has been damage done to a
+gene...
+
+It stops replication or causes apoptosis
+(natural cell death) and works to repair the
+damaged DNA, thus earning its name 'the
+anti-cancer gene'.
+
+The Curé virus mutates this 'p53' gene as
+well, rendering it useless.
+
+{16:4}
+
+99 :
+Thus, the Curé-infected cells can spread
+throughout the body uncontested.
+
+
+Then, once all the DNA code is rewritten, the
+host literally becomes a new species.
+
+
+A new species‡L{1}
+We'll just call it the 'Curé species' here.
+
+{16:4}
+
+100 :
+The Curé species body is endowed with the
+following unique characteristics:
+
+1. Self-regeneration of the telomeres.
+
+2. Great improvement in self-healing.
+
+{16:4}
+
+101 :
+Telomeres are the base sequence located at
+either end of a chromosome and generally
+become shorter with every replication.
+
+After a certain number of divisions, the
+telomere gets so short that the cell can no
+longer divide.
+
+So telomeres are like the 'bus tickets' of cell
+division. Once you spend them, they're gone.
+
+{16:4}
+
+102 :
+But not the Curé species.
+
+This new body produces an enzyme called
+telomerase, which allows unlimited recycling
+of the 'bus tickets' that normally would
+already have been spent.
+
+This allows for almost endless cell division
+to continue, thereby eliminating aging and
+weakening.
+
+Having said all that, this is not a
+particularly unusual phenomenon.
+
+{16:4}
+
+103 :
+It happens every day in normal reproductive
+cells. Even in most cancer cells, there
+is rarely a shortage of telomeres.
+
+In that sense, it is not impossible to say
+that the Curé virus turns every cell in the
+body cancerous.
+
+{16:4}
+
+104 :
+On the other hand, there is no similarly
+tangible mechanism yet in place for dealing
+with the process of self-healing.
+
+But metabolism is activated, and the rate
+of cell generation is greatly increased...
+
+And it is believed that this is what so
+dramatically shortens the time required to
+heal after an illness or injury.
+
+{16:4}
+
+105 :
+Actually, there is one more distinguishing
+characteristic of the Curé species.
+
+
+Which is‡L'infrared vision'.
+
+Because, in its production, it lost the
+faculties of 'p53', the Curé species possesses a
+constitution extremely vulnerable to
+ultraviolet rays.
+
+The DNA in skin cells is quickly damaged when
+exposed to the sun for any duration, causing those
+cells to become cancerous.
+
+{16:4}
+
+106 :
+In a normal human, thanks to the cancer suppression
+gene, damaged DNA is let die or repaired...
+
+But the Curé species cannot do this.
+
+It was possible to use another gene to
+produce an enzyme to perform the same
+function as 'p53', but alas, this solution
+proved to be limited.
+
+{16:4}
+
+107 :
+Therefore, Curé species are very vulnerable to
+ultraviolet rays and can only venture
+outside at night.
+
+The 'infrared vision' was developed to make
+up for this shortcoming.
+
+{16:4}
+
+108 :
+
+{C5A270}
+[Tsugumi]
+I have this unique ability.
+
+Having finished her long talk on the Curé virus, Tsugumi brought that up.
+
+
+{C5A271}
+[Tsugumi]
+"Without touching something, I can 'see' its 
+temperature."
+
+
+{C5A272}
+[Tsugumi]
+"Infrared vision... is also called 
+infravision..."
+
+[Takeshi]
+"So on the second day, when you stood in 
+front of the power generation room and knew 
+that it was too hot, that was because of your 
+infrared vision?"
+
+
+{C5A273}
+[Tsugumi]
+Yes.
+
+
+109 :
+[Takeshi]
+How about that...
+
+[Takeshi]
+Infravision... interesting.
+
+
+110 :
+
+{C5A274}
+[Tsugumi]
+You don't doubt me?
+
+She tilted her head like she was surprised.
+
+[Takeshi]
+Ah...
+
+
+{C5A275}
+[Tsugumi]
+"You believe all this nonsense I've been 
+telling you?"
+
+[Takeshi]
+Well, it's an unbelievable story.
+
+[Takeshi]
+"Viruses, DNA, bodies that won't die... It's 
+crazy."
+
+[Takeshi]
+I can't believe it... but I don't doubt it.
+
+[Takeshi]
+If you say so, it must be true.
+
+[Takeshi]
+So, I guess I have to believe it.
+
+The instant I said that...
+
+
+111 :
+My body was being pulled.
+
+Although she wasn't abnormally strong, I found
+it impossible to resist her.
+
+It was a natural, flowing movement.
+
+Inside the white gondola.
+
+Tsugumi's body was covering mine.
+
+I felt her breath.
+
+I felt her pulse.
+
+I felt the warmth of her body.
+
+A fragrant smell wafted from her neck.
+
+A musky smell.
+
+A sweet smell...
+
+
+{C5A276}
+[Tsugumi]
+You're kidding, right?
+
+She smiled coldly and gazed at me.
+
+
+{C5A277}
+[Tsugumi]
+Don't just say 'I believe' so easily.
+
+[Takeshi]
+You think it's irresponsible?
+
+
+{C5A278}
+[Tsugumi]
+It's very irresponsible.
+
+
+{C5A279}
+[Tsugumi]
+How can you believe me? On what basis?
+
+[Takeshi]
+None.
+
+[Takeshi]
+I have absolutely no basis.
+
+
+112 :
+
+{C5A280}
+[Tsugumi]
+You see...
+
+Raising an eyebrow, she put her hand on my
+neck.
+
+
+{C5A281}
+[Tsugumi]
+Will you cut it out already?
+
+She gave me a look that turned my spine to ice.
+
+But her hands were trembling.
+
+Her coldness was contrived...
+
+[Takeshi]
+Calm down, Tsugumi.
+
+I spoke slowly, breathing deliberately.
+
+[Takeshi]
+"First of all, do you really need a reason to 
+trust people?"
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"If so, then you don't have to trust me. 
+Doubt me all you want."
+
+[Takeshi]
+"But I believe you. Even if no one else 
+does, I do."
+
+[Takeshi]
+I accept the truth.
+
+
+{C5A282}
+[Tsugumi]
+But...
+
+
+{C5A283}
+[Tsugumi]
+"There's no reason you should be able to do 
+that..."
+
+[Takeshi]
+But I can.
+
+[Takeshi]
+I want to understand you.
+
+[Takeshi]
+"Even if it's hard for me to believe, if it's 
+the truth."
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"The scar on your right leg, it's almost 
+healed, right?"
+
+
+{C5A284}
+[Tsugumi]
+Yes...
+
+[Takeshi]
+"I can't believe it, but that wound is almost 
+healed."
+
+[Takeshi]
+That's the reality, right?
+
+
+{C5A285}
+[Tsugumi]
+That's right...
+
+[Takeshi]
+Show it to me again.
+
+[Takeshi]
+I'll accept things as they are.
+
+
+113 :
+
+{C5A286}
+[Tsugumi]
+...You want to see it?
+
+She removed her hand.
+
+
+{C5A287}
+[Tsugumi]
+You really want to see?
+
+Her voice trembled faintly.
+
+She was speaking slowly, in control.
+
+
+{C5A288}
+[Tsugumi]
+If you look, you might regret it.
+
+
+{C5A289}
+[Tsugumi]
+If you knew everything...
+
+
+{C5A290}
+[Tsugumi]
+"You might think that there's no way I could 
+be human..."
+
+[Takeshi]
+You don't want me to look?
+
+[Takeshi]
+If you show me, maybe you'll regret it?
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"The fact that you're not answering... Was 
+that a stupid question?"
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"If you don't answer, I'm going to look 
+whether you want me to or not."
+
+
+{C5A291}
+[Tsugumi]
+Don't.
+
+
+{C5A292}
+[Tsugumi]
+Don't decide for me.
+
+
+{C5A293}
+[Tsugumi]
+I didn't say...
+
+
+{C5A294}
+[Tsugumi]
+"I didn't say that I didn't want to show 
+you..."
+
+
+114 :
+The room slid into darkness.
+
+
+115 :
+
+{C5A295}
+[Tsugumi]
+Then look.
+
+
+{C5A296}
+[Tsugumi]
+Don't flinch. Look...
+
+
+{C5A297}
+[Tsugumi]
+At everything...
+
+
+{C5A298}
+[Tsugumi]
+I'll show you... Only you.
+
+I heard the sound...
+
+Of unfastening.
+
+In the darkness of the gondola.
+
+In the faint moonlight, the deep sea shined
+blue.
+
+Floating up into the darkness...
+
+It was...
+
+A wound. Once etched deeply, but since healed
+to almost nothing.
+
+I had to squint to see.
+
+I might not have known if I hadn't gently
+run my fingers over them.
+
+Scars‡L
+
+All over her body, minutely etched, countless
+scars.
+
+Tsugumi's shoulders shook with her weeping.
+
+She cried silently.
+
+I grasped her shoulders.
+
+I pulled her to me, fiercely.
+
+Tears wet the floor.
+
+Tsugumi cried in my arms, on my breast, like
+a child.
+
+I wanted Tsugumi, and she wanted me.
+
+She accepted all of me, and I accepted all of
+her.
+
+We overlapped until we became one.
+
+
+116 :
+.........
+
+......
+
+...
+
+
+117 :
+My head rested neatly on Tsugumi's legs. She
+was sitting on her heels.
+
+I felt the lovely softness of her flesh on
+the back of my head.
+
+The gondola had circled the floor many times
+and was moving again through the darkness.
+
+
+118 :
+Click, click...
+
+[Takeshi]
+What's that?
+
+I looked above to see Tsugumi holding
+something in her hand.
+
+
+119 :
+She was clicking what looked like a pen.
+
+[Takeshi]
+"I think I heard that same sound in front of 
+the generator room..."
+
+
+{C5A299}
+[Tsugumi]
+It's an infrared laser.
+
+She smiled quietly and muttered.
+
+[Takeshi]
+What?
+
+
+{C5A300}
+[Tsugumi]
+It's convenient to have this.
+
+
+{C5A301}
+[Tsugumi]
+If you have a special ability like mine...
+
+[Takeshi]
+Mm-hmm...
+
+[Takeshi]
+"You're basically doing with your eyes the 
+same thing an infrared night scope camera 
+does, right?"
+
+[Takeshi]
+"If you flash an infrared ray, it makes it 
+easier to see in the dark."
+
+[Takeshi]
+"And since normal people can't see the 
+infrared rays, it just looks dark..."
+
+[Takeshi]
+"But if you have infrared vision, you can see 
+as clearly as you can at high noon..."
+
+Tsugumi nodded.
+
+
+{C5A302}
+[Tsugumi]
+That's right...
+
+
+{C5A303}
+[Tsugumi]
+I'm fine no matter how dark it is.
+
+
+{C5A304}
+[Tsugumi]
+Teehee...
+
+Tsugumi giggled as she covered up her bare
+chest.
+
+When she laughed, it jostled me too...
+
+Right about the time that it stopped...
+
+
+{C5A305}
+[Tsugumi]
+Hey, Takeshi? Can you get up?
+
+I sat up as ordered.
+
+
+{C5A306}
+[Tsugumi]
+I'm going to count down from three...
+
+
+{C5A307}
+[Tsugumi]
+Don't close your eyes the whole time, okay?
+
+[Takeshi]
+Huh?
+
+
+{C5A308}
+[Tsugumi]
+3, 2, 1...
+
+
+120 :
+‡LClick.
+
+There was a sound.
+
+[Takeshi]
+Hm? What'd you just do?
+
+I blinked.
+
+
+{C5A309}
+[Tsugumi]
+I burned an image.
+
+
+{C5A310}
+[Tsugumi]
+I burned an image of you.
+
+[Takeshi]
+Burned...?
+
+
+{C5A311}
+[Tsugumi]
+Yup. And burned a pretty good one too.
+
+
+{C5A312}
+[Tsugumi]
+Here...
+
+She pointed at her chest.
+
+
+{C5A313}
+[Tsugumi]
+And...
+
+
+121 :
+
+{C5A314}
+[Tsugumi]
+Here too, okay?
+
+[Takeshi]
+?
+
+I couldn't see because of the shadow of her
+hand.
+
+She was holding something.
+
+Something besides the laser...
+
+In the darkness, I heard the sound of a thin
+chain.
+
+[Takeshi]
+?
+
+I didn't know what it was.
+
+[Takeshi]
+What do you mean by 'here'? Tell me.
+
+
+{C5A315}
+[Tsugumi]
+It's a secret~
+
+
+{C5A316}
+[Tsugumi]
+Hmm-hmmm~
+
+All she would give me was a mischievous smile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

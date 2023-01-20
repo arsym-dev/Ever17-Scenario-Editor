@@ -1,0 +1,938 @@
+2
+
+1 :
+In the darkness, a girl sat on a bed.
+
+
+2 :
+[Kid]
+Uh, I... Um...
+
+I was at a loss for words.
+
+I didn't know where to start.
+
+[Young Girl]
+.........
+
+The girl just stared at me intently.
+
+[Kid]
+It's... al-alright...
+
+[Kid]
+Don't worry... Everything is alright...
+
+She didn't answer.
+
+[Kid]
+Uh... Um...
+
+[Kid]
+Anyway, let's go to where everybody else is!
+
+
+{C1S296}
+[Young Girl]
+Everybody?
+
+[Kid]
+Yeah, it's not just me.
+
+[Kid]
+There are lots of other people...
+
+
+{C1S297}
+[Young Girl]
+Help...? Did you come to help?
+
+[Kid]
+Y-yeah... That's right.
+
+
+3 :
+
+{C1S298}
+[Young Girl]
+But... it's probably impossible...
+
+[Kid]
+Huh?
+
+
+{C1S299}
+[Young Girl]
+There is... no way out anymore...
+
+The girl's eyes were sad and moist.
+
+
+4 :
+I decided to...
+
+5 :
+{11:0-11}
+{11:1}Ask her why she said that
+
+{11:1}Take the girl out of there
+
+
+6 :
+[Kid]
+Why do you say that?
+
+[Kid]
+"We'll be fine! A rescue team should be here 
+any time!"
+
+
+7 :
+
+{C1S300}
+[Young Girl]
+Liar...
+
+[Kid]
+It's not a lie!
+
+[Kid]
+"The people who escaped know that we're 
+here..."
+
+[Kid]
+Someone will come for sure!
+
+[Young Girl]
+...
+
+[Kid]
+Why are you saying that's wrong?
+
+
+{S1C237}
+[Young Girl]
+Because... Because...
+
+8 :
+Then, suddenly, a shocked look appeared on the
+girl's face as her eyes focused behind me.
+
+I followed her gaze.
+
+
+9 :
+On the other side of the door... was Takeshi,
+peeking in.
+
+
+10 :
+
+{C1S302}
+[Takeshi]
+Who are you talking to?
+
+[Kid]
+Takeshi! What great timing...!
+
+[Kid]
+"It seems like this girl here didn't get out 
+either..."
+
+
+11 :
+
+{C1S303}
+[Takeshi]
+Girl?
+
+
+{C1S304}
+[Takeshi]
+What girl...?
+
+
+12 :
+
+{C1S305}
+[Takeshi]
+...There's nobody there.
+
+[Kid]
+Huh!?
+
+
+13 :
+I looked back.
+
+The girl had vanished, and there was no sign
+that anyone had been sitting where she had
+been.
+
+[Kid]
+Im-impossible...
+
+
+14 :
+
+{C1S306}
+[Takeshi]
+"Stop it already. What? Are you tired of 
+memory loss and working on hallucinations now?"
+
+
+{C1S307}
+[Takeshi]
+You're worse off than we thought...
+
+[Kid]
+No! No! I'm not seeing things!
+
+[Kid]
+"There was a girl here! She was sitting on 
+this bed!"
+
+
+15 :
+
+{C1S308}
+[Takeshi]
+Listen, Kid...
+
+[Kid]
+Wh-what...?
+
+
+16 :
+
+{C1S309}
+[Takeshi]
+Aren't you hungry?
+
+[Kid]
+Hungry...?
+
+[Kid]
+Wh-who cares about that right now?
+
+[Kid]
+There was a girl here... A girl, I tell you...
+
+
+17 :
+
+{C1S310}
+[Takeshi]
+I know, I know.
+
+
+{C1S311}
+[Takeshi]
+There was a girl there. I heard you...
+
+[Kid]
+You don't get it at all!
+
+
+{C1S312}
+[Takeshi]
+"Alright, alright. I'll listen to the whole 
+story later."
+
+[Kid]
+But...
+
+
+18 :
+
+{C1S313}
+[Takeshi]
+"But nothing! You're going to piss me off 
+if you keep this up!"
+
+
+19 :
+
+{C1S314}
+[Takeshi]
+"Everyone is waiting for you... to eat 
+together..."
+
+[Kid]
+"Well, then, what are we going to do about 
+the girl!?"
+
+[Kid]
+"I'm sure the girl is probably starving 
+too..."
+
+
+20 :
+
+{C1S315}
+[Takeshi]
+Oh man... You've completely lost it...
+
+[Kid]
+I'm not crazy!
+
+[Kid]
+There was a girl... A girl... Right here...
+
+In the end, I couldn't get Takeshi to listen
+to me.
+
+
+21 :
+[Kid]
+Let's go!
+
+That was what I said.
+
+
+22 :
+
+{C1S316}
+[Young Girl]
+...Uh... Where?
+
+[Kid]
+Anywhere. Let's just get out of here.
+
+
+{C1S317}
+[Young Girl]
+Why...?
+
+[Kid]
+"Because if we stay here, £o¢o, then we'll 
+probably..."
+
+
+23 :
+I sucked in my breath.
+
+Somehow, I knew her name as well.
+
+'Yagami £o¢o'.
+
+And then I had a premonition that something
+was about to happen.
+
+I thought that when I took my eyes off of
+her... £o¢o would vanish...
+
+Like a ghost...
+
+So I would take her out of there...
+
+
+{C1S318}
+[£o¢o]
+Don't go... Please...
+
+[Kid]
+Wh-what?
+
+
+{C1S319}
+[£o¢o]
+Please, don't go...
+
+
+{C1S320}
+[£o¢o]
+Don't leave me alone...
+
+I couldn't understand what she meant.
+
+I couldn't understand... but my mouth had an
+answer.
+
+[Kid]
+I won't go.
+
+[Kid]
+I will stay with you, £o¢o.
+
+'Please, don't go'... Just then, the two of our
+minds had overlapped.
+
+I didn't want to lose sight of £o¢o's existence.
+
+
+And £o¢o felt the same way.
+
+£o¢o's eyes watered as if she was sad.
+
+
+24 :
+Then a shocked look appeared on £o¢o's
+face as her eyes focused behind me.
+
+I followed £o¢o's gaze.
+
+
+25 :
+On the other side of the door... was Takeshi,
+peeking in.
+
+
+26 :
+
+{C1S321}
+[Takeshi]
+Who are you talking to?
+
+
+27 :
+I hurriedly looked back.
+
+But £o¢o was no longer there.
+
+[Kid]
+£o¢o! £o¢o!
+
+My voice echoed and died in that small,
+steel-plated room.
+
+[Kid]
+£o¢oooooo!
+
+No one was there to answer my shouts.
+
+There was no sign of anyone, and it felt as if
+it might have been that way from the start.
+
+There were no wrinkles where £o¢o had been
+sitting. No warmth either.
+
+There was just a faint smell.
+
+Like the frozen smell that follows the north
+wind across snowfields.
+
+
+{C1S322}
+[Takeshi]
+£o-£o¢o...?
+
+
+{C1S323}
+[Takeshi]
+Did... Did you just say... '£o¢o'?
+
+
+28 :
+I looked back at Takeshi.
+
+Something was different about Takeshi.
+
+His lips were trembling.
+
+[Kid]
+Takeshi... Do you know £o¢o?
+
+[Takeshi]
+.........
+
+[Kid]
+You do know her!
+
+
+29 :
+
+{C1S324}
+[Takeshi]
+No... I don't...
+
+[Kid]
+Liar!
+
+[Kid]
+The way you said that, I know you know her!
+
+
+30 :
+
+{C1S325}
+[Takeshi]
+Really... I don't...
+
+[Kid]
+Why are you lying?
+
+[Kid]
+The girl was here just now.
+
+[Kid]
+"But when you showed your face, she 
+vanished..."
+
+
+31 :
+
+{C1S326}
+[Takeshi]
+You're the one who's lying.
+
+
+{C1S327}
+[Takeshi]
+There's no girl in here...
+
+[Kid]
+"Yes, there was! I'm positive that £o¢o was 
+sitting on that bed!"
+
+[Takeshi]
+............
+
+[Kid]
+Tell me! Who is she?
+
+
+32 :
+
+{C1S328}
+[Takeshi]
+I said I don't know anything about her...
+
+
+33 :
+
+{C1S329}
+[Takeshi]
+You're asking the wrong guy.
+
+
+{C1S330}
+[Takeshi]
+I didn't see a thing.
+
+
+{C1S331}
+[Takeshi]
+"You're the one who said you're seeing things, 
+right?"
+
+
+{C1S332}
+[Takeshi]
+I should be asking that question to you.
+
+
+{C1S333}
+[Takeshi]
+Who is £o¢o? Some friend of yours?
+
+[Kid]
+No, but...
+
+
+34 :
+
+{C1S334}
+[Takeshi]
+So why do you know her name?
+
+[Kid]
+"I don't know why! It just suddenly popped 
+into my head!"
+
+
+35 :
+
+{C1S335}
+[Takeshi]
+Not this crap again...
+
+
+{C1S336}
+[Takeshi]
+You've got a pretty tricky case of amnesia...
+
+[Kid]
+............
+
+
+36 :
+
+{C1S337}
+[Takeshi]
+Okay, okay.
+
+
+37 :
+
+{C1S338}
+[Takeshi]
+"Let's say you happened to meet some girl in 
+this compression chamber."
+
+
+{C1S339}
+[Takeshi]
+"And you don't know why, but you knew her 
+name."
+
+
+{C1S340}
+[Takeshi]
+"And then, like some phantom, she just 
+disappears without a trace."
+
+
+38 :
+
+{C1S341}
+[Takeshi]
+You're telling me to believe that?
+
+[Kid]
+I'm telling the truth!
+
+
+{C1S342}
+[Takeshi]
+Sure you are.
+
+[Kid]
+It's true, I said!
+
+
+39 :
+
+{C1S343}
+[Takeshi]
+I know, I know.
+
+[Kid]
+You don't get it at all!
+
+
+40 :
+
+{C1S344}
+[Takeshi]
+Look, I'm getting outta here.
+
+
+{C1S345}
+[Takeshi]
+You coming?
+
+[Kid]
+...Huh?
+
+
+{C1S346}
+[Takeshi]
+"Everyone is waiting for you... we're going to 
+eat together..."
+
+[Kid]
+Who cares about eating?
+
+
+41 :
+
+{C1S347}
+[Takeshi]
+Hmmph...
+
+
+42 :
+
+{C1S348}
+[Takeshi]
+Fine, do what you want.
+
+
+43 :
+Takeshi left me with those harsh words
+and departed.
+
+
+44 :
+Before going to the conference room, I peeked
+into the control room.
+
+The bio scan figure was eating at my mind.
+
+
+45 :
+'Life readings: 5'
+
+The number had dropped from six to five.
+
+
+46 :
+Everyone was in the conference room.
+
+There were fried tuna sandwiches and drinks
+secured from the sandwich shop for everyone.
+
+
+Only Tsugumi was absent.
+
+I wondered where she had gone... but more
+than that, I was worried about her.
+
+I told everyone about the girl.
+
+But...
+
+Everyone just laughed, and not one of them listened.
+
+No one else had seen the girl.
+
+Then I remembered the bio scan figure.
+
+
+47 :
+'7'
+
+That girl was probably person number seven.
+
+But the number had been five and six as well.
+
+
+48 :
+What could it mean?
+
+The image of the girl had been burned into my
+mind, and there was no getting away from it.
+
+I wondered if it was, like Takeshi had
+said, a hallucination.
+
+If not, then... a ghost?
+
+
+49 :
+‡L'5, 6, 7'.
+
+What could it mean?
+
+If the girl was, in fact, a ghost, that would
+mean that the number five was correct.
+
+Sora wouldn't be included, and the four of us
+there plus Tsugumi would equal five.
+
+But the number had jumped to six and even to
+seven.
+
+
+50 :
+What... in the world could that girl be...?
+
+That reminded me of what Y¤u had said.
+
+
+51 :
+
+{C1S149}
+[Y¤u]
+"You think somebody would suddenly appear, 
+disappear, or split into two people?"
+
+
+52 :
+If that were the case, it would explain
+everything.
+
+When the girl disappeared, the number would be
+five, when she appeared, six, and when she
+split, then seven.
+
+‡LSplit?
+
+
+53 :
+Haha. That was crazy...
+
+I shook my head at my own silliness.
+
+Maybe I was losing it...
+
+Something had to be wrong with me.
+
+I needed to calm down and collect myself.
+
+While I thought that, I flipped up the tab on
+the can of cola.
+
+
+54 :
+Fushaaaww!
+
+At first, I didn't know what had happened.
+
+I licked the liquid around my lips.
+
+It was sweet.
+
+It seemed as if the cola had exploded
+into my face.
+
+
+55 :
+
+{S1C252}
+[Sara]
+KYAHAHAHA~
+
+
+{S1C253}
+[Y¤u]
+AHHAHAHA~
+
+
+{S1C254}
+[Sora]
+FUFUFUFUFU~
+
+
+{S1C255}
+[Everyone]
+GAHAHAHAHA~
+
+Everyone exploded in a chorus of laughter.
+
+
+56 :
+
+{S1C256}
+[Y¤u]
+Hey, what the heck are you doing, Kid?
+
+Y¤u said that, laughing.
+
+
+{S1C257}
+[Y¤u]
+"These cans contain special gas so that they can 
+be used at six atmospheres."
+
+
+{S1C258}
+[Y¤u]
+But right now, we're at one atmosphere, right?
+
+
+{S1C259}
+[Y¤u]
+"So if you don't hold it down when you open 
+it, the soda inside explodes..."
+
+
+57 :
+As she laughed, Sara took out a handkerchief.
+
+I took it and wiped my face.
+
+I was enveloped in laughter...
+
+Without noticing, I'd forgotten about
+everything that had been weighing on my mind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

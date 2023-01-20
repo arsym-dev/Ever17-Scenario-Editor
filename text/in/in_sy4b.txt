@@ -1,0 +1,1865 @@
+
+
+1 :
+I tried to organize my thoughts as I looked
+for Y工.
+
+
+2 :
+I realized that there were six things I knew
+for sure.
+
+{16:4}
+
+3 :
+1. Y工's father, Tanaka Yoichi, had apparently
+died 34 years previously.
+
+2. And Y工's mother, Tanaka Yukie, had died 15
+years previously.
+
+3. Y工 had heard from her mother that Yoichi
+had disappeared 17 years ago.
+
+{16:4}
+
+4 :
+4. Y工's mother was still researching
+archaeology at LeMU.
+
+5. From the written records of A and B, I knew
+that Yoichi and Yukie had a daughter.
+
+6. Finally, both of her parents' deaths had
+something to do with the Tief Blau virus.
+
+{16:4}
+
+5 :
+I wondered what we could possibly find out
+about those facts.
+
+
+6 :
+As I was walking the corridor, Sara suddenly
+appeared from around a corner.
+
+
+7 :
+
+{Y4A477}
+[Sara]
+Hey, Kid...
+
+[Kid]
+Where's Y工?
+
+
+8 :
+Sara shook her head.
+
+
+{Y4A478}
+[Sara]
+She told me she wanted to be alone.
+
+[Kid]
+I see... I wonder what I should do.
+
+
+9 :
+
+{Y4A479}
+[Sara]
+Kid, maybe you could go keep her company?
+
+[Kid]
+Of course I will.
+
+[Kid]
+But I wonder what I should do?
+
+
+{Y4A480}
+[Sara]
+Go and cheer her up.
+
+[Kid]
+"Huh? I thought you said that she wanted to be 
+alone."
+
+
+10 :
+
+{Y4A481}
+[Sara]
+"That's exactly when a guy needs to go to a 
+girl and give her a shoulder to cry on."
+
+[Kid]
+But you went, and it didn't help, right?
+
+
+{Y4A482}
+[Sara]
+"That's different. I'm a girl. 
+You're a boy... Got it?"
+
+[Kid]
+It shouldn't matter.
+
+
+11 :
+
+{Y4A483}
+[Sara]
+"Listen... No matter how much a girl pretends 
+to be strong, she's always waiting."
+
+[Kid]
+For what?
+
+
+12 :
+
+{Y4A484}
+[Sara]
+It's obvious, isn't it?
+
+[Kid]
+?
+
+
+{Y4A485}
+[Sara]
+The hero who comes to save her!
+
+(Say what?)
+
+I was astounded.
+
+
+{Y4A486}
+[Sara]
+Waiting and waiting and waiting!
+
+
+{Y4A487}
+[Sara]
+Waiting for our prince on a white horse!
+
+
+{Y4A488}
+[Sara]
+That's just the way that girls are!
+
+Numbed by the conversation, I tried to argue.
+
+[Kid]
+I'm no hero, and I'm sure not a prince.
+
+
+13 :
+
+{Y4A489}
+[Sara]
+"What? Who said that they liked the name 
+'Prince' again?"
+
+[Kid]
+Forget about that already...
+
+
+14 :
+
+{Y4A490}
+[Sara]
+Maybe you just don't like Y工.
+
+[Kid]
+That's a stupid thing to say.
+
+
+15 :
+
+{Y4A491}
+[Sara]
+Then go to her!
+
+Sara pointed down the corridor.
+
+[Kid]
+Oh, alright.
+
+Worn down by the powers of Sara's persuasion,
+I gave in.
+
+[Kid]
+But just let me ask you one more thing.
+
+
+16 :
+[Kid]
+Why me?
+
+If just a guy was needed, Takeshi would do.
+
+
+17 :
+
+{Y4A492}
+[Sara]
+Because it's settled.
+
+[Kid]
+Huh?
+
+
+{Y4A493}
+[Sara]
+I decided. Because I like you better.
+
+[Kid]
+?
+
+
+18 :
+
+{Y4A494}
+[Sara]
+"And I don't have many favorites. So count 
+yourself lucky."
+
+Sara let out a defiant laugh.
+
+
+{Y4A495}
+[Sara]
+Listen up so you don't get lost.
+
+
+19 :
+Sara told me where Y工 was, and I went to
+find her.
+
+I spotted Y工's back from behind the
+merry-go-round.
+
+She was looking down.
+
+She was sitting with her hand clutching the ride...
+
+[Kid]
+Y工...
+
+Calling out to her, I went closer.
+
+Y工 turned her face toward me, gave me an
+agonized look, and spoke.
+
+
+20 :
+
+{Y4A496}
+[Y工]
+Please... don't talk to me right now.
+
+
+{Y4A497}
+[Y工]
+Stay away from me.
+
+
+{Y4A498}
+[Y工]
+"Something isn't right with me right 
+now... I might say something awful..."
+
+[Kid]
+I can't leave you alone.
+
+It was the honest truth.
+
+[Y工]
+......
+
+I sat down near Y工.
+
+
+21 :
+I spoke exactly what came into my mind.
+
+
+[Kid]
+I remember what you said when we first met.
+
+[Kid]
+You said <I am You!>
+
+[Kid]
+I am you.
+
+[Kid]
+<You are me.>
+
+[Kid]
+We are the same.
+
+[Kid]
+You're not alone.
+
+I was no prince on a white horse...
+and there wasn't much I could do by myself...
+
+[Kid]
+"So don't struggle with this alone. Let's 
+think through it together."
+
+...But I thought that we could get through it
+together.
+
+
+{Y4A499}
+[Y工]
+Kid...
+
+I nodded firmly.
+
+[Kid]
+So what do we know so far?
+
+
+{Y4A500}
+[Y工]
+That my dad... might be dead.
+
+
+{Y4A501}
+[Y工]
+"But that can't be true! Because... Because it 
+happened seventeen years before when my mom 
+told me!"
+
+
+{Y4A502}
+[Y工]
+And it was sixteen years before I was born!
+
+[Kid]
+That's not all, is it?
+
+
+22 :
+
+{Y4A503}
+[Y工]
+"No! There's more. My mom might already be 
+dead too!"
+
+
+{Y4A504}
+[Y工]
+"It can't be! How could it? It doesn't make 
+any sense!"
+
+
+{Y4A505}
+[Y工]
+"Fifteen years ago! When I was three! Before 
+I was even aware of anything!"
+
+
+{Y4A506}
+[Y工]
+"I saw my mom running around just fine right 
+before I came here!"
+
+[Kid]
+That's what you said.
+
+
+{Y4A507}
+[Y工]
+It's not just what I said, it's a fact!
+
+[Kid]
+.........
+
+
+{Y4A508}
+[Y工]
+What in the world...?
+
+
+23 :
+
+{Y4A509}
+[Y工]
+I don't know what's right or wrong anymore.
+
+
+{Y4A510}
+[Y工]
+So who raised me all this time?
+
+
+{Y4A511}
+[Y工]
+Who was my... real father? Where did he go...?
+
+
+{Y4A512}
+[Y工]
+I... I just don't know anymore...
+
+Like a dam bursting, Y工 spewed out all of the
+bad feelings that had been building inside of her.
+
+[Kid]
+Wait. Just calm down.
+
+
+24 :
+
+{Y4A513}
+[Y工]
+I'm calm enough!
+
+[Kid]
+"You're losing your composure and ability to 
+judge."
+
+
+{Y4A514}
+[Y工]
+I'm always composed!
+
+
+{Y4A515}
+[Y工]
+Are you ready! The answer is clear!
+
+
+{Y4A516}
+[Y工]
+"The whereabouts of my father have been 
+unknown since he disappeared seventeen years 
+ago, but today he's alive somewhere."
+
+
+{Y4A517}
+[Y工]
+"My mom is alive too. She's at home, waiting 
+for me."
+
+
+{Y4A518}
+[Y工]
+"This is the truth! And it's unchangeable! 
+So I don't have to prove it!"
+
+[Kid]
+Look, you're jumping to conclusions.
+
+
+{Y4A519}
+[Y工]
+Shut up! You're as messed up as LeMMIH is!
+
+[Kid]
+Idiot! You're the one who's messed up!
+
+
+{Y4A520}
+[Y工]
+What'd you just say!?
+
+[Kid]
+Y工, you're pretty smart, right?
+
+
+{Y4A521}
+[Y工]
+Well, which one is it!?
+
+[Kid]
+And I thought you were strong.
+
+
+25 :
+[Kid]
+"You were the one who said that your 
+knowledge wasn't for defense, but for 
+offense."
+
+[Kid]
+"It was the first time that I've ever met a 
+girl who said anything like that."
+
+[Kid]
+I never thought you'd be weak like this.
+
+
+26 :
+[Kid]
+You said that scholarship is futile.
+
+[Kid]
+"But you're the kind of person who wants more 
+knowledge even knowing that."
+
+[Kid]
+That's not something a weak person could do.
+
+
+27 :
+[Y工]
+.........
+
+[Kid]
+So why are you acting like this now?
+
+[Kid]
+"C'mon, let's just be logical and think this 
+through one point at a time."
+
+[Kid]
+The way you always do.
+
+[Kid]
+"The reason you're confused is because the 
+information is conflicting, right?"
+
+[Kid]
+"Because you think that part of it can't be 
+right."
+
+[Kid]
+"So let's start by sorting fact from fiction, 
+beginning with what you know."
+
+[Kid]
+Y工, you know a lot about a lot of things.
+
+[Kid]
+"You have the materials in your head to sort 
+this thing out."
+
+[Kid]
+"You, out of anyone, should be able to tell 
+what is a lie."
+
+[Y工]
+.........
+
+[Kid]
+Right?
+
+[Y工]
+...............
+
+
+28 :
+Y工 turned her eyes away from me and bit down
+hard on her lip.
+
+She finally looked down and closed her eyes as
+if she was thinking.
+
+I could tell she was trying hard to
+accept the possibility that the
+facts might be true.
+
+
+29 :
+
+{Y4A522}
+[Y工]
+"You're right... I don't know what was
+wrong with me."
+
+Finally, Y工 lifted her face...
+
+
+30 :
+
+{Y4A523}
+[Y工]
+I don't know what was the matter with me.
+
+
+{Y4A524}
+[Y工]
+I'm sorry.
+
+Y工 gave a little nod.
+
+[Kid]
+Alright.
+
+
+31 :
+At last, it was time to start deducing things.
+
+We decided to start breaking things down with
+the points that were clear.
+
+{16:4}
+
+32 :
+Like what was Tief Blau, or TB?
+
+Y工 explained that it was a malignant virus
+that had an extremely high death rate, and that it
+had ravaged the world in the past.
+
+She said that it was first discovered more
+than 30 years previously.
+
+So, time-wise, there was nothing strange if her
+father had died of TB 34 years before then and her
+mother 15 years before.
+
+{16:4}
+
+
+
+33 :
+Furthermore, the world was entirely free of TB;
+a decade earlier, the World Health Organization
+had officially declared that the disease was
+eradicated.
+
+{16:4}
+
+34 :
+What Y工 didn't know was when her parents were
+supposed to have died.
+
+Y工 didn't know what she was to make of that
+information since it was sixteen years before
+she was born.
+
+And the mother that had raised her...
+
+She said she had just seen her face just the
+other day, but she was supposed to have died
+fifteen years ago.
+
+We figured that there were four possibilities.
+
+{16:4}
+
+35 :
+1. Yoichi had not actually died, but only
+disappeared seventeen years ago.
+
+And Yukie was still alive.
+
+2. Yoichi had not actually died, but only
+disappeared seventeen years ago.
+
+However, Yukie had passed away fifteen years ago.
+
+3. Yoichi had died 34 years ago, but Yukie
+was still alive and well.
+
+4. Yoichi had died 34 years ago and Yukie 15
+years ago.
+
+{16:4}
+
+36 :
+We didn't know which was the truth and which
+were fiction.
+
+It was incredibly confusing.
+
+We decided to consider the possibilities one
+by one.
+
+{16:4}
+
+37 :
+Those theories were based on information from
+four sources.
+
+A. A file compiled by Sora concerning the
+death of Tanaka Yukie
+
+B. The chat log from A and B (the only source
+of information about Yoichi's death)
+
+C. What Y工's mom had told her (the only
+source of information about Yoichi's
+disappearance)
+
+D. The existence of Y工's mom
+
+{16:4}
+
+38 :
+We moved to the security office and checked
+the 'File Concerning the Death of Tanaka
+Yukie' again.
+
+With as much evidence as there was in the
+file, it looked like Yukie's death was
+indeed a fact.
+
+We set aside the question of whether she was
+actually Y工's real mother for the time
+being...
+
+{16:4}
+
+39 :
+So we were able to narrow it down to
+possibilities two and four.
+
+'2. Yoichi had not actually died, but only
+disappeared seventeen years ago. However,
+Yukie had passed away fifteen years ago.'
+
+'4. Yoichi had died 34 years ago and Yukie
+15 years ago.'
+
+{16:4}
+
+40 :
+We deduced that if Yukie was dead then that
+meant that Y工's mother had been lying to
+her all these years.
+
+We didn't bother ourselves about the
+possibility of two women having the same name.
+
+If we could determine that Yukie was lying,
+then the reliability of her information about
+Yoichi's disappearance would drop dramatically.
+
+That would strongly boost the possibility that
+the fourth theory was right.
+
+'4. Yoichi had died 34 years ago and Yukie
+15 years ago.'
+
+{16:4}
+
+41 :
+[Kid]
+Hmmmmmmmm!
+
+
+{Y4A525}
+[Y工]
+That would mean that... both of them are...
+
+[Kid]
+No, I said wait! Quit jumping to conclusions.
+
+
+{Y4A526}
+[Y工]
+But...
+
+[Kid]
+"You're so impatient. We're still trying to 
+sort this out, right?"
+
+Just then...
+
+
+42 :
+The lights started flickering on and off.
+
+[Kid]
+See, the lights agree with me.
+
+
+43 :
+
+{Y4A527}
+[Y工]
+Whoa... haha~
+
+
+44 :
+[Kid]
+The lights went out...
+
+
+45 :
+
+{Y4A528}
+[Y工]
+Maybe they're agreeing with me.
+
+[Kid]
+...
+
+
+46 :
+Finally, they flashed back on.
+
+[Kid]
+It seems like the lights are in bad shape.
+
+
+47 :
+
+{Y4A529}
+[Y工]
+It sure does.
+
+[Kid]
+I wonder if it's another blackout.
+
+
+48 :
+
+{Y4A530}
+[Y工]
+"Eh? Are we going to have to make repairs 
+again?"
+
+[Kid]
+Well, I don't want to either...
+
+
+49 :
+
+{Y4A531}
+[Y工]
+"This time, should we have Kuranari fix it 
+himself?"
+
+[Kid]
+Uh, that'd be pretty low.
+
+
+50 :
+
+{Y4A532}
+[Y工]
+Ahaha~
+
+The light conversation seemed to lift Y工's
+spirits.
+
+[Kid]
+Okay then...
+
+[Kid]
+...Huh?
+
+I heard a voice in the distance.
+
+
+{Y4A533}
+[Takeshi]
+Heeeey! Y中工uu! Where are yooooou?
+
+
+51 :
+
+{Y4A534}
+[Y工]
+What's that? Is that Kuranari?
+
+[Kid]
+It sounds like he's looking for you.
+
+
+52 :
+
+{Y4A535}
+[Y工]
+Heeeey! Kuranari! I'm over here!
+
+After a bit, Takeshi appeared.
+
+
+53 :
+
+{Y4A536}
+[Takeshi]
+There you are. I looked all over for you.
+
+
+54 :
+
+{Y4A537}
+[Takeshi]
+"Oh, and there's the Kid too. You two sure 
+seem to be together a lot recently."
+
+[Kid]
+I don't know about that.
+
+
+55 :
+
+{Y4A538}
+[Y工]
+What? Are you jealous?
+
+
+56 :
+
+{Y4A539}
+[Takeshi]
+Nope. Not a bit.
+
+
+57 :
+
+{Y4A540}
+[Y工]
+What? Well, you should be!
+
+
+58 :
+
+{Y4A541}
+[Takeshi]
+Alright. Then I'm jealous.
+
+
+59 :
+
+{Y4A542}
+[Y工]
+"Heehee. This will blow your mind, but 
+actually..."
+
+
+{Y4A543}
+[Y工]
+Me and the Kid are dating.
+
+
+60 :
+
+{Y4A544}
+[Takeshi]
+Whoooooa!
+
+[Kid]
+Whaaaaaat!?
+
+
+{Y4A545}
+[Takeshi]
+R-really!?
+
+[Kid]
+No, no, no, no, no, no.
+
+I shook my head vigorously.
+
+
+{Y4A546}
+[Takeshi]
+NO way, that absolutely blows my mind.
+
+
+61 :
+
+{Y4A547}
+[Takeshi]
+"Okay, I'll stop pretending to be surprised 
+now..."
+
+
+62 :
+
+{Y4A548}
+[Y工]
+"Hey! Don't interrupt me! I'm supposed to give 
+the punch line."
+
+
+{Y4A549}
+[Takeshi]
+"I know what's coming next. 'I'm KIDding. 
+It's a joke.' Right?"
+
+
+63 :
+
+{Y4A550}
+[Y工]
+Yup.
+
+
+{Y4A551}
+[Takeshi]
+"Alright, enough of that. Let's get back 
+on topic."
+
+
+{Y4A552}
+[Y工]
+Alright...
+
+[Kid]
+And? What was it you came for?
+
+
+64 :
+
+{Y4A553}
+[Takeshi]
+"Uh, I'm going to go make some repairs on the 
+generator. You wanna help?"
+
+[Kid]
+Repair the generator?
+
+
+65 :
+
+{Y4A554}
+[Y工]
+"I don't believe this. Are you saying there's 
+been a blackout again?"
+
+I didn't believe it.
+
+
+66 :
+
+{Y4A555}
+[Takeshi]
+"No, it's not that serious. But the generator 
+isn't in the best of shape."
+
+[Kid]
+"Yeah. The lights did just go out a little bit 
+ago."
+
+
+67 :
+
+{Y4A556}
+[Takeshi]
+See?
+
+
+{Y4A557}
+[Takeshi]
+"No big deal, just some maintenance that's 
+gotta be done."
+
+
+{Y4A558}
+[Takeshi]
+Sora's orders.
+
+[Kid]
+I see...
+
+
+68 :
+
+{Y4A559}
+[Takeshi]
+Y工, will you help?
+
+
+69 :
+
+{Y4A560}
+[Y工]
+S-sure... I suppose...
+
+[Kid]
+.........
+
+It seemed that Y工 still wasn't back to normal.
+
+I could tell that she was just pretending
+she was fine.
+
+I thought that she might get hurt if I let
+her go to make repairs in that state of
+mind.
+
+[Kid]
+"Hey, Takeshi? I'll go with you to do the 
+repairs."
+
+
+70 :
+
+{Y4A561}
+[Takeshi]
+What? You will, Kid?
+
+[Y工]
+.........
+
+[Kid]
+It looks like Y工 is... a bit worn out.
+
+
+{Y4A562}
+[Takeshi]
+"But you don't know a thing about machines, 
+right?"
+
+[Kid]
+It'll be fine. I'll try hard.
+
+[Kid]
+So let me help.
+
+
+{Y4A563}
+[Takeshi]
+Hmmmm...
+
+
+71 :
+My desperate attempt at persuasion succeeded
+and I had to help.
+
+We started the work after lunch.
+
+But...
+
+
+72 :
+[Kid]
+Ouch. Takeshi, that hurts.
+
+
+73 :
+
+{S4A099}
+[Takeshi]
+You can take that. You're a man, after all.
+
+Takeshi grinned sadistically as he patted my
+right arm, which was supported by a cast.
+
+The cast was made of a specially formulated
+plastic. It was lighter than I had expected
+and not too cumbersome.
+
+Takeshi had put the cast on me with
+instructions from Sora.
+
+Sora said she had something else to do and
+left the work to Takeshi.
+
+
+74 :
+
+{S4A100}
+[Takeshi]
+"Wow. That dive you took was really something 
+else. Pretty impressive stuff."
+
+[Kid]
+"Be quiet! I told you my leg slipped. You're 
+the one that forced the tools on me."
+
+
+75 :
+
+{S4A101}
+[Takeshi]
+"Don't try to pin this on me. I never said to 
+bring the tools along."
+
+[Kid]
+"You're the one that sprang off without 
+anything."
+
+
+76 :
+
+{S4A102}
+[Takeshi]
+"If we have to make repairs again, then we'll 
+need the tools. So I left them there."
+
+Takeshi was making excuses.
+
+[Kid]
+Okay, fine. It was all my stupid fault...
+
+I looked at the cast wrapped around my right
+arm.
+
+While we were repairing the generator, I had
+lost my balance holding the heavy toolbox and
+fallen off the machine.
+
+
+77 :
+
+{S4A103}
+[Takeshi]
+"Well, don't get down about it. Sora said it's 
+a clean break, so you'll be back in business 
+in no time."
+
+[Kid]
+Easy for you to say...
+
+
+78 :
+
+{S4A104}
+[Takeshi]
+Alright, now it's time...
+
+Takeshi picked up an object that could
+easily be mistaken for a gun at a glance. It
+was a syringe used to inject a cartridge
+filled with a cocktail of antibiotics, fever
+medicine, painkillers, and vitamins.
+
+
+79 :
+
+{S4A105}
+[Takeshi]
+Gimme your arm.
+
+Takeshi put the needle against my left arm.
+
+
+80 :
+It turned to night.
+
+Dinnertime rolled around.
+
+Just like always, we filled our empty bellies
+with tuna sandwiches made by Takeshi.
+
+{16:4}
+
+81 :
+We wanted a change of pace, to do something
+fun, so we spread out a blanket in the park's
+rest area.
+
+We thought it would kind of put us in
+a picnic mood.
+
+The blanket was from a shop that stocked them
+on the same floor.
+
+So it had LeMU's Myumyun label printed on it.
+
+{16:4}
+
+
+82 :
+Sora couldn't eat, but she sat with us
+smiling just the same.
+
+It seemed that was fun for her.
+
+Sara had just gone to get more drinks from the
+kiosk.
+
+Y工 wasn't around.
+
+She didn't feel well and was resting in the
+infirmary.
+
+{16:4}
+
+83 :
+So Sara was going to take her a sandwich later.
+
+
+Drawn by the scent, Tsugumi appeared.
+
+As if she didn't notice or didn't care,
+Tsugumi parked herself on Myumyun's face
+and started munching on a sandwich.
+
+Of course, Takeshi started complaining, but
+Tsugumi just ignored him.
+
+She simply sat there, eating and drinking
+by herself.
+
+I stared at her absentmindedly.
+
+{16:4}
+
+84 :
+.........
+
+{1}
+
+85 :
+I wondered if I was still stuck on those
+words.
+
+{16:4}
+
+86 :
+
+
+{1}{1}{1}
+
+{S3D025}
+{16:0}'On the 7th...'{16:1}
+
+
+{S3D026}
+{16:0}'You will die.'{16:1}
+
+{16:4}
+
+87 :
+Ever since then, Tsugumi had mostly left me
+alone.
+
+I wondered what she was thinking about just
+then.
+
+I was mulling that over when...
+
+{16:4}
+
+88 :
+
+{Y4A564}
+[Sara]
+Kyaaaaaa!
+
+All of a sudden, Sara screamed from the
+direction of the kiosk.
+
+
+{Y4A565}
+[Sara]
+R-rat! Th-th-there's a rat!
+
+
+89 :
+Hearing that, Takeshi forgot about Tsugumi
+for an instant and ran to the kiosk.
+
+Sora and I followed him.
+
+
+90 :
+Some of the boxed food in the kiosk had been
+damaged.
+
+[Kid]
+WHOA... what a mess!
+
+
+91 :
+
+{Y4A566}
+[Sara]
+Looks like these are totally damaged.
+
+[Kid]
+"I wonder if the hotdogs were the work of 
+the rat too."
+
+
+92 :
+
+{Y4A567}
+[Sara]
+Huh? But those were in the fridge.
+
+She was right. The stuff in the fridge was
+fine.
+
+It looked like we were in no immediate danger
+of starving.
+
+
+93 :
+
+{Y4A568}
+[Sora]
+"Still, I'm surprised that there are rats... 
+in LeMU."
+
+[Takeshi]
+.........
+
+Takeshi, our de facto cook, was livid.
+
+He was so mad that he couldn't speak. His face
+went bright red, and his whole body shook with
+anger.
+
+94 :
+
+{Y4A569}
+[Tsugumi]
+Hahahaha~
+
+Tsugumi was enjoying it, though.
+
+[Kid]
+What's so funny?
+
+
+{Y4A570}
+[Tsugumi]
+Of course, it's...
+
+
+{Y4A571}
+[Tsugumi]
+...his face.
+
+
+95 :
+She pointed at Takeshi as she said that.
+
+
+96 :
+Takeshi snapped.
+
+
+{Y4A572}
+[Takeshi]
+That lousy rodent! He pissed me off!
+
+
+{Y4A573}
+[Takeshi]
+"If I catch that rat, I'm gonna feed him to 
+the fish outside!"
+
+
+97 :
+Like that, a raging Takeshi set about trying to rig up
+a trap to catch the rat.
+
+And he ended up making me help him try to
+design and set it up.
+
+Going along with him was the only way to calm
+him down.
+
+I was somehow able to help him, using my one
+good arm to cover for my lame one.
+
+The trap he tried to make was a useless
+contraption pieced together from stuff in the
+warehouse.
+
+I won't go the pain of trying to describe it.
+
+
+98 :
+We didn't finish until the middle of the night.
+
+My mind and body were both worn out.
+
+I headed to where Y工 was.
+
+I was worried about her and wanted to touch
+base on the theories about her parents.
+
+
+99 :
+
+{Y4A574}
+[Sara]
+Hey, there you are, Kid!
+
+
+100 :
+[Kid]
+What? Do you need something?
+
+
+{Y4A575}
+[Sara]
+Yeah. I got a message for you from Nakkyu.
+
+[Kid]
+From Y工?
+
+[Kid]
+I was just going to see her.
+
+
+{Y4A576}
+[Sara]
+"I don't think she's in the infirmary. 
+I think she headed out."
+
+[Kid]
+Is she feeling better?
+
+
+{Y4A577}
+[Sara]
+Yup. She said she was feeling tons better.
+
+[Kid]
+Oh, well, that's good.
+
+[Kid]
+And? What's the message?
+
+
+101 :
+
+{Y4A578}
+[Sara]
+Uh. Oh... Yeah... It's... Um...
+
+
+102 :
+
+{Y4A579}
+[Sara]
+"She said she's going to THE place, and you 
+should come too."
+
+[Kid]
+THE place?
+
+
+103 :
+
+{Y4A580}
+[Sara]
+She said you'd know what she meant.
+
+[Kid]
+.........
+
+(THE place...)
+
+(Did that mean...?)
+
+
+104 :
+
+{Y4A581}
+[Sara]
+Hey.
+
+
+105 :
+[Kid]
+What?
+
+
+{Y4A582}
+[Sara]
+"I don't know, but you seem to be doing alright 
+for yourself."
+
+
+{Y4A583}
+[Sara]
+"You're already sneaking dates at night 
+and all."
+
+
+{Y4A584}
+[Sara]
+You sly guy, you!
+
+[Kid]
+...?
+
+I didn't think I knew what she was talking
+about.
+
+The theory was half-baked...
+
+
+106 :
+
+{Y4A585}
+[Sara]
+"By the way, what trick did you use to calm 
+Y工 down?"
+
+
+{Y4A586}
+[Sara]
+"She fell for you in the blink of an eye, 
+so you must be good."
+
+[Kid]
+"She didn't fall. I fell, and that's how 
+I hurt my arm."
+
+
+107 :
+
+{Y4A587}
+[Sara]
+Oh, I see now. You're playing dumb.
+
+
+108 :
+
+{Y4A588}
+[Sara]
+Come on. Just tell me a little.
+
+
+{Y4A589}
+[Sara]
+What you said or what you did.
+
+
+109 :
+
+{Y4A590}
+[Sara]
+"Or I guess to hear the juicy details you 
+have to be over eighteen, maybe~"
+
+What did she mean, eighteen?
+
+[Kid]
+"I don't know what you're talking about. 
+I just gave her a helping hand..."
+
+
+110 :
+
+{Y4A591}
+[Sara]
+Wh-what? You skipped first base?
+
+[Kid]
+Huh?
+
+
+111 :
+
+{Y4A592}
+[Sara]
+And?
+
+
+{Y4A593}
+[Sara]
+"Come on! It's okay! I won't tell anybody 
+else."
+
+[Kid]
+...
+
+
+112 :
+
+{Y4A594}
+[Sara]
+You don't want to tell me?
+
+I thought it was risky to continue the
+conversation, decided to take a hint
+from history, and...
+
+'See no more, speak no more, hear no more.'
+
+Sara finally got the idea.
+
+
+113 :
+Ultimately, Sara gave up. Since I figured
+that Y工 was waiting for me, I started walking.
+
+I thought about what Y工 meant by 'THE place'.
+
+I figured it was probably...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

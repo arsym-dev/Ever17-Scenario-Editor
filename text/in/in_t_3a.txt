@@ -1,0 +1,3182 @@
+
+
+1 :
+I awoke from my slumber.
+
+A stale, cold feeling...
+
+I remembered slouching in the chair and
+slumping forward on the table.
+
+Even then, the sleep that I'd gotten was far
+better than the day before.
+
+[Takeshi]
+Hey, g'mornin'...
+
+
+2 :
+
+{T3A000}
+[Y¤u]
+Oh, good morning.
+
+It appeared that Y¤u had gotten up just
+before me.
+
+[Takeshi]
+What time is it?
+
+
+{T3A001}
+[Y¤u]
+Almost 5:50 a.m., I think...
+
+[Takeshi]
+You sure are an early riser.
+
+
+3 :
+
+{T3A002}
+[Y¤u]
+"What are you talking about? You're just 
+lazy..."
+
+
+4 :
+Saying that, Y¤u let out a big yawn.
+
+
+5 :
+
+{T3A003}
+[Y¤u]
+"Then again, being all tense for so long just 
+gets you tired. It's probably better to sleep 
+when you can."
+
+
+6 :
+
+{T3A004}
+[Y¤u]
+"Being in a situation like this, we really 
+need to keep well-rested."
+
+
+{T3A005}
+[Y¤u]
+"Cause when it comes down to it, if we can't 
+think our way out of this situation, we're in 
+trouble."
+
+[Takeshi]
+Hey, I said that yesterday.
+
+
+7 :
+
+{T3A006}
+[Y¤u]
+Yeah... I suppose you did...
+
+Dodging the subject, Y¤u laughed slightly.
+
+
+{T3A007}
+[Y¤u]
+"Hey, since you're up, why don't you go wash 
+your face?"
+
+[Takeshi]
+Yeah, I might as well...
+
+[Takeshi]
+"Ah! Hey, you didn't write on my face again, 
+did you...!?"
+
+I instinctively rubbed my cheeks.
+
+
+{T3A008}
+[Y¤u]
+Don't worry, I didn't write anything.
+
+
+8 :
+I stood up slowly and checked my surroundings.
+
+£o¢o had arranged some chairs to create a
+makeshift bed. She was asleep on top of them.
+
+And at the base of her pillow, Pipi's neck was
+cocked to the side.
+
+It looked like he was sleeping too.
+
+I got up, squeezed by the sleeping £o¢o, and
+opened the door.
+
+
+9 :
+
+{T3A009}
+[Kid]
+Hey.
+
+[Takeshi]
+...Oh, mornin', Kid.
+
+
+10 :
+
+{T3A010}
+[Kid]
+Hey, don't look so depressed, Takeshi.
+
+[Takeshi]
+I'm still sleepy.
+
+
+{T3A011}
+[Kid]
+"Well, a lot's happened in the last couple 
+of days. Are you worn out?"
+
+[Takeshi]
+"I'm alright. I just need to freshen up, that's all. 
+See ya."
+
+
+11 :
+I headed to the nearest bathroom.
+
+The water covering the floor seeped into my
+shoes, which had only just finished drying.
+They got wet all over again.
+
+My socks got heavy and clung to my feet.
+
+My pace slowed.
+
+[Takeshi]
+.......
+
+[Takeshi]
+.......
+
+[Takeshi]
+...Argh! What a freakin' pain!
+
+
+12 :
+Splash!
+
+Scooping up water from around my feet, I
+splashed it on my face.
+
+[Takeshi]
+Whoa, that's cold...!
+
+I was shivering, but at the same time, my
+whole body felt awake.
+
+So that was why people washed their faces in the
+morning...
+
+
+13 :
+When I went back to the conference room, the
+conversation quickly turned to what we were
+going to eat.
+
+[Takeshi]
+"Tsugumi and Sora aren't here. You sure it's 
+okay?"
+
+
+14 :
+
+{T3A012}
+[Y¤u]
+"That's true... but they'll probably show up 
+eventually."
+
+[Takeshi]
+"Yeah, knowing those two, you're probably 
+right."
+
+
+15 :
+I decided to wake up £o¢o.
+
+[Takeshi]
+Hey, get up. It's morning.
+
+I shook her shoulder gently.
+
+
+16 :
+
+{T3A013}
+[£o¢o]
+Funyuu... Hmmmmm...
+
+Rubbing her eyes, £o¢o got up slowly.
+
+
+17 :
+
+{T3A014}
+[£o¢o]
+Oh, good morning... onii-chan...
+
+[Takeshi]
+...Huh? Onii-chan?
+
+[Takeshi]
+"Oh, I see. You have a brother, £o¢o? But I'm 
+not your brother..."
+
+
+18 :
+
+{T3A015}
+[£o¢o]
+No... Onii-chan...
+
+
+{T3A016}
+[£o¢o]
+"We need to get ready, or we'll be late for 
+school..."
+
+£o¢o was still half in dreamland.
+
+[Takeshi]
+Late for school?
+
+[Takeshi]
+What are you talking about?
+
+
+19 :
+
+{T3A017}
+[£o¢o]
+Well, that's just the setting it is...
+
+[Takeshi]
+Uh, listen...
+
+[Takeshi]
+Stop messing around, we're going to eat.
+
+
+20 :
+
+{T3A018}
+[£o¢o]
+Ah... Okay, Takepyon.
+
+
+21 :
+We all made our way to the kiosk.
+
+[Takeshi]
+Everyone okay with hotdogs?
+
+
+22 :
+
+{T3A019}
+[£o¢o]
+Hotdogs?
+
+
+{T3A020}
+[Y¤u]
+They have hotdogs here?
+
+[Takeshi]
+"Well, I found a few in the back of the 
+fridge. Must've been on the stealth menu."
+
+
+23 :
+I was relegated to cook duty again.
+
+
+24 :
+
+{T3A021}
+[Y¤u]
+Hey, Kuranari, are they done yet?
+
+
+25 :
+
+{T3A022}
+[Y¤u]
+Why do I have to be so hungryyy?
+
+
+{T3A023}
+[Y¤u]
+My stomach is going to cave in...
+
+
+26 :
+
+{T3A024}
+[Y¤u]
+I'm going to become two-dimensional.
+
+
+{T3A025}
+[Y¤u]
+And float away on the wind.
+
+[Takeshi]
+Would you shut up already?
+
+
+27 :
+
+{T3A026}
+[Y¤u]
+Hahaha...
+
+
+28 :
+I was inside the kiosk that had been made to
+look like a submarine.
+
+Sausages were sizzling in a frying pan.
+
+
+They sold sub sandwiches there, so I guessed the
+exterior of the place was a sorry play on that.
+
+(...Why am I thinking about stupid things like
+that...?)
+
+In a little while, the place started to smell
+great.
+
+I carefully placed a sausage in the toasted,
+lightly buttered hotdog buns.
+
+[Takeshi]
+Alright, whoever wants to eat, get in line!
+
+
+29 :
+
+{T3A027}
+[£o¢o]
+I'm first!
+
+[Takeshi]
+Oh!? Well, here ya go.
+
+
+30 :
+
+{T3A028}
+[£o¢o]
+Thank you~
+
+
+31 :
+[Takeshi]
+Help yourself to ketchup and mustard.
+
+
+32 :
+
+{T3A029}
+[Kid]
+Uh, I'd like one too...
+
+
+33 :
+
+{T3A030}
+[Y¤u]
+Hey, wait in line! The next person is M-E-!
+
+
+34 :
+That was probably the way things usually were
+at the shop.
+
+There still wasn't any schedule as to when we
+might get out of LeMU.
+
+But in the meantime, we'd stopped thinking
+about the difficult and negative things.
+
+
+35 :
+
+{T3A031}
+[Kid]
+"I'm not sure why, but you look like you're 
+having fun."
+
+[Takeshi]
+Who, me? You think so? Fun... I guess, maybe...
+
+I wiped the sweat caused by the heat of
+cooking from my face.
+
+
+36 :
+
+{T3A032}
+[£o¢o]
+"Yeah, you look like you might even be enjoying
+your life here."
+
+[Takeshi]
+"I wonder how that'd feel... I guess it'd be 
+kind of fun, owning a stand like this!"
+
+
+37 :
+
+{T3A033}
+[Kid]
+Owning... a stand...
+
+The Kid stifled a laugh.
+
+
+38 :
+
+{T3A034}
+[£o¢o]
+"Takepyon, you really do look like you work 
+here."
+
+[Takeshi]
+"Hotdogs, get your hotdogs! They're on the 
+house!"
+
+
+39 :
+
+{T3A035}
+[£o¢o]
+"You don't think that maybe you could have 
+sold hotdogs in a past life?"
+
+[Takeshi]
+Aw shucks, dear customer, you're just sayin' that...
+
+
+40 :
+
+{T3A036}
+[Y¤u]
+"No, £o¢o, I don't think he was a hotdog man, 
+I think he was..."
+
+
+41 :
+
+{T3A037}
+[Y¤u]
+...A sandwich man?
+
+[Takeshi]
+Ah, come on, Y¤u!
+
+
+42 :
+
+{T3A038}
+[Y¤u]
+Ahahahaha...
+
+[Takeshi]
+...Hahaha.
+
+
+43 :
+I supposed we were just happy to be eating hot
+food.
+
+We could worry about the details after our
+stomachs were full.
+
+For the time, we were enjoying eating that
+simple meal.
+
+
+44 :
+After spending some time laughing...
+
+
+45 :
+
+{T3A039}
+[Kid]
+Ah...!
+
+The Kid suddenly looked up at the ceiling.
+
+
+46 :
+
+{T3A040}
+[Kid]
+Wh-what's that...?
+
+He blinked; his eyes were focused on the
+ceiling as if he had seen something.
+
+
+47 :
+[Takeshi]
+H-hey, what's wrong?
+
+My curiosity piqued, I asked him.
+
+And following his gaze, I looked up at the
+ceiling.
+
+But I couldn't see anything out of the
+ordinary...
+
+
+48 :
+
+{T3A041}
+[Kid]
+I wonder...
+
+
+{T3A042}
+[Kid]
+"I don't know what it was, but I swear I saw 
+something."
+
+[Takeshi]
+Saw something? Like what?
+
+
+{T3A043}
+[Kid]
+Uhh... Well, I didn't really see it...
+
+
+{T3A044}
+[Kid]
+"I just have a bad feeling... about the second 
+floor... somewhere."
+
+[Takeshi]
+What the heck are you talking about?
+
+
+{T3A045}
+[Kid]
+"Um, I think we should check that floor one 
+more time..."
+
+His eyes looked upward again, and he started
+mumbling incoherently. Concerned, I shook his
+shoulder.
+
+
+49 :
+And then he snapped out of it.
+
+[Takeshi]
+"Don't worry about it. If something's up, Sora 
+would warn us about it, right?"
+
+
+50 :
+
+{T3A046}
+[Kid]
+Yeah... You're right... but still...
+
+[Takeshi]
+Looks like I'm not the only one who's tired.
+
+
+51 :
+Then Tsugumi appeared out of nowhere.
+
+
+52 :
+
+{T3A047}
+[Tsugumi]
+What just happened?
+
+[Takeshi]
+"Ah, everyone was eating hotdogs. Hey, I've 
+got one for you too."
+
+[Tsugumi]
+.........
+
+Tsugumi took it without saying anything.
+
+
+53 :
+I could hear the sound of her taking the
+hotdog out of its wrapper.
+
+And I watched her motions carefully.
+
+I swallowed, watching her...
+
+Tsugumi placed the wrapper on the counter...
+
+Slowly, with the ketchup in her right hand
+and the mustard in her left, she squeezed the
+tubes. Their contents gushed out.
+
+[Takeshi]
+H-hey, Tsugumi!
+
+
+54 :
+
+{T3A048}
+[Tsugumi]
+What?
+
+The hotdog was entirely covered in red and
+yellow.
+
+[Takeshi]
+"You eat that much mustard and... it'll kill 
+you..."
+
+
+55 :
+
+{T3A049}
+[Tsugumi]
+...Really?
+
+Tsugumi bit into the hotdog.
+
+
+56 :
+[Tsugumi]
+.........
+
+[Takeshi]
+H-hey? Is it spicy? I bet it's spicy?
+
+
+57 :
+
+{T3A050}
+[Tsugumi]
+Not really.
+
+[Takeshi]
+"You're probably thinking to yourself, 'Dang, 
+I put way too much on!', right?"
+
+
+58 :
+
+{T3A051}
+[Tsugumi]
+...I don't... really care.
+
+And after that, she continued eating in
+silence.
+
+But I thought I'd seen a glimmer.
+
+Of eyes slightly starting to tear up.
+
+[Takeshi]
+Hey, don't strain yourself.
+
+
+59 :
+
+{T3A052}
+[Tsugumi]
+I'm not. I'm finished.
+
+[Takeshi]
+Oh...
+
+60 :
+{11:0-aa}
+{11:1}Where'd you go this morning?
+
+{11:1}Hey, you want another one?
+
+
+61 :
+[Takeshi]
+By the way, where'd you go this morning?
+
+
+62 :
+
+{T3A053}
+[Tsugumi]
+...Why? What do you want to know that for?
+
+[Takeshi]
+"Well, when everyone went to bed, you were 
+still with us, right?"
+
+[Takeshi]
+"But when we got up, we couldn't find you, 
+so..."
+
+
+63 :
+
+{T3A054}
+[Tsugumi]
+So what...?
+
+
+{T3A055}
+[Tsugumi]
+It's none of your business.
+
+[Takeshi]
+That's not true.
+
+[Takeshi]
+"I'm in charge of breakfast, right? So I just 
+wanted to know if you wanted some."
+
+
+64 :
+
+{T3A056}
+[Tsugumi]
+I ate, okay? Enough already.
+
+[Takeshi]
+What? No, uh, I mean, YEAH, but...
+
+[Takeshi]
+"It was on my mind, you know? I guess I was 
+worried..."
+
+[Takeshi]
+I wondered, what happened to you?
+
+[Takeshi]
+"Where'd you go? Where do you always 
+disappear to?"
+
+[Takeshi]
+I guess I just wanted to know.
+
+[Takeshi]
+"Hey, I got it... You just had to find a place 
+to go by yourself, right?"
+
+
+65 :
+[Tsugumi]
+.........
+
+As usual, those questions were getting me
+nowhere.
+
+[Takeshi]
+"Well, if you don't want to answer, don't 
+worry about it."
+
+
+66 :
+[Takeshi]
+"Hey, you want another one? I can make you 
+one."
+
+
+67 :
+
+{T3A057}
+[Tsugumi]
+No thanks.
+
+[Takeshi]
+"You always just wolf your food down. I don't 
+know, but there just isn't much satisfaction 
+in cooking for you."
+
+[Takeshi]
+"Besides, with all that ketchup and mustard 
+on it, you probably can't even taste it."
+
+
+68 :
+
+{T3A058}
+[Tsugumi]
+It doesn't matter how it tastes.
+
+[Takeshi]
+Of course it matters!
+
+[Takeshi]
+"I'm doing my best to show you how real 
+cookin' tastes!"
+
+[Takeshi]
+"You just wait, I'll cook you up a meal that'll 
+wake up your taste buds...!"
+
+
+69 :
+
+{T3A059}
+[Tsugumi]
+I've had enough to eat, okay?
+
+
+{T3A060}
+[Tsugumi]
+I'm full...
+
+[Takeshi]
+...Hmph.
+
+[Takeshi]
+Well, if you say so.
+
+
+70 :
+BOOOooom!
+
+
+71 :
+Suddenly, a low metallic sound reverberated
+throughout the complex.
+
+It was a dull, muffled sound.
+
+
+72 :
+[Takeshi]
+Wh-what was that!?
+
+
+{T3A061}
+[Tsugumi]
+This whole place just shook... a little.
+
+Tsugumi's eyes darted around as if searching
+for something.
+
+Moments later, the Kid and £o¢o, who'd both
+been resting in another room, appeared.
+
+
+73 :
+[Takeshi]
+Hey, Kid, what was that?
+
+
+{T3A062}
+[Kid]
+Uh, I don't know...
+
+[Takeshi]
+"Hey, this doesn't have anything to do with 
+that 'bad feeling' you had earlier, does it?"
+
+
+74 :
+The Kid shook his head.
+
+
+{T3A063}
+[Kid]
+I don't know. Maybe we should ask Sora...
+
+
+{T3A064}
+[Sora]
+Did you call for me?
+
+
+75 :
+From out of nowhere, Sora appeared in midair
+and floated down in front of us.
+
+
+{T3A065}
+[£o¢o]
+Ah, hi, Sora-san!
+
+[Takeshi]
+Hey, Sora! Where were you?
+
+
+76 :
+
+{T3A066}
+[Sora]
+I'm terribly sorry. I overslept.
+
+Sora looked embarrassed.
+
+[Takeshi]
+Overslept? But you're...
+
+[Takeshi]
+...Nah, we'll save that for later.
+
+
+{T3A067}
+[Kid]
+"Hey, did something just happen? There was an 
+awful noise just now."
+
+
+77 :
+
+{T3A068}
+[Sora]
+"One of the shafts that supports this floor 
+has started to warp."
+
+
+{T3A069}
+[Kid]
+We didn't see any signs of it yesterday...
+
+
+{T3A070}
+[Sora]
+"Yes, well, it wasn't in my calculations. It appears
+as if the ocean currents may have caused it."
+
+[Takeshi]
+How dangerous are we talking here?
+
+
+78 :
+
+{T3A071}
+[Sora]
+"Well it should be within the margin of error, 
+but... No, wait a second."
+
+
+79 :
+
+{T3A072}
+[Sora]
+"There is an anomaly in one of the 
+pressure-regulating pipes at Zweiter 
+Stock's warehouse."
+
+[Takeshi]
+What are pressure-regulating pipes?
+
+
+{T3A073}
+[Sora]
+"These pipelines are responsible for adjusting 
+the pressure inside the multi-layered 
+bulkheads comprising LeMU."
+
+
+80 :
+
+{T3A074}
+[Sora]
+"If any of them should rupture, for whatever 
+reason, I am incapable of repairing them."
+
+
+{T3A075}
+[Sora]
+"The anomaly is only slight, so you shouldn't have to
+hurry, but... I think it is best if someone goes to check
+on it. Would you please go for me?"
+
+[Takeshi]
+Sure, leave it to me.
+
+I volunteered right away.
+
+
+81 :
+
+{T3A076}
+[Tsugumi]
+I'll go too.
+
+Unexpectedly, Tsugumi also agreed to go.
+
+[Takeshi]
+Tsugumi? You sure?
+
+
+{T3A077}
+[Tsugumi]
+"Well, if we're going to fix something, we'll 
+need tools, right? I know my way around a 
+workshop."
+
+[Takeshi]
+Alright... Let's go.
+
+
+82 :
+
+{T3A078}
+[£o¢o]
+I'll help too!
+
+
+{PIPI_00}
+[Pipi]
+*Woof*
+
+[Takeshi]
+"Okay, you can come too, £o¢o... Hey, does 
+anyone know where Y¤u went?"
+
+I looked around but didn't see Y¤u anywhere.
+
+
+83 :
+
+{T3A079}
+[Kid]
+"She went to the control room when things were 
+shaking earlier."
+
+
+84 :
+
+{T3A080}
+[Sora]
+We must have just missed each other.
+
+
+{T3A081}
+[Kid]
+"I'll go and tell her that you're going up 
+above."
+
+[Takeshi]
+"Alright, Kid. I'll leave it to you. Keep an 
+eye on things from the control room, will 
+you? Just to make sure we don't miss 
+anything..."
+
+
+85 :
+
+{T3A082}
+[Sora]
+If something comes up, use LeMMIH to contact me.
+
+
+{T3A083}
+[Kid]
+Alright. See you later!
+
+
+86 :
+Bounding across the water's surface, the Kid
+shot down the corridor.
+
+
+87 :
+We climbed the emergency stairs quickly.
+
+We were told that it wasn't urgent, but we
+still couldn't afford to be careless.
+
+Tsugumi quietly shouldered the heavy toolbox,
+climbing higher and higher.
+
+£o¢o and Pipi followed right behind.
+
+[Takeshi]
+By the way, Sora...
+
+I asked Sora, who was gliding alongside me,
+something that had been on my mind.
+
+
+88 :
+
+{T3A084}
+[Sora]
+Yes, Kuranari-san. What is it?
+
+[Takeshi]
+You mention you'd 'overslept' earlier...?
+
+
+89 :
+
+{T3A085}
+[Sora]
+Y-yes, I'm sorry...
+
+Sora's face went a deep shade of red.
+
+
+{T3A086}
+[Sora]
+"Actually, there was some routine maintenance on 
+one of the servers where my data is stored. 
+It initiated automatically this morning."
+
+
+90 :
+
+{T3A087}
+[Sora]
+"It appears that it took some time for the 
+return processing. I was a little too 
+optimistic on the preliminary check. I'm 
+terribly sorry."
+
+[Takeshi]
+Hmm, so that's what it was.
+
+[Takeshi]
+...Ahahaha.
+
+I laughed for some reason.
+
+
+91 :
+
+{T3A088}
+[Sora]
+Um, er, what... Did I say something amusing?
+
+Sora was confused.
+
+[Takeshi]
+"No, I just thought it was funny that even 
+YOU could oversleep, Sora."
+
+
+92 :
+
+{T3A089}
+[Sora]
+Ahh... That's funny...?
+
+[Takeshi]
+How should I put it...? It's cute.
+
+
+93 :
+
+{T3A090}
+[Sora]
+'Cute'...!?
+
+[Takeshi]
+Yeah.
+
+
+{T3A091}
+[Sora]
+Sleeping in is... cute?
+
+
+{T3A092}
+[Sora]
+That does not compute...
+
+Sora's eyes went round.
+
+Maybe it was because that particular use of
+the word wasn't in her database.
+
+
+94 :
+
+{T3A093}
+[Sora]
+I've caused all of you such trouble...
+
+[Takeshi]
+Hey, nobody's angry. Don't let it bother you.
+
+[Takeshi]
+Everyone knows that you're working hard.
+
+
+95 :
+
+{T3A094}
+[Sora]
+Ah, yes. Thank you...
+
+Although Sora looked somewhat puzzled, her
+cheeks seemed to glow with joy.
+
+And for some reason, I found that amusing too.
+
+
+{T3A095}
+[Sora]
+Really...? Is it...cute...?
+
+I thought it was a charmingly innocent
+reaction.
+
+I supposed it was the kind of thing you'd call
+'cute'.
+
+
+96 :
+We finally arrived at Zweiter Stock.
+
+Looking around the floor, everything seemed
+normal, but we could hear a hissing sound
+coming from somewhere.
+
+We walked toward the sound.
+
+
+97 :
+[Takeshi]
+Yesterday, everything was fine here.
+
+[Takeshi]
+"Why do you think something would go wrong all 
+of a sudden?"
+
+
+{T3A096}
+[Sora]
+"Well... everything doesn't always go 
+according to plan..."
+
+
+98 :
+
+{T3A097}
+[£o¢o]
+"Is it because everyone was bouncing around so 
+much?"
+
+£o¢o said that casually.
+
+
+99 :
+[Takeshi]
+Huh?
+
+
+100 :
+
+{T3A098}
+[£o¢o]
+You guys were making such a fuss...
+
+
+{T3A099}
+[£o¢o]
+It probably threw LeMU off its axis.
+
+[Takeshi]
+I... I don't think so.
+
+[Tsugumi]
+.........
+
+
+101 :
+
+{T3A100}
+[Tsugumi]
+Haha, maybe it is.
+
+Tsugumi laughed softly.
+
+
+102 :
+
+{T3A101}
+[Tsugumi]
+"But if we make some repairs, everything 
+should be fine."
+
+
+{T3A102}
+[£o¢o]
+Yeah, I guess so. Right, Tsugumin?
+
+
+{T3A103}
+[Tsugumi]
+Yeah. Don't worry about it, £o¢o.
+
+
+103 :
+
+{T3A104}
+[£o¢o]
+Whew! I'm so relieved~
+
+
+{T3A105}
+[£o¢o]
+Woohoo! Alright~
+
+
+{PIPI_04}
+[Pipi]
+Rrruff! Rrruff!
+
+
+104 :
+We stood in front of the room where the
+hissing sound was coming from.
+
+[Takeshi]
+So it is coming from inside the warehouse.
+
+
+105 :
+
+{T3A106}
+[Sora]
+"I will run a scan to determine the situation 
+inside."
+
+
+106 :
+Saying that, Sora disappeared.
+
+[Takeshi]
+"The steam in there isn't going to explode 
+if we open the door, right?"
+
+After I asked that, Tsugumi eyed the door
+uncertainly.
+
+
+107 :
+
+{T3A107}
+[Tsugumi]
+Hmmm...
+
+
+108 :
+
+{T3A108}
+[Tsugumi]
+It's probably fine.
+
+[Takeshi]
+How would you know? Do you...?
+
+
+109 :
+
+{T3A109}
+[Tsugumi]
+I'm just saying what you want to hear.
+
+
+110 :
+Sora appeared in front of the door.
+
+
+111 :
+
+{T3A110}
+[Sora]
+I have finished the diagnostic.
+
+
+{T3A111}
+[Sora]
+"Atmospheric pressure is normal. No traces of 
+toxic gas detected; however, the temperature 
+and humidity of the room are rising in 
+slight increments."
+
+
+{T3A112}
+[Sora]
+"An area of the pipe has ruptured, and there 
+is a slight water leak. The water is about 
+ten centimeters at its deepest point."
+
+
+112 :
+
+{T3A113}
+[Tsugumi]
+That's hardly anything at all.
+
+
+113 :
+
+{T3A114}
+[Sora]
+No, I suppose not...
+
+[Takeshi]
+"Let's go in. If we fix it, there won't be a 
+problem, right?"
+
+
+114 :
+
+{T3A115}
+[Sora]
+Yes. Please hurry.
+
+
+115 :
+I opened the door.
+
+I looked toward the wall that was making the
+hissing sound.
+
+There was a faint crack in the
+pressure-regulating pipe, and water was
+dancing out of it in a fine mist.
+
+If that was all it was, it didn't seem like we
+had anything to worry about.
+
+It seemed like we'd be able to fix it in no
+time.
+
+116 :
+Tsugumi opened up the toolbox and started
+spreading a few tools out in front of her.
+
+
+117 :
+[Takeshi]
+What should I do?
+
+
+{T3A116}
+[Tsugumi]
+"The pipe is bent a little bit... I'm going to 
+clamp a metal sleeve on it. Would you support 
+the pipe for me?"
+
+[Takeshi]
+Roger that!
+
+
+118 :
+
+{T3A117}
+[£o¢o]
+What should I do?
+
+
+{T3A118}
+[Tsugumi]
+"On the other side of this... there should be 
+a valve attached to this pipe. You see it? I 
+want you to loosen that a bit."
+
+
+119 :
+
+{T3A119}
+[£o¢o]
+Okaaaay, gotcha!
+
+
+120 :
+We all started working in unison.
+
+
+121 :
+We opened and closed a number of valves,
+connected and repaired pipes, and welded shut
+cracks...
+
+
+122 :
+[Takeshi]
+You seem really used to all this.
+
+
+123 :
+
+{T3A120}
+[Tsugumi]
+What do you mean?
+
+[Takeshi]
+Welding. Where'd you learn that?
+
+
+{T3A121}
+[Tsugumi]
+You want to know?
+
+[Takeshi]
+Uh, well, it's just that...
+
+
+124 :
+
+{T3A122}
+[Tsugumi]
+"You know, asking meaningless questions is a 
+bad habit of yours."
+
+
+125 :
+And after that, I didn't feel I could ask
+anything else.
+
+Sora watched us for a while from the side.
+
+
+126 :
+After a while, an intercom in the corner of the
+room sounded.
+
+
+127 :
+[Takeshi]
+Huh, did someone call?
+
+
+128 :
+
+{T3A123}
+[Sora]
+"Excuse me, everyone, but Tanaka-san is calling me.
+I must be going."
+
+[Takeshi]
+"Okay, go for it. We should be able to handle 
+the rest ourselves."
+
+
+129 :
+
+{T3A124}
+[Sora]
+Okay. I'll leave the rest to you.
+
+
+130 :
+Sora approached the intercom and disappeared
+as if it had sucked her in.
+
+
+131 :
+I knew she could travel instantly, but... it
+was still an odd sight.
+
+
+132 :
+
+{T3A125}
+[Tsugumi]
+"Takeshi? Don't just stand there. On to the 
+next pipe."
+
+[Takeshi]
+Huh? Oh, okay.
+
+
+133 :
+
+{T3A126}
+[Tsugumi]
+First, take that blue valve and...
+
+The water underfoot hadn't gone down at all.
+Although the drain pump was moving, the
+drainage pipe was broken.
+
+
+{T3A127}
+[Tsugumi]
+Now twist the red valve...
+
+We'd fixed a number of pipes, but the sound of
+escaping steam still hadn't stopped.
+
+
+{T3A128}
+[Tsugumi]
+Alright, £o¢o, wait just a bit.
+
+
+{T3A129}
+[£o¢o]
+Okay, I'm ready~
+
+
+134 :
+
+{T3A130}
+[Tsugumi]
+"Takeshi, turn the valves in the order I told 
+you."
+
+[Takeshi]
+...
+
+
+135 :
+
+{T3A131}
+[Tsugumi]
+Hey, Takeshi, are you listening?
+
+[Takeshi]
+"Huh? Yeah, alright, alright. I'm sorry. Blue, 
+then red, right?"
+
+
+{T3A132}
+[Tsugumi]
+Yeah. Loosen them, then shut them again.
+
+
+136 :
+I set to work on the blue valve in front of me.
+
+
+I was supposed to loosen it...
+
+(Eh? Which way was I supposed to turn it
+again...?)
+
+137 :
+{11:0-ac}
+{11:1}Clockwise
+
+{11:1}Counterclockwise
+
+
+138 :
+That one went clockwise, right...
+
+
+139 :
+I turned the blue valve with all of my
+strength.
+
+
+140 :
+The sound of rushing air grew louder.
+
+
+141 :
+That one went counterclockwise, right...
+
+
+
+142 :
+I turned the blue valve with all of my
+strength.
+
+
+143 :
+The sound of rushing steam grew softer.
+
+
+144 :
+Next, close the red valve...
+
+The next valve was nearby.
+
+145 :
+{11:0-ae}
+{11:1}Clockwise
+
+{11:1}Counterclockwise
+
+
+146 :
+That one went clockwise, right...
+
+
+147 :
+I turned the red valve.
+
+
+148 :
+The strength of the steam blowing from the pipe
+weakened.
+
+
+149 :
+That one went counterclockwise, right...
+
+
+150 :
+I turned the red valve.
+
+
+151 :
+The strength of the steam blowing from the
+pipe got stronger.
+
+
+152 :
+(Alright, that does it.)
+
+[Takeshi]
+Okay!
+
+
+{T3A133}
+[Tsugumi]
+£o¢o, hold on just a little longer.
+
+
+{T3A134}
+[£o¢o]
+Okay.
+
+
+153 :
+Holding up her left hand to shield her face,
+Tsugumi operated the welding torch with her
+right hand.
+
+The crack in the pipe closed visibly.
+
+
+154 :
+
+{T3A135}
+[Tsugumi]
+"Takeshi, go support that pipe. It looks like 
+it's shaking."
+
+Tsugumi barked the order to me as she was
+welding.
+
+[Takeshi]
+Okay.
+
+I reached out to touch the pipe that had the
+valve I'd just closed.
+
+
+155 :
+[Takeshi]
+Ouch!
+
+The pipe was scalding hot, and I pulled my
+hand back instinctively.
+
+
+156 :
+
+{T3A136}
+[Tsugumi]
+"Huh? That shouldn't be... Did you turn the 
+valve the right way?"
+
+[Takeshi]
+Yeah, I think so.
+
+
+157 :
+
+{T3A137}
+[Tsugumi]
+That's strange...
+
+[Takeshi]
+"Well, we're going to have to support this 
+pipe somehow. I'll try to find a cover..."
+
+
+158 :
+I looked around.
+
+And the moment I took my eyes off the pipe...
+
+
+159 :
+Creak, crackle... crack!
+
+[Takeshi]
+What?
+
+Turning toward the sound, I could see the pipe
+swelling rapidly.
+
+
+160 :
+BOOM!
+
+The cap burst off and flew toward my head.
+
+I pulled back, dodging rapidly.
+
+The flying metal ricocheted off the floor and
+came to a stop.
+
+[Takeshi]
+That was close... WoooAAH!?
+
+
+161 :
+BAM!
+
+
+162 :
+KA-BOOM!
+
+One after another, metal pipes bent and then
+exploded around me.
+
+[Takeshi]
+Waaagh!
+
+I panicked and got the hell out of there.
+
+But there were stacks of crates and old
+containers in the direction I tried to escape.
+
+
+163 :
+
+{T3A138}
+[Tsugumi]
+"Takeshi, after I've finished attaching this, 
+return the valve to its original position 
+right away."
+
+[Takeshi]
+Okay, gotcha.
+
+Tsugumi finished welding.
+
+
+164 :
+
+{T3A139}
+[Tsugumi]
+The valve! Hurry!
+
+[Takeshi]
+Alright! Geez!
+
+
+165 :
+I quickly turned the valve back in the other
+direction.
+
+I could feel the steam flowing through the
+valve.
+
+
+{T3A140}
+[Tsugumi]
+"£o¢o, this pipe's done. Go on to the next 
+one."
+
+
+{T3A141}
+[£o¢o]
+Okay, where is it?
+
+
+{T3A142}
+[Tsugumi]
+Hmmm... Hold on just a second.
+
+The water underfoot still hadn't gone down at
+all and was swirling around like a whirlpool.
+
+The air conditioner on the wall was sucking
+in water and gurgling it out.
+
+
+166 :
+It appeared it had also shorted out.
+
+I could see blue-white sparks jumping around
+inside.
+
+(I hope it doesn't shock me...)
+
+I was starting to get a little scared.
+
+
+167 :
+CRACK!
+
+[Takeshi]
+!?
+
+The air conditioner made an awful sound.
+
+
+168 :
+And all of a sudden, muddy water started
+overflowing from the exhaust vent.
+
+The area around my legs was quickly getting
+grimy.
+
+
+{T3A143}
+[Tsugumi]
+"The drainage is starting to backflow, so be 
+careful."
+
+
+169 :
+[Takeshi]
+Wagh!
+
+My leg got caught up in the jet of muddy
+water, and I lost my balance.
+
+I reached out to grab something.
+
+I caught onto a stack of crates and old
+containers lying nearby.
+
+
+170 :
+CRASH!
+
+
+171 :
+Although the crates caught my weight, they
+shifted and began spilling over.
+
+Countless containers and rusty pipes started
+raining down.
+
+
+172 :
+They passed me and headed on a direct course
+to hit the wall.
+
+And in their path was‡L
+
+[Takeshi]
+£o¢o, watch out!
+
+
+173 :
+
+{T3A144}
+[£o¢o]
+Wha...?
+
+
+{T3A145}
+[Tsugumi]
+Get back!
+
+
+174 :
+Metal was raining down.
+
+The old pipe broke apart into thousands of
+pieces.
+
+
+175 :
+The containers were splintering.
+
+
+176 :
+They all struck the surface of the shallow
+water violently.
+
+
+177 :
+The sound of hard, heavy objects falling
+echoed in the room.
+
+The whole room quivered.
+
+
+178 :
+A few pipes along the wall had ruptured and
+were spewing out water.
+
+And where £o¢o had been sitting only a moment
+earlier...
+
+
+179 :
+Tsugumi lay... fallen over.
+
+
+{T3A146}
+[£o¢o]
+...!
+
+£o¢o looked around at the spectacle and
+hugged Pipi to herself tightly, her hands
+trembling.
+
+Just before the metallic objects had crashed
+down on £o¢o's back, Tsugumi had thrust her
+out of the way.
+
+She'd protected her... while risking her own
+life...
+
+
+180 :
+[Takeshi]
+Tsugumi!
+
+
+{T3A147}
+[Tsugumi]
+Agh...
+
+A metal shard had dug deeply into Tsugumi's
+right thigh, and it didn't look like she
+could move.
+
+Steam was pouring out of the burst pipes
+surrounding us.
+
+And the drainage pump, not doing its job,
+continued belching out muddy water in large
+quantities.
+
+
+{T3A148}
+[Tsugumi]
+I guess I messed up.
+
+Tsugumi grimaced and clasped her thigh
+tightly.
+
+She was losing a lot of blood.
+
+The murky water was getting redder by the
+moment...
+
+[Takeshi]
+Hey, you okay!?
+
+
+{T3A149}
+[Tsugumi]
+Heh heh. Does this LOOK okay to you?
+
+
+{T3A150}
+[Tsugumi]
+Always asking stupid questions.
+
+[Takeshi]
+"S-stop laughing! I'm going to get that stuff 
+off you, just wait!"
+
+I hurried through the water to Tsugumi and
+tried to lift the metal off of her.
+
+But no matter how hard I tried, the heavy
+chunk wouldn't budge.
+
+[Takeshi]
+Damn it!
+
+
+{T3A151}
+[Tsugumi]
+Looks like it's no use...
+
+In the meantime, the water level had risen
+from ankle to knee height.
+
+
+{T3A152}
+[£o¢o]
+Tsugumiiin!
+
+£o¢o crawled over to get closer to Tsugumi.
+
+
+{T3A153}
+[Tsugumi]
+Get away from me!
+
+Stung by Tsugumi's cold words, £o¢o stiffened
+and stopped.
+
+
+{T3A154}
+[Tsugumi]
+Get out of here, £o¢o.
+
+
+{T3A155}
+[Tsugumi]
+You too, Takeshi. Get out while you can...
+
+
+{T3A156}
+[Tsugumi]
+"At this rate, this room's partitions won't 
+last."
+
+
+{T3A157}
+[Tsugumi]
+You'll both die if you stay.
+
+
+{T3A158}
+[Tsugumi]
+So hurry...
+
+
+{T3A159}
+[Tsugumi]
+Get out of here.
+
+[£o¢o]
+.........
+
+[Takeshi]
+...St‡L
+
+[Takeshi]
+"Stupid idiot! You think I can just leave 
+you!?"
+
+
+{T3A160}
+[Tsugumi]
+"There's nothing you can do, right? I'm stuck 
+here."
+
+
+{T3A161}
+[Tsugumi]
+"And with this injury, you can't help me 
+anyway‡L"
+
+[Takeshi]
+Shut up!
+
+I roared out.
+
+[Takeshi]
+I won't let you give up on me now, damn it!
+
+[Takeshi]
+Hey, £o¢o! What are you standing there for!?
+
+
+{T3A162}
+[£o¢o]
+Wah! Y-yes!?
+
+[Takeshi]
+Get on that intercom and contact the others!
+
+With all her might, £o¢o moved her trembling
+legs to get closer to the intercom.
+
+
+{T3A163}
+[£o¢o]
+"It's no use... It's broken! I pushed the 
+button, but nothing happened!"
+
+[Takeshi]
+"So run up and tell the others to get over 
+here!"
+
+
+{T3A164}
+[£o¢o]
+O-okay, I'm going!
+
+Although she looked flustered, £o¢o nodded
+and ran off.
+
+The door to the warehouse closed.
+
+Soon, water came up to the bottom of the door.
+
+
+181 :
+[Tsugumi]
+.........
+
+[Takeshi]
+.........
+
+The water continued to rise.
+
+From her waist down, Tsugumi was almost
+completely underwater.
+
+The water level was almost over my knees.
+
+
+{T3A165}
+[Tsugumi]
+What are you trying to prove...?
+
+
+{T3A166}
+[Tsugumi]
+"It doesn't mean anything... Just leave. I 
+don't want you here."
+
+[Takeshi]
+I wouldn't be here if there wasn't a reason.
+
+[Takeshi]
+I can't just leave you here.
+
+
+{T3A167}
+[Tsugumi]
+Why not?
+
+[Takeshi]
+"I've taken nothing but abuse from you, and 
+you still haven't thanked me properly yet."
+
+
+{T3A168}
+[Tsugumi]
+"Oh, really... Heh heh. Well, that's reason 
+enough, I suppose."
+
+Tsugumi laughed weakly.
+
+Her lips were trembling.
+
+The murky water was spreading.
+
+
+{T3A169}
+[Tsugumi]
+It's gotten cold in here...
+
+[Takeshi]
+"Alright, Tsugumi... I need you to stay with me 
+now."
+
+I chose my words as carefully as possible.
+
+
+{T3A170}
+[Tsugumi]
+I'm perfectly sane.
+
+[Takeshi]
+"You'll be okay. The wound isn't that deep, so 
+don't worry."
+
+
+{T3A171}
+[Tsugumi]
+'You'll be okay'... What makes you think that?
+
+
+{T3A172}
+[Tsugumi]
+You're the one who's crazy...
+
+[Takeshi]
+"I'm sorry, it's all my fault. I wasn't paying 
+attention, and you got hurt..."
+
+[Tsugumi]
+.........
+
+[Takeshi]
+.........
+
+
+182 :
+The water level was rising up to Tsugumi's
+head.
+
+A section of the partitioning had broken, and
+seawater was rushing in.
+
+The water was ice cold and seemed like it
+would freeze us.
+
+The water volume increased mercilessly.
+
+[Tsugumi]
+.........
+
+Her face contorted with pain.
+
+In agony, she labored for breath.
+
+There wasn't any time.
+
+
+183 :
+Making up my mind, I dove into the water.
+
+I couldn't open my eyes.
+
+All I could do was search the bottom using my
+intuition.
+
+(...AaaaaAAAAGGGH!)
+
+(DAMN IT!)
+
+Using all of my strength, I heaved up the
+large mass of metal sticking into Tsugumi's
+leg.
+
+Aided slightly by the buoyancy of the water,
+the metal hunk moved slightly.
+
+Tsugumi pulled her leg out at once.
+
+
+184 :
+I lifted my face out of the water, gulping
+greedily for air.
+
+The flooding wouldn't stop.
+
+The water level was already above my shoulders.
+
+
+{T3A173}
+[Tsugumi]
+You are...
+
+
+{T3A174}
+[Tsugumi]
+Such a stubborn idiot...
+
+[Takeshi]
+Shut up, just keep quiet.
+
+With her leg injured, there was no way
+Tsugumi could swim.
+
+Holding onto her, I headed for the exit.
+
+But the door was already underwater.
+
+
+{T3A175}
+[Tsugumi]
+Look, there's no way you can save me...
+
+[Takeshi]
+I told you to keep quiet!
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"There's got to be another exit. I'll look 
+for it."
+
+[Tsugumi]
+.........
+
+[Takeshi]
+It'll be okay. We'll find a way out of this.
+
+
+{T3A176}
+[Tsugumi]
+"There you go again, saying 'it'll be 
+okay'... You're so irresponsible..."
+
+[Takeshi]
+Would you keep quiet!?
+
+[Tsugumi]
+.........
+
+[Takeshi]
+.........
+
+I probably could have forced open the door if
+I had tried, but it would have put the second
+floor in danger of flooding.
+
+I searched desperately for an emergency exit.
+
+My legs wouldn't touch the floor.
+
+I could hardly breathe.
+
+I was at my limit.
+
+[Takeshi]
+...!
+
+[Takeshi]
+"There's a ladder! In the corner of the room, 
+there's a ladder. We can use it to get to the 
+emergency passage."
+
+[Takeshi]
+We're going to make it, Tsugumi!
+
+
+185 :
+I swam with all my might to get to the ladder.
+
+With Tsugumi draped over my back, I climbed
+up the ladder.
+
+
+186 :
+I opened the flood hatch at the end of the
+ladder and pushed Tsugumi through.
+
+
+187 :
+Going up immediately behind her, I quickly
+shut the hatch.
+
+The sound of the flood faded away...
+
+But there wasn't time to rest.
+
+Tsugumi was still losing blood.
+
+I took her up on my back and began to run.
+
+
+188 :
+[Takeshi]
+Damn, which way should I go...?
+
+A dead end in the passage had me totally lost.
+
+
+189 :
+
+{T3A177}
+[Sora]
+Kuranari-san!
+
+Sora appeared suddenly in front of me.
+
+[Takeshi]
+Sora! Tsugumi is... Tsugumi is!
+
+
+190 :
+
+{T3A178}
+[Sora]
+I know. I heard everything from £o¢o-chan.
+
+
+{T3A179}
+[Sora]
+"Bring her to the infirmary immediately. Tanaka-san
+is currently preparing to treat her."
+
+[Takeshi]
+"Alright, I'm on my way! Now, which way do I 
+go?"
+
+
+{T3A180}
+[Sora]
+"Return back along this passage, go down the 
+stairs on the right, and take the standard 
+passage to..."
+
+[Takeshi]
+Okay!
+
+
+191 :
+[Takeshi]
+Tsugumi, Tsugumi!
+
+[Takeshi]
+It's okay, it's going to be okay...!
+
+[Tsugumi]
+.........
+
+Tsugumi groaned painfully from her place on
+my back.
+
+Even if she thought it was irresponsible of
+me, I couldn't bring myself to tell her, 'It's
+no use, it's too late.'
+
+As long as I had even a little hope, I didn't
+want to throw it away.
+
+
+192 :
+I burst into the infirmary.
+
+I set the injured Tsugumi down on the bed.
+
+She'd lost so much blood...
+
+We had to take emergency measures immediately.
+
+[Takeshi]
+Hey, what are we going to do!?
+
+
+193 :
+
+{T3A181}
+[Y¤u]
+Get out of the way!
+
+Y¤u, who'd been waiting in the room, pushed
+me aside.
+
+A tourniquet was taken out from a rack of
+medical instruments on the wall and fastened
+around Tsugumi's thigh.
+
+
+194 :
+
+{T3A182}
+[Y¤u]
+This is bad...
+
+[Takeshi]
+What's the status? How bad is it?
+
+[Takeshi]
+Can't we use that scanner to check it out?
+
+I pointed to the L-MRI.
+
+
+195 :
+
+{T3A183}
+[Y¤u]
+It seems to be broken.
+
+
+{T3A184}
+[Sora]
+I'll have a look.
+
+
+196 :
+Sora put her hand on Tsugumi. A holographic
+window appeared in the air.
+
+A small sensor or camera started moving on
+the ceiling.
+
+
+197 :
+
+{T3A185}
+[Sora]
+"Well, this is just a bio scan, so I can't 
+tell for certain, but..."
+
+
+198 :
+
+{T3A186}
+[Sora]
+"Her femur is fractured. And it looks like it 
+might be a complex fracture."
+
+
+{T3A187}
+[Sora]
+"That, and the artery is severed. She'll need 
+sutures."
+
+
+199 :
+
+{T3A188}
+[Y¤u]
+"I've stitched up my finger before. It was 
+with a survival kit, but..."
+
+
+200 :
+
+{T3A189}
+[Sora]
+"Well, Tanaka-san, do you think you can
+assist me?"
+
+
+{T3A190}
+[Y¤u]
+I'll do my best! Do we have anesthetic?
+
+
+{T3A191}
+[Sora]
+"I'll get it ready. The laser scalpel, 
+forceps, and sutures... Everything we need is 
+already in the room."
+
+
+201 :
+Sora moved the electric wagon and used its
+robotic arm to gather the necessary surgical
+tools.
+
+Y¤u flipped up Tsugumi's skirt and started
+wiping off the wound.
+
+
+202 :
+
+{T3A192}
+[Y¤u]
+Kuranari!
+
+
+{T3A193}
+[Y¤u]
+Don't stand there! You're in the way!
+
+Y¤u pointed angrily at the exit.
+
+[Takeshi]
+Uh, yeah, sorry... Take care of her, okay!?
+
+
+203 :
+
+{T3A194}
+[Y¤u]
+Leave it to me!
+
+Y¤u looked determined to show us all what she
+was capable of.
+
+
+204 :
+As soon as I left the tense atmosphere of the
+emergency room, my fatigue hit me.
+
+[Takeshi]
+*Sigh*...
+
+I set myself down on a nearby chair.
+
+
+205 :
+
+{T3A195}
+[£o¢o]
+Oh, Takepyon... Is Tsugumin going to be...?
+
+£o¢o was gripping Pipi but looked as if
+she was having a hard time relaxing.
+
+[Takeshi]
+"You let them know right away, so... she should 
+be fine."
+
+
+206 :
+
+{T3A196}
+[£o¢o]
+Really...?
+
+£o¢o's eyes were moist.
+
+It was hard to tell, but she had probably
+been crying moments earlier.
+
+Even still, she tried to smile.
+
+
+207 :
+
+{T3A197}
+[£o¢o]
+Hey, you think Tsugumin's...
+
+
+{T3A198}
+[£o¢o]
+Tsugumin's... gonna be okay, right?
+
+Still looking worried, she tilted her head as
+she asked me.
+
+[Takeshi]
+Yeah. She'll be fine.
+
+[Takeshi]
+Absolutely fine...
+
+I closed my hand into a fist...
+
+And told myself.
+
+She's going to be okay.
+
+
+208 :
+After what seemed like an eternity, Y¤u
+appeared from the infirmary with Sora.
+
+The surgery was over‡L
+
+Tsugumi was going to live.
+
+
+209 :
+
+{T3A199}
+[Sora]
+"It required a total of 40 stitches and will 
+take two months to heal completely."
+
+
+{T3A200}
+[Sora]
+"And it will take her a few more months to be 
+able to walk normally..."
+
+
+{T3A201}
+[Sora]
+"Until a rescue team arrives at LeMU and we 
+can get her out of here, she's going to have 
+to rest."
+
+[Takeshi]
+Alright. Thanks, Sora.
+
+[Takeshi]
+And... good job, Y¤u.
+
+[Y¤u]
+.........
+
+[Takeshi]
+Y¤u? What's wrong?
+
+
+210 :
+
+{T3A202}
+[Y¤u]
+...What?
+
+
+211 :
+
+{T3A203}
+[Y¤u]
+"Oh... Um, nothing, I'm just really tired... You 
+know..."
+
+
+{T3A204}
+[Y¤u]
+"I've never done an operation like that 
+before..."
+
+After that, Y¤u looked down and didn't say much.
+
+
+212 :
+
+{T3A205}
+[Sora]
+"By the way, it looks like the flooding 
+stopped in the Zweiter Stock warehouse."
+
+
+{T3A901}
+[Sora]
+"All pipelines connecting to the warehouse
+have been closed as an emergency measure, and
+the whole area has been sealed off from
+Zweiter."
+
+{T3A902}
+[Sora]
+"So we don't have to worry about the 
+flood damage expanding."
+
+{T3A207}
+[Sora]
+That's it, then.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

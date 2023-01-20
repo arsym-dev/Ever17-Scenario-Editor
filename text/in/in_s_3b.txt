@@ -1,0 +1,3305 @@
+
+
+1 :
+[Kid]
+Y¤u!
+
+[Kid]
+Hey! Y¤u!
+
+It was strange... I thought that maybe she
+wasn't on that floor.
+
+Just then, Sora's voice came to me from the
+voice converter.
+
+
+2 :
+
+{S3A274}
+[Sora]
+Kid-san, it's me, Sora.
+
+
+{S3A275}
+[Sora]
+I know where Tanaka-san is. She is fine, of course.
+
+[Kid]
+Huh? Where is she?
+
+
+{S3A276}
+[Sora]
+Zweiter Stock. In the security office.
+
+[Kid]
+Security office? Why is she there again?
+
+
+{S3A277}
+[Sora]
+"I don't know. Tanaka-san contacted me about her 
+whereabouts."
+
+[Kid]
+"I got it. I'll go to the warehouse as 
+well then."
+
+
+{S3A278}
+[Sora]
+No, that will not be necessary.
+
+[Kid]
+Why not?
+
+
+{S3A279}
+[Sora]
+"Fortunately, to the extent that I have been 
+able to investigate, there was no major 
+damage."
+
+Sora added that there were enough people to do
+the required work.
+
+
+{S3A280}
+[Sora]
+"It would be better for you to go to Tanaka-san's 
+location."
+
+[Kid]
+To where Y¤u is?
+
+
+{S3A281}
+[Sora]
+Yes... Something is strange there.
+
+[Kid]
+Strange?
+
+
+{S3A282}
+[Sora]
+I can't say for sure... but I sense something.
+
+
+{S3A283}
+[Sora]
+"So I think that someone should go 
+investigate."
+
+[Kid]
+"Wouldn't it be better if you went instead of 
+me?"
+
+If something was strange, I didn't know what
+I could do.
+
+
+{S3A284}
+[Sora]
+"I'm sorry. Unfortunately, now I must go to 
+the control room."
+
+[Kid]
+Control room? Is something else wrong?
+
+
+{S3A285}
+[Sora]
+"Uh... No... I have to do a little maintenance 
+on LeMMIH..."
+
+[Kid]
+I see.
+
+
+{S3A286}
+[Sora]
+"I'm sorry... but do you think you can manage 
+it for me?"
+
+[Kid]
+Sure. I don't have anything better to do.
+
+[Sora]
+...
+
+[Kid]
+"I'm off to check on Y¤u. The security office, 
+right?"
+
+
+{S3A287}
+[Sora]
+Yes. Thank you.
+
+
+3 :
+I climbed to the second floor via the
+emergency stairs.
+
+
+4 :
+I called to Y¤u via the intercom on the side
+of the security office door.
+
+[Kid]
+Y¤u? It's me. Can I come in?
+
+
+{S3A288}
+[Y¤u]
+Huh!? Kid...?
+
+After a bit, the door opened.
+
+
+5 :
+
+{S3A289}
+[Y¤u]
+What's up? What are you doing here?
+
+Y¤u was unable to hide her surprise...
+
+Sora was right. Strange might have been the
+word for it.
+
+[Kid]
+Sora told me to come.
+
+
+6 :
+
+{S3A290}
+[Y¤u]
+Sora?
+
+[Kid]
+Y-yeah. Uh... She... Um...
+
+[Kid]
+"She said... that something was strange and 
+that she wanted me to take a look..."
+
+I couldn't think of a better way to put it and
+blurted out the truth.
+
+[Y¤u]
+.........
+
+[Kid]
+Uh, is this a bad time?
+
+Y¤u slumped her shoulders as if defeated and
+heaved out a sigh.
+
+
+7 :
+
+{S3A291}
+[Y¤u]
+Oh well. I guess that's how it goes...
+
+
+{S3A292}
+[Y¤u]
+"If you think about it, Sora has ears 
+everywhere."
+
+[Kid]
+.........
+
+
+8 :
+
+{S3A293}
+[Y¤u]
+Well, quit standing there. Come on in.
+
+[Kid]
+Uh, alright...
+
+
+9 :
+
+{S3A294}
+[Y¤u]
+You want some coffee?
+
+
+10 :
+I followed Y¤u into the room.
+
+It smelled like hot coffee.
+
+In a corner of the room was an ancient siphon
+coffee machine percolating up dark liquid.
+
+Y¤u offered me a chair, and I sat down.
+
+She turned to the coffee maker to pour coffee.
+
+
+[Kid]
+What are you up to in here?
+
+I asked Y¤u that bluntly as I leaned back in
+the chair.
+
+
+{S3A295}
+[Y¤u]
+I'm looking into something.
+
+[Kid]
+Looking into something?
+
+White steam curled into the air from where she
+was pouring the coffee.
+
+[Kid]
+"Is this something that you have to hide from 
+everyone?"
+
+I thought it came out a little too accusatory.
+
+Maybe I was a little peeved that she was
+hiding something from us.
+
+
+11 :
+
+{S3A296}
+[Y¤u]
+Here's your coffee.
+
+She turned back toward me with a white cup in
+each hand.
+
+She handed one to me.
+
+
+{S3A297}
+[Y¤u]
+It's hot, so be careful.
+
+[Kid]
+Oh, thanks...
+
+A white cup. White steam. Only the liquid
+inside was black.
+
+LeMU's logo was printed on the cup.
+
+
+12 :
+
+{S3A298}
+[Y¤u]
+Well... Where should I start...?
+
+Y¤u sat down next to me and took a sip of her
+coffee.
+
+Then she gradually started to talk.
+
+
+13 :
+
+{S3A299}
+[Y¤u]
+"I told you before, right? About why I got 
+this job at LeMU..."
+
+
+{S3A300}
+[Y¤u]
+"I'm looking for clues about my father, who 
+disappeared."
+
+I nodded.
+
+
+{S3A301}
+[Y¤u]
+"He went missing seventeen years ago, and I 
+came hoping to find a hint as to why."
+
+[Kid]
+"You said that the last place he was seen was 
+in LeMU, right?"
+
+[Kid]
+Oh. Are you investigating that...?
+
+
+14 :
+
+{S3A302}
+[Y¤u]
+Yes...
+
+Y¤u nodded and shifted the cup to her other
+hand.
+
+
+{S3A303}
+[Y¤u]
+Information about my father.
+
+[Kid]
+.........
+
+
+{S3A304}
+[Y¤u]
+It was seventeen years ago...
+
+
+{S3A305}
+[Y¤u]
+They say there was a big accident here.
+
+
+15 :
+[Kid]
+Accident?
+
+
+16 :
+
+{S3A306}
+[Y¤u]
+I don't really know that much about it.
+
+
+{S3A307}
+[Y¤u]
+"Even looking at old news clippings, I wasn't 
+able to gather much information."
+
+[Kid]
+What do you mean?
+
+
+{S3A308}
+[Y¤u]
+"The cause of the accident, specific damage, 
+what happened afterward... All the coverage was 
+vague..."
+
+
+{S3A309}
+[Y¤u]
+"I figure that the media didn't really know 
+the details about what happened either."
+
+
+17 :
+
+{S3A310}
+[Y¤u]
+"Somebody or something powerful clamped down 
+on information."
+
+[Kid]
+Hmmm. That's interesting...
+
+
+{S3A311}
+[Y¤u]
+"An accident seventeen years ago, shrouded in 
+mystery."
+
+
+{S3A312}
+[Y¤u]
+"And my father, who disappeared seventeen years 
+ago."
+
+
+{S3A313}
+[Y¤u]
+"He worked here until right before the 
+accident."
+
+
+{S3A314}
+[Y¤u]
+"I can guess some of what happened from 
+what we already know..."
+
+[Kid]
+"You think that the accident had something to 
+do with the disappearance of your father...?"
+
+
+18 :
+
+{S3A315}
+[Y¤u]
+That's right.
+
+
+19 :
+
+{S3A316}
+[Y¤u]
+"I thought that here... That in LeMMIH, there 
+would be some trace... That's why I came."
+
+
+20 :
+
+{S3A317}
+[Y¤u]
+"But since I started working, I haven't had any 
+time to look into it..."
+
+
+21 :
+
+{S3A318}
+[Y¤u]
+"I couldn't even get close to LeMMIH's 
+database."
+
+
+22 :
+
+{S3A319}
+[Y¤u]
+I guess it makes sense. I was pretty naïve.
+
+The chair squeaked as Y¤u slumped back in it.
+
+She just stared at the ceiling.
+
+
+23 :
+
+{S3A320}
+[Y¤u]
+"But... But... you know what? Opportunity 
+knocked."
+
+[Kid]
+Opportunity...
+
+[Kid]
+You... You don't mean this accident?
+
+
+{S3A321}
+[Y¤u]
+Yup.
+
+Y¤u placed the cup next to the console.
+
+
+{S3A322}
+[Y¤u]
+Now I have access to LeMMIH.
+
+
+{S3A323}
+[Y¤u]
+"Thanks to the accident, I've been able to 
+get a step closer to my goal."
+
+[Kid]
+.........
+
+
+24 :
+
+{S3A324}
+[Y¤u]
+"Well, I suppose it has also put my life in 
+danger, but..."
+
+Y¤u joked, shrugging her shoulders.
+
+[Kid]
+"I'll ask you one more time, but did you have 
+to keep it all secret?"
+
+
+25 :
+
+{S3A325}
+[Y¤u]
+That's a toughie.
+
+
+{S3A326}
+[Y¤u]
+"I mean, I work here, but I don't have any 
+authority. It's just a part-time gig..."
+
+
+{S3A327}
+[Y¤u]
+"Taking advantage of this accident to gain 
+access to secret information in LeMU."
+
+
+{S3A328}
+[Y¤u]
+Normally, you might call this...
+
+[Kid]
+A kind of looting, maybe?
+
+
+26 :
+
+{S3A329}
+[Y¤u]
+"That's right. Stealing information. It's a 
+pretty decent crime."
+
+
+27 :
+
+{S3A330}
+[Y¤u]
+"But I suppose there was no way I could have 
+kept it hidden."
+
+
+{S3A331}
+[Y¤u]
+"Sora knows everything that goes on relating 
+to LeMMIH."
+
+[Kid]
+"I think she would understand your situation 
+if you explained it to her."
+
+
+28 :
+
+{S3A332}
+[Y¤u]
+Hmmm... I wonder about that.
+
+Y¤u growled as she put the cup to her lips.
+
+I took a sip of coffee too.
+
+It was super bitter and super thick.
+
+[Kid]
+So did you find anything out?
+
+
+29 :
+
+{S3A333}
+[Y¤u]
+That... That's the problem.
+
+
+30 :
+Tap, tap, tap...
+
+Saying that, Y¤u started tapping on the
+keyboard.
+
+One of the monitors on the wall shifted from
+footage of an observation camera to an image
+of a computer desktop.
+
+In the middle of it, one window was open.
+
+Y¤u explained as she stared at the screen.
+
+
+{S3A334}
+[Y¤u]
+"This is the authorization screen to connect 
+to the network."
+
+[Kid]
+Authorization screen?
+
+
+{S3A335}
+[Y¤u]
+"This is where the system assesses the user 
+for proper authorization."
+
+[Kid]
+I see...
+
+I felt like I kind of got it, but not really...
+
+
+{S3A336}
+[Y¤u]
+"I'm attempting to connect to LeMMIH's C 
+level... meaning I'm trying to access 
+classified information."
+
+
+{S3A337}
+[Y¤u]
+"But if anyone could easily access important 
+data, it would be a security disaster, right?"
+
+[Kid]
+Probably.
+
+
+{S3A338}
+[Y¤u]
+"That's why there's a screen where the 
+computer asks, 'Hey, who's trying to look at 
+this?'"
+
+As she spoke, Y¤u used the mouse to
+click on the box for 'Name'.
+
+Inside the box were written the words 'YUKIE
+TANAKA'.
+
+
+{S3A339}
+[Y¤u]
+"Of course, there's no way I could access the 
+system using my name, so I'm using someone 
+else's name to get me in."
+
+
+{S3A340}
+[Y¤u]
+But anyone might think to try that, right?
+
+[Kid]
+I suppose so.
+
+
+{S3A341}
+[Y¤u]
+"Obviously, the people who programmed this 
+aren't stupid. So, to prevent false 
+authorization, they have methods 
+to check people's identities."
+
+
+{S3A342}
+[Y¤u]
+"The screen then says, 'If you really are Tanaka 
+Yukie, please show me your password.'"
+
+Y¤u then used the mouse to circle around the
+box for 'Password'.
+
+It was still blank.
+
+
+31 :
+[Kid]
+And what about the password?
+
+
+32 :
+
+{S3A343}
+[Y¤u]
+I'm working on that right now.
+
+[Kid]
+What? You don't know it?
+
+
+33 :
+
+{S3A344}
+[Y¤u]
+I don't know it.
+
+[Kid]
+So you haven't looked up anything yet?
+
+
+{S3A345}
+[Y¤u]
+"It's not that I haven't... I haven't been able 
+to. I haven't been able to get in..."
+
+[Kid]
+So you're stuck...
+
+
+34 :
+
+{S3A346}
+[Y¤u]
+Yup... Stuck.
+
+Y¤u nodded and gave a big sigh.
+
+.........
+
+
+35 :
+Tap, tap, tap...
+
+After a second's pause, Y¤u was back tapping
+on the keyboard.
+
+There was nothing for me to do. I just sat
+there, watching Y¤u do her thing.
+
+From her fingertips, a password was entered
+into the input field.
+
+36 :
+Tap, tap, tap...
+
+'*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*'
+
+The digits she typed in were blocked out by '*'
+so that anybody watching wouldn't know what
+the word was.
+
+
+37 :
+Tap!
+
+Y¤u finished her input and hit the Enter key.
+
+
+38 :
+Beeeeeeeep!
+
+'Access denied. Invalid name or password.'
+
+But Y¤u immediately tapped in another line of
+letters.
+
+
+39 :
+Tap, tap, tap...
+
+'*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*'
+
+
+40 :
+Tap!
+
+
+41 :
+Beeeeeeeep!
+
+'Access denied. Invalid name or password.'
+
+
+42 :
+Tap, tap, tap...
+
+[Kid]
+Hey, Y¤u?
+
+
+{S3A347}
+[Y¤u]
+What?
+
+[Kid]
+I was just wondering, who is 'Tanaka Yukie'?
+
+[Kid]
+"Looking at the name, I was wondering, is she a 
+relative or something?"
+
+
+{S3A348}
+[Y¤u]
+She's my mom.
+
+[Kid]
+Your mom worked here?
+
+
+{S3A349}
+[Y¤u]
+"Works. She is working here. As in the present 
+tense."
+
+
+43 :
+[Kid]
+Hey. Your mom researches archaeology, right?
+
+[Kid]
+"You said something about it yesterday I 
+think."
+
+
+{S3A350}
+[Y¤u]
+Yeah. So what?
+
+Y¤u answered, her eyes still glued to the
+computer.
+
+
+44 :
+[Kid]
+Then your mom was a programmer too.
+
+
+{S3A351}
+[Y¤u]
+No, she's an archaeologist.
+
+[Kid]
+Huh?
+
+
+{S3A352}
+[Y¤u]
+What's the problem?
+
+Y¤u fired the question at me as she continued
+to do battle with the computer.
+
+
+45 :
+[Kid]
+"But archaeology has nothing to do with theme 
+parks, right?"
+
+
+{S3A353}
+[Y¤u]
+My thoughts exactly.
+
+
+{S3A354}
+[Y¤u]
+"But I figure that LeMU could probably offer 
+her a lot more money than some small 
+university research department with next to no 
+budget."
+
+[Kid]
+"Is LeMU doing some kind of archaeological 
+research?"
+
+
+{S3A355}
+[Y¤u]
+Well, it's pretending to at the very least.
+
+[Kid]
+?
+
+
+{S3A356}
+[Y¤u]
+"It seems like they're doing a survey related 
+to the ruins of the Lemurian continent."
+
+
+46 :
+[Kid]
+Lemurian continent?
+
+That reminded me, Sora had said that LeMU had
+been named after a continent called Lemuria.
+
+
+On Dritter Stock, there was an attraction called
+the 'Lemurian Ruins'...
+
+
+{S2B190}
+[Y¤u]
+"Lemuria is the phantom continent that is said 
+to have existed from 200 million to 50 million 
+years B.C."
+
+
+{S2B191}
+[Y¤u]
+"On it thrived an advanced civilization that 
+was more advanced than what we have today, but 
+it just slipped down to the bottom 
+of the ocean overnight."
+
+Y¤u recited it off so fluently that it sounded
+like she was reading from a textbook.
+
+
+{S2B192}
+[Y¤u]
+"There are some scholars that contend that 
+this continent was the origin of mankind."
+
+
+{S2B193}
+[Y¤u]
+"But what could they be talking about? 
+That could never happen."
+
+[Kid]
+You don't believe it?
+
+
+{S2B194}
+[Y¤u]
+"Of course not. Archaeologically and 
+geologically, the idea has no basis."
+
+
+{S2B195}
+[Y¤u]
+"The more real research is conducted, the more 
+the theory is shot full of holes... It's no 
+longer a legitimate field of study."
+
+[Kid]
+You sure know a lot about it.
+
+
+{S3A357}
+[Y¤u]
+Well, I AM majoring in archaeology.
+
+[Kid]
+Oh, you are...?
+
+Y¤u studying archaeology... It just didn't click.
+
+
+
+47 :
+
+{S3A358}
+[Y¤u]
+"Near the end of the 20th century, some 
+oceanic ruins were discovered near Okinawa, 
+right?"
+
+
+{S3A359}
+[Y¤u]
+"Leiblich Pharmaceuticals spread rumors that 
+these ruins were somehow evidence of the 
+existence of Lemuria."
+
+
+{S3A360}
+[Y¤u]
+"They've poured loads of cash into the 
+archaeological survey of the seafloor."
+
+
+{S3A361}
+[Y¤u]
+I have no idea what the company is up to.
+
+[Kid]
+Your mom was involved in that project too?
+
+
+{S3A362}
+[Y¤u]
+Apparently... I don't know the details...
+
+
+{S3A363}
+[Y¤u]
+But I think it's all just an act.
+
+
+{S3A364}
+[Y¤u]
+"I think she's just taking the money and 
+researching something else."
+
+[Kid]
+Something else?
+
+
+48 :
+
+{S3A365}
+[Y¤u]
+I told you yesterday, didn't I?
+
+
+49 :
+
+{S3A366}
+[Y¤u]
+The ancient idea of 'the third eye'.
+
+[Kid]
+Your mom sounds sneaky.
+
+
+{S3A367}
+[Y¤u]
+Well, she is.
+
+
+{S3A368}
+[Y¤u]
+Still, I think I understand how she feels.
+
+
+{S3A369}
+[Y¤u]
+"Even if they dug up all the ocean floors of 
+the world, there's still no way they would 
+find the ruins of the Lemurian continent."
+
+
+{S3A370}
+[Y¤u]
+"Everybody knows that it's a complete waste 
+of time."
+
+
+{S3A371}
+[Y¤u]
+"Even the higher-ups at Leiblich 
+Pharmaceuticals probably know."
+
+
+{S3A372}
+[Y¤u]
+"But they still have to go about pretending to 
+do research."
+
+[Kid]
+I wonder why? It sounds like a waste to me.
+
+
+{S3A373}
+[Y¤u]
+"Who knows? But it's a company we're talking 
+about, so I'll bet it has to do with money."
+
+
+{S3A374}
+[Y¤u]
+"But there's no way for us to know, and I 
+don't really care."
+
+
+50 :
+Tap, tap, tap...
+
+
+51 :
+[Kid]
+"Oh, that's right. I've been meaning to ask 
+you, but..."
+
+
+52 :
+[Kid]
+It's kind of been bugging me...
+
+
+53 :
+[Kid]
+"What do you mean that your mom is researching 
+'the third eye'?"
+
+
+{S3A375}
+[Y¤u]
+In a nutshell, it basically means that...
+
+
+{S3A376}
+[Y¤u]
+"A dimension of value 'n' may only be understood 
+in its entirety when viewed from a dimension at 
+least 'n+1'."
+
+
+54 :
+[Kid]
+Huh?
+
+It didn't sound very basic to me.
+
+What did she mean?
+
+
+{S3A377}
+[Y¤u]
+"Essentially, only by gaining a sense of the 
+fourth dimension can we really fully sense the 
+whole of what's going on around us."
+
+[Kid]
+?
+
+I had no idea what she was talking about.
+
+
+{S3A378}
+[Y¤u]
+"Like when the third eye has opened up, or 
+something."
+
+
+55 :
+Y¤u's hands stopped typing there for an
+instant, and she popped her neck loudly.
+
+She reached out for her cup and took a sip of
+coffee.
+
+
+56 :
+[Kid]
+What's a third eye?
+
+
+57 :
+
+{S3A379}
+[Y¤u]
+"The third eye I'm talking about is the 
+mythological one that deals with supernatural 
+powers."
+
+
+{S3A380}
+[Y¤u]
+For example...
+
+
+58 :
+
+{S3A381}
+[Y¤u]
+"Like the third eye on the forehead of the 
+Hindu god Shiva... Like they say in yoga about 
+the Agya Chakra, or Third Eye Chakra..."
+
+
+{S3A901}
+[Y¤u]
+Or the astral light training by sages...
+
+
+{S3A902}
+[Y¤u]
+"...Or like in esoteric Buddhism with the 
+famous monk Kobo Daishi's ascetic training 
+and invoking of the Kokuzo deity of space 
+through the Kokuzo gumonjiho..."
+
+
+{S3A383}
+[Y¤u]
+"Like the All Knowing Eye in Tibetan Tantric 
+Buddhism."
+
+[Kid]
+Uh... Uh...
+
+I felt like I was being bombarded with exotic
+words.
+
+The conversation had completely left me behind.
+
+
+{S2B229}
+[Y¤u]
+"Clairvoyance, telescopic vision, ghost sense, 
+the gift of the prophet, the power of seeing 
+the past or future..."
+
+
+{S2B230}
+[Y¤u]
+"There are a lot of explanations behind it. 
+Some say it's a gift from the gods, others 
+that you can acquire it from intensive 
+training. But what they all have in common is..."
+
+When the third eye opens, true wisdom is
+apparent, and all becomes visible.
+
+
+59 :
+
+{S2B231}
+[Y¤u]
+"They all have something to do with 
+transcending the realm of the human... Becoming 
+superhuman somehow."
+
+[Kid]
+"Hmmmm. Wow... I don't get it, but it sounds 
+pretty fantastic."
+
+
+60 :
+
+{S3A384}
+[Y¤u]
+"Please don't say, 'I wish I had that!' Please, 
+please don't."
+
+[Kid]
+Wh-why...
+
+I had actually been thinking just that.
+
+
+61 :
+
+{S3A385}
+[Y¤u]
+Forget it. It's unattainable anyway.
+
+
+{S3A386}
+[Y¤u]
+"No matter how much you want it, I don't want 
+you buying tacky mail order space pendants 
+that promise wisdom or anything else."
+
+[Kid]
+What are those?
+
+More words I didn't know.
+
+
+62 :
+
+{S3A387}
+[Y¤u]
+If you don't know, you should stay that way.
+
+[Kid]
+...
+
+
+63 :
+
+{S3A388}
+[Y¤u]
+"So the third eye in terms of human anatomical 
+science is simply a function that we have lost 
+with evolution."
+
+
+64 :
+I wondered why we only had two eyes.
+
+Common knowledge had it that, physically, two
+eyes were enough for gauging the distance to
+a point or focusing on something.
+
+But what would it be like if we really used to
+have three eyes?
+
+{16:4}
+
+65 :
+Actually...
+
+The animal ancestors of vertebrates had three
+eyes.
+
+Early species of primitive reptiles...
+
+Like the tuatara lizard that still had a third
+eye on the top of its head.
+
+{16:4}
+
+66 :
+‡LThe third eye.
+
+{1}
+
+The organ had a similar function to the
+eyeball and lay on the top of the head.
+
+That organ would be sensitive to the light of
+the outside world and control internal hormone
+secretion and balance based on light.
+
+An eye on the crest of one's head would stare
+straight up. It seemed safe to say that it
+would sense the difference in light between
+day and night.
+
+{16:4}
+
+
+
+67 :
+A right eye, a left eye, and one above...
+
+An eye on the top of the head to stare at the
+sky.
+
+
+68 :
+Only we people and higher vertebrates had lost
+the third eye over a long process of
+evolution. It had been covered over by the
+cerebrum, and we lost our ability to sense
+light directly.
+
+Therefore, we had two light sensitive eyeballs,
+one on each side, instead.
+
+The lost third eye was called a 'pineal body'.
+
+{16:4}
+
+69 :
+It had functioned in the brain for eons and
+was responsible for secreting hormones that
+helped carve out our 24-hour rhythm.
+
+What we called our 'internal clocks' existed
+because of the pineal body.
+
+{16:4}
+
+70 :
+[Kid]
+"You mean like an appendix or the webbing 
+between fingers?"
+
+
+{S2B247}
+[Y¤u]
+That's exactly what I mean.
+
+[Kid]
+"Still, you've got tons of knowledge... You're 
+like a walking dictionary."
+
+
+71 :
+
+{S3A389}
+[Y¤u]
+It's no big deal.
+
+
+{S3A390}
+[Y¤u]
+The information I have is completely useless.
+
+[Kid]
+Really.
+
+
+{S3A391}
+[Y¤u]
+It's true.
+
+
+72 :
+
+{S3A392}
+[Y¤u]
+"I mean, no matter how much knowledge you 
+have, it can't make you happy, right?"
+
+
+{S3A393}
+[Y¤u]
+"It just makes you feel so 
+ignorant... Scholarship is a pretty empty 
+pursuit."
+
+[Kid]
+...
+
+
+{S2B253}
+[Y¤u]
+Still, I can't very well just throw it away.
+
+
+{S2B254}
+[Y¤u]
+"Maybe it's completely rooted itself into my 
+brain."
+
+[Kid]
+But you planted it there yourself, right?
+
+
+73 :
+
+{S2B255}
+[Y¤u]
+No way!
+
+
+{S2B256}
+[Y¤u]
+My mom's the guilty one.
+
+[Kid]
+Your mom?
+
+
+74 :
+
+{S2B259}
+[Y¤u]
+"Anyway, when I was little, she told me all 
+these third eye stories instead of 
+lullabies."
+
+[Kid]
+Wow...
+
+
+75 :
+
+{S2B260}
+[Y¤u]
+I used to hate archaeology...
+
+Y¤u sighed as she said that.
+
+
+{S2B261}
+[Y¤u]
+"But one day, I just woke up and found myself 
+in the archaeology department."
+
+[Kid]
+Like mother, like daughter?
+
+
+76 :
+
+{S2B262}
+[Y¤u]
+It's not that simple.
+
+Y¤u gave another deep sigh.
+
+
+{S2B263}
+[Y¤u]
+It's like some kind of curse.
+
+[Kid]
+...
+
+[Kid]
+"Uh, if we could get back to what we were 
+talking about..."
+
+
+77 :
+[Kid]
+"I think yesterday you said something about 
+evolution."
+
+[Kid]
+"About losing that organ thingy on the 
+head... The, um..."
+
+
+78 :
+
+{S3A394}
+[Y¤u]
+No, no. Not there.
+
+
+79 :
+
+{S3A395}
+[Y¤u]
+"It's here, it's called the third eye, and 
+it has to do with supernatural powers."
+
+
+{S3A396}
+[Y¤u]
+It's like...
+
+
+{S3A381}
+[Y¤u]
+"Like the third eye on the forehead of the 
+Hindu god Shiva... Like they say in yoga about 
+the Agya Chakra, or Third Eye Chakra..."
+
+
+{S3A901}
+[Y¤u]
+Or the astral light training by sages...
+
+
+{S3A902}
+[Y¤u]
+"...Or like in esoteric Buddhism with the 
+famous monk Kobo Daishi's ascetic training 
+and invoking of the Kokuzo deity of space 
+through the Kokuzo gumonjiho..."
+
+
+{S3A383}
+[Y¤u]
+"Like the All Knowing Eye in Tibetan Tantric 
+Buddhism."
+
+[Kid]
+Uh... Uh...
+
+I felt like I was being bombarded with exotic
+words.
+
+The conversation had completely left me behind.
+
+
+80 :
+
+{S3A397}
+[Y¤u]
+I think I mentioned it yesterday, but...
+
+
+{S3A398}
+[Y¤u]
+"When the third eye opens, true wisdom is 
+apparent, and all becomes visible... At least 
+that's what they say."
+
+[Kid]
+...
+
+
+81 :
+
+{S3A399}
+[Y¤u]
+That's IF the story is real.
+
+[Kid]
+Uh, so let's see... That means...
+
+
+82 :
+[Kid]
+In summary, it goes something like this...
+
+[Kid]
+"Your mom is researching an ancient concept 
+called the third eye or third perspective..."
+
+[Kid]
+"And once someone has acquired the third eye, 
+they can sense the fourth dimension and see the 
+whole of the world."
+
+[Kid]
+"And that is in line with the legend of the 
+third eye."
+
+
+83 :
+
+{S3A400}
+[Y¤u]
+That should be about it.
+
+
+{S3A401}
+[Y¤u]
+"Well, to hear my mom tell it, the third eye 
+and third perspective are the same."
+
+[Kid]
+I don't quite get it...
+
+[Kid]
+"Why would a sense of the fourth dimension allow 
+someone to understand the whole world?"
+
+[Kid]
+"Or why is a sense of the fourth dimension 
+necessary? We're seeing the world the way we 
+are right now."
+
+[Kid]
+"I don't get the connection between the third 
+eye or third perspective... and the fourth 
+dimension..."
+
+There were lots of things I didn't get.
+
+The whole concept seemed to be beyond my
+understanding.
+
+
+84 :
+
+{S3A402}
+[Y¤u]
+Alright... Break's over.
+
+
+85 :
+Tap, tap, tap...
+
+Y¤u started working again without answering my
+question.
+
+[Kid]
+Hey, Y¤u.
+
+
+{S3A403}
+[Y¤u]
+"Sorry, let's make that the end of today's 
+lecture."
+
+
+{S3A404}
+[Y¤u]
+The explanation from here is pretty hard.
+
+
+{S3A405}
+[Y¤u]
+And it's pretty obvious I'm busy, right?
+
+
+{S3A406}
+[Y¤u]
+"If you really wanna know, next time I'll 
+explain it in an easy to swallow way."
+
+Y¤u didn't say anything more.
+
+[Kid]
+...Okay.
+
+I decided to give up for the time being.
+
+I remembered I was still holding the cup.
+
+I figured not drinking it would be a waste, so
+I drank it down.
+
+Gulp.
+
+(Yuck... This is so bitter.)
+
+And it was completely cold too.
+
+
+86 :
+
+{S3A407}
+[Y¤u]
+Oh, I give up.
+
+Y¤u muttered that and looked down dejectedly.
+
+She leaned back in the chair, and it squeaked.
+
+In the end, she hadn't found any new clues.
+
+
+Actually, she hadn't even gotten past the
+authorization screen.
+
+'Access denied. Invalid name or password.'
+
+That message had been displayed again and
+again. It still sat in the middle of the
+screen.
+
+
+{S3A408}
+[Y¤u]
+Oh...
+
+Y¤u was really down.
+
+[Kid]
+So you couldn't get it? The password.
+
+
+{S3A409}
+[Y¤u]
+Nope.
+
+[Kid]
+Don't you have any ideas?
+
+
+87 :
+
+{S3A410}
+[Y¤u]
+Like what?
+
+[Kid]
+"I mean, when somebody sets a password, it's 
+usually a word that has to do with them."
+
+[Kid]
+"A birthday or phone number for something 
+short."
+
+[Kid]
+"Even somebody that wanted to think of 
+something nobody would know would probably 
+come up with a phrase related to their past."
+
+
+88 :
+[Kid]
+"I mean, there's almost nobody that uses a 
+meaningless combination of numbers and 
+letters."
+
+[Kid]
+If they did, they would probably forget it.
+
+[Kid]
+"And if they forget it, then a password is 
+meaningless..."
+
+
+89 :
+
+{S3A411}
+[Y¤u]
+"I know that. I tried all the things I could 
+think of."
+
+
+{S3A412}
+[Y¤u]
+"I tried them backwards, as an anagram, and 
+all possible patterns I could imagine..."
+
+
+90 :
+
+{S3A413}
+[Y¤u]
+But it's no good.
+
+
+{S3A414}
+[Y¤u]
+"I'm just a normal person when it comes to 
+computers."
+
+
+91 :
+
+{S3A415}
+[Y¤u]
+"I'm no hacker or cracker. I don't have any 
+illegal programs and can't just type one out 
+right now."
+
+Y¤u stuck her hands up in the air, signaling
+her surrender.
+
+[Kid]
+I know! Sara could probably do it, right?
+
+I remembered that Sara was a top-level hacker.
+
+[Kid]
+"You said that Sara took first prize in some 
+code-breaking contest, right?"
+
+[Kid]
+"I'll bet she'd make a password-breaking 
+program for you."
+
+
+92 :
+
+{S3A416}
+[Y¤u]
+Maybe.
+
+Y¤u didn't seem keen on the idea.
+
+[Kid]
+Why don't you ask her?
+
+
+{S3A417}
+[Y¤u]
+I could, but I don't want to.
+
+[Kid]
+?
+
+
+93 :
+
+{S3A418}
+[Y¤u]
+I don't want to involve her in this.
+
+I thought that maybe she was still concerned
+about the criminal element of the idea.
+
+[Kid]
+But you don't mind getting me involved?
+
+
+94 :
+
+{S3A419}
+[Y¤u]
+Well, you came and involved yourself.
+
+[Kid]
+I suppose...
+
+But at that rate, Y¤u probably wouldn't find a
+clue during her lifetime.
+
+I wanted to help her out.
+
+As a way of thanking her for helping me.
+
+
+95 :
+
+{S3A420}
+[Y¤u]
+There is just one clue...
+
+Y¤u took a piece of paper from atop the
+console.
+
+[Kid]
+What's that?
+
+
+96 :
+
+{S3A421}
+[Y¤u]
+This was inside my mom's machine.
+
+
+97 :
+
+{S3A422}
+I sneaked into her research room before
+coming here.
+
+
+
+{S3A423}
+I was looking for clues about my father,
+of course.
+
+
+
+{S3A424}
+When I went in, I saw that her computer was on.
+
+
+
+{S3A425}
+Looking at it, I saw that there was a text file
+entitled 'Password'.
+
+
+
+{S3A426}
+When I opened it, it was only one line...
+
+
+
+{S3A427}
+There was some Japanese sentence typed
+inside it.
+
+
+{16:4}
+
+98 :
+[Kid]
+Then you saw the password!
+
+
+{S3A428}
+[Y¤u]
+Sure. I saw it.
+
+
+99 :
+
+{S3A429}
+[Y¤u]
+But I don't remember it.
+
+[Kid]
+What?
+
+
+100 :
+
+{S3A430}
+[Y¤u]
+I was in a hurry.
+
+
+101 :
+
+{S3A431}
+I tried to take a note of it before I was
+found out.
+
+
+{S3A432}
+But I didn't see a pen or anything around.
+
+
+
+{S3A433}
+And there were no discs or anything that I
+could copy it to.
+
+
+{16:4}
+
+102 :
+
+{S3A434}
+[Y¤u]
+"Thinking about it now, I should have sent it 
+to myself by e-mail..."
+
+
+103 :
+
+{S3A435}
+But I was in a rush and didn't think about it
+then.
+
+
+
+{S3A436}
+Suddenly, I thought that I'd try to print it
+out...
+
+
+
+{S3A437}
+As soon it stopped printing, my mom came back.
+
+
+
+{S3A438}
+I snatched the paper that was in the tray and
+jammed it in my pocket.
+
+
+{16:4}
+
+104 :
+[Kid]
+Huh? What do you mean?
+
+[Kid]
+"So the paper you have now is the one with the 
+password on it?"
+
+Y¤u held out the paper without saying anything.
+
+[Kid]
+Huh? What's this?
+
+
+105 :
+[Kid]
+A barcode?
+
+
+{S3A439}
+[Y¤u]
+"It looks like it, but it seems different than 
+normal barcodes."
+
+[Kid]
+It's got ten lines?
+
+
+{S3A440}
+[Y¤u]
+Yup.
+
+[Kid]
+What does this have to do with anything?
+
+
+{S3A441}
+[Y¤u]
+Who knows?
+
+[Kid]
+"About how many characters were in that 
+password?"
+
+[Kid]
+You said it was in Japanese, right?
+
+[Kid]
+About how many characters was it?
+
+
+{S3A442}
+[Y¤u]
+"I don't remember very well. Maybe ten 
+characters, give or take."
+
+[Kid]
+Was it all written in Japanese? Any numbers?
+
+
+{S3A443}
+[Y¤u]
+"I'm pretty sure it was just Japanese. I don't 
+remember any numbers or anything else."
+
+[Kid]
+I wonder which end of this is the top.
+
+
+{S3A444}
+[Y¤u]
+You got me.
+
+[Kid]
+Or could it be written vertically? No way.
+
+[Kid]
+"If you printed out a text file, why would it 
+come out as a barcode?"
+
+
+{S3A445}
+[Y¤u]
+Who knows?
+
+
+106 :
+[Kid]
+No hints?
+
+
+{S3A446}
+[Y¤u]
+Hints?
+
+
+107 :
+
+{S3A447}
+[Y¤u]
+"If I don't know the answer, how can I give 
+you a hint?"
+
+[Kid]
+But you have to remember something, right?
+
+[Kid]
+"Like, did it have to do with food, or a 
+person's name..."
+
+Y¤u shook her head and spoke.
+
+
+108 :
+
+{S3A448}
+[Y¤u]
+I saw it, but only for a second.
+
+[Kid]
+"But how could you forget something so 
+important?"
+
+
+109 :
+
+{S3A449}
+[Y¤u]
+Well, at least I know my address.
+
+
+{S3A450}
+[Y¤u]
+"And phone number. And birthday. And my social 
+security number. And..."
+
+
+{S3A451}
+[Y¤u]
+I even know my name.
+
+[Kid]
+.........
+
+
+110 :
+
+{S3A452}
+[Y¤u]
+Now who's forgetting the important things?
+
+
+111 :
+I looked again at the paper we thought
+contained the password.
+
+I was obsessed with solving the puzzle we had
+found.
+
+It was frustrating.
+
+'Now who's forgetting the important things?'
+
+...What could I say to that?
+
+(It's not like I wanted to lose my memory!)
+
+
+(Watch this! I'll remember everything just to
+show you!)
+
+But first... I had to figure it out.
+
+
+I had my mind set on it.
+
+I almost felt like solving it was a rite of passage
+that would help restore my memory.
+
+.........
+
+.........
+
+.........
+
+112 :
+What was I supposed to do...?
+
+113 :
+{11:0-65}
+{11:1}I get it
+
+{11:1}I don't get it
+
+
+114 :
+(Could it be...?)
+
+I thought for a second.
+
+115 :
+{11:0-67}
+{11:2-d0}What if I turn it over...
+
+{11:2-d1}What if I turn it upside down...
+
+{11:2-d2}What if I heat it with a flame...
+
+{11:2-d3}What if I rip it in two...
+
+{11:2-d4}What if I tilt it...
+
+{11:2-d5}What if I wad it up...
+
+
+116 :
+I thought that if I turned it over, I might be
+able to read something.
+
+I turned the paper over and held it up to the
+light.
+
+
+117 :
+[Kid]
+.........
+
+It was no good. Turning it over showed nothing
+new.
+
+
+{S3A453}
+[Y¤u]
+So? Did you figure it out?
+
+[Kid]
+"Yup. I figured out that I can't read it this 
+way."
+
+
+{S3A454}
+[Y¤u]
+I told you it's impossible.
+
+
+{S3A455}
+[Y¤u]
+I tried all kinds of things.
+
+(Hmmmm. Let's see.)
+
+
+118 :
+I thought maybe I could read something if I
+turned the paper upside down.
+
+I turned it upside down.
+
+
+119 :
+[Kid]
+.........
+
+It was no good. Turning the paper upside down
+showed nothing new.
+
+
+{S3A453}
+[Y¤u]
+So? Did you figure it out?
+
+[Kid]
+"Yup. I figured out that I can't read it this 
+way."
+
+
+{S3A454}
+[Y¤u]
+I told you it's impossible.
+
+
+{S3A455}
+[Y¤u]
+I tried all kinds of things.
+
+(Hmmmm. Let's see.)
+
+
+120 :
+I thought maybe if I heated it with a flame, I
+could read it.
+
+[Kid]
+Hey, you don't have a lighter, do you?
+
+
+{S3A456}
+[Y¤u]
+Huh? A lighter?
+
+
+{S3A457}
+[Y¤u]
+"Don't tell me you want to calm your nerves 
+with a smoke."
+
+
+{S3A458}
+[Y¤u]
+You're too young to smoke!
+
+[Kid]
+I know that...
+
+[Kid]
+I wanted to use it on the paper...
+
+
+{S3A459}
+[Y¤u]
+"You want to burn it? Playing with fire is 
+dangerous!"
+
+
+{S3A460}
+[Y¤u]
+"Besides, this paper is the only clue I've 
+got. I won't let you burn it."
+
+[Kid]
+That's not what I mean.
+
+
+{S3A461}
+[Y¤u]
+Well, what then?
+
+[Kid]
+"I thought that if I heated the paper with a 
+flame, something might appear..."
+
+[Y¤u]
+.........
+
+[Kid]
+.........
+
+
+{S3A462}
+[Y¤u]
+You're kidding... Right?
+
+[Kid]
+Yeah. Haha. I'm just joking...
+
+I figured out that I couldn't read it
+that way.
+
+(Hmmmm. Let's see.)
+
+
+121 :
+I thought that if I folded it in half, maybe I
+could read something.
+
+I took it and folded it in half.
+
+
+122 :
+[Kid]
+.........
+
+It was no good. Folding showed nothing new.
+
+
+{S3A453}
+[Y¤u]
+So? Did you figure it out?
+
+[Kid]
+"Yup. I figured out that I can't read it this 
+way."
+
+
+{S3A454}
+[Y¤u]
+I told you it's impossible.
+
+
+{S3A455}
+[Y¤u]
+I tried all kinds of things.
+
+(Hmmmm. Let's see.)
+
+
+123 :
+I thought that if I tilted it a little, I might
+be able to see something.
+
+124 :
+{11:0-6d}
+{11:1}Tilt it a little to the side
+
+{11:1}Tilt it almost completely to the side
+
+{11:1}Tilt it a little vertically
+
+{11:1}Tilt it almost completely vertically
+
+
+125 :
+[Kid]
+.........
+
+It didn't help. Changing the angle showed
+nothing new.
+
+
+{S3A453}
+[Y¤u]
+So? Did you figure it out?
+
+[Kid]
+"Yup. I figured out that I can't read it this 
+way."
+
+
+{S3A454}
+[Y¤u]
+I told you it's impossible.
+
+
+{S3A455}
+[Y¤u]
+I tried all kinds of things.
+
+(Hmmmm. Let's see.)
+
+
+126 :
+I rolled the paper in a ball,
+but I still couldn't read anything.
+
+I rolled the paper into a stick-like shape.
+
+
+127 :
+[Kid]
+.........
+
+It was no good. Rolling it up showed nothing
+new.
+
+
+{S3A453}
+[Y¤u]
+So? Did you figure it out?
+
+[Kid]
+"Yup. I figured out that I can't read it this 
+way."
+
+
+{S3A454}
+[Y¤u]
+I told you it's impossible.
+
+
+{S3A455}
+[Y¤u]
+I tried all kinds of things.
+
+(Hmmmm. Let's see.)
+
+
+128 :
+[Kid]
+...............
+
+No. I've got no idea.
+
+
+{S3A453}
+[Y¤u]
+So? Did you figure it out?
+
+
+129 :
+[Kid]
+No... Not yet.
+
+
+130 :
+
+{S3A454}
+[Y¤u]
+I told you it's impossible.
+
+
+{S3A455}
+[Y¤u]
+I tried all kinds of things.
+
+[Kid]
+"But if we just change our way of looking at 
+things, I think we'll figure it out."
+
+(Huh?)
+
+(By changing the way we look... we'll figure it
+out?)
+
+Something about my words triggered something
+in my mind.
+
+
+131 :
+
+{S3A463}
+[Y¤u]
+Why don't we just give up?
+
+[Kid]
+I won't give up.
+
+
+{S3A464}
+[Y¤u]
+You're pretty stubborn for a punk Kid!
+
+[Kid]
+Be quiet.
+
+
+{S3A465}
+[Y¤u]
+"And somebody that can't even understand the 
+difference between two dimensions and three 
+dimensions."
+
+[Kid]
+Huh?
+
+
+{S3A466}
+[Y¤u]
+"See? The characters on the paper are 
+two-dimensional, and we're three-dimensional."
+
+
+{S3A467}
+[Y¤u]
+"Basically, the worlds that we live in are 
+different."
+
+
+{S3A468}
+[Y¤u]
+"So if you really want to understand what this 
+barcode has to say, then you have to think 
+two-dimensionally."
+
+[Kid]
+.........
+
+
+{S3A469}
+[Y¤u]
+So? Whaddya think?
+
+(The stuff on the paper is two-dimensional...
+and we are three-dimensional.)
+
+I had to think two-dimensionally.
+
+(What do I have to do to think
+two-dimensionally...?)
+
+
+132 :
+[Kid]
+"I got it! Listen, if you take the paper and 
+set it like this..."
+
+[Kid]
+What? Let's see...
+
+[Kid]
+"'The empty fall sky...{1}
+A single cuckoo calls out...{1}
+Brings a chill to me'."
+
+[Kid]
+What is this?
+
+
+{S3A470}
+[Y¤u]
+What!? Let me see that!
+
+
+133 :
+Y¤u grabbed the slip of paper from my hand.
+
+Then she copied me and set the paper sideways
+in the same way.
+
+
+134 :
+
+{S3A471}
+[Y¤u]
+Y-you're right!
+
+
+{S3A472}
+[Y¤u]
+Amazing...! Really amazing, Kid!
+
+Y¤u grabbed my hand and shook it happily.
+
+...But she didn't stop there. She pulled me
+close in a big bear hug.
+
+Squeeze...!
+
+My face was pressed hard against her bust.
+
+It was a nice fit... A little too nice... I struggled for
+air.
+
+[Kid]
+I... give up... Have... mercy...
+
+I almost felt dangerously excited by her softness.
+
+
+
+{S3A473}
+[Y¤u]
+We did it! Yeah, yeah, yeah~
+
+Finally, Y¤u let me go.
+
+She jumped around gleefully like a rabbit.
+
+(I was glad she was happy... even if she did
+almost crush me.)
+
+Watching Y¤u all happy like that seemed to
+wash away all my irritation and fatigue.
+
+The stress I was feeling simply faded away.
+
+It was like the winter frost melting away
+under the spring sun.
+
+
+135 :
+
+{S3A474}
+[Y¤u]
+"I get it now. You can't see it from right 
+above it."
+
+
+{S3A475}
+[Y¤u]
+But if you look from the side... I see it now.
+
+[Kid]
+"But why do you suppose it came out in a 
+barcode like this?"
+
+
+{S3A476}
+[Y¤u]
+The printer is probably in bad shape.
+
+[Kid]
+"Think so? It's hard to believe that would 
+make it print like this."
+
+
+{S3A477}
+[Y¤u]
+I don't care about that now.
+
+
+{S3A478}
+[Y¤u]
+"Anyway, as long as I have the password, 
+things are fine."
+
+'The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me'.
+
+{S3A479}
+[Y¤u]
+"I think it's a variation of Masaoka Shiki's{1}
+'The empty June sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me'."
+
+
+{S3A480}
+[Y¤u]
+So if I input it like this...
+
+
+{S3A481}
+[Y¤u]
+"The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me'.
+"
+
+
+[Kid]
+Wow.
+
+
+136 :
+
+{S3A482}
+[Y¤u]
+Alright! Let's try this for a password.
+
+
+137 :
+A recharged Y¤u faced the screen triumphantly.
+
+But...
+
+
+138 :
+Tap, tap, tap...
+
+
+{S3A483}
+[Y¤u]
+"'The empty fall sky{1}
+A single cuckoo calls out{1}
+Brings a chill to me'.{1}
+Okay then!"
+
+
+139 :
+Tap!
+
+
+140 :
+Beeeeeeeep!
+
+'Access denied. Invalid name or password.'
+
+But she still couldn't get into the C Level
+information.
+
+
+141 :
+[Kid]
+It's no good. Time to give up!
+
+
+142 :
+
+{S3A484}
+[Y¤u]
+See, I told you so.
+
+[Kid]
+...
+
+
+{S3A485}
+[Y¤u]
+"I told you it was impossible to figure out 
+from the start."
+
+[Kid]
+.........
+
+
+143 :
+
+{S3A486}
+[Y¤u]
+Should I try one last time?
+
+[Kid]
+"There's still a potential password you 
+haven't tried?"
+
+
+{S3A487}
+[Y¤u]
+"Yup. But I thought it wouldn't work, so I 
+tried everything else I could think of."
+
+
+144 :
+Y¤u stared into the computer monitor.
+
+
+145 :
+Tap, tap, tap...
+
+...
+
+
+146 :
+Beeeeeeeep!
+
+'Access denied. Invalid name or password.'
+
+Things just didn't seem to want to go our way.
+
+
+{S3A488}
+[Y¤u]
+Arrrggghhh! Damn!
+
+
+{S3A489}
+[Y¤u]
+Now that things have come to this...
+
+
+{S3A490}
+[Y¤u]
+Abracadabra...
+
+[Kid]
+Huh?
+
+
+147 :
+Tap, tap, tap...
+
+
+{S3A491}
+[Y¤u]
+Open sesame!
+
+
+148 :
+Beeeeeeeep!
+
+
+149 :
+Tap, tap, tap...
+
+
+{S3A492}
+[Y¤u]
+Magic carpet...!
+
+
+150 :
+Beeeeeeeep!
+
+
+151 :
+Tap, tap, tap...
+
+
+{S3A493}
+[Y¤u]
+"On Dasher and Dancer, and Prancer and 
+Vixen... Come on!"
+
+
+152 :
+Beeeeeeeep!
+
+Of course, none of those phrases got her
+access to the C Level information.
+
+I didn't see why she had to shout all of them
+out either.
+
+I was already at my wit's end and incapable of
+speech.
+
+
+153 :
+And then, suddenly‡L
+
+
+154 :
+
+{S3A494}
+[Y¤u]
+Wh-what in the...?
+
+The screen went black.
+
+[Kid]
+Wh-what just happened?
+
+
+155 :
+
+{S3A495}
+[Y¤u]
+"I don't know, but it looks like it 
+automatically shut down the authorization 
+screen..."
+
+[Kid]
+Huh?
+
+After a moment, the screen returned to normal.
+
+
+156 :
+Y¤u pecked away at the keyboard and called up
+the authorization screen again.
+
+
+157 :
+Tap, tap, tap...
+
+
+158 :
+Tap!
+
+
+159 :
+Beeeeeeeep!
+
+'Access denied. Cannot log in with the given
+name at this time.'
+
+
+{S3A496}
+[Y¤u]
+What!? What is this!?
+
+
+160 :
+She tried it again.
+
+
+161 :
+Beeeeeeeep!
+
+The result was the same.
+
+[Kid]
+What does this mean?
+
+
+162 :
+
+{S3A497}
+[Y¤u]
+"Maybe I entered the wrong password too many 
+times and it activated some kind of 
+protection."
+
+
+163 :
+
+{S3A498}
+[Y¤u]
+"In other words, LeMMIH has completely denied 
+access to my mom's name."
+
+[Kid]
+So...
+
+
+164 :
+
+{S3A499}
+[Y¤u]
+"So we'll have to give up for the time being, 
+I guess."
+
+Y¤u shrugged exaggeratedly.
+
+
+165 :
+
+{S3A500}
+[Y¤u]
+"And you went to so much trouble to read this 
+for me, Kid..."
+
+
+{S3A501}
+[Y¤u]
+"But from the start, there was no guarantee 
+that what's on that paper is the password."
+
+
+166 :
+
+{S3A502}
+[Y¤u]
+"It would make more sense if this was some 
+kind of hint that my mom uses to remember the 
+password."
+
+
+{S3A503}
+[Y¤u]
+"It wouldn't make much sense to call the file 
+'Password' otherwise. It would be too dangerous."
+
+[Kid]
+.........
+
+
+167 :
+I wondered why Y¤u's mom would choose that
+poem.
+
+I wondered what was hidden in the seventeen
+syllables of it.
+
+There was no answer or end to my questions.
+
+
+168 :
+And what was the password that should have
+been printed on that paper correctly?
+
+A Japanese phrase of around ten syllables.
+
+It bothered me to no end and was totally
+unsatisfying, but for the time being, there was
+no way to do anything more.
+
+
+169 :
+A while after that, we heard from Takeshi that
+repairs on the warehouse had been completed
+with no problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

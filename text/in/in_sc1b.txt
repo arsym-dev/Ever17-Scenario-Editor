@@ -1,0 +1,1912 @@
+
+
+1 :
+'Life readings: 6'
+
+And the exact number of humans trapped was...
+
+
+2 :
+{11:0-0d}
+{11:1}'6'
+
+{11:1}'5'
+
+
+3 :
+Six people.
+
+Y¤u, Sara, Tsugumi, Takeshi, me... and Sora.
+
+No matter how many times I checked, the number
+stayed the same.
+
+It was probably like Y¤u said‡Lthe sensor was
+just malfunctioning.
+
+
+4 :
+
+{C1S114}
+[Takeshi]
+"Well, either way, we can check by walking
+around the complex, right?"
+
+
+5 :
+
+{C1S115}
+[Takeshi]
+But first, we need to go secure Tsugumi!
+
+
+6 :
+
+{C1S116}
+[Y¤u]
+Secure? You mean save?
+
+
+7 :
+
+{C1S117}
+[Takeshi]
+Saving is removing an object from danger.
+
+
+{C1S118}
+[Takeshi]
+Securing is removing danger itself.
+
+
+8 :
+[Kid]
+"Wait! That's not right! There's something
+strange about it!"
+
+
+9 :
+I protested.
+
+[Kid]
+"There are only five people that didn't 
+escape in time!"
+
+[Kid]
+But the bio scan is showing six.
+
+[Kid]
+So there has to be somebody else in LeMU!
+
+
+10 :
+
+{C1S119}
+[Sara]
+Huh? Why do you say there are five people?
+
+
+11 :
+
+{C1S120}
+[Sara]
+"Sora, Tsugumi, Takeshi, the Kid, Nakkyu... and 
+me."
+
+
+{C1S121}
+[Sara]
+That's six.
+
+[Kid]
+No. Sara... that's wrong...
+
+
+12 :
+[Kid]
+The thing is, Sora is...
+
+The words jumped out of my mouth.
+
+[Kid]
+The thing is, Sora is...
+
+
+13 :
+[Kid]
+Sora is...
+
+[Kid]
+She's not really here.
+
+
+14 :
+
+{C1S122}
+[Sara]
+She's not here...?
+
+
+15 :
+
+{C1S123}
+[Takeshi]
+What're you talking about, Kid?
+
+[Kid]
+Sora is... an RSD-generated image.
+
+
+16 :
+
+{C1S124}
+[Sara]
+Wh-what!?
+
+
+17 :
+
+{C1S125}
+[Takeshi]
+RSD!?
+
+[Kid]
+"It's a system that uses semiconductor lasers 
+to project an image directly onto a person's 
+retina."
+
+[Kid]
+"In other words, the Sora that we're seeing 
+is just an image."
+
+Sara and Takeshi's jaws dropped, and they
+blinked again and again.
+
+Being an employee of LeMU, I figured that Y¤u
+had known that from the start. She didn't
+look surprised, but just gazed off into
+the distance.
+
+As for Sora...
+
+
+18 :
+
+{C1S126}
+[Sora]
+Yes. It is exactly as Kid-san states.
+
+
+{C1S127}
+[Sora]
+I am not flesh and blood.
+
+
+{C1S128}
+[Sora]
+I have no form... I am merely an image.
+
+
+{C1S129}
+[Sora]
+"My thoughts and personality are all 
+controlled by an AI program."
+
+
+19 :
+
+{C1S130}
+[Takeshi]
+No way...
+
+
+20 :
+
+{C1S131}
+[Sora]
+You don't believe me?
+
+
+21 :
+
+{C1S132}
+[Takeshi]
+Of course not! I mean, Sora, you're here...
+
+
+22 :
+
+{C1S133}
+[Sora]
+"Actually, your disbelief is really quite a 
+compliment."
+
+
+23 :
+
+{C1S134}
+[Sora]
+However, Kuranari-san... it is a fact.
+
+
+24 :
+
+{C1S135}
+[Sara]
+R-really...?
+
+
+25 :
+Looking scared, Sara reached her right hand
+out toward Sora.
+
+Her arm met no resistance as it plunged into
+Sora's body.
+
+
+26 :
+
+{C1S136}
+[Sara]
+Wow...
+
+Sara reflexively snapped her hand back...
+
+
+27 :
+
+{C1S137}
+[Sora]
+Now do you understand?
+
+[Sara]
+.........
+
+
+28 :
+[Takeshi]
+.........
+
+
+29 :
+Takeshi and Sara froze, immobile, like they
+were cutout pictures.
+
+[Kid]
+Hey. You get it now, right?
+
+[Kid]
+"So Sora isn't detected by the bio scan 
+sensors."
+
+
+30 :
+
+{C1S138}
+[Y¤u]
+That's right...
+
+Y¤u finally broke her silence.
+
+
+{C1S139}
+[Y¤u]
+"Sora shouldn't be counted by the bio scan 
+sensors, so this number... Six can't be 
+the right number."
+
+[Kid]
+I told you so.
+
+[Kid]
+"So that means that somebody else is here 
+besides us."
+
+
+31 :
+
+{C1S140}
+[Y¤u]
+Stop!
+
+
+32 :
+
+{C1S141}
+[Y¤u]
+Were you listening to what I just said?
+
+[Kid]
+?
+
+
+{C1S142}
+[Y¤u]
+"By 'can't be the right number', I mean that 
+there's some kind of malfunction."
+
+
+33 :
+
+{C1S143}
+[Y¤u]
+Think about it.
+
+
+{C1S144}
+[Y¤u]
+It didn't just display the number six, right?
+
+
+34 :
+
+{C1S145}
+[Y¤u]
+"The first time we looked, it was saying 
+seven too."
+
+
+{C1S146}
+[Y¤u]
+"Then it would jump between five, six, and 
+seven."
+
+
+35 :
+
+{C1S147}
+[Y¤u]
+How do you explain that?
+
+[Kid]
+.........
+
+
+36 :
+
+{C1S148}
+[Y¤u]
+"Even if, like you say, there were other 
+people that didn't get out of here in time..."
+
+
+{C1S149}
+[Y¤u]
+"You think somebody would suddenly appear, 
+disappear, or split into two people?"
+
+[Kid]
+Well... how am I supposed to know...?
+
+
+37 :
+
+{C1S150}
+[Y¤u]
+See.
+
+[Kid]
+"But if somebody else were here, what would 
+you do?"
+
+[Kid]
+"Why don't we just search and then call it quits 
+if we don't find anyone."
+
+[Kid]
+"I don't see any reason that you could have 
+against searching."
+
+
+38 :
+
+{C1S151}
+[Y¤u]
+I'm not against it.
+
+
+{C1S152}
+[Y¤u]
+"But this is just a computer glitch, and 
+I don't think we should let it go controlling 
+us and making us all upset."
+
+[Kid]
+So you really are against it.
+
+
+39 :
+
+{C1S153}
+[Y¤u]
+I said I'm not.
+
+[Kid]
+.........
+
+
+40 :
+
+{C1S154}
+[Y¤u]
+Geez... Fine. I got it. Enough of this...
+
+
+{C1S155}
+[Y¤u]
+"Alright, should we go search for 
+this 'someone'?"
+
+I gave a big nod.
+
+
+41 :
+At that point...
+
+
+42 :
+
+{C1S156}
+[Sora]
+Uh... But Komachi-san...
+
+Sora said it hesitantly.
+
+
+43 :
+
+{C1S157}
+[Y¤u]
+Oh, that's right.
+
+
+44 :
+
+{C1S158}
+[Y¤u]
+"The reason we all came here was to find out 
+where Tsugumi went."
+
+
+45 :
+
+{C1S159}
+[Sora]
+Correct.
+
+
+{C1S160}
+[Sora]
+"So wouldn't it be logical to search LeMU 
+while we determine the location of Komachi-san?"
+
+[Kid]
+Okay. Sounds good.
+
+[Kid]
+Well, let's get started then.
+
+[Kid]
+Tsugumi was on Zweiter Stock, right?
+
+
+46 :
+
+{C1S161}
+[Sora]
+Yes.
+
+
+47 :
+Sara and Takeshi didn't react at all.
+
+I imagined they still couldn't quite swallow
+the idea that Sora was an image.
+
+The two were frozen stiff with their eyes
+completely absorbed by Sora.
+
+[Kid]
+"What are you doing? Hurry up! Let's get 
+going!"
+
+I tugged Sara and Takeshi by the arm, leading
+them from the control room.
+
+
+48 :
+We climbed the emergency stairs, aiming for
+the floor that Tsugumi was on.
+
+Only Sora remained in the control room,
+thinking of ways to escape, trying to
+reestablish communications, rechecking
+the complex, and trying to get other
+systems that were down back online.
+
+
+49 :
+We arrived at Zweiter Stock...
+
+And when we did, a voice came from the speaker
+above the corridor.
+
+
+{C1S162}
+[Sora]
+Right now, Komachi-san...
+
+
+{C1S163}
+[Sora]
+...Seems to be in the security office.
+
+I figured Sora was using the complex's
+intercom system to announce
+Tsugumi's location.
+
+
+50 :
+
+{C1S164}
+[Y¤u]
+Alright. The security office, huh?
+
+Y¤u said that toward the ceiling.
+
+
+51 :
+On the way to the office...
+
+Takeshi said...
+
+
+52 :
+
+{C1S165}
+[Takeshi]
+"Hey, that surprised the heck outta me... 
+Sora being AI."
+
+
+{C1S166}
+[Sara]
+"I know, it's crazy to think that she's 
+only an image."
+
+
+{C1S167}
+[Sara]
+"I mean... she said something about a laser 
+projected onto the retina..."
+
+Takeshi and Sara were as excited as two kids
+experiencing Halloween for the first time.
+
+
+53 :
+
+{C1S168}
+[Takeshi]
+"But Y¤u knew, right? That Sora is 
+RSD-generated."
+
+
+54 :
+
+{C1S169}
+[Y¤u]
+Yeah. I work here, after all.
+
+
+55 :
+
+{C1S170}
+[Sara]
+Well, why didn't you tell us?
+
+
+56 :
+
+{C1S171}
+[Y¤u]
+Well... basically...
+
+
+57 :
+
+{C1S172}
+[Y¤u]
+I didn't think it was what Sora wanted.
+
+
+58 :
+
+{C1S173}
+[Y¤u]
+"Sora herself didn't say anything about being 
+AI or RSD, right?"
+
+
+{C1S174}
+[Y¤u]
+"The fact that she's been quiet about it 
+tells me that she probably wanted to keep it 
+a secret from everybody."
+
+
+59 :
+
+{C1S175}
+[Y¤u]
+"If she didn't, then she would have told you 
+all about it long ago. Don't you think?"
+
+
+60 :
+
+{C1S176}
+[Y¤u]
+So I didn't tell you.
+
+
+61 :
+
+{C1S177}
+[Y¤u]
+"I didn't think I should be the one to tell 
+you."
+
+
+62 :
+
+{C1S178}
+[Sara]
+Hmmmm...
+
+
+{C1S179}
+[Takeshi]
+I get it...
+
+[Kid]
+So I shouldn't have said that?
+
+
+63 :
+
+{C1S180}
+[Y¤u]
+What?
+
+[Kid]
+"You said that Sora wanted to keep all of 
+the AI and RSD stuff a secret, right?"
+
+
+64 :
+[Kid]
+And I went and told everybody all about it...
+
+[Kid]
+Sora might be mad...
+
+
+65 :
+
+{C1S181}
+[Y¤u]
+That's silly...
+
+
+66 :
+
+{C1S182}
+[Sora]
+Not in the least, Kid-san.
+
+
+67 :
+[Kid]
+S-Sora...!
+
+Suddenly, Sora appeared before everyone.
+
+We stopped, surprised...
+
+
+68 :
+
+{C1S183}
+[Sora]
+"It is something that I thought I needed to 
+tell you..."
+
+
+69 :
+
+{C1S184}
+[Sora]
+"Besides, it is not something that I was 
+desperately trying to hide."
+
+
+70 :
+
+{C1S185}
+[Sora]
+So please, try not to worry about it.
+
+
+71 :
+
+{C1S186}
+[Sara]
+Wait just a second...
+
+
+72 :
+
+{C1S187}
+[Sara]
+"So how did the Kid know about Sora's 
+identity?"
+
+
+73 :
+[Kid]
+...Uh... I...?
+
+
+{C1S188}
+[Sora]
+"Kid-san, you should not have any memories from 
+before you fell into the pond, correct?"
+
+[Kid]
+Uh, yeah...
+
+
+74 :
+
+{C1S189}
+[Takeshi]
+"So that means that somebody must've told you 
+about Sora after that."
+
+[Kid]
+No one... told... me...
+
+
+{C1S190}
+[Sara]
+So how did you know?
+
+[Kid]
+That... Uh... I... Um...
+
+
+75 :
+(Not again...)
+
+I thought about it.
+
+It was the same as the time I had blurted out
+Sara's name.
+
+I knew something that there was no way
+I could know.
+
+The fact that Sora was an RSD image.
+
+When, where, why, from whom, and how could
+I have heard that...?
+
+It was like one memory had broken free from
+the frozen iceberg of my past...
+
+I was confused by the memory's image...
+
+{16:4}
+
+76 :
+[Kid]
+I don't know...
+
+[Kid]
+I don't know how I know...
+
+[Kid]
+How could I know? What is there in my past?
+
+[Kid]
+Somebody... tell me...
+
+
+77 :
+[Sara]
+.........
+
+[Y¤u]
+.........
+
+[Takeshi]
+.........
+
+[Sora]
+.........
+
+The four of them looked at each other.
+
+
+78 :
+
+{C1S191}
+[Sara]
+You guys, this is completely bizarre!
+
+
+{C1S192}
+[Sara]
+"And it's not just this... The Kid knew 
+my name too."
+
+
+79 :
+
+{C1S193}
+[Sora]
+He knew your name, Matsunaga-san?
+
+
+{C1S194}
+[Sara]
+Yup.
+
+
+80 :
+
+{C1S195}
+[Sara]
+"What was it he had? Life amnesia or 
+something?"
+
+
+81 :
+
+{C1S196}
+[Sara]
+"That has to do only with the loss of memories 
+that are directly related to the person, 
+right?"
+
+
+82 :
+
+{C1S197}
+[Sara]
+But he knew about me and Sora...
+
+
+83 :
+
+{C1S198}
+[Y¤u]
+Wait a second, Mayo.
+
+
+{C1S199}
+[Y¤u]
+I told you not to pressure the Kid.
+
+
+84 :
+
+{C1S200}
+[Takeshi]
+"But... maybe it's just the opposite. Maybe he 
+needs it."
+
+
+{C1S201}
+[Takeshi]
+I mean... he found the edge of his memory.
+
+
+{C1S202}
+[Takeshi]
+"Maybe if he doesn't try to pull stuff back 
+from the other side, it'll disappear for good."
+
+
+85 :
+
+{C1S203}
+[Y¤u]
+Kuranari, I understand what you're saying.
+
+
+{C1S204}
+[Y¤u]
+But think about our situation right now.
+
+
+86 :
+
+{C1S205}
+[Sora]
+I agree with Tanaka-san.
+
+
+{C1S206}
+[Sora]
+"No one here has specialty knowledge of
+this disorder, nor are they capable of 
+providing counseling."
+
+
+87 :
+
+{C1S207}
+[Sora]
+"In other words... if Kid-san's condition were 
+to worsen, there is nothing we could do to 
+help him."
+
+
+88 :
+
+{C1S208}
+[Y¤u]
+So we have to stick with what we've got.
+
+
+{C1S209}
+[Y¤u]
+"He can still get his memory back after we get 
+out of here."
+
+Sara and Takeshi didn't looked satisfied.
+
+Maybe I had gotten used to that kind of thing.
+My head didn't hurt, and I didn't feel confused.
+
+
+But I was terribly tired.
+
+I was absolutely beat, and there was no way
+I was getting any closer to my memory.
+
+My memory was like a lone island shrouded
+in a fog.
+
+
+89 :
+
+{C1S210}
+[Sara]
+"Well, if that's what you think... 
+then that's fine."
+
+
+90 :
+
+{C1S211}
+[Sara]
+"Besides... we've got things to find before his 
+memory."
+
+
+91 :
+
+{C1S212}
+[Y¤u]
+Things to find?
+
+
+92 :
+
+{C1S213}
+[Sora]
+She is referring to Komachi-san.
+
+
+93 :
+The five of us went in the security office.
+
+Tsugumi was there.
+
+
+94 :
+
+{C1S214}
+[Tsugumi]
+What are you guys doing here?
+
+
+{C1S215}
+[Takeshi]
+What are YOU doing here?
+
+
+{C1S216}
+[Tsugumi]
+Do you want me to tell you?
+
+
+95 :
+
+{C1S217}
+[Takeshi]
+Yeah.
+
+
+96 :
+
+{C1S218}
+[Tsugumi]
+"I was trying to find out what you're 
+plotting."
+
+
+97 :
+
+{C1S219}
+[Takeshi]
+Oh... You're still stuck on that, huh?
+
+
+98 :
+
+{C1S220}
+[Takeshi]
+Are you sick in the head? Paranoid, maybe?
+
+[Tsugumi]
+.........
+
+
+99 :
+
+{C1S221}
+[Y¤u]
+Let her look. That'll be the best anyway.
+
+
+{C1S222}
+[Y¤u]
+"Then she'll realize that we're not scheming 
+anything."
+
+[Tsugumi]
+.........
+
+
+100 :
+
+{C1S223}
+[Sara]
+"Tsugumi, what is it you're so suspicious 
+about?"
+
+
+{C1S224}
+[Sara]
+What do you think we did?
+
+
+101 :
+
+{C1S225}
+[Tsugumi]
+It has nothing to do with you.
+
+
+102 :
+
+{C1S226}
+[Sara]
+Don't say that!
+
+
+103 :
+
+{C1S227}
+[Sara]
+I wish you... wouldn't talk like that...
+
+Sara clenched her fist, and her shoulders shook.
+
+
+104 :
+
+{C1S228}
+[Tsugumi]
+That's not what I meant.
+
+
+105 :
+
+{C1S229}
+[Sara]
+...Huh?
+
+
+106 :
+
+{C1S230}
+[Tsugumi]
+You... Your name is Sara, right?
+
+
+107 :
+
+{C1S231}
+[Sara]
+Y-yes.
+
+
+{C1S232}
+[Tsugumi]
+I'm not suspicious of you, Sara.
+
+
+{C1S233}
+[Tsugumi]
+So this thing has nothing to do with you.
+
+
+108 :
+
+{C1S234}
+[Sara]
+What do you mean?
+
+
+{C1S235}
+[Tsugumi]
+"You came here on a field trip or something, 
+right?"
+
+
+109 :
+
+{C1S236}
+[Tsugumi]
+So... you're here 'by chance'.
+
+
+110 :
+
+{C1S237}
+[Sora]
+"It would also seem that Tanaka-san,
+Kuranari-san, Kid-san... everyone also
+failed to escape by chance."
+
+
+111 :
+
+{C1S238}
+[Tsugumi]
+What are you saying?
+
+
+112 :
+
+{C1S239}
+[Tsugumi]
+"There's no way that something like this 
+could occur 'by chance'."
+
+
+113 :
+[Kid]
+What do you mean by 'something like this'?
+
+
+{C1S240}
+[Tsugumi]
+"Everything! Everything that's happening 
+here!"
+
+[Kid]
+"So you're saying that the accident and all 
+didn't happen by chance?"
+
+
+{C1S241}
+[Tsugumi]
+Of course that's what I mean.
+
+
+114 :
+
+{C1S242}
+[Takeshi]
+You mean like somebody planned it?
+
+
+115 :
+
+{C1S243}
+[Tsugumi]
+Not somebody... YOU ALL did.
+
+
+116 :
+
+{C1S244}
+[Y¤u]
+Aha... Ahaha... Ahahahahaha...
+
+
+117 :
+
+{C1S245}
+[Tsugumi]
+Wh-what's so funny?
+
+
+118 :
+
+{C1S246}
+[Y¤u]
+It's... I mean...
+
+
+119 :
+
+{C1S247}
+[Y¤u]
+You have to laugh.
+
+[Tsugumi]
+.........
+
+
+120 :
+
+{C1S248}
+[Y¤u]
+Hey, Kuranari. How old are you?
+
+
+121 :
+
+{C1S249}
+[Takeshi]
+Who? Me? I'm 20.
+
+
+{C1S250}
+[Y¤u]
+I'm eighteen.
+
+
+122 :
+
+{C1S251}
+[Y¤u]
+"Nobody knows the Kid's age... but he's 
+definitely younger than me."
+
+
+{C1S252}
+[Y¤u]
+"You think the three of us could cause this 
+kind of massive accident?"
+
+
+123 :
+
+{C1S253}
+[Tsugumi]
+"Well, with just the three of you, it might be 
+impossible."
+
+
+{C1S254}
+[Tsugumi]
+But...
+
+
+124 :
+
+{C1S255}
+[Tsugumi]
+Akanegasaki Sora‡LYou could do it, right?
+
+
+{C1S256}
+[Sara]
+Sora?
+
+
+125 :
+
+{C1S257}
+[Y¤u]
+Sora?
+
+
+{C1S258}
+[Takeshi]
+Sora?
+
+[Kid]
+Sora could?
+
+
+126 :
+[Sora]
+...............
+
+
+{C1S259}
+[Tsugumi]
+Sora is one of LeMMIH's programs.
+
+
+{C1S260}
+[Tsugumi]
+"The only one that could do whatever they 
+wanted with the LeMU system is you, Sora."
+
+
+127 :
+
+{C1S261}
+[Sora]
+I... I... I...
+
+
+128 :
+
+{C1S262}
+[Sara]
+Tsugumi! Don't be stupid!
+
+
+129 :
+
+{C1S263}
+[Tsugumi]
+"I've already told you that this has nothing 
+to do with you, Sara."
+
+
+{C1S264}
+[Sara]
+Of course it has to do with me!
+
+
+{C1S265}
+[Sara]
+"Everybody that's here right now is working 
+together to get out of here!"
+
+
+130 :
+
+{C1S266}
+[Sara]
+We're not just strangers anymore!
+
+
+131 :
+
+{C1S267}
+[Sara]
+But... But you just...
+
+
+132 :
+[Tsugumi]
+.........
+
+
+133 :
+
+{C1S268}
+[Sara]
+"Anyway, I want you to stop telling everyone
+these conspiracy theories."
+
+
+134 :
+
+{C1S269}
+[Sara]
+You've got it all wrong...
+
+Sara stared intensely at Tsugumi.
+
+Tsugumi avoided her eyes.
+
+It was a period of awkward silence...
+
+Everyone scanned each other's faces, trying to
+gauge what the others were thinking.
+
+
+{C1S270}
+[Tsugumi]
+I'm sorry, Sara...
+
+
+135 :
+Tsugumi left the security office with her eyes
+down.
+
+
+136 :
+
+{C1S271}
+[Y¤u]
+Tsugumi, wait!
+
+
+137 :
+
+{C1S272}
+[Sara]
+Tsugumi!
+
+
+138 :
+Y¤u and Sara dashed out of the room after
+Tsugumi.
+
+That left Sora, Takeshi, and me.
+
+Again, silence enveloped us.
+
+We tried to get rid of the awkwardness by
+staring at the monitors, picking our nails, and
+fiddling with the lint on our clothes.
+
+
+139 :
+
+{C1S273}
+[Sora]
+Well... I'll go back to the control room.
+
+
+{C1S274}
+[Sora]
+"As soon as I learn anything, I will contact 
+everyone..."
+
+
+140 :
+Sora left Takeshi and me with those words.
+
+
+Takeshi looked at me and shrugged.
+
+
+141 :
+
+{C1S275}
+[Takeshi]
+Here we go again...
+
+[Kid]
+...
+
+
+142 :
+
+{C1S276}
+[Takeshi]
+Okay, whaddya wanna do?
+
+[Kid]
+What do you mean?
+
+
+{C1S277}
+[Takeshi]
+Should we go after Tsugumi?
+
+[Kid]
+"I think the same thing would just happen 
+again..."
+
+
+143 :
+
+{C1S278}
+[Takeshi]
+Then what?
+
+[Kid]
+I don't know...
+
+
+144 :
+
+{C1S279}
+[Takeshi]
+For now, we could take a look around.
+
+[Kid]
+"Yeah. We still haven't figured out the 
+problem with the bio scan number."
+
+
+{C1S280}
+[Takeshi]
+"You mean that 'mystery somebody', the one who 
+didn't escape?"
+
+[Kid]
+"Yeah. So let's check around LeMU one more 
+time..."
+
+
+145 :
+
+{C1S281}
+[Takeshi]
+You wanna split up and look?
+
+
+{C1S282}
+[Takeshi]
+"I could take the bottom floor, and you could 
+take Zweiter Stock..."
+
+[Kid]
+Sounds good.
+
+
+146 :
+So Takeshi and I split up to search.
+
+We agreed to meet up at 9:30 p.m.
+
+We were to meet in front of the
+security office.
+
+
+147 :
+I looked around Zweiter Stock.
+
+[Kid]
+Is there anybody there? If so, answer me!
+
+I made the rounds of all the rooms...
+
+...But I didn't find anyone.
+
+And it was about time to meet up with Takeshi.
+
+
+148 :
+I headed to the front of the security office.
+
+
+But...
+
+
+149 :
+Takeshi was nowhere to be seen.
+
+[Kid]
+Hey! Takeshi!
+
+I called out to him, but there was no answer.
+
+Glancing at the door of the security office,
+I saw that it was open.
+
+I decided to take a peek inside the room.
+
+
+150 :
+No one was there...
+
+[Kid]
+Hey! Sora! Do you know where Takeshi went?
+
+I looked up at the bare ceiling and called out.
+
+I figured Sora would be in the control room
+monitoring me.
+
+But apparently she wasn't...
+
+The speakers in the ceiling remained painfully
+silent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2705 @@
+
+
+1 :
+[Kid]
+Rip Van Winkle DID exist!
+
+I screamed out.
+
+
+2 :
+
+{C4A426}
+[Y¤u]
+You're so silly.
+
+
+{C4A427}
+[Y¤u]
+It's just a fairy tale!
+
+[Kid]
+Look, not all fairy tales are fiction!
+
+
+{C4A428}
+[Y¤u]
+"That doesn't mean that Rip Van Winkle 
+actually existed, does it?"
+
+
+{C4A429}
+[Y¤u]
+"Besides, even if the tale of Rip Van Winkle 
+was real, that has nothing to do with you, 
+Kid."
+
+[Kid]
+It does too.
+
+[Kid]
+"We're talking about whether people could 
+actually travel through time, right?"
+
+
+3 :
+
+{C4A430}
+[Y¤u]
+That's what I mean! Don't you get it!?
+
+
+{C4A431}
+[Y¤u]
+"I'm saying that even if someone could actually 
+travel through time, that doesn't necessarily mean 
+that you did."
+
+[Kid]
+Then how come I can see the future?
+
+
+4 :
+
+{C4A432}
+[Y¤u]
+Don't ask me. How should I know...?
+
+[Kid]
+"It has to be because I'm experiencing the 
+same moments in time over and over again."
+
+[Kid]
+"I must have been stuck in LeMU in the past 
+also..."
+
+[Kid]
+"Three days passed, and then four, five 
+days... and after that, I must have slipped 
+through time for some reason."
+
+[Kid]
+"Meaning I must have traveled back in time 
+to the moment I fell into that pond."
+
+[Kid]
+That must be why I can look into the future.
+
+[Kid]
+"No, I mean, I must be remembering things I've 
+already experienced in the past instead of 
+looking into the future, to be exact."
+
+[Kid]
+"I don't know how, but I'm probably carrying 
+memories of the past."
+
+
+5 :
+
+{C4A433}
+[Y¤u]
+Really... Well, that must be it then.
+
+[Kid]
+Oh, c'mon, I'm being serious here!
+
+
+6 :
+
+{C4A434}
+[Y¤u]
+"I'm sorry... but I've got far more serious, 
+urgent problems."
+
+
+{C4A435}
+[Y¤u]
+I've got tons of things to think about.
+
+
+{C4A436}
+[Y¤u]
+You know what I'm talking about, Kid?
+
+[Kid]
+.........
+
+
+{C4A437}
+[Y¤u]
+"I don't know what the reason is, but you can 
+predict the future."
+
+
+{C4A438}
+[Y¤u]
+So what...?
+
+
+{C4A439}
+[Y¤u]
+"It's not like it's a bad ability to have. As 
+a matter of fact, I can imagine that it would 
+really come in handy."
+
+[Kid]
+"You make it sound so simple... but in my 
+case, I don't think it's the ability to see 
+the future. I'm pretty sure I traveled 
+through time."
+
+[Kid]
+"I might even be repeating the same moments in 
+history over and over again."
+
+[Kid]
+"And what's more, I'm pretty sure the amnesia 
+has something to do with the time travel..."
+
+
+7 :
+
+{C4A440}
+[Y¤u]
+Look, how many times do I have to tell you?
+
+
+{C4A441}
+[Y¤u]
+Time travel is NOT possible.
+
+
+{C4A442}
+[Y¤u]
+"And as far as your amnesia, I'm sure you'll 
+regain your memories in time!"
+
+
+{C4A443}
+[Y¤u]
+"You're already beginning to remember things, 
+right?"
+
+
+{C4A444}
+[Y¤u]
+"I mean, you've actually remembered most 
+everything, haven't you?"
+
+[Kid]
+Not everything.
+
+[Kid]
+I just remembered things about Sara.
+
+[Kid]
+Just childhood memories.
+
+[Kid]
+"I still don't have any memories from the 
+last few years..."
+
+[Kid]
+"I have no idea how I got to LeMU, why, or with 
+whom."
+
+[Kid]
+"I still don't remember anything before May 
+1st, the day I came to LeMU."
+
+[Kid]
+Where I was... what I was doing...
+
+[Kid]
+Or who I am...
+
+
+8 :
+
+{C4A445}
+[Y¤u]
+Huh?
+
+
+{C4A446}
+[Y¤u]
+Wa-wa-wait a second.
+
+
+9 :
+
+{C4A447}
+[Y¤u]
+"You're Mayo's brother, right? You did 
+remember that, don't you?"
+
+[Kid]
+Uh, yeah.
+
+
+{C4A448}
+[Y¤u]
+So you have to at least know 'who you are'.
+
+[Kid]
+But... I don't...
+
+
+{C4A449}
+[Y¤u]
+...?
+
+[Kid]
+How can I explain this...?
+
+[Kid]
+"If someone were to ask me, 'Who are you?', all 
+I could say is, 'I'm Matsunaga Sara's 
+brother.'"
+
+[Kid]
+I don't know any other way to answer.
+
+Then, all of a sudden, Y¤u...
+
+
+10 :
+
+{C4A450}
+[Y¤u]
+Oh! Oh! Ohhh!
+
+Y¤u raised her voice and pointed her finger
+at me.
+
+
+{C4A451}
+[Y¤u]
+"Oh, that reminds me, I keep forgetting to 
+ask you something important!"
+
+[Kid]
+Something important?
+
+
+11 :
+
+{C4A452}
+[Y¤u]
+Name! Your name!
+
+
+{C4A453}
+[Y¤u]
+Your name, Kid!
+
+[Kid]
+.........
+
+
+{C4A454}
+[Y¤u]
+Mayo told you, didn't she?
+
+[Kid]
+.........
+
+
+12 :
+
+{C4A455}
+[Y¤u]
+You DID ask her, didn't you?
+
+[Kid]
+.........
+
+
+13 :
+
+{C4A456}
+[Y¤u]
+You haven't asked her your name!?
+
+[Kid]
+Um... No... I haven't.
+
+
+14 :
+Y¤u shook her head, looked up at the ceiling,
+and chewed on her lips.
+
+
+15 :
+She clenched her fist, went to shake it into
+the air, then rethought it and pulled it back
+down.
+
+Y¤u then proceeded to stomp around in a puddle
+of water.
+
+She crouched down and hopped up swiftly.
+
+She took a deep breath.
+
+I thought she was going to exhale, but
+she continued to take one long breath in.
+
+And then she said...
+
+
+16 :
+
+{C4A457}
+[Y¤u]
+ARE YOU STUPID OR WHAAAAAAAAAAAT!?
+
+
+17 :
+Her voice was so loud that it shook LeMU like an
+earthquake.
+
+I was a bit frightened that it would tear the
+partition walls.
+
+{C4A458}
+[Y¤u]
+"That's the first thing you should ask her 
+before anything else!"
+
+[Kid]
+"Well... you probably wouldn't understand this, 
+but..."
+
+[Kid]
+Sara and I had so much else to talk about.
+
+[Kid]
+"We had endless things to talk about... and I 
+just didn't have the presence of mind or 
+chance to think about myself."
+
+[Kid]
+"For us, the first priority was to regain the 
+time we had lost."
+
+[Kid]
+"And to be honest, I couldn't care less about my 
+name."
+
+
+18 :
+
+{C4A459}
+[Y¤u]
+Listen, Kid... Just think about it.
+
+
+{C4A460}
+[Y¤u]
+"It's your own name. Aren't you curious to 
+know?"
+
+[Kid]
+"Now that you've brought it up, I'm starting 
+to wonder..."
+
+[Kid]
+"When I was talking to Sara, it didn't even 
+pass through my mind."
+
+
+19 :
+
+{C4A461}
+[Y¤u]
+*Sigh*...
+
+Y¤u sighed with an exaggerated gesture.
+
+[Kid]
+Well, just put yourself in our position, Y¤u.
+
+[Kid]
+"Sara and I saw each other for the first time 
+in nine years."
+
+[Kid]
+"We were just so happy, caught up in the 
+memories..."
+
+[Kid]
+"But on the other hand, we were scared, in 
+pain, and our hearts ached..."
+
+[Kid]
+"All these emotions were mixed up and jumbled 
+together and came flooding over us."
+
+[Kid]
+"Sara and I were overwhelmed just trying to 
+understand one another."
+
+[Kid]
+"Like I said, names didn't seem so important 
+at that time."
+
+[Kid]
+"She just called me 'onii-chan', and I just 
+wanted to call her Sara."
+
+[Kid]
+Do you understand?
+
+
+20 :
+
+{C4A462}
+[Y¤u]
+No, not at all.
+
+
+21 :
+Y¤u said that and started to walk off.
+
+[Kid]
+Hey, wait a second! Where are you going!?
+
+
+22 :
+Splashing water, Y¤u walked down the long
+straight corridor...
+
+I tagged along beside her and asked her again.
+
+[Kid]
+Hey, where are you going?
+
+
+23 :
+
+{C4A463}
+[Y¤u]
+I'm going to ask Mayo.
+
+[Kid]
+What?
+
+
+24 :
+
+{C4A464}
+[Y¤u]
+Well, helloooo? Your name, of course, Kid!
+
+[Kid]
+Look, you don't have to do that...
+
+
+25 :
+
+{C4A465}
+[Y¤u]
+Huh? Why not?
+
+[Kid]
+.........
+
+
+26 :
+
+{C4A466}
+[Y¤u]
+What you've been saying doesn't make sense.
+
+
+27 :
+
+{C4A467}
+[Y¤u]
+"Don't you want to regain your full memory? 
+Don't you want to know who you are?"
+
+[Kid]
+Oh, of course I do, but...
+
+
+28 :
+
+{C4A468}
+[Y¤u]
+"Well then, instead of talking about stupid, 
+outrageous things like seeing the future or 
+time travel..."
+
+
+{C4A469}
+[Y¤u]
+"Don't you think it'd just be faster to ask 
+Mayo?"
+
+I thought back briefly to the sight of myself
+in that mirror.
+
+I had been so confused at that time because
+'my face' didn't look like 'my face'.
+
+If the same thing happened when Sara told me
+my name...
+
+I was afraid that I might feel like 'my name'
+wasn't really 'my name' and end up all
+confused again.
+
+To tell the truth, it was a bit scary.
+
+Besides...
+
+[Kid]
+Is a name really all that important?
+
+
+29 :
+
+{C4A470}
+[Y¤u]
+...What?
+
+[Kid]
+"Look, names are just things people give 
+themselves to make identifying one another 
+more convenient."
+
+[Kid]
+"It's just for convenience... So while living 
+without a name certainly has its own 
+challenges, I don't think a name is an 
+absolute necessity."
+
+[Kid]
+"Take dolphins. They're highly intelligent 
+creatures, but they don't go around calling 
+one another by name."
+
+[Kid]
+And they seem to be getting along just fine.
+
+[Kid]
+"They seem to be able to identify one dolphin 
+from the others too..."
+
+[Kid]
+"They know which one is a son, which one is a 
+wife, and the difference between a gray whale 
+and a killer whale..."
+
+[Kid]
+"They don't have names, yet they can recognize 
+things correctly."
+
+[Kid]
+"And... this is just speculation, but... 
+they seem to recognize individual identities."
+
+[Kid]
+"A dolphin seems to have its own sense of 
+self, separate from that of the dolphin 
+swimming next to it. And it's aware that it's 
+a separate entity."
+
+[Kid]
+"They don't have to depend on names to 
+recognize all these things..."
+
+[Kid]
+"My name is James, this one next to me is 
+Ling Ling, and that one chasing after a fish 
+is Yumemi..."
+
+[Kid]
+I don't think they do that.
+
+[Kid]
+"It may sound kind of cocky, but sometimes I 
+feel humans depend on names too much."
+
+[Kid]
+"If, one day, this girl you've known as Ling 
+Ling tells you, 'Oh, by the way, my name is 
+Lang Lang', wouldn't that throw you off?"
+
+[Kid]
+It'd cause confusion... and you might think...
+
+[Kid]
+"'You know, Ling Ling and Lang Lang are really 
+similar, but they're probably just two 
+different people'..."
+
+[Kid]
+"It seems stupid to get confused just because 
+of a name."
+
+[Kid]
+"Meaning people value, trust, and depend on 
+names more than the actual individual 
+differences..."
+
+[Kid]
+I bet dolphins don't think like that.
+
+[Kid]
+"Because, to begin with, they don't have 
+names to identify individuals."
+
+[Y¤u]
+.........
+
+[Kid]
+"I realized that for the first time once I 
+lost my name."
+
+[Kid]
+"I noticed that a name really isn't all that 
+important."
+
+
+30 :
+Y¤u didn't stop walking.
+
+I couldn't tell whether she was listening to
+me or not, because she didn't respond to me
+at all.
+
+
+31 :
+[Kid]
+Hey, are you listening to me?
+
+As we turned around a corner, I asked her.
+
+
+32 :
+
+{C4A471}
+[Y¤u]
+Yup, I'm listening, I'm listening.
+
+
+33 :
+
+{C4A472}
+[Y¤u]
+"I've been thinking about what you were just 
+saying..."
+
+[Kid]
+?
+
+
+34 :
+
+{C4A473}
+[Y¤u]
+I feel like I understand what you mean.
+
+
+{C4A474}
+[Y¤u]
+"You know, I've had a complex about my name 
+for a long time, and I've actually thought 
+quite a lot about this issue."
+
+[Kid]
+Complex?
+
+
+{C4A475}
+[Y¤u]
+Yeah.
+
+[Kid]
+Y¤u don't like your own name, Y¤u?
+
+
+35 :
+
+{C4A476}
+[Y¤u]
+Of course I don't.
+
+[Kid]
+Why?
+
+
+36 :
+
+{C4A477}
+[Y¤u]
+I'm embarrassed about it.
+
+
+{C4A478}
+[Y¤u]
+"People introduce themselves to one another 
+when they meet, right?"
+
+
+{C4A479}
+[Y¤u]
+"Every time a new year at school would start, 
+I would just cringe..."
+
+[Kid]
+Oh.
+
+
+37 :
+I murmured.
+
+[Kid]
+"I remember you said something about your 
+full name being much longer, right?"
+
+
+{C4A480}
+[Y¤u]
+Yeah.
+
+[Kid]
+"Well, would that have something to do with 
+the fact that you don't like your name?"
+
+
+38 :
+
+{C4A481}
+[Y¤u]
+"Something to do with it...? That's WHY I 
+don't like it."
+
+
+39 :
+Y¤u stopped walking.
+
+She had a bitter smile on her face.
+
+
+{C4A482}
+[Y¤u]
+Do you want to know?
+
+[Kid]
+What?
+
+
+40 :
+
+{C4A483}
+[Y¤u]
+I still haven't told you my full name yet.
+
+[Kid]
+Uh, I guess.
+
+
+{C4A484}
+[Y¤u]
+Will you promise that you won't laugh?
+
+[Kid]
+...Sure.
+
+
+{C4A485}
+[Y¤u]
+Okay, I'll tell you.
+
+
+{C4A486}
+[Y¤u]
+My name is...
+
+
+{C4A487}
+[Y¤u]
+Tanaka...
+
+
+{C4A488}
+[Y¤u]
+Yubiseiakikana.
+
+
+41 :
+[Kid]
+Huh...?
+
+
+{C4A489}
+[Y¤u]
+"It means 'gentle beautiful pure autumn
+fragrant green blossom'."
+
+[Kid]
+Huuuh!?
+
+[Kid]
+Yubisei'aki'kana!?
+
+
+42 :
+Suddenly, it was as if I felt a heavy
+thud in the bottom of my heart.
+
+A strange feeling started to take over my body.
+
+A sense of something out of place...
+
+That was it! That was right!
+
+I must have known Y¤u's real name!
+
+Wait... but... I'd never heard it from Y¤u
+directly...
+
+What was going on!?
+
+It was just like the situation with Sara...
+
+I already knew Y¤u's real name from before...
+
+
+Y¤u's real name was...
+
+[Kid]
+Your... real... name is...
+
+[Kid]
+Yubisei'haru'kana.
+
+
+43 :
+
+{C4A490}
+[Y¤u]
+What?
+
+[Kid]
+You said it wrong, didn't you?
+
+[Kid]
+You actually meant to say 'harukana', right?
+
+
+44 :
+
+{C4A491}
+[Y¤u]
+"Look, I don't think I'd say my own name 
+incorrectly."
+
+
+{C4A492}
+[Y¤u]
+"Well, 'haru' or 'aki', either one is fine 
+with me."
+
+
+{C4A493}
+[Y¤u]
+"But on the birth certificate, it says 
+'aki'..."
+
+[Kid]
+No!
+
+
+45 :
+
+{C4A494}
+[Y¤u]
+What?
+
+[Kid]
+Your full name has to be Yubisei'haru'kana!
+
+[Kid]
+It's not 'aki'!
+
+
+46 :
+
+{C4A495}
+[Y¤u]
+Hahahahaha...
+
+
+47 :
+
+{C4A496}
+[Y¤u]
+Ahahahaha~
+
+[Kid]
+"What are you laughing about!? This isn't 
+funny at all!"
+
+[Kid]
+You don't remember your own name!
+
+
+48 :
+
+{C4A497}
+[Y¤u]
+Yeah, yeah, that just may be it.
+
+
+{C4A498}
+[Y¤u]
+"My real name is... Oh, was it Ling Ling? No, 
+wait, maybe it was Lang Lang?"
+
+[Kid]
+.........
+
+
+{C4A499}
+[Y¤u]
+Kid, listen up.
+
+
+{C4A500}
+[Y¤u]
+My name is Yubiseiakikana.
+
+
+{C4A501}
+[Y¤u]
+"It's been that way since I was born, and it 
+will be that way as long as I live."
+
+
+{C4A502}
+[Y¤u]
+You got it?
+
+
+{C4A503}
+[Y¤u]
+"It's neither haru, nor natsu, nor 
+fuyu, but aki."
+
+
+{C4A504}
+[Y¤u]
+Do you know why?
+
+[Kid]
+.........
+
+
+{C4A505}
+[Y¤u]
+I was born eighteen years and seven months ago.
+
+
+{C4A506}
+[Y¤u]
+A little more than seven months, to be exact.
+
+
+{C4A507}
+[Y¤u]
+My birthday is September 22nd.
+
+
+{C4A508}
+[Y¤u]
+I was born in Japan.
+
+
+{C4A509}
+[Y¤u]
+I wasn't born in the southern hemisphere.
+
+
+{C4A510}
+[Y¤u]
+Let's see... Is September spring in Japan?
+
+
+{C4A511}
+[Y¤u]
+No, it's autumn, isn't it?
+
+
+{C4A512}
+[Y¤u]
+So, my name is 'akikana', you got that?
+
+I was already starting to lose my sense of
+reality.
+
+A bottomless fear crept up from the bottom of my
+stomach and threatened to leap out of my
+throat.
+
+My head started to ache.
+
+And then...
+
+
+49 :
+
+{C4A513}
+[Sara]
+Onii-chan! Nakkyu!
+
+I glanced as I put my hand on my temple.
+
+
+50 :
+Splashing water in all directions, Sara came
+toward us.
+
+
+51 :
+
+{C4A514}
+[Y¤u]
+Good timing...
+
+
+{C4A515}
+[Sara]
+Good timing?
+
+Sara stood in front of us, tilting her head
+quizzically.
+
+
+{C4A516}
+[Y¤u]
+Actually, I had a question for you, Mayo.
+
+
+{C4A517}
+[Sara]
+What is it?
+
+
+{C4A518}
+[Y¤u]
+The Kid's name.
+
+
+{C4A519}
+[Y¤u]
+Will you tell me his real name?
+
+Y¤u put her hand over my shoulder.
+
+I knew her hand was touching my shoulder, but
+I couldn't feel it.
+
+I was dizzy and about to faint.
+
+I thought to myself, 'This'll probably be a lot
+easier if I just faint.'
+
+But both my feet stood soundly on the floor,
+and I braced myself.
+
+I looked at Sara.
+
+Sara's mouth opened up like an empty hollow.
+
+
+52 :
+[Sara]
+   !
+
+[Sara]
+   ,   ?
+
+I couldn't hear her voice.
+
+I saw Sara's lips were moving, but I couldn't
+hear her voice for some reason.
+
+[Y¤u]
+   ,   
+
+
+53 :
+[Y¤u]
+   ,   ...
+
+[Y¤u]
+   ,   '   '   
+
+I couldn't hear Y¤u's voice either.
+
+All I could hear was just the sound of my
+blood flowing through my ears...
+
+In that moment, my sight crashed into pieces.
+
+The scenery before me was stripped of all
+color...
+
+A voice... A voice...
+
+A voice...
+
+I could heard a voice from afar...
+
+From faraway darkness...
+
+Somebody whispering to me...
+
+
+54 :
+[Kid]
+Who... are you?
+
+[Kid]
+Who... am I?
+
+Who...
+
+...am I?
+
+
+55 :
+
+{C4A520}
+[Sara]
+Hokuto!
+
+
+{C4A521}
+[Sara]
+Your name is Hokuto!
+
+
+{C4A522}
+[Y¤u]
+Hokuto, huh?
+
+
+56 :
+
+{C4A523}
+[Y¤u]
+So that's what he's called...
+
+
+{C4A524}
+[Y¤u]
+"Now that you mention it, he does look kind 
+of like a 'Hokuto' to me."
+
+[Kid]
+Hokuto...
+
+[Kid]
+That is...
+
+[Kid]
+...My...
+
+[Kid]
+...Name...?
+
+
+57 :
+
+{C4A525}
+[Sara]
+That's right, onii-chan~
+
+[Kid]
+Hokuto... Hokuto... Hokuto...
+
+I repeated it aloud over and over again.
+
+[Kid]
+Hokuto... Hokuto... Hokuto...
+
+My hunch had been right.
+
+I had never heard the name 'Hokuto' before.
+
+'Hokuto'‡LThat couldn't possibly be my name.
+
+
+It didn't feel real to me at all.
+
+But Sara wouldn't lie to me.
+
+So I figured 'Hokuto' must be my name.
+
+Hokuto... Hokuto... Hokuto...
+
+Name... Name... Name...
+
+Y¤u's name was Yubiseiakikana.
+
+My name was Hokuto.
+
+There was too much to think about.
+
+I felt I was close to my mental limit.
+
+I was dizzy.
+
+My head ached.
+
+I looked at my palm.
+
+I had five fingers...
+
+Everything seemed out of place to me.
+
+I still couldn't regain the 'real' me.
+
+(Is this me who's looking at my palm? Or is it
+somebody that isn't me?)
+
+(Is Hokuto really me? Or is it me who's not
+Hokuto?)
+
+[Kid]
+Hokuto... Hokuto... Hokuto...
+
+[Kid]
+Is it really...?
+
+
+58 :
+[Takeshi]
+Is that really his name?
+
+Tsugumi slightly nodded her head.
+
+Her face was all red.
+
+[Takeshi]
+So, he's Chami. Because he's charming.
+
+[Takeshi]
+That's cute. What a good name!
+
+How... cute.
+
+That was what I thought.
+
+I did my best to stifle my laughter.
+
+
+59 :
+
+{C4A526}
+[Tsugumi]
+Hey! You promised not to laugh!
+
+[Takeshi]
+I'm not laughing!
+
+I tried to keep a straight face... but the
+corners of my mouth started to twitch.
+
+I could just imagine Tsugumi baby-talking to
+it‡L'Chami-chan, Chami-chan, it's din-din time~'
+
+
+{C4A527}
+[Tsugumi]
+Aaaaaah...!
+
+
+{C4A528}
+[Tsugumi]
+That's why I didn't want to tell you!
+
+Sullen, Tsugumi was red-faced...
+
+...But she held out the bath towel she had
+behind her back.
+
+[Takeshi]
+Oh, thanks!
+
+I took the towel and wiped myself down.
+
+[Takeshi]
+Phew...
+
+I breathed deeply, feeling reborn, as I
+glanced at Tsugumi's profile.
+
+
+60 :
+She was playing with the hamster in her hand,
+and her cheeks were bright.
+
+She looked so happy...
+
+It was the first time I'd ever seen her smile
+like she meant it.
+
+
+{C4A529}
+[Tsugumi]
+Takeshi...
+
+
+{C4A530}
+[Tsugumi]
+Thank you.
+
+Tsugumi said it in a whisper, without looking
+at my face.
+
+
+61 :
+I headed toward the Ei area with Tsugumi.
+
+Since we were in the area with the generator
+room, we had to take one of the egg-like
+elevators to get back.
+
+I felt excited, maybe from the feeling of
+accomplishment of rescuing Chami.
+
+But... my feet were heavy. My body just
+couldn't keep up.
+
+I was exhausted.
+
+Five hours earlier, I had been running with
+Y¤u on my back since she'd started suffering
+from something all of a sudden.
+
+And with my effort to rescue Chami, I swam
+over 102 meters underwater...
+
+(Is this really just fatigue?)
+
+(This heaviness...)
+
+(I feel a bit feverish too.)
+
+(I have a slight headache...)
+
+(Maybe I caught a cold?)
+
+
+62 :
+
+{C4A531}
+[Tsugumi]
+What's wrong?
+
+Tsugumi must have noticed my slow steps because
+she looked worriedly at my face.
+
+[Takeshi]
+I'm just tired.
+
+
+{C4A532}
+[Tsugumi]
+Are you alright?
+
+[Takeshi]
+Haha, yeah, I'm fine.
+
+[Takeshi]
+I'm just tired, that's all.
+
+
+{C4A533}
+[Tsugumi]
+Okay.
+
+Tsugumi was worried about me.
+
+It was a funny feeling.
+
+[Takeshi]
+By the way, how about yourself?
+
+
+63 :
+
+{C4A534}
+[Tsugumi]
+Huh?
+
+[Takeshi]
+Your leg... You know, your injury.
+
+Tsugumi was dragging her right foot.
+
+
+64 :
+
+{C4A535}
+[Tsugumi]
+I'm alright.
+
+[Takeshi]
+"Are you really? The wound didn't open up or 
+anything, did it?"
+
+
+{C4A536}
+[Tsugumi]
+Do you wanna see?
+
+Tsugumi stopped walking.
+
+She quickly flipped up her skirt with her
+hands.
+
+[Takeshi]
+C-cut it out!
+
+In shock, I slapped Tsugumi's hand and
+stopped her.
+
+
+65 :
+
+{C4A537}
+[Tsugumi]
+Hahahaha...
+
+Tsugumi chuckled gleefully.
+
+My feet suddenly felt much lighter.
+
+
+66 :
+As for Y¤u...
+
+It turned out she wasn't as bad as I thought.
+
+After resting for about an hour in the
+infirmary, Y¤u regained a surprising amount
+of her strength.
+
+'But why did you suddenly start suffering like that?'
+
+
+I asked Y¤u, but she changed the subject and
+didn't tell me anything.
+
+I also asked Sora, but her answer was the same.
+
+Sora must have known something since she had
+examined Y¤u with the repaired L-MRI.
+
+That thought still bothered me.
+
+
+67 :
+It was still the case that only one person at a
+time could ride the egg.
+
+Tsugumi went up first.
+
+I rode up shortly after.
+
+The egg zipped upward, quickly arriving at
+Zweiter Stock.
+
+
+68 :
+As soon as I got there, Tsugumi was waiting
+for me.
+
+Chami was sitting on her hand.
+
+Tsugumi stuck out both of her arms to the side.
+
+Chami walked from one hand to the other,
+crossing Tsugumi's arms.
+
+Tsugumi had such a happy smile on her face...
+
+That I couldn't help smiling too...
+
+For no particular reason, Tsugumi and I
+stared at each other for a while.
+
+
+69 :
+
+{C4A538}
+[Tsugumi]
+Do you want to try?
+
+Asking that, Tsugumi put Chami on my shoulder.
+
+I stretched out my arms...
+
+And suddenly, Chami charged onto my arms.
+
+It tickled so much that I couldn't help but
+wriggle my body.
+
+
+{C4A539}
+[Tsugumi]
+Hahaha~
+
+Chami looked hesitant when he got to the end,
+which was the tip of my hand.
+
+I held Chami gently in my palm and looked at
+him closely.
+
+[Takeshi]
+Chami, huh...?
+
+[Takeshi]
+"Are you Chami!? Well, are you!? C'mon, answer 
+me!"
+
+Of course, Chami didn't answer.
+
+Maybe he was frightened I would eat him.
+
+
+[Takeshi]
+Yeah... he sure is charming.
+
+[Takeshi]
+He's Chami because he's so darn charming.
+
+Curious, I decided to ask Tsugumi a question.
+
+
+[Takeshi]
+Why are you called Tsugumi?
+
+
+70 :
+
+{C4A540}
+[Tsugumi]
+Huh?
+
+[Takeshi]
+Your name, I mean.
+
+[Takeshi]
+"Does it come from Chinese character for the 
+bird, the redwing?"
+
+
+{C4A541}
+[Tsugumi]
+The bird?
+
+[Takeshi]
+If I remember correctly, they migrate, right?
+
+
+71 :
+
+{C4A542}
+[Tsugumi]
+Oh, redwings?
+
+
+{C4A543}
+[Tsugumi]
+Unfortunately...
+
+
+{C4A544}
+[Tsugumi]
+My name has nothing to do with birds.
+
+[Takeshi]
+Then what does your name mean?
+
+As I asked Tsugumi, I passed Chami back into
+her hand.
+
+Tsugumi picked up Chami and told me.
+
+
+{C4A545}
+[Tsugumi]
+"'Satellite of the earth' and 'where we are 
+at'."
+
+[Takeshi]
+Huh?
+
+
+{C4A546}
+[Tsugumi]
+What's the one satellite this earth has?
+
+[Takeshi]
+The moon?
+
+
+{C4A547}
+[Tsugumi]
+And where are we right now?
+
+[Takeshi]
+LeMU.
+
+
+{C4A548}
+[Tsugumi]
+What's all around us here at LeMU?
+
+[Takeshi]
+Uh... Around us... The ocean?
+
+
+{C4A549}
+[Tsugumi]
+Yup.
+
+
+{C4A550}
+[Tsugumi]
+"In Japanese, you write it 'moon' and then 
+'ocean', and read it 'Tsugumi'."
+
+[Takeshi]
+Oh, I see.
+
+[Takeshi]
+"Come to think of it, I didn't know which 
+Chinese characters your name used."
+
+[Takeshi]
+'Moon' and 'ocean', huh...?
+
+[Takeshi]
+Hmm, that's a really pretty name.
+
+
+72 :
+Tsugumi's cheeks turned pink.
+
+And then...
+
+
+73 :
+
+{C4A551}
+[£o¢o]
+Daddy! Mommy!
+
+
+{PIPI_10}
+[Pipi]
+*Bow-wow*! *Bow-wow*!
+
+£o¢o and Pipi came rushing in.
+
+
+74 :
+[Takeshi]
+I told you NOT to call me daddy!
+
+
+{C4A552}
+[Tsugumi]
+I told you NOT to call me mommy!
+
+[Takeshi]
+What?
+
+
+75 :
+
+{C4A553}
+[Tsugumi]
+Huh?
+
+Tsugumi and I looked at each other.
+
+[Takeshi]
+£o¢o's been calling you mommy, Tsugumi?
+
+
+{C4A554}
+[Tsugumi]
+And she's calling you daddy, Takeshi?
+
+[Takeshi]
+She keeps doing it no matter what I say!
+
+
+{C4A555}
+[£o¢o]
+Hey, Daddy? Mommy? Let's play!
+
+
+{PIPI_01}
+[Pipi]
+*Bow-wow*!
+
+
+76 :
+After a while...
+
+Tsugumi and I had begged £o¢o not to call us
+'daddy' or 'mommy'.
+
+It took us about three hours to finally
+convince her.
+
+It was three times more exhausting to
+convince £o¢o than to dash with Y¤u on my
+back AND swim 102 meters underwater.
+
+Incidentally, £o¢o's reason for calling Tsugumi
+'mommy' was...
+
+
+{C4A556}
+[£o¢o]
+"A girl who doesn't have a mommy can call 
+somebody who reminds her of mommy 'Mommy.'"
+
+
+{C4A557}
+[£o¢o]
+It's written in the Naacal Tablet, isn't it?
+
+...So she said.
+
+Needless to say, £o¢o already had a real
+mother.
+
+
+77 :
+After finally convincing £o¢o, I went to see
+Y¤u.
+
+Even before I had gone to rescue Chami, Y¤u
+had seemed to be recovering her strength.
+
+But the way she looked when she had first
+started feeling pain didn't seem normal.
+
+I was still concerned about her even though
+she looked better.
+
+So I decided to make sure Y¤u was alright.
+
+
+Sora told me I could find Y¤u in the security
+office.
+
+
+78 :
+I entered the room.
+
+Y¤u was sitting in front of the console,
+staring blankly at the screen.
+
+[Takeshi]
+Hi.
+
+I called out a greeting as I sat down in the
+seat next to her.
+
+Y¤u grabbed a coffee cup, took a big gulp, and
+said...
+
+
+{C4A558}
+[Y¤u]
+Thank you.
+
+[Takeshi]
+Huh?
+
+
+{C4A559}
+[Y¤u]
+"I didn't have a chance to say it earlier, 
+right?"
+
+
+{C4A560}
+[Y¤u]
+So, thank you.
+
+Y¤u's eyes were fixed on the display.
+
+[Takeshi]
+"Are you talking about when I carried you to 
+the infirmary earlier?"
+
+
+{C4A561}
+[Y¤u]
+Yes.
+
+[Takeshi]
+You don't have to thank me.
+
+[Takeshi]
+I just want to ask you a question.
+
+[Y¤u]
+.........
+
+[Takeshi]
+What caused it anyway?
+
+
+{C4A562}
+[Y¤u]
+Cause? What are you talking about?
+
+Y¤u still wouldn't look at me.
+
+[Takeshi]
+"A normal, healthy person wouldn't just 
+suddenly clutch their chest in pain, you know?"
+
+[Takeshi]
+And besides...
+
+[Takeshi]
+You said, 'It happens all the time.'
+
+[Takeshi]
+What is that all about?
+
+
+79 :
+When I asked, she turned the seat halfway and
+stood up.
+
+
+80 :
+
+{C4A563}
+[Y¤u]
+"Hey, Kuranari? Do you remember why I came to 
+LeMU?"
+
+Y¤u abruptly changed the subject.
+
+I didn't understand why she was asking the
+question, but I answered her anyway.
+
+[Takeshi]
+Yeah, I do.
+
+[Takeshi]
+"You came to get a part-time job for the 
+holidays..."
+
+[Takeshi]
+"But it was just an excuse to search for your 
+father, who's been missing for seventeen years, 
+right?"
+
+I remembered the story Y¤u told me in front
+of the merry-go-round the first day..
+
+
+81 :
+
+{S1C122}
+[Y¤u]
+"My mother has convinced herself that my father is 
+already dead..."
+
+
+{S1C123}
+[Y¤u]
+But, you know?
+
+
+{S1C124}
+[Y¤u]
+I believe!
+
+
+{S1C125}
+[Y¤u]
+I know that my dad is still alive somewhere!
+
+
+{S1C126}
+[Y¤u]
+He has to be!
+
+
+{S1C127}
+[Y¤u]
+"My father just went missing... and his remains 
+were never found..."
+
+
+82 :
+
+{C4A564}
+[Y¤u]
+I just had to find out.
+
+
+{C4A565}
+[Y¤u]
+If he was alive... or... dead...
+
+
+{C4A566}
+[Y¤u]
+"If he's alive, of course I want to see 
+him..."
+
+
+{C4A567}
+[Y¤u]
+"And if he's dead, I wanted to find some kind 
+of evidence."
+
+
+83 :
+
+{C4A568}
+[Y¤u]
+"Otherwise, I won't give up... I just can't 
+accept it."
+
+
+84 :
+Just like that time, I didn't know what to
+say to her.
+
+The story of the 800-year-old nun came to my
+mind.
+
+Y¤u believed that the 800-year-old nun
+actually existed.
+
+How in the story, the sound of the bell had
+stopped one day, but nobody actually found
+her body.
+
+When I came to think of it then, I realized
+that was probably Y¤u's wish.
+
+She was probably mixing her feelings about her
+father's situation with the story of the nun.
+
+It occurred to me like that.
+
+
+{C4A569}
+[Y¤u]
+"And so that's what I was researching just 
+now."
+
+[Takeshi]
+...And... did you... find out anything?
+
+
+{C4A570}
+[Y¤u]
+Nothing.
+
+
+{C4A571}
+[Y¤u]
+I can't figure out the password... I give up.
+
+
+85 :
+I looked at the monitor.
+
+An authentication window was being displayed.
+
+The cursor was flashing without a sound.
+
+[Takeshi]
+I see...
+
+Biting her lip, Y¤u glanced down dejectedly.
+
+She was wrapped in a hazy blue light from the
+display.
+
+I picked up the cup from the table and sipped
+some of Y¤u's leftover coffee.
+
+It was cold.
+
+[Takeshi]
+It's alright.
+
+[Takeshi]
+I know you'll... see him again...
+
+I looked down into the cup.
+
+The black coffee hid the bottom of the
+cup from my view.
+
+
+{C4A572}
+[Y¤u]
+Thank you...
+
+
+{C4A573}
+[Y¤u]
+"But... I don't think I'll ever see him 
+again..."
+
+[Takeshi]
+What?
+
+I looked up in surprise.
+
+Y¤u was forcing herself to smile.
+
+She squinted her eyes and looked off into the
+distance.
+
+
+{C4A574}
+[Y¤u]
+"I came here because I thought I wanted to 
+find out about my dad..."
+
+
+{C4A575}
+[Y¤u]
+"But... I realize that actually wasn't it at 
+all..."
+
+[Takeshi]
+...?
+
+
+{C4A576}
+[Y¤u]
+I'm running out of time.
+
+
+{C4A577}
+[Y¤u]
+I've gone way past my limit.
+
+
+{C4A578}
+[Y¤u]
+So that's why...
+
+
+{C4A579}
+[Y¤u]
+Before the time comes... I had to know...
+
+
+{C4A580}
+[Y¤u]
+The truth...
+
+
+86 :
+(She's running out of time?)
+
+(She doesn't think she'll ever see him
+again...?)
+
+'It happens all the time.'
+
+(She'd been suffering with her hand on her
+chest...)
+
+No, it couldn't be...
+
+I didn't even want to think about it.
+
+Closing my eyes, I took a deep breath and
+tried to shake bad thoughts from my mind.
+
+[Takeshi]
+Hey, Y¤u?
+
+[Takeshi]
+What do you mean by that...?
+
+
+87 :
+Y¤u crossed her arms behind her back and
+started walking slowly away, head down.
+
+She stopped in front of the wall, turned
+around, and walked back in front of me.
+
+The sound of her shoes echoed on the hard
+floor...
+
+The cursor silently flashing on the display...
+
+The cold coffee in my hand...
+
+I looked into the cup again.
+
+The glossy liquid was rippling with small
+waves.
+
+
+{C4A581}
+[Y¤u]
+I can't tell you.
+
+The sound of her shoes stopped abruptly.
+
+
+88 :
+[Takeshi]
+Why...?
+
+She raised her face quietly and said...
+
+
+{C4A582}
+[Y¤u]
+"If I start telling you now, I might talk 
+about things I don't want to talk about."
+
+[Takeshi]
+But...
+
+
+89 :
+
+{C4A583}
+[Y¤u]
+Kuranari...
+
+Y¤u interrupted my words and went on.
+
+
+{C4A584}
+[Y¤u]
+"Have you ever... done something wrong or 
+sinned, Kuranari?"
+
+[Takeshi]
+Sinned?
+
+
+{C4A585}
+[Y¤u]
+Yes...
+
+
+{C4A586}
+[Y¤u]
+A massive sin...
+
+
+{C4A587}
+[Y¤u]
+"I don't care whether you believe in God or 
+not."
+
+
+{C4A588}
+[Y¤u]
+"I'm asking you if you ever committed a sin 
+that was morally wrong and there was nothing 
+you could do to mend it."
+
+
+90 :
+{11:0-df}
+{11:1}Yes
+
+{11:1}No
+
+
+91 :
+[Takeshi]
+Well...
+
+[Takeshi]
+I guess I might have...
+
+
+{C4A589}
+[Y¤u]
+What have you done?
+
+[Takeshi]
+Well... different things, I guess...
+
+
+{C4A590}
+[Y¤u]
+Things you can't tell me?
+
+[Takeshi]
+Uhhh...
+
+[Takeshi]
+"I don't really want to talk about it, to be 
+honest."
+
+[Takeshi]
+"I think that sins are something you carry 
+through life by yourself."
+
+[Takeshi]
+"It seems cowardly to me to pass the burden onto 
+someone else and beg for pity and compassion."
+
+
+{C4A591}
+[Y¤u]
+I feel the same way.
+
+
+{C4A592}
+[Y¤u]
+That's why I can't tell you.
+
+
+{C4A593}
+[Y¤u]
+"If I tell you now, it would just be an 
+excuse..."
+
+[Takeshi]
+.........
+
+
+{C4A594}
+[Y¤u]
+"I crossed a line that should've never been 
+crossed."
+
+
+{C4A595}
+[Y¤u]
+I turned my back on God...
+
+
+92 :
+[Takeshi]
+Come on.
+
+[Takeshi]
+"I've made lots of mistakes. And you know why? 
+Because I'm human."
+
+[Takeshi]
+"I'd be lying if I told you I'd never hurt 
+people I cared about or broke their hearts."
+
+[Takeshi]
+"But I don't know if those are godless, 
+massive sins..."
+
+
+93 :
+
+{C4A596}
+[Y¤u]
+Well... you're admirable.
+
+[Takeshi]
+What?
+
+
+94 :
+
+{C4A597}
+[Y¤u]
+No, I mean it.
+
+
+{C4A598}
+[Y¤u]
+On the other hand...
+
+
+{C4A599}
+[Y¤u]
+I'm...
+
+
+{C4A600}
+[Y¤u]
+I'm not human anymore.
+
+
+{C4A601}
+[Y¤u]
+"I crossed a line that should've never been 
+crossed."
+
+
+{C4A602}
+[Y¤u]
+I turned my back on God...
+
+
+{C4A603}
+[Y¤u]
+That's why I can't tell you.
+
+
+{C4A604}
+[Y¤u]
+"If I tell you now, it would just be an 
+excuse..."
+
+[Takeshi]
+.........
+
+
+95 :
+
+{C4A605}
+[Y¤u]
+It's like an original sin to me.
+
+
+{C4A606}
+[Y¤u]
+"I could never escape from it, and I don't 
+intend to."
+
+
+{C4A607}
+[Y¤u]
+As long as I live...
+
+
+{C4A608}
+[Y¤u]
+"Yes, as long as I live, I must carry this 
+sin with me."
+
+
+{C4A609}
+[Y¤u]
+But, you know...?
+
+
+{C4A610}
+[Y¤u]
+"You might think I'm horrible... but I don't 
+regret anything."
+
+
+{C4A611}
+[Y¤u]
+It's probably better this way...
+
+
+{C4A612}
+[Y¤u]
+"Because, this way, I'm the only one who's 
+sinned..."
+
+
+{C4A613}
+[Y¤u]
+"That means I'm the only one who will be 
+punished..."
+
+
+{C4A614}
+[Y¤u]
+She has no sin to carry on.
+
+[Takeshi]
+...She?
+
+[Takeshi]
+Who are you talking about?
+
+
+{C4A615}
+[Y¤u]
+About myself...
+
+
+{C4A616}
+[Y¤u]
+My other self...
+
+[Takeshi]
+Your other self...?
+
+[Takeshi]
+"Are you telling me you have a split 
+personality?"
+
+
+96 :
+Y¤u didn't say anything and took the cup from
+my hand.
+
+She sipped the cold coffee.
+
+For some reason, Y¤u suddenly tilted the cup.
+
+The black liquid, overtaken by the force of
+gravity, went splashing to the floor.
+
+[Takeshi]
+Y-Y¤u...
+
+
+97 :
+Y¤u's eyes were fixed on me.
+
+There was no expression on her face.
+
+All the emotion had gone from her face, and I
+couldn't read what she was thinking.
+
+Her eyes were dark, dull, and without a
+spark, like a pair of ash gray glass beads.
+
+Eventually, Y¤u whispered.
+
+
+98 :
+
+{C4A617}
+[Y¤u]
+She is...
+
+
+{C4A618}
+[Y¤u]
+My sister.
+
+[Takeshi]
+Your sister...?
+
+
+{C4A619}
+[Y¤u]
+Yes...
+
+
+{C4A620}
+[Y¤u]
+And at the same time, she is me.
+
+
+{C4A621}
+[Y¤u]
+She and I are...
+
+
+{C4A622}
+[Y¤u]
+Twins, you see...
+
+
+{C4A623}
+[Y¤u]
+She is my...
+
+
+{C4A624}
+[Y¤u]
+Twin sister...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

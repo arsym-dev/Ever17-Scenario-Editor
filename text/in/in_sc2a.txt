@@ -1,0 +1,969 @@
+
+
+1 :
+
+{C2S005}
+[Y¤u]
+"Anyway, let's go looking for Kuranari and 
+Tsugumi."
+
+
+2 :
+
+{C2S006}
+[Sara]
+And Sora...?
+
+
+3 :
+
+{C2S007}
+[Y¤u]
+Sora is...
+
+
+{C2S008}
+[Y¤u]
+...Let's not worry about her for now.
+
+
+4 :
+[Kid]
+What?
+
+
+5 :
+
+{C2S009}
+[Y¤u]
+"I'll tell you later. Looking for those two
+is the top priority right now."
+
+
+6 :
+Y¤u started running.
+
+
+7 :
+Sara and I followed her without knowing what
+was going on.
+
+
+8 :
+
+{C2S010}
+[Y¤u]
+Mayo. We're in the middle of a blackout now.
+
+
+9 :
+
+{C2S011}
+[Sara]
+So what?
+
+[Kid]
+Oh, I see...
+
+[Kid]
+"Sora's brain is AI, and her body is made by 
+RSD."
+
+[Kid]
+"Which means... if the power is down, then Sora 
+can't appear."
+
+
+10 :
+
+{C2S012}
+[Y¤u]
+That's right.
+
+
+11 :
+Saying that, Y¤u started running.
+
+I took Sara by the hand and followed after Y¤u.
+
+
+12 :
+I didn't know where Takeshi and Tsugumi were.
+
+And I couldn't imagine that they would be just
+wandering around during a blackout.
+
+So where would they have gone first?
+
+
+13 :
+‡LThe control room.
+
+I couldn't think of anywhere else.
+
+The power was out, so the door didn't open
+automatically.
+
+Y¤u pulled the lever next to the door and
+opened it manually.
+
+
+14 :
+The three of us went inside...
+
+
+15 :
+
+{C2S013}
+[Y¤u]
+"Kuranari! Tsugumi! 
+If you're there, then answer!"
+
+Y¤u called into the darkness.
+
+
+16 :
+I wondered why she only called out for Takeshi
+and Tsugumi.
+
+
+17 :
+[Kid]
+Sora! Sora!
+
+I called to Sora, but there was no answer.
+
+[Kid]
+"Sora should've been here. I wonder where 
+she went."
+
+
+18 :
+[Kid]
+Hello!
+
+
+{C2S014}
+[Sara]
+Takeshi! Tsugumi!
+
+
+19 :
+There was no answer.
+
+
+20 :
+Y¤u had picked up a flashlight at some point.
+
+I imagined she had gotten it somewhere in the
+control room.
+
+Y¤u turned it on...
+
+A white circle of light appeared on the wall.
+
+Y¤u shined the flashlight left and right,
+lighting up all corners of the room.
+
+The electrical system was completely down.
+
+Like an abandoned castle, there was no sign of
+warmth left.
+
+There was clearly nobody there.
+
+
+21 :
+
+{C2S015}
+[Sara]
+"It doesn't seem... like there's anyone 
+here..."
+
+
+22 :
+We left the room.
+
+
+23 :
+
+{C2S016}
+[Y¤u]
+Can you carry this?
+
+
+24 :
+Y¤u handed me the flashlight and shut the
+control room door.
+
+Just then...
+
+
+25 :
+Splash, splash, splash...
+
+We heard the sounds of someone running toward
+us through water.
+
+After a short while, two figures emerged from
+the darkness.
+
+[Kid]
+Oh, Takeshi!
+
+
+{C2S017}
+[Sara]
+Tsugumi!
+
+Takeshi and Tsugumi approached, walking
+through the water.
+
+
+26 :
+[Kid]
+Hey, have you seen Sora?
+
+
+27 :
+
+{C2S018}
+[Takeshi]
+Wasn't she in the control room?
+
+
+{C2S019}
+[Sara]
+It was empty...
+
+
+28 :
+
+{C2S020}
+[Takeshi]
+Really?
+
+
+29 :
+Takeshi used the manual lever to open the door.
+
+He looked inside...
+
+[Kid]
+Do you want a flashlight?
+
+
+30 :
+
+{C2S021}
+[Takeshi]
+Yeah, thanks.
+
+
+31 :
+Takeshi took the flashlight, turned it on, and
+went into the room.
+
+.....................
+
+
+32 :
+
+{C2S022}
+[Takeshi]
+"Geez... Where would Sora go at a time 
+like this?"
+
+Takeshi said that when he emerged from the
+control room.
+
+
+33 :
+
+{C2S023}
+[Y¤u]
+So... what are we going to do?
+
+Y¤u said that calmly, with her hands on her hips.
+
+
+It had been a series of emergencies
+since the day before...
+
+Maybe we were all completely used to it.
+In any case, none of us were freaking out.
+
+
+34 :
+
+{C2S024}
+[Sara]
+For now...
+
+
+{C2S025}
+[Sara]
+All we can do is split up and look for Sora.
+
+
+35 :
+
+{C2S026}
+[Sara]
+"Without Sora, we won't know why there's been 
+a blackout..."
+
+[Kid]
+"Yeah. Sora knows more about LeMU than 
+anyone."
+
+
+36 :
+
+{C2S027}
+[Y¤u]
+Uh... Sora...
+
+
+37 :
+
+{C2S028}
+[Y¤u]
+Sora...
+
+
+38 :
+
+{C2S029}
+[Sara]
+?
+
+[Kid]
+?
+
+
+{C2S030}
+[Takeshi]
+?
+
+
+39 :
+
+{C2S031}
+[Y¤u]
+Maybe it's time...
+
+
+40 :
+
+{C2S032}
+[Y¤u]
+Since it's come to this, I'll tell you...
+
+
+{C2S033}
+[Y¤u]
+I don't think we'll find Sora even if we look.
+
+
+41 :
+
+{C2S034}
+[Sara]
+Huh?
+
+[Kid]
+What?
+
+
+{C2S035}
+[Takeshi]
+Why not?
+
+
+42 :
+
+{C2S036}
+[Y¤u]
+I can't tell you the reason.
+
+
+{C2S037}
+[Y¤u]
+"That's something that you should hear from 
+Sora herself..."
+
+
+43 :
+
+{C2S038}
+[Sara]
+?
+
+[Kid]
+?
+
+
+44 :
+
+{C2S039}
+[Takeshi]
+?
+
+
+45 :
+
+{C2S040}
+[Y¤u]
+Anyway, just take my word for it.
+
+
+{C2S041}
+[Y¤u]
+You don't have to worry. Sora is just fine.
+
+
+{C2S042}
+[Y¤u]
+And she'll come back for sure.
+
+[Kid]
+Come back?
+
+Y¤u ignored my question.
+
+
+46 :
+
+{C2S043}
+[Tsugumi]
+I see...
+
+
+{C2S044}
+[Tsugumi]
+So what are you going to do?
+
+
+47 :
+
+{C2S045}
+[Takeshi]
+Hey, are you alright? Everybody's okay?
+
+
+48 :
+
+{C2S046}
+[Tsugumi]
+It's only a blackout. You worry too much...
+
+
+49 :
+
+{C2S047}
+[Takeshi]
+But... Sora's missing!
+
+[Kid]
+It's a blackout, so Sora is...
+
+
+{C2S048}
+[Takeshi]
+Yeah, I know that...
+
+
+{C2S049}
+[Takeshi]
+I know that, but... let's see...
+
+
+50 :
+
+{C2S050}
+[Takeshi]
+"If this blackout goes on, don't you think 
+that Sora might never appear again?"
+
+
+51 :
+
+{C2S051}
+[Y¤u]
+"That's something you don't have to worry 
+about."
+
+
+{C2S052}
+[Y¤u]
+I've got an idea.
+
+
+52 :
+
+{C2S053}
+[Tsugumi]
+...An idea?
+
+
+53 :
+
+{C2S054}
+[Y¤u]
+I think we should try the generator room...
+
+
+54 :
+
+{C2S055}
+[Sara]
+The generator room?
+
+
+{C2S056}
+[Y¤u]
+"I figure that the cause of this blackout is 
+trouble in the generator room."
+
+That reminded me of something Sora had said
+the day before...
+
+LeMU didn't receive any power from the
+outside, but had an in-house generator
+system.
+
+There was a thermal seafloor vent where hot
+water was pumped out of the seabed, and heat
+from that was used to operate the generator.
+
+
+55 :
+
+{C2S057}
+[Y¤u]
+Tsugumi, you'll come along, won't you?
+
+
+56 :
+
+{C2S058}
+[Tsugumi]
+Sorry, but I'm not up for it.
+
+
+57 :
+
+{C2S059}
+[Y¤u]
+What?
+
+
+58 :
+
+{C2S060}
+[Tsugumi]
+I'm not going.
+
+
+{C2S061}
+[Tsugumi]
+If you want to go, be my guest.
+
+
+59 :
+Saying that, Tsugumi left.
+
+It didn't look like it would be any use
+calling after her.
+
+
+60 :
+
+{C2S062}
+[Takeshi]
+"Geez. I have no clue what's going on in that 
+girl's head."
+
+
+61 :
+
+{C2S063}
+[Y¤u]
+Oh well. The four of us will have to go.
+
+
+62 :
+
+{C2S064}
+[Sara]
+Nakkyu, where is the generator room?
+
+
+{C2S065}
+[Y¤u]
+The generator room is here‡Lin Dritter Stock.
+
+
+63 :
+
+{C2S066}
+[Takeshi]
+Okay! Let's hop to it, everybody!
+
+
+64 :
+Takeshi started walking toward the corridor.
+
+
+65 :
+
+{C2S067}
+[Y¤u]
+"Hey, Kuranari, where do you think 
+you're going?"
+
+
+66 :
+
+{C2S068}
+[Takeshi]
+"Where? To the generator room, of course. 
+It was your idea to start with, right?"
+
+
+{C2S069}
+[Y¤u]
+And just how do you intend to get there?
+
+
+67 :
+
+{C2S070}
+[Takeshi]
+Huh? By walking through the corridors, dummy.
+
+
+68 :
+
+{C2S071}
+[Y¤u]
+"Oh, please... You really don't get 
+anything, do you?"
+
+
+69 :
+
+{C2S072}
+[Takeshi]
+Huh? What's that supposed to mean?
+
+[Kid]
+Hey, Y¤u. I don't think I get it either...
+
+
+{C2S073}
+[Sara]
+Me neither.
+
+
+70 :
+
+{C2S074}
+[Y¤u]
+"You guys don't remember the map of LeMU we 
+saw yesterday?"
+
+
+71 :
+
+{C2S075}
+[Takeshi]
+Map? Map... Map...
+
+
+72 :
+
+{C2S076}
+[Sara]
+"Oh... You mean the three-story map that was 
+split into two areas?"
+
+[Kid]
+Oh, that's right...
+
+
+{C2S077}
+[Y¤u]
+You remember it too, Kuranari?
+
+
+73 :
+
+{C2S078}
+[Takeshi]
+"I can't say I remember it exactly... but 
+kinda, yeah."
+
+
+74 :
+
+{C2S079}
+[Y¤u]
+And what was between those two areas?
+
+
+{C2S080}
+[Takeshi]
+Between them? How am I supposed to know...?
+
+[Kid]
+Hmmm... I don't think there was anything.
+
+
+75 :
+
+{C2S081}
+[Y¤u]
+Bingo.
+
+
+{C2S082}
+[Y¤u]
+Meaning what?
+
+[Kid]
+"The two areas are divided by a block 
+which is now underwater...?"
+
+
+{C2S083}
+[Y¤u]
+So?
+
+
+{C2S084}
+[Sara]
+"We can't move directly from the control room
+area to the generator room area."
+
+[Kid]
+"Besides that, the emergency stairs of one of 
+those areas was also flooded..."
+
+
+76 :
+
+{C2S085}
+[Y¤u]
+So what?
+
+
+{C2S086}
+[Takeshi]
+Oh, I see...
+
+
+{C2S087}
+[Takeshi]
+"To get to the generator room's area, we have 
+to access the second floor..."
+
+
+77 :
+
+{C2S088}
+[Takeshi]
+"And the only way we can do that is by using 
+the neutral buoyancy elevator."
+
+
+78 :
+
+{C2S089}
+[Y¤u]
+Correct.
+
+
+{C2S090}
+[Y¤u]
+So we have to go to...
+
+[Kid]
+"To the entrance to the neutral buoyancy 
+elevator."
+
+
+79 :
+
+{C2S091}
+[Y¤u]
+That's right.
+
+
+80 :
+
+{C2S092}
+[Y¤u]
+Now that you've got it... let's get going!
+
+
+{C2S093}
+[Sara]
+Ready, set, go! Nin! Nin! Ninja!
+
+
+81 :
+Sara took a bizarre kung fu pose and started
+spinning like a top.
+
+I had no clue what she was trying to do.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

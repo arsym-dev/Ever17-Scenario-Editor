@@ -1,0 +1,4263 @@
+
+
+1 :
+Kicking up his feet, Takeshi screamed to the
+void.
+
+
+{C7A261}
+[Takeshi]
+Hey, what am I supposed to do...!?
+
+
+{C7A262}
+[Kid]
+"Can't you escape by swimming through the 
+pool!?"
+
+Hokuto answered.
+
+
+{C7A263}
+[Takeshi]
+Idiot!
+
+
+{C7A264}
+[Takeshi]
+It's 119 meters underwater down here!
+
+
+{C7A265}
+[Takeshi]
+"£o¢o and I won't be able to hold our breath 
+that long."
+
+
+{C7A266}
+[Takeshi]
+"Besides, in order to surface, we have to 
+decompress slowly as we go up."
+
+
+{C7A267}
+[Takeshi]
+It's 12.5 atmospheres down here.
+
+
+{C7A268}
+[Takeshi]
+And the ocean surface is one atmosphere.
+
+
+{C7A269}
+[Takeshi]
+"There's no way we can survive unless we get 
+ourselves decompressed."
+
+
+{C7A270}
+[Kid]
+How about the elevator?
+
+
+{C7A271}
+[Takeshi]
+It's been cut off.
+
+
+{C7A272}
+[Takeshi]
+"The elevator tubes were destroyed a long 
+time ago."
+
+
+{C7A273}
+[Takeshi]
+There's no way to go up.
+
+
+{C7A274}
+[Kid]
+Well, let's go to the examination room!
+
+
+{C7A275}
+[Takeshi]
+Okay...
+
+
+2 :
+Takeshi ran into the examination room.
+
+He hit the control panel and closed the door.
+
+Strangely, there was no sign of flooding
+inside IBF.
+
+There was no sound of running water, and the
+tremors had stopped for the time being.
+
+But there was still no time to relax.
+
+£o¢o's body was rapidly reaching its limit.
+
+Takeshi laid £o¢o down on the bed.
+
+He ran toward the side of the desk at the
+corner of the room.
+
+He opened the one of the storage bins and
+grabbed something.
+
+Something... It was the antibodies for Tief
+Blau taken from Tsugumi.
+
+£o¢o hadn't been inoculated with it yet.
+
+[Takeshi]
+.........
+
+Without a word, Takeshi gave £o¢o the
+antibodies.
+
+£o¢o had long passed the stage of suffering
+and lay there looking limp.
+
+
+{C7A276}
+[Takeshi]
+Come on... Do the trick...
+
+Takeshi threw the empty syringe away and held
+onto £o¢o's hand as she lay there.
+
+
+3 :
+.........
+
+......
+
+...
+
+
+4 :
+A while had passed, but £o¢o's condition
+didn't seem to be improving.
+
+As a matter of fact, it seemed to be getting
+worse.
+
+
+5 :
+
+{C7A277}
+[Takeshi]
+Oh, come on! How come it isn't working!?
+
+Takeshi banged the wall.
+
+
+{C7A278}
+[Kid]
+"£o¢o was infected a few days earlier than 
+you, Dad."
+
+
+{C7A279}
+[Kid]
+"So her disease has been progressing for that 
+much longer than everyone else..."
+
+
+{C7A280}
+[Takeshi]
+Damn it, we can't just sit here and wait...
+
+
+{C7A281}
+[Takeshi]
+Besides, we've got to find a way to escape.
+
+
+{C7A282}
+[Takeshi]
+I just need to think of something...
+
+
+6 :
+Takeshi paced around the room with his head
+down.
+
+Occasionally, heavy noises echoed from the
+ceiling.
+
+Takeshi listened to the noises.
+
+And then...
+
+Takeshi, looking as if he had just realized
+something, whispered to himself.
+
+
+7 :
+
+{C7A284}
+[Takeshi]
+"I heard an announcement earlier, before 
+Tsugumi and I escaped."
+
+
+{C7A285}
+[Takeshi]
+"The announcement said something in German 
+like 'you're gonna be crushed in a few minutes'."
+
+
+{C7A286}
+[Takeshi]
+"But this place is still standing. Why is 
+that?"
+
+
+{C7A287}
+[Kid]
+I don't know why either...
+
+
+{C7A288}
+[Kid]
+But... maybe...
+
+
+{C7A289}
+[Takeshi]
+Maybe... what?
+
+
+{C7A290}
+[Kid]
+"That announcement might have been about LeMU 
+imploding."
+
+
+{C7A291}
+[Kid]
+But think about it...
+
+
+{C7A292}
+[Kid]
+"This laboratory has been built so that the 
+atmosphere on the inside and outside are 
+equal."
+
+
+{C7A293}
+[Kid]
+"Since they're still balanced, it probably 
+won't implode as easily..."
+
+That must have been it.
+
+If you left the cap on an empty plastic
+bottle, even if you came back years later,
+the air would still be trapped inside.
+
+Which meant that the laboratory should have been
+safe...
+
+Unless extreme force was added from
+somewhere...
+
+Such as a giant piece of partition from
+LeMU falling on it.
+
+Takeshi nodded upon hearing Hokuto's explanation.
+
+Although he didn't seem to be fully convinced...
+
+
+By accepting the explanation, he was probably
+trying to clear one of the many problems
+facing him at the moment.
+
+
+8 :
+As time progressed, £o¢o's condition got worse
+and worse.
+
+
+9 :
+
+{C7A294}
+[Takeshi]
+"Damn it! Why is this all happening? Why!? 
+Why!? Why!?"
+
+Takeshi kicked the wall.
+
+
+{C7A295}
+[Kid]
+"Well, Dad... you should have given her the 
+antibody earlier..."
+
+
+{C7A296}
+[Takeshi]
+"Huh!? It's a little late for that now, isn't 
+it!?"
+
+
+{C7A297}
+[Takeshi]
+"Besides, £o¢o was in the pod under pressure 
+at that time!"
+
+
+{C7A298}
+[Takeshi]
+I couldn't just open up the lid!
+
+
+{C7A299}
+[Kid]
+"But... you could've given her a shot without 
+opening the lid."
+
+
+{C7A300}
+[Kid]
+Because Y¤u said...
+
+
+10 :
+
+{T6B219}
+[Y¤u]
+"It seems that this pod can also do laser 
+disinfecting, as well as simple surgery, in 
+addition to the oxygen treatment."
+
+
+{T6B220}
+[Y¤u]
+"And depending on how you use it, even 
+cryogenic suspension..."
+
+
+11 :
+
+{C7A301}
+[Kid]
+"Since it has so many other functions, it 
+probably should be able to give an 
+injection..."
+
+
+{C7A302}
+[Takeshi]
+"But Y¤u didn't say a word about being able 
+to give shots without opening the lid, did 
+she?"
+
+
+{C7A303}
+[Takeshi]
+"And if she didn't mention it, it must not be 
+possible..."
+
+
+{C7A304}
+[Takeshi]
+"Besides, neither you nor I have any idea 
+what this device can do."
+
+
+{C7A305}
+[Takeshi]
+What's cryogenic suspension anyway?
+
+
+{C7A306}
+[Kid]
+It's like hibernation.
+
+Hokuto answered as if anyone would know.
+
+
+{C7A307}
+[Takeshi]
+Hibernation?
+
+
+{C7A308}
+[Takeshi]
+You mean... like bears do in the winter?
+
+
+{C7A309}
+[Kid]
+Yeah.
+
+
+{C7A310}
+[Kid]
+"I'm pretty sure that cryogenic suspension 
+means you can artificially induce hibernation."
+
+
+{C7A311}
+[Kid]
+"It keeps human body temperature low, around 
+six to seven degrees Celcius, and reduces your 
+heartbeat and breathing to the absolute 
+minimum..."
+
+
+{C7A312}
+[Kid]
+"That way, it increases your metabolic 
+efficiency and conserves as much energy as 
+possible."
+
+
+{C7A313}
+[Takeshi]
+I see...
+
+
+{C7A314}
+[Takeshi]
+Hey, I wonder why they have it here...
+
+
+12 :
+In the middle of saying that, Takeshi stopped
+suddenly.
+
+At the same time, Hokuto's thoughts stopped
+too.
+
+And then they screamed out at the same time.
+
+
+{C7A315}
+[Takeshi]
+"I got it! We'll put her in cryogenic 
+suspension!"
+
+
+{C7A316}
+[Kid]
+"I got it! We can put her in cryogenic 
+suspension!"
+
+
+13 :
+
+{C7A317}
+[Takeshi]
+"If her body temperature is kept low, 
+it'll slow down the rate of the virus 
+infection too, right?"
+
+
+{C7A318}
+[Kid]
+Yeah!
+
+
+{C7A319}
+[Takeshi]
+"Alright! All we need now is a little more 
+time. If we have time, I'm sure it'll work..."
+
+
+{C7A320}
+[Kid]
+"If we can slow down that virus even for a 
+minute, or a second... it'll be better than 
+nothing."
+
+
+{C7A321}
+[Takeshi]
+Alright then...
+
+
+14 :
+Takeshi carried the frail £o¢o and set her
+into the pod.
+
+Then he started flipping through the manual at
+full speed, skimming it.
+
+It didn't seem too difficult to set up.
+
+
+Takeshi, unlike his usual self, manipulated
+the computer terminal swiftly and smoothly.
+
+Then...
+
+All that was left was to turn on the switch.
+
+
+15 :
+£o¢o was asleep in the pod.
+
+Takeshi reached out his hand to the switch
+that would close the lid.
+
+A split second before he flipped the
+switch... £o¢o quietly opened her eyes.
+
+
+16 :
+
+{C7A322}
+[£o¢o]
+Who is that...?
+
+
+{C7A323}
+[Takeshi]
+What?
+
+
+{C7A324}
+[£o¢o]
+Who's standing behind you, Takepyon...?
+
+
+{C7A325}
+[Takeshi]
+Behind me?
+
+Takeshi looked back.
+
+Hokuto was there.
+
+
+{C7A326}
+[Takeshi]
+Can you see him, £o¢o?
+
+
+{C7A327}
+[£o¢o]
+Yeah, I do...
+
+
+{C7A328}
+[Kid]
+£o¢o... It's me, Hokuto.
+
+
+{C7A329}
+[£o¢o]
+Hokuto...
+
+
+{C7A330}
+[£o¢o]
+Hokuto is your name...?
+
+
+{C7A331}
+[£o¢o]
+Can I call you Hokutan...?
+
+The £o¢o of that time didn't seem to know
+Hokuto yet.
+
+So who was the phantom girl that I had been
+seeing...?
+
+
+{C7A332}
+[Takeshi]
+Hokuto...
+
+
+{C7A333}
+[Takeshi]
+Is that your name?
+
+
+{C7A334}
+[Kid]
+Uh-huh.
+
+
+{C7A335}
+[Takeshi]
+Really.
+
+
+{C7A336}
+[Takeshi]
+£o¢o?
+
+
+{C7A337}
+[Takeshi]
+"I can't see him, but this guy Hokuto helped 
+us, you know."
+
+
+{C7A338}
+[£o¢o]
+Hokutan...
+
+
+{C7A339}
+[£o¢o]
+Thank you...
+
+
+{C7A340}
+[£o¢o]
+And...
+
+
+{C7A341}
+[£o¢o]
+And... the other person... you...
+
+
+{C7A342}
+[£o¢o]
+Thank... you....
+
+
+{C7A343}
+[Takeshi]
+Other person? There's someone else?
+
+
+{C7A344}
+[£o¢o]
+Yeah, there is...
+
+
+{C7A345}
+[£o¢o]
+I can see him... behind Hokutan...
+
+[Takeshi]
+.........
+
+[Kid]
+.........
+
+Silence filled the room.
+
+The room temperature suddenly felt lower for
+some reason.
+
+£o¢o...
+
+£o¢o was... looking at me.
+
+Just me...
+
+Into my eyes...
+
+
+17 :
+[Blick Winkel]
+Are you talking about me?
+
+Feeling flustered, I gathered up my courage
+and spoke.
+
+
+{C7A346}
+[£o¢o]
+Yes, you.
+
+
+{C7A347}
+[£o¢o]
+We finally meet...
+
+[Blick Winkel]
+...Huh?
+
+
+{C7A348}
+[£o¢o]
+I don't know Hokutan, but...
+
+
+{C7A349}
+[£o¢o]
+But I sure know you...
+
+
+{C7A350}
+[£o¢o]
+Because...
+
+
+{C7A351}
+[£o¢o]
+"Because... all this time... you've been 
+watching over me, haven't you?"
+
+[Blick Winkel]
+.........
+
+
+{C7A352}
+[£o¢o]
+Fourth dimension-san...
+
+
+{C7A353}
+[£o¢o]
+Blick Winkel-san...
+
+[Blick Winkel]
+.........
+
+
+{C7A354}
+[£o¢o]
+Let's play chicks again some time.
+
+
+{C7A355}
+[£o¢o]
+We go piyo-piyo... Piyo-piyo...
+
+
+{C7A356}
+[Takeshi]
+£o¢o... I was the one...
+
+
+{C7A357}
+[£o¢o]
+Hee.
+
+£o¢o's cheeks eased up a little.
+
+
+{C7A358}
+[£o¢o]
+I don't think you knew it, Takepyon, but...
+
+
+{C7A359}
+[£o¢o]
+I was playing with him too, not just you.
+
+
+{C7A360}
+[£o¢o]
+Huh? Isn't that right?
+
+£o¢o was asking me.
+
+[Blick Winkel]
+Uh-huh...
+
+[Blick Winkel]
+"I might have been watching over £o¢o for all 
+this time."
+
+[Blick Winkel]
+I've been watching over you...
+
+[Blick Winkel]
+I wanted to get closer to you too.
+
+[Blick Winkel]
+But it was probably... not possible...
+
+
+{C7A361}
+[£o¢o]
+Heehee...
+
+
+{C7A362}
+[£o¢o]
+"Then... you were the one who told me that you 
+liked me?"
+
+[Blick Winkel]
+Yes, I suppose I was...
+
+[Blick Winkel]
+...I suppose I was...
+
+£o¢o and I looked at each other.
+
+We were staring at each other...
+
+Our eyes filled with passion...
+
+I felt as though my existence would evaporate
+at any second.
+
+
+{C7A363}
+[£o¢o]
+What's going to happen to me?
+
+All of a sudden, a dark shadow had covered
+£o¢o's eyes.
+
+
+{C7A364}
+[£o¢o]
+Am I... going to die?
+
+[Blick Winkel]
+"Don't be silly! There's no way you're going 
+to die!"
+
+[Blick Winkel]
+No matter what, I'll save your life, £o¢o!
+
+[Blick Winkel]
+I won't let you die!
+
+Excitedly, I appealed to her.
+
+Although she looked to be in some pain...
+
+£o¢o smiled at me happily...
+
+My heart seemed that it would surely melt...
+
+
+{C7A365}
+[Takeshi]
+£o¢o... Basically...
+
+
+{C7A366}
+[Takeshi]
+We're going to save you no matter what.
+
+
+{C7A367}
+[Takeshi]
+So just relax. I want you to rest now...
+
+As he was saying that, Takeshi went to close
+the pod.
+
+
+{C7A368}
+[£o¢o]
+Wait!
+
+
+{C7A369}
+[£o¢o]
+What's going to happen?
+
+
+{C7A370}
+[Takeshi]
+"You're going to sleep for a while, just 
+like a cuddly bear."
+
+
+{C7A371}
+[£o¢o]
+No...
+
+
+{C7A372}
+[£o¢o]
+Please... don't leave me...
+
+
+{C7A373}
+[£o¢o]
+Don't go anywhere...
+
+
+{C7A374}
+[£o¢o]
+Don't leave me alone...
+
+
+{C7A375}
+[Takeshi]
+We're not going to leave you alone, are we?
+
+
+{C7A376}
+[Takeshi]
+We're going to stay right here.
+
+
+{C7A377}
+[£o¢o]
+You're lying...
+
+
+{C7A378}
+[£o¢o]
+I don't believe you...
+
+
+{C7A379}
+[Takeshi]
+Quit being so stubborn!
+
+
+{C7A380}
+[Takeshi]
+"If we leave you like this, you're going 
+to... You're going to..."
+
+
+{C7A381}
+[£o¢o]
+No... No... No...
+
+
+{C7A382}
+[£o¢o]
+I don't want to...
+
+
+{C7A383}
+[£o¢o]
+"I don't want to be all by myself. I'll be 
+too lonely."
+
+
+{C7A384}
+[£o¢o]
+I'm scared... I'm... so, so scared...
+
+[Takeshi]
+.........
+
+[Blick Winkel]
+.........
+
+
+{C7A385}
+[£o¢o]
+Takepyon, will you...
+
+
+{C7A386}
+[£o¢o]
+Lie down... and... sleep next to me?
+
+
+{C7A387}
+[Takeshi]
+There's no way...
+
+
+{C7A388}
+[Takeshi]
+This pod is...
+
+Takeshi stopped in the middle of what he was
+saying.
+
+He looked up at the ceiling, then to the
+monitor on the wall, and finally to the pod
+next to £o¢o.
+
+
+{C7A389}
+[Takeshi]
+Alright, how about this then?
+
+[£o¢o]
+...?
+
+
+{C7A390}
+[Takeshi]
+I'll sleep in the pod next to you.
+
+
+{C7A391}
+[Takeshi]
+"How's that? You won't be lonely anymore, 
+right?"
+
+£o¢o looked back and forth between Takeshi
+and me.
+
+She had a worried look on her face...
+
+And stared at us with eyes that seemed about
+to burst into tears.
+
+
+{C7A392}
+[£o¢o]
+Really...?
+
+
+{C7A393}
+[£o¢o]
+You aren't lying...?
+
+
+{C7A394}
+[Takeshi]
+Of course not.
+
+
+{C7A395}
+[£o¢o]
+You promise...?
+
+
+{C7A396}
+[£o¢o]
+You won't leave me and go?
+
+
+{C7A397}
+[Takeshi]
+I wouldn't do that. Of course I won't go.
+
+
+{C7A398}
+[£o¢o]
+Alright then...
+
+
+{C7A399}
+[£o¢o]
+I trust you, Takepyon.
+
+
+{C7A400}
+[Takeshi]
+That's a good girl.
+
+Takeshi petted £o¢o's head.
+
+
+{C7A401}
+[Takeshi]
+I'm going to close it now, okay, £o¢o?
+
+
+{C7A402}
+[£o¢o]
+Uh-huh...
+
+Takeshi turned on the switch.
+
+The lid of the pod slowly went down.
+
+
+{C7A403}
+[£o¢o]
+Hey?
+
+
+{C7A404}
+[£o¢o]
+"Before I go to sleep, will you listen to my 
+request?"
+
+
+{C7A405}
+[Takeshi]
+Request?
+
+
+{C7A406}
+[£o¢o]
+I wasn't talking to you, Takepyon...
+
+£o¢o's eyes were pointing toward me.
+
+[Blick Winkel]
+M-me?
+
+
+{C7A407}
+[£o¢o]
+Yes.
+
+
+{C7A408}
+[£o¢o]
+Well, um... I...
+
+
+{C7A409}
+[£o¢o]
+I want to see you.
+
+[Blick Winkel]
+...What?
+
+
+{C7A410}
+[£o¢o]
+I want to see you again.
+
+
+{C7A411}
+[£o¢o]
+I want to see you and talk with you more.
+
+[Blick Winkel]
+Uh-huh.
+
+
+{C7A412}
+[£o¢o]
+I think that I...
+
+
+{C7A413}
+[£o¢o]
+I might just...
+
+
+{C7A414}
+[£o¢o]
+It's just that I...
+
+[Blick Winkel]
+.........
+
+
+{C7A415}
+[£o¢o]
+Oh...
+
+
+{C7A416}
+[£o¢o]
+I can't say it...
+
+[Blick Winkel]
+.........
+
+
+{C7A417}
+[£o¢o]
+But will you promise me?
+
+
+{C7A418}
+[£o¢o]
+"That... you and I will... see each other again 
+someday?"
+
+[Blick Winkel]
+Yes.
+
+
+{C7A419}
+[£o¢o]
+I'll be... waiting...
+
+
+{C7A420}
+[£o¢o]
+I'll wait for you no matter what...
+
+
+{C7A421}
+[£o¢o]
+You'll... come... get me...?
+
+
+{C7A422}
+[£o¢o]
+Promise?
+
+[Blick Winkel]
+Yes, I promise.
+
+The space between the lid and the pod itself
+was almost gone.
+
+I could barely see £o¢o through the narrow
+slit...
+
+£o¢o faced toward me and whispered one last
+thing in her tiny voice.
+
+
+{C7A423}
+[£o¢o]
+Well, good night...
+
+
+{C7A424}
+[£o¢o]
+Onii-chan...
+
+
+18 :
+'Onii-chan!?'‡LBefore I could say anything in
+reply, the lid had closed.
+
+The sound of compressing air filled the
+room...
+
+The low whir of the motor...
+
+With a light metallic ring, the pod shut
+completely.
+
+Takeshi pushed another switch attached to the
+pod's chassis.
+
+The cryogenic suspension function was
+activated.
+
+There were small sounds as though gas was
+leaking out.
+
+The pod slowly cooled down, humming with a
+slight vibration.
+
+
+19 :
+
+{C7A425}
+[Takeshi]
+Well then...
+
+
+{C7A426}
+[Takeshi]
+Hey! Something Winkel! You still there?
+
+
+{C7A427}
+[Kid]
+What is it, Dad?
+
+
+{C7A428}
+[Takeshi]
+Oh, it's you, Hokuto...
+
+
+20 :
+
+{C7A429}
+[Takeshi]
+You guys are confusing me...
+
+
+{C7A430}
+[Takeshi]
+"You and that Winkel guy are two different 
+people, right?"
+
+
+{C7A431}
+[Takeshi]
+"Or you are from the fourth dimension too, 
+Hokuto?"
+
+
+{C7A432}
+[Kid]
+"No, I'm just borrowing his perspective for 
+now."
+
+
+21 :
+
+{C7A433}
+[Takeshi]
+Really...
+
+
+{C7A434}
+[Takeshi]
+"I mean, I still don't get it at all... but I 
+don't suppose it matters."
+
+Saying that, Takeshi sank his body into an
+empty pod.
+
+The pod next to £o¢o's.
+
+
+22 :
+
+{C7A435}
+[Kid]
+What!? Dad, what're you going to do!?
+
+
+{C7A436}
+[Takeshi]
+"What do you think...? There's nothing else I 
+can do, right?"
+
+
+{C7A437}
+[Takeshi]
+I made her a promise, you know...
+
+
+{C7A438}
+[Kid]
+So you're going to...!?
+
+
+{C7A439}
+[Takeshi]
+Yep, that's right.
+
+
+{C7A440}
+[Takeshi]
+"It doesn't look like there's a way to escape 
+anyway."
+
+
+{C7A441}
+[Takeshi]
+"We'll just have to wait for the second 
+rescue team to arrive..."
+
+
+{C7A442}
+[Takeshi]
+"But it'll just be a waste of energy to wait 
+here doing nothing, so..."
+
+
+{C7A443}
+[Takeshi]
+I might as well get some sleep.
+
+
+{C7A444}
+[Kid]
+D-Dad! Wait a second!
+
+
+{C7A445}
+[Takeshi]
+No.
+
+
+{C7A446}
+[Takeshi]
+I'm tired.
+
+
+{C7A447}
+[Takeshi]
+I'm really, REALLY tired...
+
+Takeshi stretched his arm from where he lay
+and flicked the switch for both closing the
+lid and starting the cryogenic suspension at
+the same time.
+
+The lid started to close...
+
+Quietly...
+
+Steadily...
+
+
+{C7A448}
+[Takeshi]
+Alright, Hokuto...
+
+
+{C7A449}
+[Takeshi]
+I'm counting on you...
+
+
+{C7A450}
+[Kid]
+Dad!
+
+
+{C7A451}
+[Takeshi]
+Oh, hey, one more thing.
+
+
+{C7A452}
+[Kid]
+?
+
+
+{C7A453}
+[Takeshi]
+Quit calling me 'Dad', will you?
+
+
+{C7A454}
+[Kid]
+Well... I can't help it...
+
+
+{C7A455}
+[Kid]
+I'm your son...
+
+
+{C7A456}
+[Takeshi]
+No, no, that's not what I mean.
+
+
+{C7A457}
+[Takeshi]
+"If you call me 'Dad', why don't you say it a 
+little more elegantly?"
+
+
+{C7A458}
+[Takeshi]
+Call me 'Father', okay? 'Father'.
+
+
+{C7A459}
+[Takeshi]
+You got it?
+
+Hokuto took a deep breath, trying to say
+something.
+
+But before he could say it, the lid of the
+pod had shut.
+
+
+23 :
+A familiar hissing sound echoed in the room.
+
+
+The cryogenic suspension had activated.
+
+The pod cooled down with small vibrations.
+
+.........
+
+Just in case, Hokuto and I checked the monitor.
+
+The cryogenic suspension in the two pods was
+functioning properly.
+
+There were no signs of abnormalities in the bio
+scans of £o¢o and Takeshi.
+
+
+24 :
+The world in 2017...
+
+A laboratory at the bottom of the ocean...
+
+All that remained there was a 'perspective'...
+
+Hokuto and I started to think.
+
+{16:4}
+
+25 :
+'Oh yeah! We gotta let everyone know £o¢o and
+Takeshi are here in IBF!'
+
+I wasn't sure whether it was I or Hokuto who
+thought that.
+
+Maybe it was because we had switched places
+so often that the boundary between Hokuto and
+myself had started to become very vague.
+
+Our consciousnesses had gotten muddy, tangled,
+and intertwined. We were close to a state of
+fusion.
+
+{16:4}
+
+26 :
+Or maybe...
+
+We might have been that way ever since the
+beginning.
+
+My thoughts were the same as Hokuto's, and
+Hokuto's thoughts were the same as mine...
+
+
+'Being me' and 'being Hokuto' weren't all that
+different.
+
+{16:4}
+
+27 :
+We had been one since long ago and would
+continue to be one...
+
+That thought just went through my mind.
+
+But it wasn't the time to be engrossed in such
+thoughts.
+
+Our consciousness flew up to the floating
+island.
+
+{16:4}
+
+28 :
+A miniature submarine was floating on the
+ocean surface.
+
+Swaying in the waves and being teased along
+by time, it left a carefree trail in the deep
+blue ocean.
+
+I searched inside of it, but Tsugumi had
+already disappeared.
+
+She must be somewhere on the floating
+island...
+
+I expanded my sight and looked down at the
+entire artificial island.
+
+I saw someone...
+
+But it wasn't Tsugumi.
+
+It was Yubiseiharukana.
+
+Hokuto and I flew down near her side.
+
+
+29 :
+Walking along with Yubiseiharukana was Pipi.
+
+He was soaking wet.
+
+Which meant that it must have been... right
+after Y¤u had picked up Pipi from the ocean
+surface.
+
+She was walking down the trail, attended by a
+few men who seemed to be staff members of LeMU.
+
+She was walking toward a helicopter.
+
+She was probably on her way to a large
+hospital or something.
+
+She looked surprisingly healthy. She was
+walking steadily without support.
+
+Although she seemed in a dark mood, at least
+her health seemed fine.
+
+The antibodies must have worked, just like
+with Takeshi.
+
+Anyway, I needed to tell her what had
+happened to Takeshi and £o¢o!
+
+
+{C7A460}
+[Kid]
+Y¤u! Y¤u!
+
+It was Hokuto who shouted at her.
+
+
+30 :
+
+{C7A461}
+[Y¤u'haru']
+Wh-who is it...?
+
+Caught off guard, she glanced all around.
+
+The staff members darted skeptical looks at
+her when she started talking to herself all
+of a sudden.
+
+
+{C7A462}
+[Kid]
+It's me!
+
+
+{C7A463}
+[Y¤u'haru']
+Who is... this 'me'?
+
+There was no way she could have known Hokuto.
+
+Hokuto hadn't even been born in that world...
+
+
+And she wouldn't have believed us if we had
+told her, 'We're talking to you from seventeen years
+in the future.'
+
+Hokuto told her...
+
+
+{C7A464}
+[Kid]
+Look, there's something I want you tell you.
+
+
+{C7A465}
+[Kid]
+So listen to me carefully.
+
+
+{C7A466}
+[Kid]
+Actually...
+
+Hokuto told her that £o¢o and Takeshi had
+been left in the laboratory and that they
+were under cryogenic suspension in the pods.
+
+
+31 :
+
+{C7A467}
+[Y¤u'haru']
+N-no way! It can't be...
+
+
+{C7A468}
+[Kid]
+So you have to help them right away, okay!?
+
+
+{C7A469}
+[Y¤u'haru']
+Are you serious!?
+
+
+{C7A470}
+[Kid]
+Totally!
+
+
+{C7A471}
+[Kid]
+"£o¢o and Takeshi weren't on the sub that 
+rescued you."
+
+
+{C7A472}
+[Kid]
+"And the only others who were rescued were 
+Tsugumi and Kaburaki..."
+
+
+32 :
+
+{PIPI_04}
+[Pipi]
+*Woof*, *woof*!
+
+Pipi looked at Hokuto and me, then gave a loud
+bark.
+
+
+{C7A473}
+[Kid]
+Oh yeah! Pipi!
+
+
+{C7A474}
+[Kid]
+Pipi... had a disc in his mouth, didn't he?
+
+
+{C7A475}
+[Y¤u'haru']
+Uh-huh... You mean the terabyte disc, right?
+
+
+{C7A476}
+[Kid]
+"That's right, Sora's data and her memories 
+are in it..."
+
+
+{C7A477}
+[Kid]
+What else, um...
+
+
+33 :
+
+{C7A478}
+[Y¤u'haru']
+W-wait a second!
+
+
+{C7A479}
+[Y¤u'haru']
+Where on earth are you now!?
+
+
+{C7A480}
+[Kid]
+That doesn't really matter.
+
+
+{C7A481}
+[Kid]
+You have to believe me!
+
+
+34 :
+
+{C7A482}
+[Y¤u'haru']
+How am I supposed to do that...?
+
+
+{C7A483}
+[Y¤u'haru']
+What is this... Am I hearing things?
+
+
+{C7A484}
+[Kid]
+No, you're not!
+
+
+{C7A485}
+[Kid]
+Seriously, Takeshi and £o¢o are...
+
+
+{PIPI_01}
+[Pipi]
+*Bow*!
+
+Pipi started barking again.
+
+
+{C7A486}
+[Kid]
+Oh, oh, I know!
+
+
+{C7A487}
+[Kid]
+Pipi! Pipi must have seen it!
+
+
+{C7A488}
+[Kid]
+Pipi saw £o¢o collapsed in the hallway.
+
+
+{C7A489}
+[Kid]
+"There's gotta be some image data of that 
+saved in Pipi's memory."
+
+
+{C7A490}
+[Kid]
+Can you play it back?
+
+[Y¤u'haru']
+.........
+
+[Kid]
+.........
+
+
+35 :
+[Y¤u'haru']
+..................
+
+[Kid]
+..................
+
+She dropped her head down as if deep in
+thought, closed her eyes, and massaged her
+temples with her fingertips.
+
+After seeming distressed in that manner for a
+while, she must have reached a conclusion.
+Y¤u looked up in different direction and
+spoke.
+
+
+36 :
+
+{C7A491}
+[Y¤u'haru']
+Alright...
+
+
+{C7A492}
+[Y¤u'haru']
+"I have no idea who you are, but I'll see 
+what I can do."
+
+
+{C7A493}
+[Kid]
+Thank you, Y¤u.
+
+
+{C7A494}
+[Kid]
+"I'm counting on you. It's about time I get 
+back to where I came from."
+
+
+{C7A495}
+[Y¤u'haru']
+Where did you come from?
+
+
+{C7A496}
+[Kid]
+You wouldn't believe me, but...
+
+
+{C7A497}
+[Kid]
+It's... seventeen years in the future...
+
+
+37 :
+Hokuto and I went back to the world of 2034.
+
+Surprisingly, the future had been completely
+altered!
+
+Takeshi was there. £o¢o was there.
+
+Yubiseiharukana was there. So was
+Yubiseiakikana.
+
+Tsugumi was there. Sara was there.
+
+Sora was there. Kaburaki was there.
+
+And so was Hokuto.
+
+They were chatting happily in a circle.
+
+I didn't know what had happened, but... I was
+just relieved...
+
+The future had been altered...
+
+
+38 :
+But how did it happen...?
+
+I supposed Yubiseiharukana had kept her
+promise with Hokuto, so £o¢o and Takeshi were
+rescued immediately afterward.
+
+In that version of history, Takeshi hadn't
+died seventeen years previously, but was still alive
+and well.
+
+So, in that world, Tsugumi didn't have to send
+Hokuto and Sara to the institution.
+
+In that version of the future, Hokuto and
+Sara didn't have to be separated.
+
+Besides...
+
+I understood that the incident in 2034 was
+planned so that I, Blick Winkel, would come
+into existence.
+
+It was planned to have me descend into the
+world so that the past would be altered and
+£o¢o and Takeshi would be saved.
+
+But... in that history, £o¢o and Takeshi had
+already been rescued safely seventeen years prior.
+
+Therefore, there was no longer any way to
+grab my attention and make me appear in the
+world.
+
+Therefore, Yubiseiharukana didn't have to come up
+with an outrageous plan to trap everyone at
+LeMU.
+
+Which meant that the incident starting on
+May 1st, 2034, hadn't taken place in that
+history.
+
+None of them had been trapped in LeMU.
+
+
+Which meant that Yubiseiharukana had no
+reason to lie to Yubiseiakikana.
+
+Yubiseiharukana must have told
+Yubiseiakikana the truth in that history.
+
+As such, they were all able to spend their lives
+peacefully from 2017 until now.
+
+They all had lived safely with time just
+passing by peacefully and slowly...
+
+And that was what I was seeing right then.
+
+
+.........
+
+
+39 :
+Hey, but wait a second...
+
+I needed to think a little more about it.
+
+In 2017, Takeshi and £o¢o were saved by
+Yubiseiharukana's actions.
+
+So, if the time passed by peacefully,
+it would eventually be the year 2034.
+
+There wouldn't be any accident.
+
+I, Blick Winkel, wouldn't appear.
+
+What would happen then?
+
+Hokuto in that world wouldn't talk to Takeshi
+in the past (2017).
+
+In the past that I knew...
+
+Hokuto had funneled his raw, untamed force,
+and had shouted to Takeshi's body lying on
+the bottom of the ocean.
+
+'Dad! DAD! Don't you die on me!'
+
+But in the past retraced from that future,
+Takeshi had never heard his son's scream.
+
+That meant...
+
+Takeshi would have long since decomposed on the
+bottom of the ocean...
+
+Since Takeshi hadn't come back to life, £o¢o
+would have been left in the hallway, and...
+
+Both of them would die.
+
+Because the incident in 2017 had already
+taken place as a historical fact.
+
+Which meant that even in the past connected
+directly to that world, the incident in 2017
+wouldn't have been avoided.
+
+Therefore, that world could never be possible.
+
+It could never exist! It was a paradox!
+
+If that world could exist, a question would
+naturally arise.
+
+'Who had saved the Takeshi who is alive here
+today?'
+
+Was it Hokuto from a different future...?
+
+Was it that Hokuto from a world where there
+had been an accident in 2034... had saved
+Takeshi?
+
+No... That wasn't possible...
+
+Because in order for the incident to take
+place in 2034...
+
+The condition that 'Takeshi could not be saved in
+2017' had to be true.
+
+Which meant...
+
+In order for Takeshi to come back to life at
+the bottom of the ocean, the events had to
+take place in 2034!
+
+And in order for £o¢o to go under cryogenic
+suspension, the events had to take place in
+2034!
+
+Therefore, that peaceful world could never
+exist!
+
+Just as I reached that conclusion...
+
+
+40 :
+Takeshi, who was cheerfully talking with
+everyone, suddenly started to decompose with a
+horrible sound.
+
+His skin became soggy and peeled off by itself.
+
+His exposed muscle fibers became dark and
+putrid, their surface flaking away.
+
+His cells started to dissolve and run like mud
+dripping to the ground.
+
+His abdomen burst open, spilling his internal
+organs.
+
+His hair fell out in chunks, exposing the
+white skull underneath...
+
+All that was left were white bones with
+pieces of red flesh stuck to them.
+
+Eventually, even his skeleton collapsed with
+a dry sound.
+
+At the same time‡L£o¢o disappeared
+noiselessly.
+
+
+41 :
+Confused, Hokuto and I flew back to 2017.
+
+
+Yubiseiharukana was still standing in the
+same place.
+
+
+{C7A498}
+[Kid]
+Y¤u! Y¤u!
+
+
+42 :
+
+{C7A499}
+[Y¤u'haru']
+"Wh-what!? You just disappeared, and now you're 
+back again...?"
+
+
+{C7A500}
+[Y¤u'haru']
+"Don't tell me it was only a joke or 
+something."
+
+
+{C7A501}
+[Kid]
+I won't.
+
+
+{C7A502}
+[Kid]
+It was real. I'm telling the truth.
+
+
+{C7A503}
+[Kid]
+"Takeshi and £o¢o are sleeping in the capsule 
+pods right now."
+
+
+{C7A504}
+[Kid]
+But... But...
+
+
+{C7A505}
+[Kid]
+You can't rescue them!
+
+
+{C7A506}
+[Y¤u'haru']
+What!? Why is that!?
+
+
+{C7A507}
+[Kid]
+It's... It's because...
+
+
+43 :
+[Y¤u'haru']
+.........
+
+[Kid]
+.........
+
+[Y¤u'haru']
+..................
+
+[Kid]
+..................
+
+[Blick Winkel]
+Ah, enough! I can't stand it any longer!
+
+I pushed away Hokuto's consciousness and
+jumped to the front.
+
+[Blick Winkel]
+You have to wait for seventeen years!
+
+I told her that before anything else.
+
+[Blick Winkel]
+"Seventeen years from now, I will reappear before 
+you, I promise!"
+
+[Y¤u'haru']
+?
+
+Y¤u puckered her lips and cocked her head to
+the side.
+
+[Blick Winkel]
+"Just listen carefully to what I am going to 
+tell you."
+
+I roughly explained to her...
+
+
+44 :
+[Blick Winkel]
+"'Seventeen years from now, I will reappear before 
+you all.'"
+
+[Blick Winkel]
+I just told you that, right?
+
+[Blick Winkel]
+"But in order for me to reappear, you will 
+need to trick me."
+
+[Blick Winkel]
+"So what I am asking you to do is trick me 
+seventeen years from now!"
+
+[Blick Winkel]
+"Trick me into falsely believing that it is 
+the year 2017 again."
+
+[Blick Winkel]
+"When that happens, I will still be the third 
+eye, Blick Winkel, and that will cause me to 
+reveal myself."
+
+[Blick Winkel]
+"And unless I reveal myself, neither Takeshi 
+nor £o¢o will be saved."
+
+[Blick Winkel]
+"Because, in order to restore life to Takeshi, 
+who sank to the bottom of the ocean, I will 
+need to appear myself and go back to the 
+year 2017."
+
+[Blick Winkel]
+"If I do not appear myself, Takeshi is going 
+to rot at the bottom of the ocean."
+
+[Blick Winkel]
+"And if Takeshi fails to reach the 
+laboratory, £o¢o will be left in the 
+hallway..."
+
+[Blick Winkel]
+Both of them will die.
+
+[Blick Winkel]
+Do you get it?
+
+[Blick Winkel]
+"No matter what happens, you need to stay 
+away from IBF until seventeen years from now!"
+
+[Blick Winkel]
+"If you save Takeshi and £o¢o now, the events 
+in 2034 will fail to take place."
+
+[Blick Winkel]
+And if that happens, I will not appear...
+
+[Blick Winkel]
+"If I do not appear, then I will be unable to 
+save Takeshi and £o¢o in 2017..."
+
+[Blick Winkel]
+"Which will form a time paradox, and Takeshi 
+and £o¢o will disappear."
+
+[Blick Winkel]
+I'll repeat it again, okay?
+
+[Blick Winkel]
+"In order for me to appear in the year 2034, 
+you MUST NOT rescue Takeshi and £o¢o now."
+
+[Blick Winkel]
+"I know it is painful, but that is the only 
+way..."
+
+[Blick Winkel]
+.........
+
+[Blick Winkel]
+And... as for the way to trick me...
+
+[Blick Winkel]
+"Well, how can I explain...? You will need a 
+bit of preparation."
+
+[Blick Winkel]
+However, it should not be too difficult.
+
+[Blick Winkel]
+"You certainly have enough time... Seventeen years, 
+actually..."
+
+[Blick Winkel]
+So, it should not be impossible.
+
+[Blick Winkel]
+I will tell you what to do...
+
+[Blick Winkel]
+Are you ready?
+
+[Blick Winkel]
+"The day to act on the plan will be on 
+Monday, May 1st, 2034."
+
+[Blick Winkel]
+"First, Sara will be visiting LeMU for a 
+school event on that day."
+
+[Blick Winkel]
+"Sara is Tsugumi's daughter, who will be born 
+next January."
+
+[Blick Winkel]
+"She is actually a twin, and her twin 
+brother's name is Hokuto..."
+
+[Blick Winkel]
+"But due to unavoidable circumstances, 
+Tsugumi, Sara, and Hokuto will be separated."
+
+[Blick Winkel]
+"So you could probably just tell Tsugumi, 'You 
+will be reunited with your son and daughter 
+at LeMU.'"
+
+[Blick Winkel]
+"If you tell her that, Tsugumi will come to 
+LeMU for sure..."
+
+[Blick Winkel]
+"Next, you can also invite Hokuto in the same 
+way."
+
+[Blick Winkel]
+"If you tell him, 'You will meet your mother 
+and sister', he will also come alone."
+
+[Blick Winkel]
+"You must also have your daughter, 
+Yubiseiakikana, work as a LeMU attendant just 
+as you did."
+
+[Blick Winkel]
+"If you coach her, you could lead her in that 
+direction, right?"
+
+[Blick Winkel]
+And you must not tell anything to Sora.
+
+[Blick Winkel]
+"It is best that you erase her memories of the 
+incident in 2017."
+
+[Blick Winkel]
+"There is nothing to worry about, because all 
+the backup memories are saved in the terabyte 
+disc."
+
+[Blick Winkel]
+"And finally... you will need the cooperation 
+of young Kaburaki."
+
+[Blick Winkel]
+"Seventeen years from now, Kaburaki must look and 
+act absolutely like Kuranari Takeshi."
+
+[Blick Winkel]
+"So he must begin training to look and act 
+just like Takeshi."
+
+[Blick Winkel]
+Do not worry. He will catch on in seventeen years.
+
+[Blick Winkel]
+These six people are required for the plan.
+
+[Blick Winkel]
+All you have to do is...
+
+[Blick Winkel]
+"Simply throw them all together into LeMU on 
+May 1st, 2034, and have an accident similar to 
+the one in 2017."
+
+[Blick Winkel]
+"If you can arrange this, things will work 
+out by themselves."
+
+[Blick Winkel]
+"The time in question will be one week, from 
+the 1st to the 7th."
+
+[Blick Winkel]
+"For these seven days, you must not interfere 
+with them."
+
+[Blick Winkel]
+"No matter what kind of crisis happens. 
+Understood?"
+
+[Blick Winkel]
+They will survive by themselves.
+
+[Blick Winkel]
+"And... should I show no sign of reappearing 
+by 9 p.m. on the 6th..."
+
+[Blick Winkel]
+Then I ask of you to rescue them all...
+
+[Blick Winkel]
+"Is that clear? Will you do what I just told 
+you? You must not forget."
+
+[Blick Winkel]
+"On May 1st, 2034, you are going to trick me. 
+Understood?"
+
+[Blick Winkel]
+"Oh... Wait... I mean, not 'me' to be 
+exact... It's actually 'Hokuto'..."
+
+[Blick Winkel]
+I want you to trick Hokuto.
+
+[Blick Winkel]
+"You must trick him so that he will believe 
+it is the year 2017."
+
+[Blick Winkel]
+.........
+
+[Blick Winkel]
+"Seventeen years from now, without remembering 
+why, I might ask you something like..."
+
+[Blick Winkel]
+'Why have you called me here?'
+
+[Blick Winkel]
+Then I want you to answer this way...
+
+[Blick Winkel]
+'I only followed your directions.'
+
+[Blick Winkel]
+...That is all.
+
+[Blick Winkel]
+"It was kind of lengthy, but... do you 
+understand? You got it, right?"
+
+[Blick Winkel]
+I need you to understand this...
+
+Yubiseiharukana was surprisingly accepting.
+
+As if overwhelmed by my enthusiasm, she kept
+nodding her head.
+
+But I was still worried... about whether she
+truly understood everything.
+
+Explaining to her again in more detail, I
+repeated the same words, almost as if I were
+trying to hypnotize her.
+
+It took several more hours for her to
+precisely capture the whole picture.
+
+Hokuto and I made sure that she understood
+one last time. Then we left her.
+
+
+45 :
+The world in 2034 had returned to normal.
+
+Hokuto and I were still confronting
+Yubiseiharukana.
+
+She kept her mouth closed, as if she had
+spoken about everything.
+
+Y¤u (Yubiseiakikana) stood next to her, also
+wordless.
+
+In the cold silence, I tried to reorganize in
+my mind what had happened so far and started
+wondering...
+
+'Why am I here?'
+
+I found the answer easily.
+
+'I have appeared because I was tricked by
+myself from the past.'
+
+
+46 :
+In other words...
+
+The mastermind behind the incident in 2034
+was no one else other than myself.
+
+In 2017, I had told Y¤u to trick me. Therefore, I
+appeared in the world in 2034, having been
+tricked by myself.
+
+Thanks to the strength of Hokuto's appeal,
+Takeshi had come back to life and saved £o¢o,
+helped her into the pod, and activated the
+cryogenic suspension.
+
+So... that was what happened...
+
+
+That moment when Hokuto had shouted out
+'Dad!' at the dark bottom of the ocean...
+
+Everything had happened for the sake of that
+moment...
+
+It had taken seventeen years and going back in time
+to bring the dead back to life...
+
+That was everything.
+
+£o¢o and Takeshi were still sleeping 119 meters
+under the ocean.
+
+So I needed to get there!
+
+In order to save them!
+
+
+47 :
+Before I realized it, I was already sprinting
+across the island.
+
+
+48 :
+I ran on the grass and jumped into the deep
+brush.
+
+Dodging the branches, slicing through the
+wind, I ran like a released arrow.
+
+As I pumped my legs, I thought...
+
+(How can I get to the bottom of the ocean...?)
+
+
+I cut through the woods as I was thinking.
+
+I sprinted over the curving arch of a bridge
+and reached the docks, the harbor for the
+floating island.
+
+I looked around and didn't see anything that
+resembled a minisub.
+
+As I tried to catch my breath, I walked
+around the docks.
+
+I noticed there were broken pieces of rock in
+the middle of the open area.
+
+All of the pieces scattered around were huge.
+
+
+They were as big as my whole body.
+
+The surface of the rocks had a refined
+smoothness.
+
+Looking closely, I found that some letters
+were carved on it.
+
+'Wher' 'abov' 'sky'‡LThere were meaningless
+letters jumbled on the pieces of rock near me.
+
+There were letters on the other pieces.
+
+I put the pieces together and tried to guess
+the original sentence.
+
+
+49 :
+'Where' 'is' 'heaven?'
+
+'Above' 'the sky,' 'and at' 'your feet...'
+
+[Blick Winkel]
+It's a stone monument...
+
+I whispered.
+
+The monument must have fallen down for some
+reason and had broken into pieces.
+
+Was it due to the tremor from the accident?
+
+Or had it been the passengers, who in a state
+of panic had rushed toward the docks and
+knocked it over?
+
+I had no idea what the cause was.
+
+I picked up one of the smaller pieces.
+
+[Blick Winkel]
+Oh... It's heavy...
+
+It was probably as heavy as £o¢o.
+
+
+50 :
+And then...
+
+A thought hit me.
+
+'If I jump into the ocean holding this piece
+of rock in my arms...'
+
+Before I had time to think it over, my feet
+were starting to move.
+
+I ran hard toward the ocean...
+
+The moment I reached my maximum speed, I
+kicked off the ground with all my strength.
+
+My body flew in the air...
+
+I jumped high over the fence...
+
+The blue water surface swayed below my eyes...
+
+I splashed into the ocean holding the heavy
+piece of stone.
+
+The letters on the piece said... 'heaven'...
+
+Holding 'heaven' tightly to my chest, I
+plummeted into the darkness.
+
+
+51 :
+As I sank deeper and deeper, it felt as if I
+were running fast with the wind against my
+face.
+
+The seawater pressed hard on my eardrums.
+
+Unable to pop my ears because I held 'heaven'
+in my arms...
+
+I simply endured the pain.
+
+Water pressure, incredibly high, squeezed my
+body.
+
+It felt as if my joints were about to snap
+into pieces.
+
+My chest felt as though it would be crushed.
+
+Going deeper, deeper, and deeper...
+
+The deeper I went, the more the water pressure
+rose...
+
+My lungs couldn't stand it.
+
+I decided to open my mouth.
+
+[Blick Winkel]
+*Blub*...
+
+The air in my lungs came out, and a large
+amount of water poured into them.
+
+I automatically gagged and started to choke.
+
+Even then, cold seawater filled my windpipe...
+
+
+As my lungs filled up with water, I felt
+despair welling up inside of me.
+
+How far had I gone?
+
+I looked up and saw the water surface far
+above.
+
+I couldn't go back anymore.
+
+I looked below.
+
+I couldn't see anything.
+
+There was only the blue-black darkness.
+
+I couldn't see the bottom of the ocean yet.
+
+No matter how fast I sank, 119 meters was still
+very long.
+
+I went deeper and deeper, but the scenery was
+unchanged.
+
+The darkness... Darkness... Darkness... A world
+covered in darkness...
+
+It occurred to me... that I might...
+
+I might just be swallowed by some deep ocean
+trench and keep falling forever. I began to
+feel desperate.
+
+The only positive thing was that the pain had
+somehow disappeared...
+
+I felt that my conscious mind could still be
+clear, as the sense of pain had numbed.
+
+I realized that for the first time in my life.
+
+Actually...
+
+To begin with, the body I was in belonged not
+to me, but to Hokuto...
+
+Thinking about that, I felt guilty.
+
+I needed to return it in one piece...
+
+I couldn't see the bottom of the ocean yet.
+
+My brain was running out of oxygen, and I
+started to lose consciousness.
+
+My limbs were numb.
+
+The numbness soon turned into spasms.
+
+Against my will, my limbs started to go wild.
+
+
+I almost dropped 'heaven'.
+
+I quickly pulled it close to me and held it
+tighter to my chest.
+
+Going deeper, deeper, and deeper...
+
+I must have looked like a priest at an
+exorcism gone wrong, possessed by an evil
+spirit, my whole body twitching wildly.
+
+‡LClonk.
+
+I hit a rock surface and stopped sinking.
+
+
+
+52 :
+‡LSplash!
+
+My momentum carried me flying out of the
+water.
+
+Putting my face above the pool, I started
+coughing hard, trying to expel all of the
+seawater in my lungs.
+
+I clung to the edge of the pool.
+
+Sucking in deep breaths of air.
+
+I coughed hard as I was breathing in and
+vomited a large amount of water.
+
+I repeated that many times.
+
+I really understood the suffering Takeshi
+had gone through.
+
+I crawled up weakly onto the floor.
+
+[Blick Winkel]
+Whew...
+
+But there was no time to relax.
+
+I started running toward the examination room.
+
+
+53 :
+It had been seventeen years since I had last been
+there.
+
+I felt the heaviness of all the past years
+as I smelled the stale odor in the room.
+
+The paint on the capsule pod had partially
+peeled off, and the surface of it was rough
+and weathered.
+
+Manipulating the computer terminal, I checked
+on the status of the pods.
+
+Both £o¢o and Takeshi were safe.
+
+Under cryogenic suspension, their body
+temperatures had been kept at about seven
+degrees Celcius, with their heartrates and
+breathing reduced to only a few times a
+minute. They seemed to be in good health.
+
+The cryogenic suspension device seemed to have
+worked properly, without a single glitch, for seventeen
+years.
+
+I deactivated the hibernation program for
+both of the pods.
+
+
+54 :
+.........
+
+......
+
+...
+
+
+55 :
+Finally...
+
+£o¢o and Takeshi were set to awaken at
+any time.
+
+First, I opened £o¢o's pod.
+
+
+56 :
+[Blick Winkel]
+£o¢o...
+
+
+57 :
+[Blick Winkel]
+£o¢o...
+
+[£o¢o]
+.........
+
+[Blick Winkel]
+£o¢o...
+
+[£o¢o]
+.........
+
+[Blick Winkel]
+£o¢o!
+
+
+58 :
+
+{C7A508}
+[£o¢o]
+Um... Umm...
+
+
+{C7A509}
+[£o¢o]
+Who is it...?
+
+[Blick Winkel]
+It's me, £o¢o.
+
+[£o¢o]
+.........
+
+[Blick Winkel]
+I came to save you...
+
+
+{C7A510}
+[£o¢o]
+Um...
+
+
+{C7A511}
+[£o¢o]
+You... came...?
+
+[Blick Winkel]
+Yes.
+
+[Blick Winkel]
+I kept my promise, didn't I?
+
+
+{C7A512}
+[£o¢o]
+The promise...
+
+
+{C7A513}
+[£o¢o]
+...The promise...
+
+
+{C7A514}
+[£o¢o]
+...The promise...?
+
+£o¢o rubbed her eyelids and blinked repeatedly.
+
+
+{C7A515}
+[£o¢o]
+Oh...
+
+
+{C7A516}
+[£o¢o]
+Ah...!
+
+
+{C7A517}
+[£o¢o]
+Ahhh...!
+
+
+{C7A518}
+[£o¢o]
+I knew it!
+
+
+{C7A519}
+[£o¢o]
+So you DID come to save me!
+
+
+59 :
+£o¢o jumped up and hugged me.
+
+No, was it actually Hokuto who she had
+hugged...?
+
+Was it me... or was it Hokuto...?
+
+Was it Hokuto that wasn't me... or was it me
+that wasn't Hokuto...?
+
+I did not fully understand... but still...
+
+I hugged £o¢o tightly too.
+
+
+60 :
+
+{C7A520}
+[£o¢o]
+"You know, I've been waiting for you sooooo 
+long!"
+
+[Blick Winkel]
+I know.
+
+
+{C7A521}
+[£o¢o]
+I've been waiting for you so so so long!
+
+[Blick Winkel]
+I know.
+
+
+{C7A522}
+[£o¢o]
+I knew you would come and get me.
+
+
+{C7A523}
+[£o¢o]
+I wanted to see you so bad...
+
+
+{C7A524}
+[£o¢o]
+I just... had to see you again...
+
+
+{C7A525}
+[£o¢o]
+My onii-chan...
+
+[Blick Winkel]
+Y-yeah...
+
+[Blick Winkel]
+But £o¢o...?
+
+[Blick Winkel]
+I'm not actually your brother...
+
+
+{C7A526}
+[£o¢o]
+Oh, that's alright.
+
+
+{C7A527}
+[£o¢o]
+"A girl who doesn't have a brother could call 
+someone who is like a brother onii-chan!"
+
+[Blick Winkel]
+Where is that written?
+
+
+{C7A528}
+[£o¢o]
+It's not written anywhere.
+
+
+61 :
+
+{C7A529}
+[£o¢o]
+I just decided it~
+
+
+62 :
+£o¢o stepped away from me.
+
+£o¢o and I stared at each other as if we were
+drawn to each other.
+
+
+{C7A530}
+[£o¢o]
+Hey? It's strange...
+
+
+{C7A531}
+[£o¢o]
+"I thought I had so many things to talk to 
+you about when I finally saw you, but..."
+
+
+{C7A532}
+[£o¢o]
+I don't know why, but...
+
+
+{C7A533}
+[£o¢o]
+I get all tongue-tied...
+
+[Blick Winkel]
+.........
+
+
+{C7A534}
+[£o¢o]
+Oh, but one thing...
+
+
+{C7A535}
+[£o¢o]
+"Can I tell you something I couldn't tell you 
+before?"
+
+[Blick Winkel]
+Sure.
+
+
+{C7A536}
+[£o¢o]
+Well...
+
+
+{C7A537}
+[£o¢o]
+I...
+
+
+{C7A538}
+[£o¢o]
+I think you'll be surprised, but...
+
+
+{C7A539}
+[£o¢o]
+You might not believe me, but...
+
+
+{C7A540}
+[£o¢o]
+I...
+
+
+{C7A541}
+[£o¢o]
+Well, I...
+
+
+63 :
+
+{C7A542}
+[£o¢o]
+Onii-chan, I might have fallen in love with you.
+
+'What!?'
+
+My heart skipped a few beats.
+
+[Blick Winkel]
+B-but...
+
+[Blick Winkel]
+But I still... Ah...
+
+
+64 :
+
+{C7A543}
+[£o¢o]
+For seventeen years...
+
+
+{C7A544}
+[£o¢o]
+For seventeen years...
+
+
+{C7A545}
+[£o¢o]
+I've been waiting for you, onii-chan.
+
+
+{C7A546}
+[£o¢o]
+"I've known about you since seventeen years ago, 
+you see?"
+
+[Blick Winkel]
+.........
+
+
+65 :
+
+{C7A547}
+[£o¢o]
+"You've been watching over me this whole 
+time."
+
+
+{C7A548}
+[£o¢o]
+But I've been watching you too...
+
+It all started to make sense to me...
+
+£o¢o and I had been sharing the same time...
+
+I must have been sharing experiences with £o¢o
+through Takeshi's point of view...
+
+I had always been by £o¢o's side...
+
+
+66 :
+
+{C7A549}
+[£o¢o]
+"Would it be so bad if I fell in love with 
+you?"
+
+[Blick Winkel]
+I don't think so, really...
+
+
+67 :
+
+{C7A550}
+[£o¢o]
+Well then~
+
+
+{C7A551}
+[£o¢o]
+It's decided~
+
+
+{C7A552}
+[£o¢o]
+From now on, you and I are sweethearts, okay?
+
+
+68 :
+[Blick Winkel]
+...What?
+
+
+69 :
+Before I got a chance to ask her back, £o¢o
+jumped into my arms again.
+
+£o¢o had regained all her strength.
+
+Maybe the antibody had kicked in while she
+was under cryogenic suspension.
+
+Whatever it was... I was relieved...
+
+My heart was filled with waves of happiness.
+
+
+70 :
+It had taken me a while, but it was finally
+Takeshi's turn.
+
+I gave the body back over to Hokuto since I
+wanted them to have a family moment.
+
+
+71 :
+Hokuto opened Takeshi's pod.
+
+
+{C7A553}
+[Kid]
+Dad!
+
+[Takeshi]
+.........
+
+
+{C7A554}
+[Kid]
+Dad!
+
+[Takeshi]
+.........
+
+
+{C7A555}
+[Kid]
+Dad! Wake up!
+
+[Takeshi]
+.........
+
+
+{C7A556}
+[Kid]
+Faaaather!
+
+
+72 :
+
+{C7A557}
+[Takeshi]
+...Um!?
+
+Takeshi abruptly woke up.
+
+
+{C7A558}
+[Takeshi]
+Wh-where...? Is this...?
+
+He looked around, confused.
+
+Takeshi realized that Hokuto's face was in
+front of him and said...
+
+
+{C7A559}
+[Takeshi]
+Wh-who on...
+
+
+{C7A560}
+[Takeshi]
+Earth are you...?
+
+
+{C7A561}
+[Kid]
+It's me, Dad!
+
+Takeshi took a close look at Hokuto's face.
+
+He looked over Hokuto's whole body.
+
+He closed his eyes tightly and started
+banging his forehead with his palm.
+
+He opened his eyes and glared at the
+examination room wall.
+
+Then Takeshi gasped, as if he realized
+something, and looked at Hokuto again.
+
+
+{C7A562}
+[Takeshi]
+So... you're that... 'Hokuto'?
+
+
+{C7A563}
+[Kid]
+That's right, it's me, Dad!
+
+
+{C7A564}
+[Kid]
+Dad! Dad! I've missed you so much!
+
+
+{C7A565}
+[Kid]
+Daaaaad...
+
+Raising his voice like a child, Hokuto rubbed
+his face against Takeshi's chest.
+
+
+{C7A566}
+[Takeshi]
+Hey, hey, hey... Wait a sec, Hokuto...
+
+Takeshi pushed back Hokuto.
+
+
+{C7A567}
+[Takeshi]
+Take it easy, will you? Alright?
+
+Takeshi tapped Hokuto on the back...
+
+
+{C7A568}
+[Kid]
+?
+
+
+73 :
+Takeshi raised himself and stretched his legs
+outside the pod.
+
+£o¢o rushed at him.
+
+
+74 :
+
+{C7A569}
+[£o¢o]
+Takepyon~
+
+£o¢o hastily jumped at Takeshi and hugged him.
+
+
+75 :
+
+{C7A570}
+[Takeshi]
+Hey, £o¢o! You look all better now!
+
+
+76 :
+
+{C7A571}
+[£o¢o]
+Uh-huh, I don't have a single sore spot!
+
+
+{C7A572}
+[Takeshi]
+"That's great... Looks like the plan worked out 
+beautifully, didn't it?"
+
+
+{C7A573}
+[Takeshi]
+I'm glad. I'm glad.
+
+
+{C7A574}
+[Kid]
+Dad! Dad!
+
+Hokuto jumped at Takeshi and hugged him just
+like £o¢o.
+
+
+77 :
+
+{C7A575}
+[Takeshi]
+Whoah, stop it now!
+
+Takeshi forcefully peeled him away...
+
+
+{C7A576}
+[Kid]
+Wh-why!? Why don't you want me to hug you!?
+
+
+78 :
+
+{C7A577}
+[Takeshi]
+"Before I answer that question, there's 
+something I want to ask you."
+
+
+{C7A578}
+[Kid]
+What is it?
+
+
+{C7A579}
+[Takeshi]
+How long have I been sleeping?
+
+
+{C7A580}
+[Takeshi]
+A day? Two days?
+
+
+{C7A581}
+[Takeshi]
+Oh man, I didn't sleep for... a week, did I?
+
+
+79 :
+
+{C7A582}
+[Kid]
+...Huh?
+
+
+{C7A583}
+[£o¢o]
+...Huh?
+
+
+80 :
+
+{C7A584}
+[Takeshi]
+Ugh...
+
+
+{C7A585}
+[Takeshi]
+"Guessing from your reaction... it's been 
+more than a week...?"
+
+
+81 :
+[Kid]
+.........
+
+[£o¢o]
+.........
+
+
+82 :
+
+{C7A586}
+[Takeshi]
+A month?
+
+[Kid]
+.........
+
+[£o¢o]
+.........
+
+
+83 :
+
+{C7A587}
+[Takeshi]
+Th-three months, then... maybe?
+
+[Kid]
+.........
+
+[£o¢o]
+.........
+
+
+{C7A588}
+[Takeshi]
+Y-you gotta be kidding...
+
+
+{C7A589}
+[Takeshi]
+"You mean I've slept past summer and into 
+autumn...?"
+
+Hokuto and £o¢o closed their eyes and shook
+their heads.
+
+
+{C7A590}
+[£o¢o]
+Today is Sunday, May 7th...
+
+
+{C7A591}
+[Kid]
+The last day of the holiday.
+
+
+84 :
+
+{C7A592}
+[Takeshi]
+FWAHAHAHA!
+
+
+{C7A593}
+[Takeshi]
+"Whew, c'mon, you had me scared for a second 
+there..."
+
+
+{C7A594}
+[Takeshi]
+So it's only been a few hours since then...
+
+Hokuto and £o¢o looked at each other, nodded,
+and said...
+
+
+{C7A595}
+[Kid]
+Dad? I don't want you to panic, alright?
+
+
+85 :
+
+{C7A596}
+[£o¢o]
+Just calm down and listen...
+
+
+86 :
+[Takeshi]
+.........
+
+
+87 :
+
+{C7A597}
+[Kid]
+Well, actually...
+
+
+88 :
+
+{C7A598}
+[£o¢o]
+Takepyon...
+
+
+89 :
+
+{C7A599}
+[Kid]
+You have been...
+
+
+90 :
+
+{C7A600}
+[£o¢o]
+Sleeping for...
+
+
+91 :
+
+{C7A601}
+[Takeshi]
+Se-se-se-se-se-se-se-se...
+
+
+{C7A602}
+[Takeshi]
+Seventeen yeeeeaaaaarrrrrrssss!?
+
+
+92 :
+After a while...
+
+Yubiseiharukana took a small submersible to
+pick us up at the IBF pool.
+
+Inside the minisub, she scolded Hokuto...
+
+
+{C7A603}
+[Y¤u'haru']
+"You've got to be out of your mind to dive 
+into the ocean like that."
+
+
+{C7A604}
+[Y¤u'haru']
+I mean, 119 meters...
+
+
+{C7A605}
+[Y¤u'haru']
+"Don't you know, Hokuto? In this world, 
+there's this wonderful and safe vessel for 
+going underwater called a 'submarine'."
+
+
+{C7A606}
+[Y¤u'haru']
+Why didn't you just let me know?
+
+
+{C7A607}
+[Y¤u'haru']
+"You're so stupid! Pure foolishness! You 
+must be the dumbest guy in history!"
+
+
+{C7A608}
+[Y¤u'haru']
+"It must come from your father's side of the 
+family... Yeah..."
+
+She kept picking on Hokuto until they reached
+the surface.
+
+Hokuto must have been thinking...
+
+'It wasn't really me who decided to jump into
+the ocean...'
+
+
+93 :
+The whole time, Takeshi still hadn't accepted
+the fact that he had been sleeping for seventeen
+years.
+
+No matter how many times they tried to
+explain, he just wouldn't listen.
+
+Therefore, Takeshi still couldn't believe that
+Hokuto was truly his son.
+
+
+94 :
+Under the bright sunlight, Takeshi, £o¢o,
+Hokuto, and Pipi were hanging around.
+
+
+{C7A609}
+[Takeshi]
+Good morning.
+
+
+{C7A610}
+[Takeshi]
+Those are such nice words...
+
+
+{C7A611}
+[Takeshi]
+"They make me feel like getting up and doing 
+my best."
+
+
+{C7A612}
+[£o¢o]
+Yeah, I agree.
+
+
+{C7A613}
+[£o¢o]
+Okay then, I'll say it too...
+
+
+{C7A614}
+[£o¢o]
+Good morning, Takepyon.
+
+
+{C7A615}
+[Takeshi]
+Ah, good morning, £o¢o.
+
+
+{C7A616}
+[Kid]
+Well, me too...
+
+
+{C7A617}
+[Kid]
+Good morning, Dad.
+
+
+{C7A618}
+[Takeshi]
+Good morning, son...
+
+
+{C7A619}
+[Takeshi]
+Son!? I don't have a son!
+
+
+{C7A620}
+[Kid]
+You've got a daughter too.
+
+
+{C7A621}
+[Takeshi]
+Hey, don't start adding kids like that!
+
+
+{C7A622}
+[Takeshi]
+"So are you telling me I'm the father of two 
+children at my age?"
+
+
+{C7A623}
+[Kid]
+That's right.
+
+
+{C7A624}
+[Kid]
+And it's true whether you like it or not...
+
+
+{C7A625}
+[Kid]
+Right, £o¢o?
+
+
+{C7A626}
+[£o¢o]
+Right, Hokutan?
+
+
+{C7A627}
+[Kid]
+Nyahahahahahaha~
+
+
+{C7A628}
+[£o¢o]
+Kyahahahahahaha~
+
+Listening to their cheerful laughter, I
+thought to myself...
+
+'I should be going back to where I came from.'
+
+As I began to fade, I heard only their happy
+voices behind me.
+
+
+{C7A629}
+[£o¢o]
+Hey, Takepyon, Takepyon!
+
+
+{C7A630}
+[Takeshi]
+Huh?
+
+
+{C7A631}
+[£o¢o]
+I've got a new onii-chan!
+
+
+{C7A632}
+[Takeshi]
+Onii-chan?
+
+
+{C7A633}
+[£o¢o]
+"Uh-huh, he's actually my onii-chan and my 
+boyfriend at the same time..."
+
+
+{C7A634}
+[Takeshi]
+Reeeally. Well, good for you.
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+
+{C7A635}
+[Kid]
+Hey, Dad! Dad!
+
+
+{C7A636}
+[Takeshi]
+I told you NOT to call me Dad!
+
+
+{C7A637}
+[Kid]
+How about Father, then?
+
+
+{C7A638}
+[Takeshi]
+Don't call me that either!
+
+
+{C7A639}
+[Kid]
+"Why not? You told me to call you Father 
+before..."
+
+
+{C7A640}
+[Takeshi]
+Well, that just slipped out of my mouth...
+
+
+{PIPI_04}
+[Pipi]
+*Woof*, *woof*!
+
+
+{C7A641}
+[£o¢o]
+Hey, Takepyon, Takepyon!
+
+
+{C7A642}
+[Takeshi]
+What's that?
+
+
+{C7A643}
+[£o¢o]
+Pu-pu-ku-pu~ Pu-pu-ku-pu~
+
+
+{C7A644}
+[Takeshi]
+You're not making any sense!
+
+
+{C7A645}
+[Kid]
+Hey, Dad, Dad!
+
+
+{C7A646}
+[Takeshi]
+What is it now!?
+
+
+{C7A647}
+[Kid]
+Chuwa-chuwa-chuwa-chuwa~
+
+
+{C7A648}
+[Takeshi]
+You too, huh!?
+
+
+{PIPI_09}
+[Pipi]
+*Woof*, *woof*! *Woof*, *woof*!
+
+
+{C7A649}
+[Takeshi]
+What's up, Pipi?
+
+
+{PIPI_19}
+[Pipi]
+*Awoooooooooo*!
+
+
+{C7A650}
+[Takeshi]
+You just wanted to howl!
+
+
+{C7A651}
+[£o¢o]
+Takepiyo, Takepiyo!
+
+
+{C7A652}
+[Takeshi]
+Hey, stop changing my nickname!
+
+
+{C7A653}
+[£o¢o]
+"£o¢o-chan's short comedy! If £o¢o-chan were
+a monster..."
+
+
+{C7A654}
+[£o¢o]
+"Grrr, grrr, I'm a monster! Thump, thump, 
+thump! I'm going to destroy everything! Grrrr!"
+
+
+{C7A655}
+[Takeshi]
+Where's the punchline?
+
+
+{C7A656}
+[Kid]
+My grandfather's son, my grandmother's son!
+
+
+{C7A657}
+[Takeshi]
+That's so confusing!
+
+
+{C7A658}
+[Kid]
+"Hokutan's comedy sketch! If I became a twelfth 
+grader..."
+
+
+{C7A901}
+[Kid]
+"Since I've made it all the way to twelfth 
+grade, I'll try my best not to forget to 
+bring stuff to school."
+
+{C7A902}
+[Kid]
+"Since I always seem to forget my protractor, 
+I'll do my best to remember it."
+
+{C7A660}
+[Takeshi]
+"That's a resolution, not comedy! Well, do 
+your best! Don't you forget it, ya hear!?"
+
+
+{PIPI_09}
+[Pipi]
+*Woof*, *woof*! *Woof*, *woof*!
+
+
+{C7A661}
+[Takeshi]
+What's with you this time, Pipi?
+
+
+{PIPI_19}
+[Pipi]
+*Awoooooooooo*!
+
+
+{C7A662}
+[Takeshi]
+"Let me guess, just wanted to howl again, 
+huh..."
+
+
+{C7A663}
+[£o¢o]
+Takepyon, Takepyon!
+
+
+{C7A664}
+[Takeshi]
+What is it now...?
+
+
+{C7A665}
+[£o¢o]
+"I want to play cater-pi-llarrrr, I want to 
+play cater-pi-llarrrr, I want to play 
+cater-pi-llarrrr!"
+
+
+{C7A666}
+[Takeshi]
+Well, go ahead. No one's stopping you, right?
+
+
+{C7A667}
+[Kid]
+Dad, Mom!
+
+
+{C7A668}
+[Takeshi]
+What, am I BOTH now...?
+
+[Kid]
+.........
+
+
+{C7A669}
+[Takeshi]
+"Look, if you can't think of anything to say, 
+don't say anything!"
+
+
+{PIPI_09}
+[Pipi]
+*Woof*, *woof*! *Woof*, *woof*!
+
+
+{C7A670}
+[Takeshi]
+You're just going to howl again...
+
+
+{PIPI_17}
+[Pipi]
+*Awoo*.
+
+
+{C7A671}
+[Takeshi]
+Oh, it's shorter now. Hey, that's kind of new.
+
+
+{C7A672}
+[£o¢o]
+Takepyon, Takepyon!
+
+
+{C7A673}
+[Takeshi]
+What is it?
+
+
+{C7A674}
+[£o¢o]
+Pu-pu-ku-pu~ Pu-pu-ku-pu~
+
+
+{C7A675}
+[Takeshi]
+There you go again...
+
+I decided to leave as I was hearing their
+happy voices.
+
+
+{C7A676}
+[£o¢o]
+Oh! Wait a minute! Onii-chan!
+
+[Blick Winkel]
+...What?
+
+
+{C7A677}
+[£o¢o]
+Can I see you again?
+
+
+{C7A678}
+[£o¢o]
+I know I'll see you again. No matter what.
+
+
+{C7A679}
+[£o¢o]
+I believe in you...
+
+
+{C7A680}
+[£o¢o]
+Because, after all...
+
+
+{C7A681}
+[£o¢o]
+You and me are both from the sun, right?
+
+
+{C7A682}
+[£o¢o]
+We can use psychic power.
+
+
+{C7A683}
+[£o¢o]
+Okay? So believe in me too.
+
+
+{C7A684}
+[£o¢o]
+Your world and my world are connected.
+
+
+{C7A685}
+[£o¢o]
+Our two worlds are... going to be united...
+
+
+{C7A686}
+[£o¢o]
+"And at the intersection, there's a 
+perspective..."
+
+
+{C7A687}
+[£o¢o]
+I'll always be with you, onii-chan...
+
+
+{C7A688}
+[£o¢o]
+Okay, so I'll see you then!
+
+
+{C7A689}
+[£o¢o]
+Onii-chan~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1270 @@
+
+
+1 :
+
+{C1T000}
+[Girl]
+"It doesn't do us any good just standing 
+around here. Can you show us the way?"
+
+
+{C1T001}
+[Park staff]
+"Certainly. There is a relatively safe place 
+nearby. I will take you there..."
+
+(RELATIVELY safe...?)
+
+That was about the same as saying that
+everywhere else was dangerous.
+
+
+2 :
+We turned around and started heading back the
+corridor we'd been washed down.
+
+I looked at a panel and finally realized that
+we were in Zweiter Stock‡Lbasement level two.
+
+A short time later...
+
+After walking a few dozen meters, a strange
+sound caught my attention.
+
+
+3 :
+Bam, bam, bam, bam...
+
+4 :
+{11:0-71}
+{11:1}It's just my imagination
+
+{11:1}Did you just hear something?
+
+
+5 :
+(That sounded like a pounding noise...?)
+
+[Takeshi]
+Hey, did you just hear something?
+
+
+6 :
+
+{C1T005}
+[Park staff]
+Are you sure you aren't mistaken?
+
+
+{C1T006}
+[Park staff]
+"Due to all of the water pressure here at 
+LeMU, it isn't uncommon for the metal 
+partitions to rattle occasionally."
+
+
+7 :
+Yeah. It must have just been my imagination.
+
+Maybe it was just like she said, and LeMU's
+partitions were only creaking.
+
+Shaking it off, we kept trudging forward.
+
+
+8 :
+[Takeshi]
+Hey, did you just hear something?
+
+I stopped and asked the two of them.
+
+
+9 :
+
+{C1T002}
+[Girl]
+?
+
+
+{C1T003}
+[Park staff]
+Huh?
+
+[Takeshi]
+"You didn't just hear a kind of pounding 
+noise?"
+
+
+{C1T004}
+[Girl]
+No.
+
+
+10 :
+
+{C1T005}
+[Park staff]
+Are you sure you aren't mistaken?
+
+
+{C1T006}
+[Park staff]
+"Due to all of the water pressure here at 
+LeMU, it isn't uncommon for the metal 
+partitions to rattle occasionally."
+
+[Takeshi]
+Nah, it didn't sound like that.
+
+[Takeshi]
+"It sounded like someone pounding on something 
+with their hand."
+
+
+{C1T007}
+[Girl]
+?
+
+
+{C1T008}
+[Park staff]
+?
+
+[Takeshi]
+I'm going to go check.
+
+
+11 :
+
+{C1T009}
+[Park staff]
+Alright, we'll go with you.
+
+The girl didn't say anything. She just
+silently tagged along with us.
+
+
+12 :
+‡LIn front of the Jellyfish Gondola.
+
+
+13 :
+Bam, bam, bam... Bam, bam, bam...
+
+
+14 :
+[Takeshi]
+There. You can hear it, right?
+
+
+15 :
+
+{C1T010}
+[Park staff]
+Yeah...
+
+
+{C1T011}
+[Girl]
+So there's someone else trapped here too...?
+
+We strained our ears to find where the sound
+was coming from.
+
+It seemed to come from the elevator area right
+behind us.
+
+
+16 :
+The three of us (myself and the two girls)
+ran over to that area as fast as we could.
+
+
+
+17 :
+
+{C1T012}
+[???]
+Heeeeey! Somebooooody!
+
+
+{C1T013}
+[???]
+Somebooooody!
+
+
+{C1T014}
+[???]
+Is anyone theeere?
+
+
+{C1T015}
+[???]
+Anyooooone?
+
+Two female voices were coming from inside the
+elevator.
+
+
+18 :
+The three of us looked at each other and
+nodded.
+
+
+19 :
+[Takeshi]
+Hey! Can you hear us!?
+
+
+{C1T016}
+[???]
+Ah! Y-y-yeah! I can hear you!
+
+[Takeshi]
+Hang on! We'll get you out!
+
+
+{C1T017}
+[???]
+Please!
+
+
+{C1T018}
+[???]
+Aah... Thank goodness...
+
+
+{C1T019}
+[???]
+I didn't think anyone would come to help...
+
+The voice from inside sounded well.
+
+
+It didn't sound weak or injured.
+
+
+I placed both of my hands firmly on the door
+and pried it apart with all my strength.
+
+
+20 :
+The door opened.
+
+
+21 :
+On the other side of the door, there
+was... nothing.
+
+The lift (or at least the part people ride in)
+hadn't stopped directly on the floor.
+
+I looked down at my feet.
+
+I spotted a circular floor slightly below in
+the darkness.
+
+No. I realized that wasn't the floor; it was
+the roof of the trapped elevator.
+
+It was a little more than two meters from where
+I was standing
+
+Next, I...
+
+22 :
+{11:0-73}
+{11:1}I stepped forward
+
+{11:1}I looked up
+
+
+23 :
+I stepped forward.
+
+And fell...
+
+I should have known.
+
+
+24 :
+I looked up.
+
+Thick pipes extended vertically with what
+looked like four rails attached to their sides.
+
+It seemed that the elevator used those rails
+to move up and down.
+
+Come to think of it, I didn't see any trace of
+cables or wires that you might expect in an
+elevator.
+
+Which meant that the elevator wasn't using
+pulleys to go up and down...
+
+Craning my head to get a better look, I gazed
+farther up the shaft to see where the pipe
+went.
+
+There wasn't any lighting, but enough light
+poured through from behind me that I could
+get a vague sense of the outline.
+
+The pipes ended partway up, as did the rails.
+
+
+Where they ended, they were covered by some
+kind of heavy partition.
+
+(Partition...?)
+
+(Maybe it's a watertight door...?)
+
+A section of the pipe had been closed off,
+probably to prevent seawater from flooding in.
+
+I didn't notice anything else.
+
+Not even a ladder attached to the wall.
+
+Meaning...
+
+(The only way down is to jump...)
+
+I leaped out into the void.
+
+
+25 :
+Landing impressively...
+
+...At least that was my INTENTION...
+
+
+26 :
+‡LWHAM!
+
+[Takeshi]
+Agh!
+
+I struck my knee painfully.
+
+
+{C1T020}
+[???]
+Are you alriiight?
+
+I heard a voice from below.
+
+
+{C1T021}
+[Park staff]
+Did you hurt yourself?
+
+And then a voice from above...
+
+Looking up from the other side of the square
+frame of the elevator doors, the female park
+employee had a worried expression on her face.
+
+[Takeshi]
+Yeah, sure, I'm fine, just fine...
+
+I replied while rubbing my knee.
+
+It had been a long time since I'd jumped down
+from a height greater than my own.
+
+Maybe not since elementary school.
+
+And as I stood there thinking that...
+
+[Takeshi]
+Hold on. I'll get you out of there.
+
+
+{C1T022}
+[???]
+Okaaaay.
+
+I opened up the small door set into the
+ceiling of the elevator.
+
+
+27 :
+
+{C1T023}
+[???]
+Oh, thank you so much!
+
+I looked to the girl inside
+
+Her face was one big smile. She was clearly
+happy she was about to be freed.
+
+(Huh?)
+
+(I think I've seen this girl... somewhere
+before...)
+
+[Takeshi]
+Ah!
+
+
+{C1T024}
+[???]
+Ah!
+
+[Takeshi]
+You're that girl from before!
+
+
+{C1T025}
+[???]
+You're that guy from before!
+
+The girl and I pointed at each other and froze.
+
+
+{PIPI_01}
+[???]
+*Woof*!
+
+I spotted the scruffy face of a dog circling
+around her feet.
+
+[Takeshi]
+Popo...
+
+
+{C1T026}
+[???]
+His name's not 'Popo'...
+
+
+{C1T027}
+[£o¢o]
+"This little guy's name is Pipi, and my name's 
+£o¢o... Try not to mix them up, okay?"
+
+Pipi and £o¢o...
+
+That was right...
+
+It was the dog that had clamped onto that
+mascot Myumyun's tail, up at the floating
+island, and his owner.
+
+[Takeshi]
+But... what are you doing here?
+
+
+{C1T028}
+[£o¢o]
+I don't really know what to say...
+
+
+{C1T029}
+[£o¢o]
+"I was trying to go to one of the lower 
+levels, and all of a sudden this escalator 
+stopped, and..."
+
+[Takeshi]
+"It isn't an escalator, it's an elevator, 
+alright?"
+
+
+{C1T030}
+[£o¢o]
+Haha, oops... I mean evelator, okay?
+
+[Takeshi]
+No, NOT e-ve-lator, E-LE-VA-TOR.
+
+[Takeshi]
+"If you're on a moving staircase, that's 
+called an escalator, and if you're in a box 
+that goes up and down, that's an 
+elevator... Try not to mix them up."
+
+[£o¢o]
+.........
+
+[Takeshi]
+.........
+
+
+{C1T031}
+[£o¢o]
+Does it really matter?
+
+
+{C1T032}
+[£o¢o]
+"Anyway, I don't know why, but all of a 
+sudden I was trapped in this box."
+
+[Takeshi]
+Really...
+
+It had been the same with me.
+
+It had only been a little earlier that I had
+been trapped in another elevator...
+
+
+{C1T033}
+[£o¢o]
+Hey?
+
+[Takeshi]
+Hmmm?
+
+
+{C1T034}
+[£o¢o]
+I'd kind of like to get out of here... soon...
+
+£o¢o gave me an imploring look.
+
+[Takeshi]
+Oh, aah, I'm sorry.
+
+I said that and got down on my stomach from
+atop the elevator.
+
+I leaned down from the small hole and stuck
+my hand out to £o¢o.
+
+
+{C1T035}
+[£o¢o]
+Please, help Pipi first.
+
+£o¢o held Pipi up to me, stretching as far as
+she could to make him reach.
+
+I grabbed onto Pipi's front legs and pulled
+him out from the hole in the ceiling.
+
+
+{PIPI_08}
+[Pipi]
+*Whine*... *whine*...
+
+Pipi sniffed for my scent.
+
+[Takeshi]
+Okay, it's your turn next, £o¢o.
+
+I stuck out my hand again.
+
+
+28 :
+
+{C1T036}
+[£o¢o]
+Aia! Wah! Ayah!
+
+£o¢o jumped over and over, reaching out for my
+hand.
+
+But... either she was too short or just
+couldn't jump, because she didn't even
+reach my fingertips.
+
+[Takeshi]
+Hey, that reminds me...
+
+From the position I was in, arms hanging down,
+I looked around the elevator.
+
+I realized that nobody was in there but £o¢o.
+There was no mistake.
+
+(Huh? That's strange...)
+
+(I could have sworn I heard two people in
+there...)
+
+
+29 :
+
+{C1T037}
+[£o¢o]
+"Aaii! Haiya! Awwww, just a little bit 
+farther..."
+
+£o¢o was still jumping.
+
+[Takeshi]
+Hey, £o¢o?
+
+
+{C1T038}
+[£o¢o]
+Yeah?
+
+[Takeshi]
+Pipi can't speak, uh, Japanese, right?
+
+
+{C1T039}
+[£o¢o]
+Of course not!
+
+
+{C1T040}
+[£o¢o]
+He only speaks Piplish!
+
+
+{PIPI_04}
+[Pipi]
+*Woof*, *woof*!
+
+Pipi barked into my ear.
+
+[Takeshi]
+That's what I thought...
+
+
+{C1T041}
+[£o¢o]
+...What's wrong?
+
+[Takeshi]
+"Uh, well, earlier? I could have sworn I heard 
+two voices coming from this elevator..."
+
+
+{C1T042}
+[£o¢o]
+Two?
+
+
+{C1T043}
+[£o¢o]
+"This whole time, it's only been Pipi and me in 
+here."
+
+[Takeshi]
+Uhhh... Yeah, I can tell that from looking.
+
+[Takeshi]
+Maybe the next elevator over?
+
+£o¢o looked puzzled.
+
+[Takeshi]
+Oh well. Whatever.
+
+[Takeshi]
+"Anyway, before I take care of that, we gotta 
+get you out of here."
+
+£o¢o started jumping again.
+
+
+30 :
+
+{C1T044}
+[£o¢o]
+Toriiyaa!
+
+
+31 :
+
+{C1T045}
+[£o¢o]
+Uuuriya!
+
+
+32 :
+
+{C1T046}
+[£o¢o]
+Eeeiii!
+
+
+33 :
+
+{C1T047}
+[£o¢o]
+Yaah!
+
+
+34 :
+
+{C1T048}
+[£o¢o]
+Waachooo!
+
+.........
+
+......
+
+...
+
+
+35 :
+
+{C1T049}
+[£o¢o]
+Wheeew! That was close.
+
+
+{C1T050}
+[£o¢o]
+Thank you so much.
+
+£o¢o shook my hand profusely.
+
+
+{C1T051}
+[£o¢o]
+Um, by the way, who are these people...?
+
+£o¢o looked back and forth between the faces
+of the female park employee and the girl in
+black clothing.
+
+
+36 :
+
+{C1T052}
+[Sora]
+My name is Akanegasaki Sora.
+
+
+{C1T053}
+[Sora]
+Do you remember me?
+
+
+37 :
+
+{C1T054}
+[£o¢o]
+"Aaah! You're that lady who was giving 
+explanations at the entrance!"
+
+
+{C1T055}
+[Sora]
+Yes.
+
+
+38 :
+
+{C1T056}
+[£o¢o]
+Ummm, uuuuhhh, my name is...
+
+
+{C1T057}
+[Sora]
+I know.
+
+
+39 :
+
+{C1T058}
+[Sora]
+Yagami £o¢o-san, correct?
+
+
+40 :
+
+{C1T059}
+[£o¢o]
+Huh? How'd you know?
+
+
+{C1T060}
+[Sora]
+"Because you were so enthusiastic when you 
+replied to me, 'I'm Ya-ga-mi £o-¢o!'"
+
+
+41 :
+
+{C1T061}
+[£o¢o]
+Oh yeah...
+
+
+{C1T062}
+[£o¢o]
+You remembered?
+
+
+{C1T063}
+[Sora]
+I have a good memory.
+
+
+{C1T064}
+[Sora]
+"I also remember your dog's name. Pipi, wasn't 
+it?"
+
+
+{PIPI_01}
+[Pipi]
+*Woof*!
+
+
+42 :
+
+{C1T065}
+[£o¢o]
+And... you are...?
+
+£o¢o turned to the girl in black clothing.
+
+
+43 :
+[Girl]
+.........
+
+
+44 :
+
+{PIPI_11}
+[Pipi]
+*Woof*, *woof*! *Woof*!
+
+Shaking his tail excitedly, Pipi latched onto
+the girl's skirt for some reason.
+
+
+45 :
+
+{C1T067}
+[£o¢o]
+Huh?
+
+
+{C1T068}
+[£o¢o]
+"Um, wait a second... You wouldn't happen to 
+be that person who was wearing the lemur 
+costume?"
+
+[Girl]
+.........
+
+
+{C1T069}
+[£o¢o]
+Hey, you are, aren't you?
+
+
+46 :
+
+{C1T070}
+[£o¢o]
+I know it! You've got to be!
+
+
+{C1T071}
+[£o¢o]
+I remember your voice!
+
+
+47 :
+
+{C1T072}
+[Girl]
+"I don't really care about that... but 
+can you do something about this mutt?"
+
+The girl dropped her cutting gaze to Pipi, who
+was busily gnawing on the edge of her skirt.
+
+
+48 :
+
+{C1T073}
+[£o¢o]
+Ah, aah, I'm sorry.
+
+£o¢o scooped up Pipi and rapped him lightly
+on the head.
+
+
+49 :
+
+{C1T074}
+[£o¢o]
+Don't you know better than that?
+
+
+{PIPI_07}
+[Pipi]
+*Whine*, *whimper*...
+
+
+50 :
+[Takeshi]
+"Hey? How about my name? You don't want to 
+know?"
+
+I asked as I twirled Pipi's tail around my
+finger.
+
+
+51 :
+
+{C1T075}
+[£o¢o]
+I already know what it is.
+
+
+{C1T076}
+[£o¢o]
+'Kuranari Takeshi'... right?
+
+£o¢o said that with a grin on her face.
+
+(Huh? When did I introduce myself?)
+
+
+It bugged me that she knew, but...
+
+...Oh well.
+
+It wasn't really a big deal...
+
+
+52 :
+
+{C1T077}
+[£o¢o]
+"By the way... I've got something I want to 
+ask..."
+
+
+{C1T078}
+[Sora]
+?
+
+
+{C1T079}
+[Girl]
+?
+
+[Takeshi]
+?
+
+
+{C1T080}
+[£o¢o]
+Where did everyone else go?
+
+
+53 :
+While we were walking, Sora gave £o¢o a brief
+explanation of the chain of events leading up
+to that point.
+
+The power failure. The alarms going off.
+
+How we all failed to get out in time.
+
+And of course, the flooding. Everything.
+
+
+{C1T081}
+[£o¢o]
+F-flooooding!?
+
+
+{C1T082}
+[£o¢o]
+"You mean water from the ocean came gushing 
+into LeMU!?"
+
+Taken off guard, £o¢o looked as if she'd been
+gut-punched.
+
+But it wasn't surprising.
+
+Not many people would calmly reply, 'Oh,
+really' when notified that they had just missed
+a massive flood.
+
+Actually, the fact that our group was able to
+act as calmly as it did seemed fairly unusual.
+
+Humans might have been surprisingly resilient
+animals.
+
+When one's life was on the line, people who
+had the ability to keep levelheaded and think
+the situation through to the next step...
+
+From time immemorial, only people with those
+traits survived to see their children and
+children's children.
+
+It occurred to me then.
+
+And at the same time, for some reason, my chest
+was pounding as I looked at the three girls.
+
+(I'm the only guy here. The rest are girls.)
+
+
+(So I can't mess things up. I've got to keep
+it together no matter what.)
+
+(As the only man here, it's my responsibility
+to protect the three of them.)
+
+It was a simple, old-fashioned, and maybe
+moldy and petrified way of thinking. But at that
+moment, it was simply how I felt.
+
+Men protect women‡L
+
+I was able to stay rational precisely because
+that sense of righteousness drove my actions
+to an almost embarrassing degree.
+
+
+54 :
+While I was thinking about those trivial
+things, we'd changed location completely.
+
+‡LThe dolphin merry-go-round.
+
+Suddenly...
+
+
+55 :
+
+{C1T083}
+[Sora]
+Ah!
+
+Sora raised her voice in alarm.
+
+[Takeshi]
+What is it?
+
+
+56 :
+
+{C1T084}
+[Sora]
+Someone's coming this way.
+
+[Takeshi]
+...What?
+
+
+57 :
+
+{T1B005}
+[Park staff]
+*Sigh*...
+
+
+{T1B006}
+[Park staff]
+"For a while, I wondered what 
+was going to happen to us, but..."
+
+It was one of the female employees that I'd
+met once before.
+
+
+58 :
+
+{T1B007}
+[Park staff]
+I'm glad we survived...
+
+
+59 :
+
+{T1B008}
+[Park staff]
+Hey, aren't you...?
+
+The girl finally noticed us.
+
+[Takeshi]
+"I didn't think there'd be anybody 
+else here."
+
+
+60 :
+
+{T1B009}
+[Park staff]
+Yeah. How are you?
+
+[Takeshi]
+About as good as I look, I suppose.
+
+
+{T1B010}
+[Park staff]
+"Seems like you had a rough 
+time of it too..."
+
+[Takeshi]
+Hey, lucky guess...
+
+Relaxing a bit, I returned her smile.
+
+
+61 :
+Behind her was someone else.
+
+
+62 :
+
+{T1B013}
+[Kid]
+.........
+
+The other person was the kid I brought to the
+infirmary.
+
+His expression looked darker somehow.
+
+If he'd become super upbeat all of a
+sudden, that would have been weird too, but...
+
+For some reason, it bothered me.
+
+[Takeshi]
+"Is something wrong with him? He doesn't look 
+so hot."
+
+
+63 :
+
+{T1B014}
+[Park staff]
+Oh, he's... a bit...
+
+The attendant hesitated.
+
+
+64 :
+
+{T1B015}
+[Park staff]
+By the way...
+
+
+{T1B016}
+[Park staff]
+"Hey, Sora, do you have any idea what our 
+situation is?"
+
+The girl asked Sora.
+
+
+65 :
+
+{T1B017}
+[Sora]
+"Well, the communication lines are down... 
+I've been investigating ways to restore our 
+connection, but it's going to take some time."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

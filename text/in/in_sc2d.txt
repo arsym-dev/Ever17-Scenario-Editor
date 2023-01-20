@@ -1,0 +1,434 @@
+
+
+1 :
+
+{C2S218}
+[Sora]
+Someone has to 'see' me.
+
+
+{C2S219}
+[Sora]
+I have to be seen in order to exist.
+
+
+{C2S220}
+[Sora]
+Vision‡La viewpoint.
+
+
+{C2S221}
+[Sora]
+Someone's perspective actually creates me.
+
+
+{C2S222}
+[Sora]
+Kid-san...
+
+
+{C2S223}
+[Sora]
+When you close your eyes, I disappear.
+
+2 :
+{11:0-18}
+{11:1}Try it
+
+{11:1}Don't do anything
+
+
+3 :
+[Kid]
+...
+
+I didn't say or do anything.
+
+No, it would be better to say that I couldn't
+say or do anything.
+
+
+4 :
+Eventually, we reached the conference room.
+
+Sora's face was one big smile.
+
+But somewhere in her smile seemed a hint of
+sadness.
+
+At least... it appeared that way to me.
+
+
+5 :
+[Kid]
+When I close my eyes...?
+
+I decided to test it and covered my eyes with
+one hand.
+
+
+6 :
+Instantly, Sora vanished.
+
+If Sora did exist, I should have been able to
+see her head above my hand and her feet below.
+
+But Sora wasn't there.
+
+My hand kept the laser from reaching my eye,
+so I couldn't see Sora.
+
+Something about it made her seem fragile and
+temporary. It scared me.
+
+I quickly put down my hand.
+
+
+7 :
+Her beautiful image appeared without a sound.
+
+She smiled gently.
+
+[Kid]
+Sora...?
+
+
+{C2S224}
+[Sora]
+Yes...?
+
+There was no real meaning in my question.
+
+Maybe it was just that I wanted to see whether
+or not she would answer me.
+
+Given her fragile existence, there seemed to
+be a danger that she might slip away at any
+moment...
+
+I was uneasy about it, and at the same time
+felt a sort of awe about the mystery of it.
+
+I felt drawn to her.
+
+
+8 :
+
+{C2S225}
+[Sora]
+"Is there anything else? Please don't stare at 
+me like that."
+
+Sora was blushing.
+
+[Kid]
+Oh... No. Nothing else.
+
+Sora pinched her lips closed as if she was
+slightly embarrassed.
+
+
+9 :
+
+{C2S226}
+[Sora]
+By the way, Kid-san...
+
+[Kid]
+Yeah?
+
+
+{C2S227}
+[Sora]
+Kid-san... Have you ever seen the moon?
+
+The question came out of nowhere.
+
+My mind switched tracks and starting looking
+for an appropriate answer.
+
+[Kid]
+Uh... The moon, huh...?
+
+[Kid]
+"I don't suppose this is a question I should 
+have to think about, but..."
+
+[Kid]
+Having lost my memory and all...
+
+[Kid]
+I can't say for sure that I've seen it.
+
+[Kid]
+"But... I know what the moon is... and I'm 
+pretty sure that I have seen it."
+
+
+{C2S228}
+[Sora]
+I see.
+
+
+10 :
+
+{C2S229}
+[Sora]
+"Well, now let's say that you have seen a full 
+moon."
+
+
+11 :
+
+{C2S230}
+[Sora]
+"And let's say that you closed your eyes. Do 
+you think the moon would still be there?"
+
+[Kid]
+Haha. That's easy.
+
+[Kid]
+Of course it would.
+
+
+12 :
+
+{C2S231}
+[Sora]
+"And how about if everyone in the world closed 
+their eyes all at the same time?"
+
+[Kid]
+I don't know what your point is, but...
+
+[Kid]
+"Even if everyone in the world closed their 
+eyes, the moon wouldn't disappear."
+
+
+13 :
+
+{C2S232}
+[Sora]
+Really?
+
+[Kid]
+Yes.
+
+
+{C2S233}
+[Sora]
+How can you be sure?
+
+[Kid]
+Just open your eyes, right?
+
+
+14 :
+
+{C2S234}
+[Sora]
+"That goes against the purpose of this 
+exercise."
+
+
+15 :
+
+{C2S235}
+[Sora]
+"My question was whether or not there is 
+any way of verifying that the moon exists 
+if someone closes their eyes."
+
+[Kid]
+?
+
+
+{C2S236}
+[Sora]
+"When you close your eyes, do you think this 
+world still exists?"
+
+
+16 :
+
+{C2S237}
+[Sora]
+"What if I told you that not only myself, but 
+all of LeMU was nothing but an RSD-generated 
+illusion... What would you do then?"
+
+[Kid]
+...Huh?
+
+
+{C2S238}
+[Sora]
+"Can you prove that the walls, the ceiling, 
+and all of the scenery that you are 
+observing actually exist?"
+
+(So everything I'm looking at... is RSD...?)
+
+
+I panicked, glancing around at my surroundings.
+
+
+17 :
+
+{C2S239}
+[Sora]
+Haha, I'm sorry. I was only joking.
+
+[Kid]
+That was a joke?
+
+
+18 :
+
+{C2S240}
+[Sora]
+Yes, LeMU really does exist.
+
+
+{C2S241}
+[Sora]
+"You sounded so full of confidence when you 
+answered... I thought I would tease you just 
+a bit."
+
+Sora giggled, covering her mouth.
+
+
+19 :
+
+{C2S242}
+[Sora]
+However, I can say this.
+
+
+{C2S243}
+[Sora]
+"For humans to know the world around them, 
+they must use one of their five senses."
+
+
+{C2S244}
+[Sora]
+"If they lose all of these, they lose the 
+ability to tell whether this world exists 
+or not."
+
+
+{C2S245}
+[Sora]
+"Another way of putting it might be to say 
+that the perspective is in the eye of the 
+beholder."
+
+
+{C2S246}
+[Sora]
+"In this instance, I don't mean just sight, 
+but hearing, smell, taste, and touch as well. All of 
+the senses."
+
+
+20 :
+
+{C2S247}
+[Sora]
+"The point at which we perceive the world‡Lthat 
+is perspective."
+
+
+{C2S248}
+[Sora]
+And I...
+
+
+21 :
+
+{C2S249}
+[Sora]
+I... I am the same as the moon.
+
+
+{C2S250}
+[Sora]
+Do you understand?
+
+I felt like I had been able to get the gist of
+what she meant.
+
+Still... I didn't know exactly what she meant
+by 'I am the same as the moon.'
+
+I mustered an image of a silvery blue moon,
+its light piercing through the dark night.
+
+(I see... That's what she means.)
+
+The answer came to me surprisingly quickly.
+
+The moon didn't bark like a dog, it didn't
+smell, and it didn't taste tart like an
+apple, at least not as far as I knew.
+
+The only way to be sure of the existence of
+the moon was through its small gravitational
+pull and its blue-white light.
+
+Thinking of it in that way, the mysterious
+charm of the moon and its transience were
+things that Sora shared.
+
+I believed the moon was there, so it was
+there...
+
+I believed that Sora was there, so she was
+there...
+
+Maybe that was what Sora wanted to say.
+
+[Kid]
+Yeah. I understand.
+
+That was how I answered.
+
+
+22 :
+Sora's eyes lit up and her cheeks wrinkled
+into a big smile.
+
+And it might have been my imagination,
+but I thought I smelled the tart scent of an apple
+from somewhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,447 @@
+
+
+1 :
+[Kid]
+Sara!
+
+I swam up next to Sara.
+
+
+{SBD000}
+[Sara]
+O... nii... chan...
+
+[Kid]
+Are you okay, Sara?
+
+
+{SBD001}
+[Sara]
+Yeah... I'm alright.
+
+She smiled weakly.
+
+She was spent and unsteady on her feet.
+
+
+{SBD002}
+[Sara]
+Onii-chan, why... did you come back?
+
+[Kid]
+I came back to get you, of course!
+
+
+{SBD003}
+[Sara]
+To get me...?
+
+[Kid]
+Sure. I promised, didn't I...?
+
+
+2 :
+
+{SBD004}
+[Sara]
+I see... You finally... came to get me...
+
+[Kid]
+Oh... I'm so sorry, Sara.
+
+[Kid]
+"I... I know I made you wait such a 
+long time..."
+
+
+{SBD005}
+[Sara]
+No... It's alright.
+
+
+{SBD006}
+[Sara]
+I mean, you actually came and everything...
+
+[Kid]
+Sara, why did you come back...?
+
+
+3 :
+
+{SBD007}
+[Sara]
+Uh... To... Um...
+
+
+{SBD008}
+[Sara]
+To get... this...
+
+Saying that, Sara took out the fragment
+that had been embedded in my finger.
+
+[Kid]
+That's...
+
+
+{SBD009}
+[Sara]
+I forgot... this...
+
+[Kid]
+You came back... for that...?
+
+
+{SBD010}
+[Sara]
+"Because... this is proof of how you looked 
+after me..."
+
+
+{SBD011}
+[Sara]
+"I felt like... if this disappeared... then my 
+connection to you... would be gone..."
+
+[Kid]
+Sara...
+
+
+{SBD012}
+[Sara]
+"I'm sorry... I got you... involved in this 
+mess."
+
+[Kid]
+Sara... It's okay.
+
+
+{SBD013}
+[Sara]
+I'm so sorry...
+
+[Kid]
+"It's alright. I only came... to keep 
+my promise."
+
+
+{SBD014}
+[Sara]
+Th-thank you...
+
+I desperately tried to prop up Sara to keep
+her from sinking.
+
+
+4 :
+
+{SBD015}
+[Sara]
+I'm sorry... I can't keep... up... anymore...
+
+[Kid]
+Sara, hold on!
+
+
+{SBD016}
+[Sara]
+I'm sorry... So sorry...
+
+[Kid]
+Sara, hang on! Fight, Sara!
+
+
+{SBD017}
+[Sara]
+For... some reason... I'm dizzy...
+
+[Kid]
+Sara!
+
+I remembered that the air pressure there was
+compressed to 4.5 atmospheres because of the
+water pressure.
+
+Sara had probably gotten oxygen poisoning from
+breathing the oxygen-heavy air.
+
+That compounded with the fatigue from treading
+in the cold seawater...
+
+The combination had probably rapidly robbed
+Sara of her strength.
+
+[Kid]
+Sara, hang in there!
+
+
+{SBD018}
+[Sara]
+I... I'll... try...
+
+
+{SBD019}
+[Sara]
+But... my body... won't move anymore...
+
+I didn't know what to do.
+
+And I'd finally found Sara.
+
+[Kid]
+"Anyway, let's head for the emergency 
+corridor!"
+
+When I was there, the water hadn't flooded into
+the emergency corridor.
+
+If we could just get there...
+
+[Kid]
+Listen, Sara!
+
+I grabbed the weakened Sara and tried to dive
+underwater.
+
+Then it happened!
+
+
+5 :
+‡LScreeeeeeeeeeeeeeeech!
+
+A metallic scream echoed through LeMU as a
+shock wracked the structure.
+
+At the same time, the flow of the water
+increased dramatically.
+
+The shock shook Sara loose from my grasp.
+
+I frantically struggled to lift her up.
+
+
+{SBD020}
+[Sara]
+*Cough*... *cough*...
+
+
+{SBD021}
+[Sara]
+*Pant*, *pant*, *pant*...
+
+It looked like she had swallowed some water.
+
+Her breathing was labored...
+
+What should I do... What could I do...?
+
+
+6 :
+With a dull groan, LeMU tilted, causing the
+water to ripple.
+
+[Kid]
+Hang on, Sara! Just hang on!
+
+I called to Sara as I desperately floated in
+the waves on the surface.
+
+
+{SBD022}
+[Sara]
+I'm sorry... So sorry.
+
+
+{SBD023}
+[Sara]
+My body... It won't move...
+
+[Kid]
+No! Sara! Hang on!
+
+[Kid]
+We've finally found each other!
+
+[Kid]
+Sara! Open your eyes! Sara!
+
+
+7 :
+
+{SBD024}
+[Sara]
+Onii-chan...
+
+
+{SBD025}
+[Sara]
+Thanks for... coming back... Thank you...
+
+Sara's body went limp.
+
+I swore inside my mind.
+
+(Why, why, why!?)
+
+I wondered if there really was no way that I could
+save her...
+
+I took a big breath and dove underwater,
+holding Sara.
+
+
+8 :
+I meant to get us out of LeMU.
+
+If we stayed there, we would have been crushed.
+
+
+The irregular shocks continued, and the sounds
+of metal on metal echoed harshly.
+
+LeMU was already mostly filled with water.
+
+
+I ducked into a crack running down the wall
+that was just big enough and slipped outside.
+
+
+9 :
+There, the sprawling darkness of the ocean
+surrounded me.
+
+My only hope was the light piercing through
+the water from above.
+
+Clutching Sara, I swam toward it.
+
+
+But swimming with my injured arm and holding a
+limp Sara was nearly impossible.
+
+The water pressure constricted my chest,
+forcing out my air.
+
+But I kept swimming.
+
+My body was screaming for air.
+
+
+10 :
+My eyes clouded. Flashes of white light darted
+across my vision...
+
+
+11 :
+{16:0x}It was no good. I couldn't see...{16:1}
+
+{1}
+
+{16:0x}I wasn't sure if we were heading upward.{16:1}
+
+{1}
+
+{16:0x}Or maybe downward...{16:1}
+
+{1}
+
+{16:0}Sara's right arm felt cold, nearly frozen.{16:1}
+
+{1}
+
+{16:0x}I didn't think I'd make it...{16:1}
+
+{1}
+
+{16:0x}My arms refused to move...{16:1}
+
+{1}
+
+{16:0x}And my legs...{16:1}
+
+{1}
+
+{16:0x}I took Sara and...{16:1}
+
+{16:4}
+
+12 :
+{16:0x}*Gulp*...{16:1}
+
+{1}
+
+{16:0x}I couldn't take any more...{16:1}
+
+{1}
+
+{16:0x}I swallowed water...{16:1}
+
+{1}
+
+{16:0x}*Gulp*... *cough*...{16:1}
+
+{1}
+
+{16:0x}My consciousness was slipping...{16:1}
+
+{1}
+
+{16:0x}My body had no power...{16:1}
+
+{16:4}
+
+13 :
+
+{1}{1}{1}{1}
+
+
+{16:0x}Sara...{16:1}
+
+
+{16:4}
+
+14 :
+{16:0x}I was so sorry, Sara...{16:1}
+
+{1}
+
+{16:0x}I... just couldn't...{16:1}
+
+{1}
+
+{16:0x}...Seem to save her...{16:1}
+
+{16:4}
+
+15 :
+
+{1}{1}{1}{1}
+
+
+{16:0x}Sara...{16:1}
+
+
+{16:4}
+
+16 :
+
+{1}{1}{1}{1}
+
+
+{16:0x}The darkness enveloped me,{1}
+stealing away my consciousness...{16:1}
+
+{16:4}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1455 @@
+
+
+1 :
+We met at the tuna sandwich stand and ate
+as scheduled.
+
+In the end, I didn't fix anything for dinner...
+
+
+2 :
+
+{T3C000}
+[Kid]
+Hey, Takeshi.
+
+[Takeshi]
+Whaaaat?
+
+
+{T3C001}
+[Kid]
+"Can't you make anything besides tuna 
+sandwiches?"
+
+[Takeshi]
+"Hmm, well, there's not much I can do 'bout 
+that..."
+
+[Takeshi]
+"There wasn't much at this kiosk except 
+tuna sandwiches to start with."
+
+[Takeshi]
+"I cooked all the hotdogs this morning, so 
+they're finished. The owner probably just 
+kept them for a little variation."
+
+
+3 :
+
+{T3C002}
+[Kid]
+Oh really...
+
+The Kid held the sandwich wrapping in his
+right hand and twisted it around his
+fingertip.
+
+The half-eaten sandwich remained in his left
+hand, not getting any smaller.
+
+It didn't seem like he couldn't finish it...
+
+
+4 :
+
+{T3C003}
+[Y工]
+What's the deal? Eat up before it gets cold.
+
+Y工 was done eating, and she peered at the
+Kid's face.
+
+
+{T3C004}
+[Kid]
+Yeah...
+
+
+5 :
+
+{T3C005}
+[Y工]
+"You must have walked all over looking for 
+something else to eat. But it was no use 
+after all, huh?"
+
+
+{T3C006}
+[Y工]
+"The food that washed into the corridors during the 
+flooding is almost all spoiled anyway..."
+
+
+6 :
+
+{T3C007}
+[Y工]
+"But that's okay, because we've got more stuff to 
+make tuna sandwiches than you could 
+imagine."
+
+
+7 :
+
+{T3C008}
+[Kid]
+I guess that's true...
+
+The Kid tore off a piece of the sandwich and
+shoved it in his mouth.
+
+
+{T3C009}
+[Y工]
+"To survive, it's crucial that you have 
+something you can eat."
+
+[Takeshi]
+Hey, it looks like he got the picture.
+
+[Takeshi]
+"Yeah, looks like we've got a real survivor 
+on our hands."
+
+
+8 :
+
+{T3C010}
+[Y工]
+Yep, that's right.
+
+Y工 answered shortly.
+
+
+9 :
+[Takeshi]
+...Huh?
+
+
+{T3C011}
+[Y工]
+"Yeah, just a little hobby of mine. Sometimes, 
+I go into the mountains alone."
+
+
+{T3C012}
+[Y工]
+"I carve my own path... Sometimes, I even get a 
+bit lost..."
+
+
+10 :
+[Takeshi]
+Into the mountains alone?
+
+[Takeshi]
+"What, are you training in some ancient fighting 
+art on the sly!?"
+
+
+11 :
+
+{T3C013}
+[Y工]
+"Geez, Kuranari. Why do you have to get like 
+that?"
+
+[Takeshi]
+"Yeah, out fighting the black bears under the 
+winter moon!"
+
+
+12 :
+
+{T3C014}
+[Y工]
+"Nope. I hunt out hot springs that nobody 
+knows about."
+
+
+13 :
+
+{T3C015}
+[Y工]
+"Yeah, deep in the mountains, someplace no 
+one else has ever been. Oh, now THAT is this 
+girl's idea of romantic!"
+
+Y工 wriggled as if intoxicated by the image.
+
+[Takeshi]
+"Oh, now I get it. You were soaking in the hot 
+springs with a bear."
+
+
+14 :
+
+{T3C016}
+[Y工]
+"No, no, no. Would you shut up about bears 
+already..."
+
+[Takeshi]
+Heh heh...
+
+[Takeshi]
+"So despite appearances, you're really wild 
+at heart."
+
+
+15 :
+
+{T3C017}
+[Y工]
+"Oh, what might you be suggesting? Oh, heh 
+heh~"
+
+Y工 drew herself up in an exaggerated fashion.
+
+[Takeshi]
+"Oh yeah, you talked about stitching up your 
+own finger. I suppose that was also while you 
+were out searching for hot springs?"
+
+
+16 :
+
+{T3C018}
+[Y工]
+Huh? Oh... Yeah... I suppose.
+
+
+{T3C019}
+[Y工]
+"But it was just a surface scratch, and I only 
+needed a few stitches."
+
+[Takeshi]
+Hmph.
+
+[Takeshi]
+Just like I thought, bear wrestling.
+
+
+17 :
+
+{T3C020}
+[Y工]
+Just give it up!
+
+Y工 turned red-faced as she exploded.
+
+[Takeshi]
+Weeheehee...
+
+
+18 :
+
+{T3C021}
+[Y工]
+Aaagghhh... I can't take this anymore.
+
+[Y工]
+.........
+
+
+19 :
+Y工 let out a sigh and turned away from me.
+
+
+I supposed she was fed up.
+
+(Maybe I got a little carried away...?)
+
+
+20 :
+But Y工's face clouded over a bit.
+
+(Teasing her could have gotten her THAT
+down...?)
+
+Just as I was thinking that, Y工 avoided my
+eyes and muttered...
+
+
+21 :
+
+{T3C022}
+[Y工]
+Hey, Kuranari...?
+
+
+{T3C023}
+[Y工]
+Umm, about Tsugumi...
+
+It seemed like she wanted to say something,
+but she didn't know what to say.
+
+[Takeshi]
+What's up? What is it?
+
+
+{T3C024}
+[Y工]
+Um, what I mean is, uh...
+
+
+22 :
+Just then, we heard the sounds of people
+running through the water toward us.
+
+
+23 :
+Splish, splash, splish...
+
+
+24 :
+
+{T3C025}
+[υ▊]
+Hey, what's up?
+
+
+{PIPI_04}
+[Pipi]
+*Woof*, *woof*!
+
+[Takeshi]
+Hey, υ▊, you about ready to eat?
+
+
+{T3C026}
+[υ▊]
+"Yeah, all that running around's made me 
+starved!"
+
+
+{PIPI_00}
+[Pipi]
+*Woof*
+
+
+25 :
+That's right, I remembered she was the only
+one who hadn't eaten yet.
+
+I handed υ▊ the last tuna sandwich I had
+kept in the food warmer.
+
+
+26 :
+
+{T3C027}
+[υ▊]
+Alright, time to eat~
+
+
+27 :
+
+{T3C028}
+[υ▊]
+Yay! Chow time!
+
+[υ▊]
+.........
+
+
+28 :
+
+{T3C029}
+[υ▊]
+Oh, this is yummy~
+
+
+{T3C030}
+[υ▊]
+"Mmm. This blend of soy sauce, mayonnaise, and 
+fried tuna is perfect. Yum. Supreme~"
+
+
+29 :
+
+{T3C031}
+[υ▊]
+Yeah, Kiddo. This is divine, isn't it?
+
+υ▊ shot the question to the Kid, who was
+standing in front of the store.
+
+
+30 :
+
+{T3C032}
+[Kid]
+Uh, yeah. Sure.
+
+
+{T3C033}
+[Kid]
+But I'm getting a little tired of it.
+
+A last bit of unfinished sandwich remained in
+his left hand.
+
+
+31 :
+
+{T3C034}
+[υ▊]
+Really?
+
+
+{T3C035}
+[υ▊]
+Put some of this on, it'll be even better.
+
+
+32 :
+
+{T3C036}
+[Kid]
+Huh? What is that?
+
+
+33 :
+
+{T3C037}
+[υ▊]
+Here it comes, ooey-gooey~
+
+υ▊ pulled out a tube she had hidden behind
+her back, held it over the Kid's sandwich, and
+squeezed.
+
+[Takeshi]
+υ▊, what the heck is that?
+
+
+34 :
+
+{T3C038}
+[υ▊]
+Sour cream!
+
+
+{T3C039}
+[υ▊]
+"It's supposed to be for salads. It was the 
+last one at the gift shop."
+
+[Takeshi]
+Hmmmmm...
+
+The tube said 'Add some spice to your life'
+and 'Crab-flavored cream sauce: mild'.
+
+[Takeshi]
+"That could really broaden your culinary 
+horizons."
+
+
+35 :
+
+{T3C040}
+[υ▊]
+Yep. *Munch*, *munch*...
+
+She doused her sandwich with the sour cream,
+opened her mouth wide, and shoved it in.
+
+
+36 :
+
+{T3C041}
+[υ▊]
+Delicious~
+
+
+{T3C042}
+[υ▊]
+It doesn't get any better than this~
+
+
+37 :
+[Kid]
+.........
+
+The Kid looked at her doubtfully before
+taking a bite.
+
+
+38 :
+
+{T3C043}
+[Kid]
+Hmmm... Not bad.
+
+
+39 :
+
+{T3C044}
+[Kid]
+This might be what it needed.
+
+
+40 :
+
+{T3C045}
+[υ▊]
+I told you! Yummy, yummy!
+
+
+{PIPI_00}
+[Pipi]
+*Woof*
+
+With that, both υ▊ and the Kid covered their
+sandwiches with cream before polishing them
+off.
+
+
+41 :
+
+{T3C046}
+[υ▊]
+Hey, hey, Takepyon.
+
+υ▊ called out while crumpling up her
+sandwich wrapping.
+
+[Takeshi]
+Huh?
+
+
+{T3C047}
+[υ▊]
+What're we gonna do with Tsugumin's sandwich?
+
+
+{T3C048}
+[υ▊]
+How's about I hold onto it for her?
+
+[Takeshi]
+Uh, well...
+
+I had made it for her and stuck it in
+the warmer to keep for her.
+
+But then again...
+
+
+42 :
+
+{T3C049}
+[Y工]
+Sorry, υ▊.
+
+
+43 :
+
+{T3C050}
+[Y工]
+"Tsugumi's still asleep. She won't wake up for 
+a while, so..."
+
+Y工 gave υ▊ a pat on the head.
+
+
+44 :
+
+{T3C051}
+[υ▊]
+Is that right?
+
+
+{T3C052}
+[Y工]
+"Yep, I'll bet she's pretty tired. Let's let 
+her sleep a bit longer."
+
+
+{T3C053}
+[υ▊]
+*Sigh*...
+
+
+45 :
+
+{T3C054}
+[υ▊]
+"Okay then. So she can eat it later, after 
+she wakes up."
+
+[Takeshi]
+Huh?
+
+
+46 :
+
+{T3C055}
+[υ▊]
+"Let's save it for her. No snacking on it, 
+either!"
+
+υ▊ pointed to the sandwich nestled deep in
+the food warmer.
+
+...So she'd noticed it.
+
+[Takeshi]
+Alright. Roger that.
+
+
+47 :
+
+{T3C056}
+[υ▊]
+Great!
+
+
+48 :
+
+{T3C057}
+[υ▊]
+Okay, time for some after meal exercise~
+
+
+49 :
+
+{PIPI_04}
+[Pipi]
+*Woof*, *woof*!
+
+
+50 :
+
+{T3C058}
+[Kid]
+Hey, hold on. I wanna go too.
+
+
+51 :
+Splish, splash, splish...
+
+υ▊, the Kid, and Pipi ran toward the rest
+area together.
+
+Y工 and I watched them from behind.
+
+
+52 :
+[Takeshi]
+Oh, by the way, Y工...
+
+[Takeshi]
+Is Tsugumi resting up?
+
+
+{T3C059}
+[Y工]
+"Yeah, actually, I just stopped by the 
+infirmary to check on her."
+
+[Takeshi]
+How was she?
+
+
+53 :
+
+{T3C060}
+[Y工]
+"I'm not a medical expert or anything, so I 
+can't say anything specific."
+
+
+{T3C061}
+[Y工]
+"But she seems to be recuperating. 
+Satisfactory progress, I think."
+
+
+54 :
+
+{T3C062}
+[Y工]
+Maybe too satisfactory...
+
+[Takeshi]
+What do you mean by 'too satisfactory'?
+
+
+55 :
+
+{T3C063}
+[Y工]
+I really don't know how to put it...
+
+[Y工]
+...
+
+Y工 suddenly stopped talking and let her head
+fall forward.
+
+[Takeshi]
+"Well, if her condition is stable, that's 
+good, isn't it? The operation went well, right?"
+
+
+{T3C064}
+[Y工]
+...Yeeeaaah...
+
+[Takeshi]
+"What's up with you? Lose your confidence 
+somewhere or something?"
+
+
+56 :
+
+{T3C065}
+[Y工]
+No, it's not that...
+
+[Y工]
+...
+
+
+57 :
+
+{T3C066}
+[Y工]
+Hmmm... Yeah, yeah. That's it!
+
+[Takeshi]
+?
+
+Y工 lifted her head as if she had just
+realized something.
+
+
+58 :
+
+{T3C067}
+[Y工]
+"Perhaps I've lost some of my confidence, but 
+I know Tsugumi is recovering."
+
+
+59 :
+
+{T3C068}
+[Y工]
+Life force is an amazing thing, huh?
+
+
+60 :
+
+{T3C069}
+[Y工]
+You know, humans don't die so easily.
+
+Y工 smiled when she said that.
+
+
+61 :
+After dinner, when we finished cleaning up,
+we made our way to the rest area...
+
+Four stone statues were lined up in one
+corner of the area.
+
+
+62 :
+One of them extended a hand, pointing toward
+the south.
+
+
+63 :
+Another reached toward the east.
+
+
+64 :
+Yet another looked to the heavens while
+reaching a hand upward.
+
+
+65 :
+The remaining figure... had both hands pressed
+to its chest and eyes closed.
+
+
+66 :
+I wondered if there was some kind of meaning
+to all of it.
+
+I asked Y工, but she just shook her head
+unknowingly.
+
+It looked like υ▊, the Kid, and Pipi were
+running amongst the figures as they played.
+
+
+67 :
+
+{T3C070}
+[Y工]
+By the way, I wonder where Sora went...
+
+[Takeshi]
+"Hey, you're right. Now that you mention it, 
+Sora was here until just before we ate."
+
+
+{T3C071}
+[Y工]
+Maybe she's still in the control room.
+
+
+{T3C072}
+[Y工]
+"It only happens once in a while, but 
+sometimes she'll dive into LeMMIH's main 
+console and not come out for quite a while."
+
+[Takeshi]
+Really?
+
+
+{T3C073}
+[Y工]
+"Seems like she can get pretty caught up in 
+her work..."
+
+I wondered if that was that all it was.
+
+
+{T3C074}
+[Y工]
+Well, I'll go check it out.
+
+[Takeshi]
+Alright, you do that.
+
+
+68 :
+With that, she ran out a nearby exit and down
+the corridor.
+
+After having a good stretch, I watched υ▊
+and the others play.
+
+The three of them, two kids and an animal,
+circled the stone statue.
+
+They were playing a game of chase, not really
+caring who was 'it'.
+
+Without seeming to get bored, they kept
+running around and around.
+
+On the other hand, I got restless watching
+them.
+
+(Phew, what a sight...)
+
+It looked kind of fun, but I didn't quite
+feel like asking to join in.
+
+I let my eyes roam around.
+
+
+69 :
+[Takeshi]
+Oh...?
+
+[Takeshi]
+So that's where you were, Sora.
+
+After her unexplained disappearance, Sora had
+appeared next to a nearby flowerbed.
+
+
+70 :
+
+{T3C075}
+[Sora]
+Yes, I have been here for a little while.
+
+
+{T3C076}
+[Sora]
+I've been looking at the flowers.
+
+I observed the flowers.
+
+In the flowerbed, short roses, marigolds, and
+marguerites were all planted together.
+
+[Takeshi]
+"Yeah, but they sure don't seem to be doing 
+very well."
+
+
+71 :
+
+{T3C077}
+[Sora]
+I see what you mean.
+
+Nobody had watered them for the past several
+days.
+
+The soil was dry, its surface cracked.
+
+The flowers had wilted, and the plants were
+beginning to dry up.
+
+
+72 :
+
+{T3C078}
+[Sora]
+Life is sure a strange phenomenon.
+
+Sora muttered to herself as she gazed at the
+flowers.
+
+
+{T3C079}
+[Sora]
+"A bud sprouts from a seed. A flower blossoms, 
+reproduces, and then a seed matures and returns 
+to the earth."
+
+
+{T3C080}
+[Sora]
+"From that seed comes another bud, another 
+flower which blossoms and reproduces, and a new 
+seed, which in turn returns to the earth."
+
+
+{T3C081}
+[Sora]
+And on and on just like that...
+
+
+{T3C082}
+[Sora]
+What is the purpose of life?
+
+
+{T3C083}
+[Sora]
+Why do flowers bloom?
+
+[Takeshi]
+...
+
+I was unable to reply at once.
+
+Why, indeed, did flowers bloom?
+
+
+{T3C084}
+[Sora]
+"Whatever the reason or purpose, I think life 
+is a wonderful thing."
+
+
+{T3C085}
+[Sora]
+"When I see a flower struggling to exist, 
+growing from a crack in the concrete, I have 
+a strange and wonderful feeling."
+
+
+{T3C086}
+[Sora]
+"Flowers are always striving desperately to 
+live."
+
+
+{T3C087}
+[Sora]
+"Even in an environment such as this, in the 
+depths of the ocean, without enough light or 
+carbon dioxide..."
+
+
+{T3C088}
+[Sora]
+Even in such parched and cracked soil...
+
+
+{T3C089}
+[Sora]
+"They never even think of giving up, but just 
+struggle courageously to live."
+
+
+{T3C090}
+[Sora]
+Doesn't it inspire you?
+
+
+{T3C091}
+[Sora]
+...Maybe not.
+
+
+{T3C092}
+[Sora]
+"Maybe it's no use contemplating the meaning 
+or purpose of flowers..."
+
+Sora glanced up at the ceiling.
+
+I followed suit, also looking up.
+
+
+73 :
+[Takeshi]
+Huh?
+
+The shrill sound of a siren rang out loudly.
+
+Tiny sensors hidden in openings of the ceiling
+panels were moving wildly.
+
+Once again, I heard the sound of flowing water
+coming from somewhere.
+
+[Takeshi]
+No way. It can't be another flood!
+
+
+74 :
+Fwwwaaaaaaaashhhh...
+
+Massive amounts of water rained down from the
+ceiling.
+
+The drops poured down upon us mercilessly.
+
+
+75 :
+Soon after, we were suffused in a heavy mist...
+
+Sora's appearance changed to that of a rainbow.
+
+[Takeshi]
+What in the world?
+
+[Takeshi]
+Hey, Sora, what's going on?
+
+I tried to steady myself while asking.
+
+
+76 :
+However, it seemed that a smile hovered about
+Sora's mouth.
+
+[Takeshi]
+...Sora?
+
+I looked up again, checking the ceiling.
+
+
+77 :
+The drops of water were everywhere...
+
+I couldn't see much due to the fine mist.
+
+But...
+
+
+78 :
+[Takeshi]
+Oh, it's sprinklers, huh?
+
+Sora nodded without speaking.
+
+[Takeshi]
+Water...
+
+
+79 :
+I sipped water from my cupped hands, both
+tasting and testing it in my mouth.
+
+The water from the sprinklers was neither a
+liquid to extinguish fires nor seawater.
+
+[Takeshi]
+Ah... This is filtered water!
+
+
+80 :
+
+{T3C093}
+[Sora]
+Yes...
+
+
+{T3C094}
+[Sora]
+This complex uses the purest possible water.
+
+[Takeshi]
+That means...
+
+
+81 :
+[Takeshi]
+"Perhaps it's... meant for watering these 
+flowers?"
+
+
+{T3C095}
+[Sora]
+Hehe...
+
+She laughed but didn't answer...
+
+
+82 :
+The ceiling was designed so that the water sprayed
+down perfectly on the roses and other flowers
+below.
+
+Not long after that...
+
+
+83 :
+
+{T3C096}
+[Y工]
+Hey, what's going on over here?
+
+
+{T3C097}
+[υ▊]
+Sora-san! There's an alarm, an alarm!
+
+
+{T3C098}
+[Kid]
+Sora, Takeshi... Are you guys okay?
+
+Everyone came running over in a frenzy,
+splashing water with every step.
+
+
+84 :
+
+{T3C099}
+[Kid]
+Don't tell me there's another flood!?
+
+[Takeshi]
+No, it's not.
+
+
+{T3C100}
+[υ▊]
+So what is it?
+
+
+85 :
+
+{T3C101}
+[υ▊]
+I mean... everything is totally soaked.
+
+
+{T3C102}
+[υ▊]
+Takepyon, you're drenched...
+
+[Takeshi]
+Don't worry about me.
+
+
+86 :
+The drops of water were still pouring down
+from the ceiling.
+
+
+{T3C103}
+[Y工]
+"Oh man, we ran over here as soon as we saw 
+the warning on the monitor!"
+
+
+{T3C104}
+[Y工]
+It's not the fire alarm!?
+
+[Takeshi]
+I'm telling you, there's no fire or flooding...
+
+
+87 :
+[Takeshi]
+Uh, let me explain...
+
+[Takeshi]
+Y工... could you put that away?
+
+
+88 :
+She held a fire extinguisher in both hands as
+if bracing to use it.
+
+She had pulled the safety pin and held out
+the nozzle, ready to spray at any instant's
+notice.
+
+It was a pretty clumsy-looking attempt.
+
+
+89 :
+[Takeshi]
+.........
+
+[Y工]
+.........
+
+
+90 :
+After a while, the water stopped.
+
+Sora smiled and gazed at the flowerbed.
+
+
+{T3C105}
+[Y工]
+Uhhh...
+
+
+{T3C106}
+[Y工]
+You don't suppose this was just a prank?
+
+[Takeshi]
+Uh, you know...
+
+Now it was my turn to smile.
+
+[Takeshi]
+Yeah, I guess it was something like that...
+
+[Takeshi]
+"Over on that wall, there's some kind of weirdly 
+shaped and colored button..."
+
+[Takeshi]
+I thought, 'What the heck does this do!?'
+
+[Takeshi]
+I couldn't help giving it a little push.
+
+
+91 :
+When I said that, Y工 tossed the fire
+extinguisher aside.
+
+Then she turned to hide her face to try to
+contain her laughter.
+
+
+{T3C107}
+[Y工]
+Kuku... Kukukukuku...
+
+
+{T3C108}
+[Y工]
+Kuuu-raaa-naaa-riii!
+
+She balled up a fist and swung it in my
+direction.
+
+
+{T3C109}
+[Y工]
+Listen here! You're not a kid, you know!
+
+
+{T3C110}
+[Y工]
+"Just who broke the group rules the other 
+day, huh!?"
+
+
+{T3C111}
+[Y工]
+What are you thinking!?
+
+
+92 :
+Y工 was poised to launch into a sermon.
+
+She rambled on, but the words didn't reach my
+ears. I was gazing in wonder at the flowers.
+
+The previously wilted and drooping flowers
+had, in such a short time, become full of
+life and seemed to be dancing about.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

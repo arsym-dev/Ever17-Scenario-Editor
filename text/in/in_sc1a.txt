@@ -1,0 +1,1156 @@
+
+
+1 :
+
+{C1S000}
+[Mayo]
+No. I was all alone.
+
+
+2 :
+
+{C1S001}
+[Mayo]
+Nobody else...
+
+3 :
+{11:0-09}
+{11:1}I see...
+
+{11:1}Really?
+
+
+4 :
+[Kid]
+Really?
+
+
+{C1S002}
+[Mayo]
+Yeah...
+
+[Kid]
+You're sure there was nobody else there?
+
+
+5 :
+
+{C1S003}
+[Mayo]
+I said there was nobody there.
+
+[Kid]
+Even in the elevator next to you?
+
+
+6 :
+
+{C1S004}
+[Mayo]
+"No. I don't think there was anybody riding 
+in it."
+
+
+{C1S005}
+[Mayo]
+"I was shouting for help the whole time, and 
+nobody answered me."
+
+I wondered why not. The voice that I had heard
+a little bit ago was grating on my mind.
+
+[Kid]
+I just want to make sure one more time...
+
+[Kid]
+"Sara, there was really no one riding 
+in the elevator except for you?"
+
+
+7 :
+
+{C1S006}
+[Sara]
+Eh!?
+
+[Kid]
+So there was somebody?
+
+
+{C1S007}
+[Sara]
+N-no... There wasn't, but...
+
+[Kid]
+But...?
+
+
+8 :
+
+{C1S008}
+[Sara]
+Why...?
+
+
+{C1S009}
+[Sara]
+...How... How do you know?
+
+[Kid]
+?
+
+
+{C1S010}
+[Sara]
+My...
+
+
+{C1S011}
+[Sara]
+My... name...
+
+
+9 :
+[Kid]
+N-name...?
+
+
+10 :
+
+{C1S012}
+[Y工]
+"What? Oh, that's right. We haven't told you 
+Mayo's real name..."
+
+That instant, my vision shook crazily.
+
+
+11 :
+Something spine-chilling was squirming in the
+core of my body.
+
+The feeling spread through my network of
+nerves to the far corners of my body in an
+instant.
+
+
+12 :
+
+{C1S013}
+[Sara]
+Hey! I asked you why!
+
+
+13 :
+
+{C1S014}
+[Sara]
+Do... Do you know... me?
+
+
+14 :
+Matsunaga Sara.
+
+{1}
+
+Yes. I was sure. Her name was 'Matsunaga Sara'.
+
+But... how...
+
+How did I know her name!?
+
+{16:4}
+
+15 :
+[Kid]
+I don't know... I really don't know...
+
+I cradled my head and shook it several times.
+
+
+16 :
+
+{C1S015}
+[Sara]
+What is this!?
+
+[Kid]
+I don't know...
+
+
+{C1S016}
+[Sara]
+If you don't know, then I don't know!
+
+[Kid]
+I dunno... I dunno... I dunno...
+
+
+{C1S017}
+[Sara]
+Hey! Answer me!
+
+[Kid]
+.........
+
+
+{C1S018}
+[Sara]
+How do you know me!?
+
+[Kid]
+.........
+
+
+17 :
+
+{C1S019}
+[Sara]
+Who...
+
+
+18 :
+
+{C1S020}
+[Sara]
+...Who are you?
+
+[Kid]
+I said I don't know!
+
+[Kid]
+I don't know myself! I don't know!
+
+[Kid]
+Why do... I... know... your name...?
+
+My temples started to throb.
+
+The power drained from my body.
+
+I crumpled on the spot as if I had been sucked
+dry of energy.
+
+
+19 :
+
+{C1S021}
+[Y工]
+W-wait... Not another one of your fits!?
+
+
+20 :
+
+{C1S022}
+[Y工]
+Gimme a break. Geez...
+
+Y工's voice sounded far away.
+
+
+21 :
+
+{C1S023}
+[Sara]
+Fits?
+
+
+22 :
+
+{C1S024}
+[Y工]
+He's...
+
+
+{C1S025}
+[Y工]
+...Lost his memory.
+
+
+23 :
+
+{C1S026}
+[Sara]
+Lost... his memory?
+
+
+{C1S027}
+[Y工]
+Yup.
+
+
+{C1S028}
+[Y工]
+"No matter how much you ask him, he doesn't 
+remember..."
+
+
+{C1S029}
+[Y工]
+If you try to make him remember, then...
+
+[Kid]
+Ooohhh... Arggghhh....
+
+
+24 :
+
+{C1S030}
+[Y工]
+He gets like this.
+
+
+25 :
+[Sara]
+.........
+
+
+26 :
+
+{C1S031}
+[Y工]
+Now stand up! Get a hold of yourself!
+
+
+27 :
+Y工 grabbed both of my shoulders and stood
+me up.
+
+
+28 :
+
+{C1S032}
+[Y工]
+Listen. Listen good. Look at me...
+
+[Kid]
+.........
+
+
+29 :
+
+{C1S033}
+[Y工]
+"I think you've lost touch with who you are, 
+and it scares you."
+
+
+{C1S034}
+[Y工]
+"Because you have no memory... because you 
+have no past..."
+
+
+{C1S035}
+[Y工]
+"You've lost your past and feel like you've 
+lost yourself... You're afraid..."
+
+
+30 :
+
+{C1S036}
+[Y工]
+"But you know what? There's nothing to be 
+afraid of."
+
+
+{C1S037}
+[Y工]
+You are right here, right now.
+
+
+{C1S038}
+[Y工]
+Standing in front of me.
+
+
+{C1S039}
+[Y工]
+"No matter what happens, there's no way you're 
+just going to disappear."
+
+[Kid]
+.........
+
+
+31 :
+
+{C1S040}
+[Y工]
+Okay? Look me in the eyes, alright?
+
+
+{C1S041}
+[Y工]
+That's better...
+
+
+32 :
+
+{C1S042}
+[Y工]
+Now try to smile.
+
+[Kid]
+...What?
+
+
+33 :
+
+{C1S043}
+[Y工]
+Just smile...
+
+I made a conscious effort to move my cheek
+muscles.
+
+
+34 :
+
+{C1S044}
+[Y工]
+No, no, no. More. Like, say... 'Cheeeeeeese'...
+
+I put more effort into moving the muscles
+in my face.
+
+
+35 :
+
+{C1S045}
+[Y工]
+"That's a pretty forced grin, but... I guess 
+it's good enough."
+
+
+{C1S046}
+[Y工]
+"How's that? I bet you've stopped worrying 
+about your past, right?"
+
+36 :
+{11:0-0b}
+{11:1}Yeah
+
+{11:1}Nope
+
+
+37 :
+[Kid]
+Yeah...
+
+That was how I answered.
+
+
+38 :
+
+{C1S047}
+[Y工]
+See? The past isn't important.
+
+
+{C1S048}
+[Y工]
+"What's important is whether or not you can 
+smile right now..."
+
+
+{C1S049}
+[Y工]
+That's proof of your existence...
+
+
+{C1S050}
+[Y工]
+So you have to smile.
+
+
+39 :
+
+{C1S051}
+[Y工]
+I know you're better at smiling than that.
+
+Enticed by Y工's smile, my own cheeks started
+to loosen naturally.
+
+Y工 gently touched my hair...
+
+It was as if her hand sucked the pain away.
+
+
+40 :
+[Kid]
+Nope....
+
+
+41 :
+[Kid]
+"It's not your problem, so it's easy for you 
+to say that..."
+
+
+42 :
+
+{C1S052}
+[Y工]
+"But at least you've gotten better enough to 
+speak."
+
+[Kid]
+.........
+
+
+{C1S053}
+[Y工]
+And do you know why?
+
+
+43 :
+
+{C1S054}
+[Y工]
+"You can speak because you're aware of 
+this moment right now."
+
+[Kid]
+Right now?
+
+
+{C1S055}
+[Y工]
+"People have no choice but to live in the 
+moment."
+
+
+{C1S056}
+[Y工]
+"The past and the future are simply an 
+illusion..."
+
+
+44 :
+
+{C1S057}
+[Y工]
+"Trying to grab that empty image is... It's 
+meaningless."
+
+
+45 :
+
+{C1S058}
+[Y工]
+"So right now, you should just smile as if you 
+don't care."
+
+
+46 :
+
+{C1S059}
+[Y工]
+Smile.
+
+[Kid]
+.........
+
+
+47 :
+
+{C1S060}
+[Y工]
+Smile already!
+
+[Kid]
+I can't JUST smile...
+
+
+48 :
+
+{C1S061}
+[Y工]
+"If you don't smile... then I'll put my finger 
+up Mayo's nose."
+
+
+{C1S062}
+[Sara]
+...Huh?
+
+
+49 :
+
+{C1S063}
+[Y工]
+I'll put my finger in that gooey pit...
+
+As she talked, Y工 did exactly as she said.
+
+
+50 :
+
+{C1S064}
+[Sara]
+W-wait! Stop! Nakkyu!
+
+
+{C1S065}
+[Y工]
+Pick, pick... Goooooey...
+
+
+51 :
+
+{C1S066}
+[Sara]
+Hey... Hey! Nakkyu... Nakkyu...
+
+
+{C1S067}
+[Sara]
+Nakkyu... Your finger is in my nose...
+
+
+{C1S068}
+[Y工]
+Pickity, pickity...
+
+
+52 :
+
+{C1S069}
+[Sara]
+And now Nakkyu and I become one...
+
+
+{C1S070}
+[Y工]
+Goooooeeey...
+
+
+53 :
+
+{C1S071}
+[Sara]
+"...Wait, just what do you think you're 
+doing!?"
+
+
+54 :
+Whack!
+
+Sara smacked Y工.
+
+Watching that scene, my cheeks just naturally
+relaxed.
+
+
+55 :
+
+{C1S072}
+[Y工]
+Ha! He smiled, he smiled!
+
+
+56 :
+
+{C1S073}
+[Sara]
+He is! He is! AHAHAHA~
+
+
+57 :
+
+{C1S074}
+[Sara]
+...But do you think I'm happy about this!?
+
+
+58 :
+
+{C1S075}
+[Sara]
+"What are you thinking? Sticking your finger 
+in somebody's nose... Geez."
+
+
+59 :
+
+{C1S076}
+[Y工]
+Heeheehee~
+
+The pain in my head had eased at some point
+while I was watching their exchange.
+
+It was a 'painful' exchange in a different
+meaning of the word, but...
+
+
+60 :
+After I had calmed down again, we went to find
+an exit.
+
+Understandably, Sara couldn't hide her surprise
+when she saw how the complex had changed.
+
+
+61 :
+
+{S1A292}
+[Sara]
+What's this?
+
+
+{S1A293}
+[Sara]
+Why is this whole place flooded?
+
+
+62 :
+
+{S1A294}
+[Sara]
+And there doesn't seem to be anyone around...
+
+
+63 :
+While we walked, Y工 brought Sara up to speed
+with the situation.
+
+'Y工 was working at LeMU on a part-time basis.'
+
+'I collapsed at the kiosk.'
+
+'The warning alarm sounded, everyone
+disappeared from LeMU, and the
+flooding started.'
+
+Stunned, Sara listened to Y工.
+
+A while after Y工 had finished the story...
+
+As if she had just thought of it, Y工 suddenly
+blurted out...
+
+
+64 :
+
+{C1S077}
+[Y工]
+But you know what's really strange...
+
+
+65 :
+
+{C1S078}
+[Sara]
+What?
+
+
+{C1S079}
+[Y工]
+What this kid was just saying...
+
+
+{C1S080}
+[Y工]
+"I mean, Mayo, you don't remember him from 
+anywhere, right?"
+
+
+66 :
+
+{C1S081}
+[Sara]
+Right...
+
+
+67 :
+
+{C1S082}
+[Y工]
+But he knew your name...
+
+
+{C1S083}
+[Y工]
+"So that means that somewhere in his lost 
+memory there's some information stored 
+about you, right?"
+
+
+68 :
+
+{C1S084}
+[Y工]
+I wonder why.
+
+
+69 :
+[Kid]
+.........
+
+
+70 :
+
+{C1S085}
+[Y工]
+"If it were the other way around, it'd make 
+sense."
+
+
+71 :
+
+{C1S086}
+[Y工]
+"If you knew something about him, but he'd 
+forgotten you because of his amnesia..."
+
+
+{C1S087}
+[Y工]
+That would make sense to me...
+
+
+72 :
+
+{C1S088}
+[Y工]
+"But this is like going backward on a one-way 
+street."
+
+
+73 :
+
+{C1S089}
+[Sara]
+One-way street, huh...
+
+
+74 :
+
+{C1S090}
+[Sara]
+Oh, I know! This is probably what happened.
+
+
+75 :
+
+{C1S091}
+[Y工]
+?
+
+
+76 :
+
+{C1S092}
+[Sara]
+"This kid probably used to be a big Matsunaga
+Sara fan!"
+
+
+{C1S093}
+[Sara]
+"I'll bet I never noticed him, but he used to 
+watch me from a distance, like from the 
+shadows."
+
+
+{C1S094}
+[Sara]
+That would explain it completely.
+
+
+77 :
+
+{C1S095}
+[Y工]
+You're saying he's a stalker?
+
+
+78 :
+
+{C1S096}
+[Sara]
+Yup. That's exactly it.
+
+
+79 :
+
+{C1S097}
+[Sara]
+Hey, kid, is that it? Did you stalk me in the past?
+
+[Kid]
+"Don't go making things up just because 
+I lost my memory!"
+
+
+80 :
+
+{C1S098}
+[Sara]
+Am I wrong?
+
+[Kid]
+Yes!
+
+
+81 :
+
+{C1S099}
+[Y工]
+Mayo, I'll only ask you one more time...
+
+
+{C1S100}
+[Y工]
+"Are you really sure that you don't remember 
+seeing this kid before?"
+
+
+{C1S101}
+[Sara]
+Remember him...?
+
+
+82 :
+
+{C1S102}
+[Sara]
+Hmmm... Hmmm...
+
+Sara brought her face close to mine and stared
+at me.
+
+I could almost feel her breath.
+
+
+83 :
+
+{C1S103}
+[Sara]
+Well, now that you mention it...
+
+
+84 :
+[Kid]
+Huh?
+
+
+85 :
+
+{C1S104}
+[Y工]
+Huh?
+
+
+86 :
+
+{C1S105}
+[Sara]
+No... I'm kidding... I'm just joking.
+
+
+87 :
+
+{C1S106}
+[Sara]
+There's no reason I should remember him.
+
+
+88 :
+'No reason'?
+
+I wondered what she meant by that.
+
+I thought that maybe she really did know who
+I was.
+
+My heart started to pound again.
+
+I remembered when I had seen Sara for the
+first time a little bit ago.
+
+
+89 :
+I had felt something along the lines of
+nostalgia.
+
+For some reason, I felt that I had witnessed
+the same scene somewhere before.
+
+Maybe I had met her in the past after all.
+
+
+But I couldn't be sure of it.
+
+Even if I did know a name, or even feel
+nostalgic... it wasn't in my memory.
+
+
+90 :
+Sara's smile felt far away, so that no matter
+how much I reached out for it, I would never
+be able to touch it...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

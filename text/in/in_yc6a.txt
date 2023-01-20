@@ -1,0 +1,4158 @@
+
+
+1 :
+
+{C5A452}
+[£o¢o]
+Hey! Hey, Whale-san, Whale-san?
+
+
+{C5A453}
+[£o¢o]
+What time is it?
+
+
+{C5A454}
+[£o¢o]
+A whale of a time~
+
+
+2 :
+
+{C5A455}
+[£o¢o]
+Neeheehahahaha~
+
+[Takeshi]
+Y-you...
+
+[Takeshi]
+"You better not have asked me to come all 
+this way just to tell me that stupid joke."
+
+(And it's only 8 a.m. in the morning...)
+
+
+3 :
+
+{C5A456}
+[£o¢o]
+No.
+
+
+{C5A457}
+[£o¢o]
+I just wanted to go on a date with you and...
+
+[Takeshi]
+D-date?
+
+
+{C5A458}
+[£o¢o]
+Yeah.
+
+
+{C5A459}
+[£o¢o]
+Well, Takepyon, you like me, right?
+
+
+{C5A460}
+[£o¢o]
+So that means we're going out...
+
+
+{C5A461}
+[£o¢o]
+"When a boyfriend and girlfriend tell each 
+other their true feelings, everyone knows 
+it's best to be under a starlit sky..."
+
+
+{C5A462}
+[£o¢o]
+That's why I brought you here! To Whale-san...
+
+[Takeshi]
+.........
+
+
+4 :
+
+{C5A463}
+[£o¢o]
+Actually, I'm just teasing you~
+
+[Takeshi]
+?
+
+
+5 :
+
+{C5A464}
+[£o¢o]
+You're already married, right, Takepyon?
+
+[Takeshi]
+Huh?
+
+
+{C5A465}
+[£o¢o]
+Don't be shyyyy~
+
+
+{C5A466}
+[£o¢o]
+"I know eeeeeverything there is to know about 
+you."
+
+
+{C5A467}
+[£o¢o]
+"And not only just you. I know everything 
+there is to know about eeeverything~"
+
+[Takeshi]
+Everything?
+
+
+{C5A468}
+[£o¢o]
+Well, yeah?
+
+
+{C5A469}
+[£o¢o]
+Of course. I'm a psychic.
+
+[Takeshi]
+...
+
+
+{C5A470}
+[£o¢o]
+"For as long as I can remember, I've been 
+able to talk with people from different 
+worlds."
+
+[Takeshi]
+Different worlds meaning... the other side?
+
+
+{C5A471}
+[£o¢o]
+Ummm...
+
+
+{C5A472}
+[£o¢o]
+"No, not like that, just another world that 
+isn't this one."
+
+[Takeshi]
+Aaahhh...
+
+
+{C5A473}
+[£o¢o]
+"If I borrow the sight from the people in the 
+other world, I can see everything from the 
+past and future."
+
+[Takeshi]
+Oh really. Wooow...
+
+
+{C5A474}
+[£o¢o]
+"Like, the people in the second dimension, they 
+can't really see the whole world, right?"
+
+[Takeshi]
+?
+
+
+{C5A475}
+[£o¢o]
+"You can't see those huge line drawings at 
+Nazca, Peru, from the ground, right?"
+
+
+{C5A476}
+[£o¢o]
+"And let's say you have a really cool drawing 
+of a robot on your computer display. One of 
+the dots on the screen, they can't see the 
+whole drawing..."
+
+[Takeshi]
+Uh, yeah...?
+
+
+{C5A477}
+[£o¢o]
+So what can they do to see the whole picture?
+
+
+{C5A478}
+[£o¢o]
+"Well, for the pictures at Nazca, all you have 
+to do is go up in the air and look down..."
+
+
+{C5A479}
+[£o¢o]
+"And for the picture on the display? If you 
+can get a little bit away from the screen, 
+into the third dimension, you could see it, 
+right?"
+
+[Takeshi]
+.........
+
+
+{C5A480}
+[£o¢o]
+We're in the third dimension, right?
+
+
+{C5A481}
+[£o¢o]
+"Only the third dimension keeps moving on 
+forward in time."
+
+
+{C5A482}
+[£o¢o]
+"So, in order to see it moving, you can't just 
+stay in the third dimension."
+
+
+{C5A483}
+[£o¢o]
+"You'd have to look down at everything from 
+the fourth dimension."
+
+(Come to think of it, didn't Sora mention
+something like this...?)
+
+
+{C5A484}
+[£o¢o]
+"But I'm human, and I can't get out of the 
+flow of time..."
+
+
+{C5A485}
+[£o¢o]
+"So I just borrow the viewpoint of the people 
+from the fourth dimension."
+
+[Takeshi]
+"Then what you're trying to say is that the 
+people from the other side are really 
+people from the fourth dimension?"
+
+
+6 :
+
+{C5A486}
+[£o¢o]
+Yep~
+
+[Takeshi]
+That's the dumbest thing I've ever...
+
+
+{C5A487}
+[£o¢o]
+Well, I caaan.
+
+
+{C5A488}
+[£o¢o]
+I really caaaan!
+
+[Takeshi]
+.........
+
+
+{C5A489}
+[£o¢o]
+I really, really can...
+
+
+7 :
+
+{C5A490}
+[£o¢o]
+...Great, huh?
+
+[Kid]
+It's the third eye...
+
+
+{C5A491}
+[£o¢o]
+Yeah, you could call it that too.
+
+[Kid]
+Then you can tell everything about my past...
+
+
+{C5A492}
+[£o¢o]
+"Umm, well, I don't really think I can help 
+you, Hokutan."
+
+[Kid]
+Eh?
+
+
+{C5A493}
+[£o¢o]
+Because you aren't really Hokutan, right?
+
+[Kid]
+.........
+
+
+{C5A494}
+[£o¢o]
+"So you aren't borrowing anyone's perspective, 
+I think."
+
+
+{C5A495}
+[£o¢o]
+"In your case, Hokutan, I'm pretty sure you're 
+just... 'perspective' itself, right?"
+
+[Kid]
+What do you mean?
+
+
+8 :
+
+{C5A496}
+[£o¢o]
+Blick Winkel-san.
+
+[Kid]
+...What?
+
+
+{C5A497}
+[£o¢o]
+"I'm pretty sure Blick Winkel-san knows 
+everything."
+
+[Kid]
+Blick... Winkel...
+
+‡LJust then!
+
+
+9 :
+‡LKa-ka-ka-ka-KABOOOM!
+
+A massive boom rocked our eardrums.
+
+We all reflexively looked up.
+
+The ceiling of our world, the cosmos, had
+shattered...
+
+
+10 :
+Immediately, a large amount of seawater rained
+down on us like an avalanche.
+
+Shards from the shattered wall cracked off
+and shot into the floor like bullets.
+
+
+11 :
+I looked back, but £o¢o was gone.
+
+[Kid]
+£o¢o!
+
+Nobody was there to respond.
+
+All the sound was drowned out from the water
+rushing in, such that we could hardly even hear
+our own voices.
+
+Droplets of water were falling from
+above... White mist was rising from below...
+
+The water level was rising quickly.
+
+An incoming jet of water from the ceiling
+struck the whale, which was suspended in the
+center of the room. It bent backward hard,
+fell, and lay on the floor.
+
+Its big mouth flapped open, its pupils empty.
+
+
+The whale was dead...
+
+I turned around, cutting through the water,
+and fled from the room.
+
+
+12 :
+The door to the Cosmic Whale room closed with a
+gurgling sound.
+
+
+{C5A498}
+[Sara]
+Onii-chan! Are you okay!?
+
+
+13 :
+I spun around, drawn by Sara's voice.
+
+She was standing there, shoulders heaving.
+
+
+{C5A499}
+[Sara]
+"I ran here as soon as the alarm sounded, 
+but..."
+
+Looking over Sara's shoulder... I could see
+people running toward us from the corridor.
+
+I returned my gaze to the door. It didn't
+appear to be leaking.
+
+The Cosmic Whale room was flooded, but it looked
+as though the other areas were safe. For the time
+being.
+
+14 :
+
+{C5A500}
+[Sara]
+Hey, onii-chan...
+
+[Kid]
+?
+
+
+{C5A501}
+[Sara]
+Blood.
+
+[Kid]
+Eh?
+
+
+{C5A502}
+[Sara]
+You're bleeding.
+
+Sara pointed to my left hand.
+
+I looked at my palm.
+
+Where had I gotten a cut?
+
+Had a shard slashed me when it fell, and I just
+hadn't noticed?
+
+Or had I snagged it on something when I was
+trying to get out of the door?
+
+At any rate, bright red blood was dripping
+from the side of my hand.
+
+
+{C5A503}
+[Sara]
+You okay?
+
+Sara took a white handkerchief from her
+pocket and took my injured hand in hers,
+binding the wound.
+
+
+{C5A504}
+[Sara]
+Does it hurt?
+
+I shook my head.
+
+The truth was, I didn't feel anything.
+
+More important... than the scratch on my hand...
+
+[Kid]
+Blick... Winkel...
+
+
+15 :
+
+{C5A505}
+[Sara]
+Eh?
+
+Sara tilted her head questioningly.
+
+More than the injury, more than the flooding,
+more than anything, £o¢o's words were running
+through my head.
+
+
+16 :
+
+{C5A496}
+[£o¢o]
+Blick Winkel-san.
+
+'Blick Winkel'.
+
+'Blick... Winkel...'
+
+[Kid]
+Who... are you?
+
+[Kid]
+Who... am I?
+
+Again...
+
+I could hear that voice again.
+
+Was it my voice? Or someone else's?
+
+
+I kept staring at the palm of my left hand.
+
+A red stain spread slowly across the white
+fabric.
+
+[Kid]
+Who... are you?
+
+[Kid]
+Who... am I?
+
+
+{C5A493}
+[£o¢o]
+Because you aren't really Hokutan, right?
+
+
+{C5A497}
+[£o¢o]
+"I'm pretty sure Blick Winkel-san knows 
+everything."
+
+'Blick Winkel'.
+
+'Blick... Winkel...'
+
+Blood...
+
+The wet, crimson stain spread...
+
+And blood fell in thick droplets...
+
+Landing in the puddles at my feet.
+
+It spread out in the water like smoke, to
+eventually dissolve into the seawater.
+
+Just then‡L
+
+
+17 :
+‡LMy vision grew red.
+
+
+18 :
+I could see it.
+
+I could see everything.
+
+Everything in the year 2017...
+
+A continuous flow of fragmentary images...
+
+Pieces of the world flowed by without
+context...
+
+I was simply an onlooker of everything in the
+world.
+
+Yes... I couldn't take part, I could only
+watch... I was nothing more than a 'perspective'.
+
+
+19 :
+
+{T6A305}
+[£o¢o]
+Agh... Ah... Uugh...
+
+
+{T6A306}
+[£o¢o]
+Uggh... Aaaah... Aaaahhh...
+
+
+{T6A307}
+[£o¢o]
+Nnn... Uuuh... Uuugh...
+
+£o¢o groaned and pressed her hand
+against her mouth.
+
+Fresh, crimson blood dribbled through the
+cracks of her fingers.
+
+A red stain spread on the floor of the
+control room.
+
+
+{T6A311}
+[Sora]
+...This is bad...!
+
+
+{T6A312}
+[Sora]
+These... These symptoms are...!
+
+
+{T6A313}
+[Tsugumi]
+Symptoms!? Who cares about symptoms!?
+
+
+{T6A314}
+[Tsugumi]
+"Can't you tell!? If this keeps up, £o¢o's 
+going to...!"
+
+
+{T6A315}
+[Kaburaki]
+£o¢o, hang in there!
+
+
+{T6A316}
+[Y¤u]
+Ku-Kuranari... what are we going to do!?
+
+
+{C6A000}
+[Takeshi]
+Wait! Don't panic! Everyone just calm down!
+
+
+20 :
+I was only a 'perspective' and had no real
+sense of feeling.
+
+The link between my sight and consciousness
+had been broken, and all I could do was
+continually gaze at the scene unfolding
+before me.
+
+I felt neither sadness nor anger... Neither
+impatience nor despair...
+
+I was looking at the reality in front of me
+as one might stare at a meaningless jumble of
+numbers.
+
+
+21 :
+'Tief Blau 2017-Rev.17'
+
+The L-MRI was scanning £o¢o's condition.
+
+The Tief Blau virus‡L
+
+
+22 :
+
+{T6B017}
+[Kaburaki]
+£o¢o, hold on!
+
+
+{T6B018}
+[Kaburaki]
+...No! Don't you die on me!
+
+£o¢o's body lay on the examination table.
+
+Kaburaki held her thin arm intensely.
+
+
+{T6B019}
+[Kaburaki]
+Open your eyes, £o¢o!
+
+
+{T6B020}
+[Kaburaki]
+Please! Wake up!
+
+The Kid grabbed hold of £o¢o's shoulders
+and shook her violently.
+
+
+23 :
+
+{C6A002}
+[Takeshi]
+Hey, cut it out! Stop it, Kid!
+
+Takeshi pulled him back from £o¢o.
+
+
+24 :
+
+{T6B021}
+[Kaburaki]
+What are you doing!?
+
+
+{C6A003}
+[Takeshi]
+Jackass! Calm the hell down!
+
+
+{C6A004}
+[Takeshi]
+"What do you think that's going to accomplish, 
+huh!?"
+
+
+{T6B022}
+[Kaburaki]
+But £o¢o's gonna... She's gonna!
+
+
+25 :
+
+{T6B023}
+[Kaburaki]
+"If we don't do anything, £o¢o's... going to 
+die!"
+
+
+{C6A005}
+[Takeshi]
+"Calm down. There's got to be something we can 
+do..."
+
+
+26 :
+
+{C6A006}
+[Takeshi]
+"Don't get crazy. Let's just calm down and 
+think..."
+
+
+27 :
+Sora interrupted Takeshi and the Kid with
+her hand.
+
+Looking all of the people gathered in the
+face, she announced...
+
+
+28 :
+
+{T6B060}
+[Sora]
+"There is an installation called IBF directly 
+below us."
+
+
+{T6B067}
+[Sora]
+"The management company that built LeMU is 
+Leiblich Pharmaceuticals. Their research 
+facility is IBF."
+
+
+29 :
+
+{C6A007}
+[Takeshi]
+IBF...?
+
+Takeshi mumbled to himself.
+
+It seemed as if it was familiar to him.
+
+
+30 :
+
+{T6B076}
+[Sora]
+"There is a medical center there that is far 
+superior to this one."
+
+
+{T6B077}
+[Sora]
+"At least from the information I can get from 
+LeMMIH's database..."
+
+
+{T6B078}
+[Sora]
+"It appears that they have a new type of 
+'high-pressure oxygen treatment device' 
+there..."
+
+
+{T6B079}
+[Sora]
+"And if we can treat her with that, her 
+leukocyte, er, white blood cell activity 
+should increase."
+
+
+{T6B080}
+[Sora]
+That should ease £o¢o-chan's condition somewhat.
+
+
+31 :
+
+{C6A008}
+[Takeshi]
+Alright then...
+
+
+{C6A009}
+[Takeshi]
+IBF...
+
+
+{C6A010}
+[Takeshi]
+"So all we need to do is get her there, and £o¢o 
+can be saved, right?"
+
+
+32 :
+
+{T6B101}
+[Sora]
+"However, in order to get to IBF, we have to 
+get through Himmel... and Himmel's door isn't 
+opening."
+
+
+33 :
+
+{C6A011}
+[Takeshi]
+I don't care, we're going!
+
+
+{C6A012}
+[Takeshi]
+There isn't any other way there.
+
+
+34 :
+
+{C6A013}
+[Takeshi]
+It might not work...
+
+
+35 :
+
+{C6A014}
+[Takeshi]
+But we don't know that unless we try, right?
+
+
+{C6A015}
+[Takeshi]
+Sora, show me how to get there.
+
+
+36 :
+[Sora]
+.........
+
+
+37 :
+
+{C6A016}
+[Takeshi]
+Hey, Kid... Give me a hand!
+
+
+38 :
+
+{T6B102}
+[Kaburaki]
+O-okay.
+
+
+39 :
+Takeshi picked up £o¢o's inert body and
+carried her piggyback.
+
+
+40 :
+They arrived at Himmel.
+
+The door was shut fast.
+
+
+41 :
+
+{C6A017}
+[Takeshi]
+Damn it, what are we going to do!?
+
+[Kaburaki]
+.........
+
+[Y¤u]
+.........
+
+[Tsugumi]
+.........
+
+[Sora]
+.........
+
+
+{PIPI_06}
+[Pipi]
+*Whine*...
+
+
+42 :
+£o¢o slid off of Takeshi's back.
+
+She weakly hunched over on the floor.
+
+The color of her face had gone translucent
+white, her lips parched, and her eyes looked
+feverish.
+
+Just then...
+
+
+43 :
+
+{C6A018A}
+[Announcement]
+"<Öffnen Sie 
+
+{C6A018B}
+die Tür von HIMMEL.>"
+
+44 :
+
+{C6A019}
+[Takeshi]
+What's that announcement...?
+
+
+45 :
+
+{T6B137}
+[Sora]
+Someone is trying to access LeMMIH's system!
+
+
+{T6B138}
+[Sora]
+"From inside the room... From a terminal inside 
+Himmel!"
+
+
+46 :
+
+{C6A020}
+[Takeshi]
+What!?
+
+
+47 :
+The access indicator light for the electronic
+lock to began blink and soon changed to green.
+
+The hatch's lever raised and turned
+automatically...
+
+
+48 :
+The door opened.
+
+
+49 :
+It was pure white inside.
+
+Squinting against the brightness, they walked
+into the room to explore.
+
+It appeared as if it was the computer
+control room.
+
+
+50 :
+
+{C6A021}
+[Takeshi]
+H-hey! There's someone here...
+
+
+{C6A022}
+[Takeshi]
+Did he open up the door just now?
+
+
+51 :
+There was someone passed out on the floor.
+
+He was a man who appeared to be in his forties,
+dressed in a white lab coat.
+
+
+52 :
+
+{C6A023}
+[Takeshi]
+Hey, buddy! Are you alright!?
+
+Takeshi rushed over to the man and lifted him
+into a sitting position.
+
+[???]
+.........
+
+The man didn't reply to Takeshi's call. He
+just sat there with his eyes closed.
+
+
+53 :
+
+{C6A024}
+[Takeshi]
+Who is this guy...?
+
+
+54 :
+
+{C6A025}
+[Takeshi]
+Sora, do you have any idea who this is?
+
+
+55 :
+
+{T6B139}
+[Sora]
+No, I am unable to verify his ID...
+
+
+{T6B140}
+[Sora]
+"But judging from the way he is dressed, it 
+is safe to assume he was a researcher at the 
+IBF facility."
+
+
+56 :
+
+{C6A026}
+[Researcher]
+Uuugh...
+
+The researcher let out a dry gasp and opened
+his eyes slightly.
+
+
+57 :
+
+{C6A027}
+[Takeshi]
+"Hey, are you one of the staff from the 
+research facility?"
+
+
+{C6A028}
+[Researcher]
+Y-yeah... That's right...
+
+
+{C6A029}
+[Researcher]
+"Doesn't seem like you're... here to rescue 
+me..."
+
+With a shaking hand, he grabbed onto Takeshi.
+
+The hand was covered in blood...
+
+
+{C6A030}
+[Researcher]
+"So there were still people in LeMU... and 
+it's been six days since..."
+
+
+{C6A031}
+[Researcher]
+Hahaha, what a surprise... *gagh*...
+
+Blood trickled from his mouth, and he smiled
+wryly.
+
+
+58 :
+
+{C6A032}
+[Takeshi]
+"H-hey! Don't strain yourself. You don't have 
+to talk!"
+
+
+{C6A033}
+[Researcher]
+I'm so sorry... It's all our fault...
+
+
+59 :
+
+{C6A034}
+[Takeshi]
+"What happened? Did something happen down 
+there?"
+
+Everyone stood quietly, gathered around the
+researcher, and seemed to have lost the
+ability to talk.
+
+The research worker murmured and looked up
+vacantly at all the figures around him.
+
+
+{C6A035}
+[Researcher]
+But why all this...?
+
+
+{C6A036}
+[Researcher]
+This...
+
+After that, he was silent.
+
+His eyelids slowly closed.
+
+
+60 :
+
+{C6A037}
+[Takeshi]
+Hey! Hey! Hang in there!
+
+
+61 :
+Takeshi shook the man's shoulders.
+
+There was no response. But at least it seemed
+he was breathing.
+
+
+62 :
+
+{T6B151}
+[Tsugumi]
+We'll... We'll have to bring him with us.
+
+
+63 :
+Takeshi nodded and stood up, then picked up the
+unconscious researcher.
+
+Watching the situation, Sora began a quiet
+explanation...
+
+
+64 :
+
+{T6B152}
+[Sora]
+"Everyone, at the far end of this room is 
+another room. Can you see it?"
+
+
+{T6B154}
+[Sora]
+That is the compression chamber for IBF.
+
+
+{T6B155}
+[Sora]
+Judging from my incomplete data...
+
+
+{T6B156}
+[Sora]
+"IBF is enclosed in higher pressure gas than 
+LeMU. The IBF area is set to what is known as 
+'saturated diving specifications'."
+
+
+{T6B157}
+[Sora]
+"This type of area is also probably more 
+suitable for research with bacteria... The 
+atmospheric pressure of IBF is actually at 
+about 12.5 atmospheres."
+
+
+65 :
+
+{T6B158}
+[Sora]
+I want all of you to enter that room.
+
+
+{T6B159}
+[Sora]
+"And after you spend about one hour in the 
+compression chamber, you'll take the access 
+elevator down to IBF."
+
+
+{T6B160}
+[Sora]
+And I should tell you this as a precaution...
+
+
+{T6B161}
+[Sora]
+"You will not be able to retrace your steps 
+easily from this point on. Please give this 
+due consideration."
+
+
+66 :
+Following Sora's instructions, everyone headed
+into the IBF compression chamber.
+
+
+67 :
+The long compression started...
+
+During that time, nobody said a single word.
+
+
+68 :
+The compression finished‡L
+
+Everyone got aboard the lift.
+
+The door sealed and the elevator started to
+lower as though it was sliding.
+
+
+{C6A040}
+[Announcement]
+<Tiefe 70 meter...>
+
+
+{C6A041}
+[Announcement]
+<Tiefe 80 meter...>
+
+
+{C6A042}
+[Announcement]
+<Tiefe 90 meter...>
+
+
+{C6A043}
+[Announcement]
+<Tiefe 119 meter.>
+
+
+69 :
+The door opened and everyone poured out.
+
+It seemed that there was a pool where a small
+submarine could dock.
+
+Although the area was directly attached to
+the ocean, the inside and outside pressure
+were the same, keeping the ocean water out of
+the room.
+
+It was the same as turning a cup upside down
+and putting it in water.
+
+They all stopped in their tracks and studied
+their surroundings tensely, as if waiting for
+an alarm to go off.
+
+There was no sign of anyone.
+
+
+70 :
+
+{C6A044}
+[Takeshi]
+Anyway, let's get to where we have to go.
+
+
+71 :
+They opened a watertight door at the other
+side of the room and continued deeper into the
+installation.
+
+
+72 :
+‡LThe examination room.
+
+The Kid and Y¤u placed £o¢o, who they'd been
+carrying, on a nearby bed.
+
+Tsugumi and Takeshi slowly lowered the researcher
+down into a chair.
+
+An L-MRI, the same type that had been in
+LeMU's infirmary, was in the room.
+
+
+73 :
+
+{C6A045}
+[Takeshi]
+"Hey, Y¤u? Where is that high-pressure 
+oxygen thing that Sora was talking about?"
+
+
+74 :
+
+{T6B183}
+[Y¤u]
+H-how should I know...?
+
+
+75 :
+
+{C6A046}
+[Takeshi]
+Tsugumi, what should we do?
+
+
+76 :
+
+{T6B184}
+[Tsugumi]
+"Well, we'll have to look for it. None of us 
+know a thing about this place."
+
+
+77 :
+
+{C6A047}
+[Researcher]
+*Gagh*... W-wait!
+
+
+78 :
+The researcher coughed as he spoke.
+
+
+79 :
+
+{C6A048}
+[Takeshi]
+H-hey, don't move! Are you okay!?
+
+
+80 :
+
+{C6A049}
+[Researcher]
+I've been better... but at least I'm alive...
+
+
+81 :
+The researcher raised his hand weakly as he
+spoke.
+
+
+{C6A050}
+[Researcher]
+This smell... Is this IBF?
+
+
+{C6A051}
+[Researcher]
+So I'm back where I started... *cough*
+
+
+82 :
+
+{C6A052}
+[Takeshi]
+So you WERE working here...
+
+
+{C6A053}
+[Takeshi]
+"Well then, there's something I want to ask 
+you. We're looking for some kind of 
+high-pressure oxygen treatment device."
+
+
+{C6A054}
+[Takeshi]
+"We've come as far as the examination room, 
+but we don't have a clue what to look for. 
+Can you help us? Please!"
+
+
+{C6A055}
+[Researcher]
+"Oxygen treatment... Yeah, you're looking for 
+the pods."
+
+
+{C6A056}
+[Researcher]
+"There should be some alloy capsules with 
+mats set inside of them."
+
+
+{C6A057}
+[Researcher]
+"They look like a bunch of cylinders stuck to 
+a pillar... You see them?"
+
+
+{C6A058}
+[Takeshi]
+Yeah, they're right in front of me.
+
+
+{C6A059}
+[Researcher]
+That's them... *cough*...
+
+
+83 :
+
+{C6A060}
+[Takeshi]
+"Hang in there...! We found them. So don't 
+waste your energy talking anymore, okay?"
+
+New blood appeared on the researcher's closed
+hand as he wiped his mouth.
+
+
+{C6A061}
+[Researcher]
+"Just take a look at the manual... They should 
+be... easy to operate."
+
+
+84 :
+
+{C6A062}
+[Takeshi]
+Okay, I gotcha...
+
+The strength left the researcher's hand...
+
+As he sat there, it seemed all the life had
+left the researcher's body, and he looked
+like an old, withered-up tree.
+
+
+85 :
+
+{C6A063}
+[Takeshi]
+"Let's get £o¢o into a pod... and this 
+researcher too."
+
+
+86 :
+
+{T6B194}
+[Tsugumi]
+Yeah...
+
+
+87 :
+They put £o¢o and the researcher into
+separate pods and closed the lids.
+
+
+88 :
+
+{C6A064}
+[Takeshi]
+Did you find the manual?
+
+
+89 :
+
+{T6B195}
+[Y¤u]
+Yeah. This is the control panel...
+
+
+90 :
+Flipping through a thick book that appeared
+to be the manual, Y¤u started operating a
+terminal a short distance away.
+
+
+{T6B196}
+[Y¤u]
+High-pressure oxygen treatment... set...
+
+The screens of the monitors attached to the
+tubes flickered. Both of the pods seemed
+to be functioning normally.
+
+
+91 :
+
+{T6B197}
+[Y¤u]
+That should do it.
+
+
+{C6A065}
+[Takeshi]
+Okay...
+
+Blood pressure, heart rate, respiration
+rate... normal.
+
+They silently watched £o¢o and the researcher.
+
+Although it was too soon to say if they had
+recovered, £o¢o and the researcher's face
+seemed to settle a bit.
+
+They had somehow managed to stave off death.
+
+
+92 :
+
+{T6B198}
+[Y¤u]
+I'm so relieved...
+
+
+{T6B199}
+[Tsugumi]
+Yeah... Tell me about it.
+
+
+{T6B200}
+[Kaburaki]
+Yeah...
+
+
+93 :
+
+{C6A066}
+[Takeshi]
+Looks like we made it in time.
+
+
+{PIPI_00}
+[Pipi]
+*Woof*
+
+Everyone let out a sigh of relief.
+
+It seemed as if they had escaped the worst
+for the moment.
+
+
+94 :
+
+{C6A067}
+[Takeshi]
+Well...
+
+
+{C6A068}
+[Takeshi]
+We don't have time to hang around, you know?
+
+
+95 :
+They started searching around the facility.
+
+Their aim was threefold... To find a way to
+escape the facility, to see if any
+communication lines were open, and to look
+for any other survivors.
+
+While Takeshi, Tsugumi, and the young Kaburaki
+were searching around IBF, Y¤u stayed with
+the resting £o¢o and researcher.
+
+Meanwhile...
+
+
+96 :
+Takeshi and the others soon arrived at a
+small room covered in iron plating.
+
+There were a few computer terminals there with
+nobody stationed at them.
+
+Operating the terminals, they scanned through
+some of the information there.
+
+They were searching for any information that
+they could use and finally came across
+something interesting.
+
+{16:4}
+
+97 :
+'IBF Visitor Registry: Yagami £o¢o'
+
+£o¢o's name was listed in the corner of a
+business log.
+
+Looking further into the file, there seemed
+to be a personal memo written by somebody.
+
+{16:4}
+
+98 :
+'Author: Yagami Takeshi'
+
+'I get to see my daughter for the first time
+in a while.'
+
+'Her school is on vacation, so she has a
+ten-day break.'
+
+'I've been trapped for so long in this tin
+can doing virus research that I'm jealous...'
+
+{16:4}
+
+99 :
+'That aside, when I told her that special
+permission had been granted for her to come
+down and see IBF, she sent me a happy reply
+saying she would.'
+
+'We've exchanged mail every once in a while,
+but I wonder how long it's been since we've
+actually seen each other?'
+
+'I'll just be happy if she hasn't forgotten
+what I look like.'
+
+{16:4}
+
+100 :
+Which meant that £o¢o had visited IBF
+once before May 1st.
+
+To meet her father...
+
+{16:4}
+
+101 :
+Postscript‡L
+
+'It seems like T.Y.'s daughter is working
+part-time here at LeMU. I'm still not sure if
+I should tell him or...'
+
+{16:4}
+
+102 :
+After that point, all the data was corrupted,
+making it impossible to check what else had
+been written.
+
+{16:4}
+
+103 :
+In the end, they found nothing. No way out,
+no means to communicate, and no survivors.
+
+
+After searching around, Takeshi, Kaburaki, and
+Tsugumi all headed back to the examination
+room.
+
+
+104 :
+
+{C6A069}
+[Takeshi]
+Y¤u, how're they doing?
+
+
+105 :
+
+{T6B201}
+[Y¤u]
+"Ah... Yeah. It looks like they're doing okay 
+for now."
+
+Y¤u looked tired as she sat down and faced
+the pod's control panel.
+
+Her eyes were a bit red, as if she'd been
+crying.
+
+
+{T6B202}
+[Y¤u]
+"Oh yeah, Kuranari. I checked the medical 
+database on this terminal earlier, but..."
+
+
+{C6A070}
+[Takeshi]
+Yeah, did you find something?
+
+
+106 :
+
+{T6B203}
+[Y¤u]
+Yeah...
+
+
+{T6B204}
+[Y¤u]
+"It looks as if they still haven't found any 
+definite way... to treat the Tief Blau virus."
+
+
+{T6B205}
+[Y¤u]
+"Although the symptoms can be temporarily 
+treated by injecting that orange serum..."
+
+
+{T6B206}
+[Y¤u]
+"Otherwise, the only option is to hope for 
+the small chance that it will clear up by 
+itself."
+
+
+107 :
+
+{C6A071}
+[Takeshi]
+Oh...
+
+
+{C6A072}
+[Takeshi]
+That sucks...
+
+
+108 :
+
+{T6B207}
+[Kaburaki]
+Huh?
+
+
+109 :
+
+{T6B208}
+[Kaburaki]
+What do you mean?
+
+
+110 :
+
+{T6B209}
+[Y¤u]
+Um...
+
+
+111 :
+
+{T6B210}
+[Tsugumi]
+Well, basically...
+
+
+{T6B211}
+[Tsugumi]
+"If £o¢o is going to heal, her immune system 
+is going to have to work a little harder."
+
+
+{T6B212}
+[Tsugumi]
+"We've brought her to the treatment pod, so all 
+we can do now is hope."
+
+
+112 :
+
+{T6B213}
+[Y¤u]
+Yeah, that's all we can do.
+
+
+113 :
+
+{T6B214}
+[Kaburaki]
+No...
+
+
+{T6B215}
+[Kaburaki]
+£o¢o isn't going to get better?
+
+
+114 :
+
+{C6A073}
+[Takeshi]
+Nobody said that.
+
+
+115 :
+
+{C6A074}
+[Takeshi]
+"Whether she gets better or not... is up to 
+£o¢o's will to live."
+
+
+116 :
+The young Kaburaki walked over to the pod
+where £o¢o was sleeping.
+
+
+{T6B216}
+[Kaburaki]
+£o¢o...
+
+
+{T6B217}
+[Kaburaki]
+£o¢o...
+
+He started to cry, latching onto the pod as
+though he was embracing it.
+
+
+117 :
+
+{T6B218}
+[Y¤u]
+"We still don't know how much this pod is 
+going to help £o¢o."
+
+Y¤u murmured softly as she read the life
+signs on the monitor.
+
+
+{T6B219}
+[Y¤u]
+"It seems that this pod can also do laser 
+disinfecting, as well as simple surgery, in 
+addition to the oxygen treatment."
+
+
+{T6B220}
+[Y¤u]
+"And depending on how you use it, even 
+cryogenic suspension..."
+
+
+118 :
+
+{T6B221}
+[Tsugumi]
+Cryogenic suspension?
+
+
+{C6A075}
+[Takeshi]
+What's that... Y¤u?
+
+
+119 :
+
+{T6B222}
+[Y¤u]
+I'm not sure. It was just in the manual...
+
+
+{T6B223}
+[Y¤u]
+We don't really know what's going to happen.
+
+
+{T6B224}
+[Y¤u]
+All we can do is have faith and wait.
+
+[Tsugumi]
+.........
+
+[Takeshi]
+.........
+
+[Kaburaki]
+.........
+
+
+{PIPI_06}
+[Pipi]
+*Whine*...
+
+
+120 :
+Right then...
+
+
+121 :
+‡LBeeep!
+
+A sharp alarm sounded from the control panel
+monitor.
+
+Shocked, the four of them all turned to face
+the screen at once.
+
+
+122 :
+
+{T6B225}
+[Researcher]
+Aagh...!
+
+An agonized expression came over the face of
+the researcher.
+
+He thrashed and contorted inside of the
+cramped capsule.
+
+
+123 :
+
+{T6B226}
+[Y¤u]
+Aaah!
+
+
+{C6A077}
+[Takeshi]
+H-hey, man!
+
+The researcher coughed violently and clawed
+at his throat.
+
+His hand and the area around his mouth were
+stained red.
+
+
+{T6B227}
+[Researcher]
+Aaaaaaghhh...!
+
+The color quickly drained from his skin.
+
+His breathing became shallow, and he groaned
+in a low voice.
+
+
+124 :
+
+{T6B228}
+[Y¤u]
+"No! I can't believe his condition would 
+change like this!"
+
+
+{C6A079}
+[Takeshi]
+"Hey, man! Stop grabbing at your throat like 
+that! You'll crush it!"
+
+
+{C6A080}
+[Researcher]
+Gaaguh...
+
+
+{C6A081}
+[Researcher]
+*Huuugh*... *Huuugh*... *Huuugh*...
+
+He slowly lowered the hands which he been
+thrashing at his throat with.
+
+
+{C6A082}
+[Takeshi]
+Hey, man, are you alright!?
+
+
+{C6A083}
+[Researcher]
+No...
+
+
+{C6A084}
+[Researcher]
+This... is as far... as I make it.
+
+The researcher was barely breathing.
+
+He was trying to breathe.
+
+He let out a gasp...
+
+But wasn't able to bring in air.
+
+
+{C6A085}
+[Researcher]
+This... is... my... reward...
+
+
+125 :
+
+{T6B234}
+[Y¤u]
+!
+
+
+126 :
+Y¤u pored over the manual and desperately
+searched the control panel.
+
+But... there was nothing she could do. There
+was no way for her to keep him alive.
+
+She pounded on the manual.
+
+Then she placed both elbows on the panel and
+covered her face with her hands.
+
+
+{T6B235}
+[Y¤u]
+Aaah...
+
+She burst into tears.
+
+[Tsugumi]
+.........
+
+[Kaburaki]
+.........
+
+Tsugumi and Kaburaki gazed at the monitor with
+strained expressions.
+
+The researcher's vital signs were getting
+weaker.
+
+
+127 :
+
+{C6A086}
+[Researcher]
+...My daughter...
+
+
+{C6A087}
+[Researcher]
+Take care of... My daughter...
+
+He looked as though he was smiling.
+
+And...
+
+
+128 :
+Finally, he stopped breathing.
+
+Beeeeeeeeep...
+
+The life readings from the capsule pod went
+blank, and an electronic alarm sounded for what
+seemed like forever.
+
+[Takeshi]
+.........
+
+[Y¤u]
+.........
+
+[Tsugumi]
+.........
+
+[Kaburaki]
+.........
+
+[Pipi]
+.........
+
+
+129 :
+Takeshi reached out his hand to the panel and
+turned off the alarm.
+
+
+130 :
+
+{C6A088}
+[Takeshi]
+How is... £o¢o?
+
+
+{T6B238}
+[Y¤u]
+Normal...
+
+Y¤u replied in a voice filled with tears.
+
+
+{T6B239}
+[Y¤u]
+"There doesn't seem to be anything wrong for 
+the moment..."
+
+
+{C6A089}
+[Takeshi]
+Okay... Thanks.
+
+
+{C6A090}
+[Takeshi]
+"We'll have to make sure... he gets a proper 
+burial..."
+
+
+131 :
+It was an unsettling silence.
+
+In the belly of that iron hulk, they stopped
+breathing and stood still.
+
+Their expressions were lifeless.
+
+It was impossible to tell what any of them
+were thinking.
+
+The white interior of the room was filled
+with a quiet calm.
+
+Time passed slowly, cruelly, crawling forward
+second by second.
+
+
+132 :
+.........
+
+......
+
+...
+
+
+133 :
+Takeshi and Y¤u leaned against the wall of the
+corridor.
+
+
+{T6L014}
+[Y¤u]
+"I'm sure some kind of circumstances kept him 
+from escaping. And circumstances that kept him 
+alive..."
+
+Y¤u finally spoke.
+
+Her small voice bounced off of the cold iron
+walls of the partitioning.
+
+
+134 :
+
+{C6A103}
+[Takeshi]
+Circumstances?
+
+
+{T6L015}
+[Y¤u]
+"Before he died and everyone was off 
+searching... I had the chance to talk with him 
+some."
+
+
+{T6L016}
+[Y¤u]
+"I tried to get him to stop, because he 
+seemed like he was suffering, but..."
+
+
+{T6L017}
+[Y¤u]
+He said talking made him feel better, so...
+
+
+{C6A104}
+[Takeshi]
+I see... Well, what did he talk about?
+
+
+{T6L018}
+[Y¤u]
+Um...
+
+
+{T6L021}
+[Y¤u]
+"Before coming to IBF, he said that he'd been 
+involved with the project to develop LeMU's 
+system."
+
+
+{T6L022}
+[Y¤u]
+"He was one of the staff who engineered 
+LeMU's management software."
+
+
+{C6A105}
+[Takeshi]
+Meaning... that...
+
+
+{T6L023}
+[Y¤u]
+"Himmel, LeMMIH, and... Sora. Everything he 
+left behind is here in LeMU."
+
+
+{T6L024}
+[Y¤u]
+Being a programmer...
+
+
+{T6L025}
+[Y¤u]
+"The system here at LeMU was like his own 
+child."
+
+
+135 :
+
+{C6A106}
+[Takeshi]
+So... he was worried about his 'children'?
+
+
+{T6L026}
+[Y¤u]
+Yeah... That must have been it.
+
+
+{T6L027}
+[Y¤u]
+"Worrying about his children is what helped 
+him live a while longer."
+
+She closed her eyes and let out a small sigh.
+
+And as if shrugging off the heaviness of the
+moment, she bolted away from the wall and
+said...
+
+
+136 :
+
+{T6L028}
+[Y¤u]
+"Oh yeah. There was one other thing I heard 
+from him that I was able to check up on."
+
+
+137 :
+
+{C6A107}
+[Takeshi]
+What's that?
+
+
+{T6L031}
+[Y¤u]
+Sora's location...
+
+
+{T6L032}
+[Y¤u]
+"Sora is... The Sora that we know isn't in 
+Insel Null."
+
+
+{C6A108}
+[Takeshi]
+Huh?
+
+
+{T6L033}
+[Y¤u]
+"We know that LeMMIH's central processing 
+unit‡Lthe main supercomputer‡Lis on the 
+floating island..."
+
+
+{T6L034}
+[Y¤u]
+"It seems that everything that happens here 
+in LeMU is saved in LeMU's memory storage."
+
+
+138 :
+
+{C6A109}
+[Takeshi]
+What?
+
+
+{T6L036}
+[Y¤u]
+"Leiblich Pharmaceuticals keeps an original 
+system program for 'Akanegasaki Sora'."
+
+
+{T6L037}
+[Y¤u]
+"So, even if they lose the copy here at LeMU, 
+it won't hurt them at all."
+
+
+{T6L038}
+[Y¤u]
+"So basically... it's possible to make many 
+different versions of the 'Sora' system."
+
+
+{T6L039}
+[Y¤u]
+Even the Sora here might just be a copy.
+
+
+{T6L040}
+[Y¤u]
+But if you think about it...
+
+
+{T6L041}
+[Y¤u]
+Sora is Sora, right?
+
+
+{T6L042}
+[Y¤u]
+There's only one Sora that we know, right?
+
+
+{T6L043}
+[Y¤u]
+"So what's the only thing that separates the 
+Sora we know from other Soras?"
+
+
+{C6A110}
+[Takeshi]
+That would be...
+
+
+{T6L045}
+[Y¤u]
+Memory.
+
+
+{T6L046}
+[Y¤u]
+"The only thing that we and the Sora here 
+share is..."
+
+
+{T6L047}
+[Y¤u]
+Memory. That's it.
+
+Takeshi tapped repeatedly on the area between
+his eyebrows and opened his mouth.
+
+
+139 :
+
+{C6A111}
+[Takeshi]
+Really...
+
+
+{C6A112}
+[Takeshi]
+If Sora's memory is here at LeMU...
+
+
+{C6A113}
+[Takeshi]
+Then the Sora we know is...
+
+
+{C6A114}
+[Takeshi]
+Sora is... in 'Himmel'...
+
+Y¤u nodded.
+
+
+140 :
+She touched Takeshi's shoulder lightly and
+traced her finger across his chest, then went back
+into the examination room.
+
+
+141 :
+Left by himself, Takeshi started wandering
+aimlessly down the corridor.
+
+He turned right at a corner, then left,
+and continued walking with his hand on the wall.
+
+He ended up in front of IBF's large pool.
+
+
+142 :
+There was already someone there.
+
+Tsugumi was looking at the gentle ripples in
+the pool.
+
+As if she had drawn him there, Takeshi went
+to stand by Tsugumi.
+
+
+143 :
+
+{C6A127}
+[Takeshi]
+Huh...?
+
+Takeshi stopped suddenly.
+
+He turned around and stared at a spot on the
+wall.
+
+
+144 :
+
+{T6T040}
+[Tsugumi]
+Hm? Takeshi... What's wrong?
+
+Tsugumi noticed Takeshi...
+
+
+145 :
+Following Takeshi's gaze, she turned her eyes
+to stare over at the same spot on the wall.
+
+There was nothing there.
+
+Wait...
+
+No, that wasn't true.
+
+Both of their lines of sight were pointed
+at‡L'me'.
+
+Takeshi and Tsugumi were looking at‡L'me'
+right then.
+
+
+146 :
+
+{C6A128}
+[Takeshi]
+Uh...
+
+
+{C6A129}
+[Takeshi]
+I'm not really sure, but...
+
+
+{C6A130}
+[Takeshi]
+"I felt like somebody was... you know, staring 
+at me..."
+
+Takeshi turned back and said that to Tsugumi.
+
+
+147 :
+[Tsugumi]
+?
+
+Tsugumi tilted her head quizzically.
+
+And with her head turned to the side, she
+narrowed her eyes and searched Takeshi's face.
+
+
+148 :
+
+{T6T041}
+[Tsugumi]
+Takeshi...?
+
+
+{T6T042}
+[Tsugumi]
+Your... nose is bleeding...
+
+
+{C6A131}
+[Takeshi]
+?
+
+
+{T6T043}
+[Tsugumi]
+You've got a nosebleed.
+
+
+149 :
+
+{C6A132}
+[Takeshi]
+Eh?
+
+Takeshi quickly put his hand to his nose.
+
+His upper lip was wet with something.
+
+
+150 :
+
+{T6T044}
+[Tsugumi]
+He-hey? Are you okay?
+
+Tsugumi looked worriedly at Takeshi's face.
+
+
+151 :
+
+{C6A133}
+[Takeshi]
+I-it's fine, it's fine...
+
+Takeshi looked up and wiped under my nose
+as he replied.
+
+
+152 :
+
+{C6A134}
+[Takeshi]
+"I wasn't thinking anything sexual! 
+Absolutely! Positively!"
+
+
+153 :
+
+{T6T045}
+[Tsugumi]
+I-it's not like I... I don't care about that!
+
+
+154 :
+
+{C6A135}
+[Takeshi]
+Well, alright then...
+
+His nose wouldn't stop bleeding.
+
+
+{C6A136}
+[Takeshi]
+Aaah, I look like such a dork.
+
+
+{T6T046}
+[Tsugumi]
+Who cares what you look like?
+
+
+155 :
+
+{C6A137}
+[Takeshi]
+"I care. Looking like this in front of you, 
+I... uugh..."
+
+
+{C6A138}
+[Takeshi]
+Aaaaagh...
+
+
+156 :
+
+{C6A139}
+[Takeshi]
+Uuurgh!
+
+
+157 :
+Takeshi spat out blood.
+
+Copious amounts of fresh blood poured from
+his nose and mouth.
+
+Simultaneously, his knees buckled.
+
+
+158 :
+
+{C6A140}
+[Takeshi]
+H-huh...? Wh-what's wrong... with... me...
+
+Takeshi looked at his blood-covered hands and
+blinked.
+
+His legs swayed unsteadily, and the color
+quickly drained from his face.
+
+
+{C6A141}
+[Takeshi]
+Wh-what this... about...
+
+
+{C6A142}
+[Takeshi]
+...Blood... Blood... Blood is...
+
+
+159 :
+
+{T6T050}
+[Tsugumi]
+Takeshi!
+
+
+{T6T051}
+[Tsugumi]
+Takeshi, hang in there!
+
+
+160 :
+
+{C6A143}
+[Takeshi]
+N-no, I'm fine. Don't worry, Tsugumi...
+
+
+161 :
+
+{C6A144}
+[Takeshi]
+Don't... worry...
+
+
+162 :
+
+{T6T053}
+[Tsugumi]
+You're not fine at all!
+
+
+{T6T054}
+[Tsugumi]
+You're bleeding all over, Takeshi!
+
+
+{T6T055}
+[Tsugumi]
+"We need to get you to the examination room 
+and get you looked at right away."
+
+
+{C6A145}
+[Takeshi]
+Y-yeah... *Cough*...
+
+
+163 :
+Tsugumi supported Takeshi with her shoulder
+and pulled him along into the entrance of the
+corridor.
+
+From the entrance, a single shadow jumped out.
+
+
+It was Yubiseiharukana.
+
+
+164 :
+
+{T6T056}
+[Y¤u]
+"Tsugumi, Kuranari! The Kid! The Kid's in bad 
+shape!"
+
+
+165 :
+After that...
+
+Using the L-MRI, they found out that Takeshi,
+Y¤u, and the young Kaburaki were all infected
+with the Tief Blau virus.
+
+Using the orange serum, the three of them
+were given shots...
+
+After that, their symptoms improved a bit, but
+the severity of the situation had still not
+changed.
+
+
+166 :
+
+{C6A171}
+[Takeshi]
+What do we do about £o¢o?
+
+Takeshi asked this as he pressed down on the
+disinfectant-stained gauze covering his injection.
+
+
+{T6T086}
+[Tsugumi]
+"She's still undergoing the oxygen treatment. 
+So we can't open the pod."
+
+
+{T6T087}
+[Tsugumi]
+"It looks like the treatment is progressing 
+normally. As long as she's in there, I don't 
+think her condition will get much worse..."
+
+
+{T6T088}
+[Tsugumi]
+"As soon as it's done, let's give £o¢o a 
+shot too."
+
+
+167 :
+
+{C6A172}
+[Takeshi]
+Yeah, okay...
+
+Takeshi's face was still pale.
+
+It was hard to believe that it had ever been
+the color of a living person.
+
+
+168 :
+His pupils were cloudy, his eyelids swollen,
+and sweat flowed freely down his face.
+
+Wiping away that sweat, Takeshi wandered around
+the room.
+
+
+169 :
+
+{C6A186}
+[Takeshi]
+"I'm not sure how long our condition will 
+hold with just one shot..."
+
+
+{C6A187}
+[Takeshi]
+"Hey, Y¤u? Do you think we can do anything 
+after it stops working?"
+
+Y¤u was sitting at the computer terminal,
+silently typing on the keyboard.
+
+
+170 :
+
+{C6A188}
+[Takeshi]
+Y¤u, tell me what we can expect?
+
+
+171 :
+
+{T6T108}
+[Y¤u]
+Don't talk to me, I can't concentrate.
+
+
+{C6A189}
+[Takeshi]
+Alright, alright.
+
+
+172 :
+
+{T6T109}
+[Y¤u]
+I'm trying my best...
+
+
+173 :
+
+{T6T110}
+[Y¤u]
+"But someone has put a lock on the 
+communications protocol, and we can't make 
+contact with the surface."
+
+
+{T6T111}
+[Y¤u]
+"But every once in a while, I've found some 
+communication data that crosses through."
+
+
+{T6T112}
+[Y¤u]
+"If I can release that lock, or... Well, 
+anyway, we just might be able to get through 
+somehow."
+
+
+{T6T113}
+[Y¤u]
+"At least it's better than LeMU, where we 
+had no way of making contact."
+
+
+174 :
+
+{C6A190}
+[Takeshi]
+Alright, show me what you got, genius!
+
+
+175 :
+
+{T6T114}
+[Y¤u]
+Okay...
+
+And looking like the dead, they both smiled
+weakly at one another.
+
+Brownish bloodstains were smeared on their
+mouths.
+
+
+176 :
+Takeshi left Y¤u to go look at the monitor
+set into the column.
+
+The monitor displayed the status of the
+capsule pods.
+
+
+177 :
+
+{T6T115}
+[Tsugumi]
+How is £o¢o doing?
+
+Tsugumi came up beside Takeshi and asked.
+
+
+{C6A191}
+[Takeshi]
+She's in 'serious but stable' condition.
+
+
+{T6T116}
+[Tsugumi]
+Really...
+
+According to the information on the monitor,
+£o¢o still had four more hours until she
+could come out...
+
+The pod was filled with high-pressure oxygen.
+
+And until the time was over, £o¢o couldn't
+leave.
+
+
+178 :
+
+{C6A192}
+[Tsugumi]
+Hey? Takeshi...
+
+Tsugumi whispered to Takeshi softly.
+
+
+{C6A193}
+[Takeshi]
+What?
+
+
+{C6A194}
+[Tsugumi]
+"Don't you think it's strange that I don't 
+need any serum?"
+
+
+{C6A195}
+[Takeshi]
+"Huh? A-ah... Well, now that you mention 
+it... yeah..."
+
+
+{C6A196}
+[Takeshi]
+Are you okay?
+
+
+179 :
+
+{C6A197}
+[Tsugumi]
+Yeah, I'm fine.
+
+
+{C6A198}
+[Tsugumi]
+Fine...
+
+
+180 :
+
+{C6A199}
+[Takeshi]
+Oh? Well, that's a relief...
+
+
+{C6A200}
+[Tsugumi]
+But you don't think it's strange?
+
+
+{C6A201}
+[Tsugumi]
+"I'm the only one who doesn't show any 
+symptoms of the Tief Blau virus."
+
+
+{C6A202}
+[Tsugumi]
+Isn't that odd...?
+
+
+{C6A203}
+[Takeshi]
+Well... No, I mean...
+
+Takeshi smiled softly and continued.
+
+
+181 :
+
+{C6A204}
+[Takeshi]
+You said it yourself...
+
+
+{C6A205}
+[Takeshi]
+"'The functioning of your immune system and 
+metabolic efficiency are remarkable... and 
+your telomeres... never stop regenerating.'"
+
+
+{C6A206}
+[Takeshi]
+Meaning...
+
+
+{C6A207}
+[Takeshi]
+...It's... Well, you know?
+
+
+{C6A208}
+[Tsugumi]
+Y-yeah...
+
+She looked down slightly and puffed out her
+cheeks.
+
+She raised her eyes...
+
+
+182 :
+Tsugumi walked over to Y¤u and murmured...
+
+
+183 :
+
+{C6A209}
+[Tsugumi]
+Y¤u... would you scan me?
+
+
+{C6A210}
+[Tsugumi]
+Would you... check me?
+
+
+184 :
+'Curé Virus-P-Carrier'
+
+Those words appeared on the L-MRI display
+without a sound.
+
+The screen showed that Tsugumi was a Curé
+virus carrier.
+
+
+185 :
+The Tief Blau virus was also in Tsugumi's
+body, as with the others.
+
+But her genetic makeup had been altered by
+Curé...
+
+And because of the peculiar functioning of her
+immune system, antibodies had been generated
+instantly, driving out Tief Blau.
+
+Curé...
+
+Tsugumi had gone beyond the normal human
+capability...
+
+She had mentioned that she was 'special'.
+
+Successful cases of genetic manipulation were
+probably exceedingly rare.
+
+
+186 :
+
+{C6A211}
+[Y¤u]
+Curé...
+
+Looking at the results from the L-MRI scan,
+Y¤u nodded.
+
+
+{C6A212}
+[Y¤u]
+So... the Curé virus really does exist.
+
+
+187 :
+
+{C6A213}
+[Takeshi]
+Do you know about it, Y¤u?
+
+
+188 :
+
+{C6A214}
+[Y¤u]
+I found it in LeMU's database...
+
+
+{C6A215}
+[Y¤u]
+"But before that, I'd heard about it 
+once... from a certain person."
+
+
+{C6A216}
+[Takeshi]
+A certain person...?
+
+
+{C6A217}
+[Y¤u]
+Someone called Morino Shigezo.
+
+
+{C6A218}
+[Y¤u]
+He's a world-renowned geneticist...
+
+
+{C6A219}
+[Y¤u]
+He told me about it when I met him.
+
+
+{C6A220}
+[Y¤u]
+"'In this world there are probably at least 
+two or more types of the Curé virus...'"
+
+
+{C6A221}
+[Y¤u]
+So this must be one of them...
+
+
+189 :
+
+{C6A222}
+[Tsugumi]
+Yes. Me.
+
+
+{C6A223}
+[Tsugumi]
+I'm a carrier of the Curé virus.
+
+
+{C6A225}
+[Tsugumi]
+I'm already not like other people.
+
+
+190 :
+
+{C6A226}
+[Y¤u]
+But...
+
+
+{C6A227}
+[Y¤u]
+Tsugumi, why would you...?
+
+
+191 :
+
+{C6A228}
+[Tsugumi]
+"I already told Takeshi, but... I also want 
+you to know, Y¤u..."
+
+
+{C6A229}
+[Tsugumi]
+"Besides, it's easier to have the machine 
+show you than to explain it myself, right?"
+
+
+{C6A230}
+[Y¤u]
+That's why... you wanted me to scan you?
+
+
+{C6A231}
+[Tsugumi]
+Yeah.
+
+
+{C6A232}
+[Tsugumi]
+Well, I don't suppose...
+
+
+192 :
+
+{C6A233}
+[Tsugumi]
+"Anything changes now that you've found 
+out...?"
+
+Tsugumi laughed at herself derisively.
+
+
+193 :
+
+{C6A234}
+[Takeshi]
+Tsugumi...
+
+
+{C6A235}
+[Tsugumi]
+Heh heh... It's strange, Takeshi.
+
+Biting her lip, Tsugumi was trying her best to
+laugh.
+
+
+{C6A236}
+[Tsugumi]
+"But there's something even stranger than 
+me..."
+
+
+{C6A237}
+[Tsugumi]
+"This machine knew right away that I had the 
+Curé virus... Why do you think?"
+
+
+{C6A238}
+[Tsugumi]
+"There have only been a few documented cases 
+of Curé in the whole world. Why do you think 
+this computer could scan it so quickly?"
+
+Takeshi's pupils dilated momentarily
+
+He squinted and replied slowly.
+
+
+194 :
+
+{C6A239}
+[Takeshi]
+Oh, so that's it...
+
+
+{C6A240}
+[Takeshi]
+"Leiblich Pharmaceuticals already knew about 
+the existence of the Curé virus..."
+
+
+{C6A241}
+[Takeshi]
+Just like Tief Blau...
+
+
+{C6A242}
+[Tsugumi]
+Yep.
+
+Tsugumi turned up to face the ceiling and
+closed her eyes, saying...
+
+
+195 :
+
+{C6A243}
+[Tsugumi]
+That's why... I came here. To LeMU. To IBF.
+
+
+{C6A244}
+[Tsugumi]
+I HAD to come here.
+
+
+{C6A245}
+[Tsugumi]
+"I wanted them to know the true gravity 
+of... the seriousness of my existence..."
+
+
+{C6A246}
+[Tsugumi]
+But...
+
+
+{C6A247}
+[Tsugumi]
+I've come all this way, and nobody's here.
+
+
+{C6A248}
+[Tsugumi]
+So stupid...
+
+
+{C6A249}
+[Tsugumi]
+I'm so stupid...
+
+From her closed eyes, a single tear fell.
+
+
+196 :
+.........
+
+......
+
+...
+
+
+197 :
+It suddenly became dark‡L
+
+From the darkness, I could hear only voices...
+
+
+{C6A250}
+[Tsugumi]
+Hey, Takeshi?
+
+
+{C6A251}
+[Tsugumi]
+Have you ever hated everything...
+
+
+{C6A252}
+[Tsugumi]
+And thought that you want to die?
+
+
+{C6A253}
+[Takeshi]
+No.
+
+Where was this?‡L'I' wondered.
+
+Was I inside someone...?
+
+I couldn't see anything.
+
+All I could hear were voices coming from
+somewhere.
+
+Passionate voices...
+
+An agonizing scream...
+
+
+{C6A260}
+[Takeshi]
+"We aren't going to die! We're going to make 
+it out of here!"
+
+
+{C6A259}
+[Takeshi]
+We don't have any time to waste here!
+
+
+{C6A261}
+[Takeshi]
+"I'm going to get out of this hell! I can 
+save you, I'll prove it!"
+
+
+{C6A262}
+[Takeshi]
+"Everyone! I'm going to save everyone who's 
+here!"
+
+
+{C6A263}
+[Takeshi]
+I won't let a single one die!
+
+The voice cut out suddenly.
+
+And the darkness cleared like a fog.
+
+My vision returned gradually...
+
+
+198 :
+The scene spread out gradually before me...
+
+But 'I' had still lost my center...
+
+Other than a sense of impending disaster and
+the stagnant, heavy air around me, I could
+feel nothing else.
+
+Look.
+
+Stare intently.
+
+'Why do you even bother looking?'‡Lwas a
+doubt that crept through my mind, but it
+faded quickly.
+
+All I COULD do was to watch the events in
+the world as they passed by...
+
+I watched.
+
+I was an existence that could only watch.
+
+A perspective was all I was.
+
+
+199 :
+
+{C6A264}
+[Takeshi]
+It's time for desperate measures.
+
+Takeshi said that suddenly.
+
+His eyes shone with a dull light.
+
+It seemed that the serum was losing its
+effect. Although Takeshi, Y¤u, and the young
+Kaburaki seemed to be maintaining their
+composure...
+
+Their breathing was ragged.
+
+
+200 :
+
+{C6A265}
+[Takeshi]
+"Well, I'm not a doctor, so I can't really 
+tell, but..."
+
+
+{C6A266}
+[Takeshi]
+Smallpox, penicillin, snake antivenom...
+
+
+201 :
+
+{C6A267}
+[Takeshi]
+"You're pretty smart, so this should make sense 
+to you, right?"
+
+
+202 :
+
+{T6T170}
+[Tsugumi]
+N-no way.
+
+
+{C6A268}
+[Takeshi]
+It's our only chance.
+
+
+{C6A269}
+[Takeshi]
+"Your body is creating antibodies to the 
+Tief Blau virus, so we'll use that."
+
+
+{C6A270}
+[Takeshi]
+"If we can get those antibodies, there's a 
+small chance we can fight off the Tief Blau."
+
+
+203 :
+
+{T6T171}
+[Tsugumi]
+It's too dangerous!
+
+
+{T6T172}
+[Tsugumi]
+"Do you have any idea how hard it is to 
+make antibodies and vaccines that work!?"
+
+
+{T6T173}
+[Tsugumi]
+There's almost no chance!
+
+
+{T6T174}
+[Tsugumi]
+"If you make even the slightest mistake, it 
+could kill all of you!"
+
+
+204 :
+
+{C6A271}
+[Takeshi]
+If we don't do anything, we're dead anyway!
+
+
+205 :
+Tsugumi's expression froze.
+
+[Y¤u]
+.........
+
+[Kaburaki]
+.........
+
+
+206 :
+Y¤u and the young Kaburaki, who had been staring
+at the ground the whole time, raised their heads and
+looked at Takeshi.
+
+207 :
+
+{C6A272}
+[Takeshi]
+"That's right... If we don't do anything, we're 
+dead."
+
+
+{C6A273}
+[Takeshi]
+And if that's the case...
+
+
+{C6A274}
+[Takeshi]
+"It's better that we take this risk, no 
+matter how small our chance of survival."
+
+
+{C6A275}
+[Takeshi]
+...Uuh... *cough*...
+
+
+208 :
+Fresh blood flew from Takeshi's mouth.
+
+A crimson mist danced in the air and floated
+away.
+
+
+209 :
+
+{C6A276}
+[Takeshi]
+Damn, not again...
+
+
+{C6A277}
+[Takeshi]
+I can't believe how lame this is...
+
+Takeshi hurriedly wiped his mouth.
+
+
+210 :
+
+{C6A278}
+[Takeshi]
+"What? You aren't going to laugh at me 
+for being such a dork, Tsugumi?"
+
+[Tsugumi]
+.........
+
+
+{C6A279}
+[Takeshi]
+Come on, laugh, Tsugumi.
+
+Takeshi held out his blood-covered hand toward
+Tsugumi.
+
+
+{T6T176}
+[Tsugumi]
+Stop it. Stay away from me...
+
+
+{T6T177}
+[Tsugumi]
+Stop... I don't want to...
+
+Shaking her head fiercely, Tsugumi backed away.
+
+
+211 :
+
+{T6T178}
+[Y¤u]
+Ku-Kuranari...
+
+
+{T6T179}
+[Y¤u]
+Listen, Kuranari, Tsugumi...
+
+Y¤u opened her mouth to talk from where she
+was seated at the terminal.
+
+
+{T6T180}
+[Y¤u]
+"There's a simple lab in the back of the 
+examination room."
+
+
+{T6T181}
+[Y¤u]
+"I saw a centrifuge and a machine for refining 
+serum..."
+
+
+{T6T182}
+[Y¤u]
+"We could probably use that to safely and 
+quickly extract the Tief Blau antibodies."
+
+
+{T6T183}
+[Y¤u]
+"If this thing can scan for Tief Blau, it can 
+probably scan for the antibodies and extract 
+them."
+
+She continued to talk in a low, calm voice.
+
+
+212 :
+
+{C6A281}
+[Takeshi]
+Tsugumi, please help us. I'm asking you.
+
+
+{T6T184}
+[Tsugumi]
+Stay away from me, Takeshi...
+
+
+{T6T185}
+[Tsugumi]
+Don't touch me...
+
+
+213 :
+Takeshi had backed her up all the way to the
+bed.
+
+
+214 :
+
+{T6T186}
+[Tsugumi]
+You want to live with this disease!?
+
+
+{T6T187}
+[Tsugumi]
+"Once you've got the Curé virus, you can't go 
+back!"
+
+
+{T6T188}
+[Tsugumi]
+Do you have any idea what you're in for!?
+
+
+215 :
+
+{C6A282}
+[Takeshi]
+"But we don't know that the Curé virus will 
+infect everyone."
+
+
+{C6A283}
+[Takeshi]
+Even you, you said you were special, right?
+
+
+216 :
+
+{C6A284}
+[Takeshi]
+Please... I'm begging you.
+
+
+{C6A285}
+[Takeshi]
+"Let me take a gamble... so that everyone can 
+live."
+
+
+217 :
+
+{T6T189}
+[Tsugumi]
+You won't be able to stay with people anymore!
+
+
+{T6T190}
+[Tsugumi]
+"I don't want everyone to live with the pain 
+that I have!"
+
+
+218 :
+
+{C6A288}
+[Takeshi]
+I know that.
+
+
+{T6T201}
+[Tsugumi]
+Aaaggh...
+
+
+{T6T202}
+[Tsugumi]
+You idiot... You idiot...
+
+
+219 :
+
+{T6T197}
+[Tsugumi]
+You know I can't fight you...!
+
+
+220 :
+Tsugumi ran into Takeshi's arms.
+
+She nestled up close and began to cry with
+all her might.
+
+
+{T6T203}
+[Tsugumi]
+"If you mess this up... I'll never forgive 
+you, Takeshi..."
+
+
+{C6A291}
+[Takeshi]
+It's okay... It's going to be okay...
+
+
+{C6A292}
+[Takeshi]
+"I promise you... we're all going to get out 
+of this... okay?"
+
+
+{T6T204}
+[Tsugumi]
+Aaaagh... Uuuugh...
+
+
+{T6T205}
+[Tsugumi]
+Waaaaaaah...!
+
+Tsugumi was crying.
+
+Her breathing uneven and shoulders shaking,
+Tsugumi wept freely on Takeshi's chest.
+
+Takeshi embraced her thin body.
+
+Her muffled cries continued to echo
+throughout the cold room.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

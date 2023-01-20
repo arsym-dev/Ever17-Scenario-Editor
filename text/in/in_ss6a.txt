@@ -1,0 +1,2048 @@
+
+
+1 :
+I heard a song coming from somewhere...
+
+It was a soft but somehow lonely voice
+singing.
+
+
+2 :
+{1}
+
+{S6A000}
+{16:0x}Moon sprite shouldering a long bow.{16:1}
+
+
+
+{S6A001}
+{16:0x}Waiting inside a dream.{16:1}
+
+
+
+{S6A002}
+{16:0x}Tonight, a story by moonlight.{16:1}
+
+
+
+{S6A009}
+{16:0x}Hoping the wait will be short.{16:1}
+
+
+
+{S6A004}
+{16:0x}Sleeping curled and snug.{16:1}
+
+
+
+{S6A005}
+{16:0x}Sleeping in mother's arms.{16:1}
+
+{16:4}
+
+3 :
+{1}
+
+{S6A006}
+{16:0x}Water sprite lifting a pair of paddles.{16:1}
+
+
+
+{S6A007}
+{16:0x}Waiting inside a dream.{16:1}
+
+
+
+{S6A008}
+{16:0x}Tonight, the whirlpool demon,{1}
+waiting for a boat.{16:1}
+
+
+
+{S6A009}
+{16:0x}Hoping the wait will be short.{16:1}
+
+
+
+{S6A010}
+{16:0x}Rock, rock, rocked to sleep.{16:1}
+
+
+
+{S6A011}
+{16:0x}Sleeping, sleeping, held by the ocean.{16:1}
+
+{16:4}
+
+4 :
+I awoke with a nostalgic feeling.
+
+I found myself on a narrow bed in the
+infirmary.
+
+Looking up at the white ceiling, I gently
+nodded off.
+
+My memories slowly came back to me.
+
+Flooding at the Cosmic Whale and saving Sara.
+
+Sara coming back to life...
+
+My fever worsening, and then me collapsing.
+
+
+I looked over at the bed next to mine.
+
+[Kid]
+Sara...
+
+Sara was asleep on the bed next to me.
+
+Her breathing was regular, and her cheeks
+flushed a healthy pink.
+
+Feeling a bit relieved, I let myself half-doze.
+
+From far away, I could hear faint voices.
+
+They seemed to come from an incredible
+distance and were all jumbled together,
+but they sounded like Tsugumi and Takeshi.
+
+Their voices echoed slightly.
+
+The words were too faint for me to make out
+what they were saying.
+
+They were talking about Hammel or Harmeln
+something. Words that I thought I'd heard
+before, but the sounds quickly became
+meaninglessly garbled in my mind.
+
+After a while, the voices stopped.
+
+Out of habit, I touched my pinky to the thumb
+of my left hand.
+
+It felt a bit strange.
+
+I lifted my left hand and stared at the thumb.
+
+Something was strange, out of place.
+
+
+5 :
+The blurriness of my vision suddenly came into
+focus.
+
+The scar was gone!
+
+Why? How could it be gone?
+
+I hurriedly sat up.
+
+I stared at my left hand again.
+
+The scar was nowhere to be found.
+
+I was sure there had been a scar there.
+
+I remembered noticing it when I had opened the
+elevator to rescue Sara.
+
+Had it just been a figment of my imagination?
+
+No... I was sure it hadn't been. I was positive
+there had been a scar.
+
+But... why had the scar suddenly vanished?
+
+A sense of loss flooded through me, making me
+feel like I had a gaping hole in my heart.
+
+I sensed that I had lost something critically
+important, but I was unsure of what.
+
+That was how I felt.
+
+[Kid]
+Sora! Sora!
+
+Forgetting that Sara was sleeping, I shouted
+out for Sora.
+
+
+{S6A012}
+[Sora]
+Yes, Kid-san. What is it?
+
+Sora's voice answered me.
+
+[Kid]
+Sora... Did you do something to me?
+
+
+{S6A013}
+[Sora]
+Something...? What do you mean?
+
+[Kid]
+"Don't pretend you don't know! There was... 
+a scar on my left hand!"
+
+[Kid]
+But... it's gone now!
+
+
+6 :
+
+{S6A014}
+[Sora]
+Oh, so that is what you mean.
+
+Sora appeared in the entrance to the room.
+
+[Kid]
+What are you talking about?
+
+
+7 :
+
+{S6A015}
+[Sora]
+While you were sleeping, I extracted it.
+
+[Kid]
+Extracted what?
+
+
+{S6A016}
+[Sora]
+Perhaps you should come over here.
+
+
+8 :
+I approached the examination table as Sora
+suggested.
+
+
+9 :
+
+{S6A017}
+[Sora]
+This.
+
+Sora pointed to a small shard suspended by a
+manipulator arm above the examination table.
+
+
+{S6A018}
+[Sora]
+"This was embedded in your thumb, so 
+I extracted it."
+
+[Kid]
+What... gave you the right to do that?
+
+[Kid]
+It could have been a clue leading to my past!
+
+I let loose on Sora without thinking.
+
+
+10 :
+
+{S6A019}
+[Sora]
+Yes, you are exactly right.
+
+
+11 :
+
+{S6A020}
+[Sora]
+"However, no good can come of leaving a 
+foreign object in your body to fester."
+
+
+12 :
+
+{S6A021}
+[Sora]
+More importantly...
+
+
+{S6A022}
+[Sora]
+"Kid, do you recall seeing this fragment 
+before?"
+
+[Kid]
+No! How could I?
+
+It didn't make sense to me why Sora would
+ask such a thing.
+
+
+{S6A023}
+[Sora]
+This fragment has an image recorded on it.
+
+Sora continued speaking calmly.
+
+[Kid]
+An image?
+
+
+{S6A024}
+[Sora]
+Would you like to see it?
+
+I pinched the shard that had been buried in my
+thumb between my fingers.
+
+[Kid]
+Th-this...?
+
+
+13 :
+It had the same holographic image as in Sara's
+pendant.
+
+There was an image of a man floating there.
+
+
+{S6A025}
+[Sora]
+Can you see it?
+
+[Kid]
+Yeah, I can see it...
+
+
+{S6A026}
+[Sora]
+"This hologram was designed so that it can 
+only be seen when viewed with light of a 
+certain wavelength."
+
+
+{S6A027}
+[Sora]
+"Right now, I am using LeMMIH to shine the 
+proper light on it."
+
+
+{S6A028}
+[Sora]
+"I could not confirm the date of manufacture 
+of this hologram, but it is undoubtedly very 
+old."
+
+
+{S6A029}
+[Sora]
+"Its makeup is fundamentally different from 
+the ones being sold at LeMU's kiosks."
+
+
+{S6A030}
+[Sora]
+"In the past, holograms were recorded using an 
+interference pattern made from an object beam 
+and a reference beam."
+
+
+{S6A031}
+[Sora]
+"Put simply, the object beam is the light 
+reflected off of the object."
+
+
+{S6A032}
+[Sora]
+"The reference beam is the light that 
+interferes with the object beam. 
+Do you understand?"
+
+Sora continued on without giving me time
+to think.
+
+
+{S6A033}
+[Sora]
+And now comes the important part...
+
+
+{S6A034}
+[Sora]
+In order to make this hologram appear...
+
+
+{S6A035}
+[Sora]
+"Light which is the same wavelength as the 
+reference beam used to record the image 
+must be shined upon it."
+
+
+{S6A036}
+[Sora]
+So, to sum up, it is like this...
+
+
+{S6A037}
+[Sora]
+"The image on this fragmented hologram was 
+recorded using light that was a certain 
+wavelength."
+
+
+{S6A038}
+[Sora]
+"And in order to see the image, you must shine 
+light of the same wavelength on it."
+
+
+{S6A039}
+[Sora]
+"It also cannot be seen under fluorescent 
+light."
+
+
+{S6A040}
+[Sora]
+"You must use light generated by 
+a heat-emitting light source, such as sunlight 
+or the flame of a lighter."
+
+
+{S6A041}
+[Sora]
+And...
+
+
+14 :
+Sora continued her explanation.
+
+She said the special wavelength of light was
+infrared and around 850 nanometers.
+
+And that ordinary people couldn't see infrared
+light.
+
+She went on to say that if a person was able
+to see infrared, they would even be able to see
+in the dark.
+
+But that they could only see objects that
+emitted heat.
+
+Put another way, objects that gave off heat
+also emitted infrared rays.
+
+And if you could see infrared rays, then you
+could tell the temperature of something
+without having to touch it...
+
+
+15 :
+
+{S6A042}
+[Sora]
+"You would not be able to see this image 
+unless you can see infrared light."
+
+
+{S6A043}
+[Sora]
+"The fact that you can see this image means 
+that you can see infrared light, Kid-san."
+
+[Kid]
+"But... what about Sara? Does that mean that 
+Sara can too?"
+
+
+16 :
+
+{S6A044}
+[Sora]
+"Yes. Both of you have a very unique ability 
+to see infrared light."
+
+Thinking back on it, that probably explained
+why Takeshi and Y工 couldn't see the image in
+the pendant.
+
+[Kid]
+But... why was this hologram in my finger...?
+
+I trembled as I said that.
+
+[Kid]
+It's the same image as in Sara's pendant...
+
+[Kid]
+"Are you saying that the missing piece of that 
+pendant has been in my thumb?"
+
+
+17 :
+
+{S6A045}
+[Sora]
+That is the only conceivable explanation.
+
+
+{S6A046}
+[Sora]
+"The surface and shape of the fragment match 
+the pendant perfectly."
+
+[Kid]
+But... why...?
+
+
+18 :
+
+{S6A047}
+[Sora]
+That... Kid-san...
+
+
+19 :
+
+{S6A048}
+[Sora]
+Is because you and Matsunaga-san are siblings.
+
+[Kid]
+What? It can't be!
+
+
+20 :
+
+{S6A049}
+[Sora]
+"It is the same reason that you both have the 
+ability to see infrared light."
+
+
+{S6A050}
+[Sora]
+"It is probably because you both carry the 
+same genes."
+
+[Kid]
+No...
+
+[Kid]
+No... No... No...
+
+
+21 :
+
+{S6A051}
+[Sora]
+Kid-san. Why wouldn't that make you happy?
+
+
+22 :
+
+{S6A052}
+[Sora]
+You have found a blood relative.
+
+
+{S6A053}
+[Sora]
+"Is there any better way possible to recover 
+your memory?"
+
+[Kid]
+No... No...
+
+I held my head and crouched down.
+
+
+23 :
+
+{S6A054}
+[Sora]
+"In either case, it is a fact and you should 
+accept it."
+
+
+{S6A055}
+[Sora]
+"While you two were asleep, I performed a DNA 
+analysis on both of you."
+
+
+{S6A056}
+[Sora]
+The results are indicated on the display.
+
+
+{S6A057}
+[Sora]
+"The probability that you are brother and 
+sister is... nearly 100%."
+
+[Kid]
+"No... No... No... No... No... No... 
+No... No... No... No... No... No...!"
+
+
+24 :
+Suddenly, the wall to my memory that I had
+tried so hard to destroy, but I had been
+unable to breach, crumbled.
+
+Like a dam that was holding back the overflow
+of my memory, it burst, unleashing a torrent
+of images that flooded into my mind.
+
+[Kid]
+Uggghhh...
+
+Memories of my life, in no apparent order,
+flashed across my mind like random slides
+appearing on a screen.
+
+From one to the next, they floated up and
+vanished.
+
+My mind couldn't handle the flood of memories.
+
+
+25 :
+And then came the darkness...
+
+I heard a lullaby coming from somewhere...
+
+
+26 :
+I groggily opened my eyes.
+
+I was lying on a hard bed.
+
+
+27 :
+I heard a voice crying from outside.
+
+
+28 :
+There was a girl surrounded by a group of
+bullies in an open space.
+
+It was Sara.
+
+The kids were being cruel, jeering at her and
+making fun of her in only the way that kids
+could.
+
+I ran up to Sara.
+
+
+29 :
+The bullies scattered like baby spiders
+in the wind.
+
+Sara said that her precious pendant
+had been broken.
+
+Sara clutched the pendant firmly in her hand.
+
+
+I bent over to pick up the fragment from it.
+
+
+30 :
+I felt a sudden shock from behind.
+
+I was plunged forward.
+
+With a sharp pain, the shard was buried in my
+thumb.
+
+
+31 :
+The kids that always bullied Sara had
+encircled us.
+
+The laughter and howls of our tormentors
+echoed around us.
+
+[Kid]
+You bullies! How could you do this to Sara!?
+
+Forgetting myself, I lunged at the mob of kids.
+
+
+32 :
+They beat me mercilessly, and as I lay on the
+ground in that open space, I faced skyward.
+
+Satisfied with what they had done to me, the
+bullies had left.
+
+Sara came and held out her hands to me.
+
+
+{S6A062}
+[Sara]
+You're so brave, onii-chan.
+
+She smiled as she said it.
+
+
+33 :
+
+{1}{1}{1}{1}
+
+
+{16:0x}Even though I lost.{16:1}
+
+{16:4}
+
+
+34 :
+Blood continued to drip from my finger.
+
+Not wanting to worry Sara, I pretended that
+everything was fine and dismissed it as
+nothing.
+
+I didn't say anything to our teacher.
+
+I didn't go to the doctor. I just silently
+endured the pain.
+
+It seemed to me that to tell someone of it
+would that mean I had lost.
+
+In time, the wound closed up...
+
+One day, a nice lady in a suit came.
+
+
+She told us there was a place we could go
+where things would be better.
+
+
+Saying that, the lady held out her hand.
+
+We could see things that other people
+couldn't.
+
+At first, we thought our abilities were normal,
+but everyone had shunned us.
+
+The lady said she wanted to study us.
+
+I decided to go along with the idea.
+
+Our caretakers at the orphanage we lived in
+were happy to see us leave because they thought
+we were troublemakers.
+
+We fell right into their trap.
+
+
+35 :
+They locked us in a small hospital room.
+
+Day in and day out, we were marched from that
+room to the research institute.
+
+At night, moonlight would stream in from the
+lone window.
+
+The only things I remembered were the Leiblich
+logos on the doors we passed every day.
+
+And the white frocks of the research employees.
+
+And every night, the voice of Sara crying in
+the room next to me...
+
+
+36 :
+One day, there was something in the air that
+was different from other days.
+
+We were taken from our rooms and led to a
+research office in a different area.
+
+People who I'd never seen before took me away.
+
+
+37 :
+Sara alone was left there.
+
+
+{S6A063}
+[Sara]
+Onii-chan!
+
+I could hear Sara's screams.
+
+I shook off the adult hands and ran to where
+Sara was.
+
+The researchers tried to block my path.
+
+[Kid]
+Sara!
+
+
+{S6A064}
+[Sara]
+Onii-chan!
+
+
+38 :
+[Kid]
+Sara! Wait for me!
+
+[Kid]
+"I'll come back for you. I promise, I will 
+come find you!"
+
+[Kid]
+Be a good girl and wait for me!
+
+
+39 :
+
+{S6A065}
+[Sara]
+I'll be good and wait for you...
+
+
+{S6A066}
+[Sara]
+"But come for sure. You come to get me for 
+sure. Okay?"
+
+
+{S6A067}
+[Sara]
+I'll wait... I'll wait forever!
+
+
+40 :
+{1}
+
+{16:0x}I had promised.{16:1}
+
+{1}
+
+{16:0x}That was how things were.{16:1}
+
+{1}
+
+{16:0x}Back then, I had promised.{16:1}
+
+{1}
+
+{16:0x}I had promised to go get her.{16:1}
+
+{1}
+
+{16:0x}But... I hadn't gone.{16:1}
+
+{1}
+
+{16:0x}I couldn't go.{16:1}
+
+{16:4}
+
+41 :
+I was moved to another facility and taken to
+a new home after a while.
+
+My foster parents were good people.
+
+They were good to me if I didn't get out of
+line.
+
+But... they had sold their souls to (and were
+controlled by) Leiblich.
+
+I passed my time under their forgiving but
+ever-present eyes unable to search
+for Sara.
+
+Still, there were times when I did my best
+to find leads to her.
+
+But I didn't even know where the research
+facility was, and something would always get
+in my way, and after a while I couldn't search
+anymore.
+
+I just hadn't been able to help Sara with
+my limited powers.
+
+But... no matter what excuses I came up with,
+the result was the same.
+
+I had abandoned Sara.
+
+In the isolated clinic room into which the
+cold moonlight shined.
+
+
+42 :
+
+{1}{1}{1}{1}
+
+
+
+{16:0x}I couldn't keep... my promise...{16:1}
+
+{16:4}
+
+43 :
+Even then, Sara was on the other side
+of the door...
+
+I knew that she was still waiting for me in
+that miserable little room.
+
+Still believing in me...
+
+Just as I had promised.
+
+The sense of guilt I felt overpowered me.
+
+It left me with an agonizing sense of
+hopelessness.
+
+And utter despair.
+
+
+44 :
+{1}{1}
+
+{16:0}There was nothing I could do!{16:1}
+
+{16:0}I didn't have any other choice!{16:1}
+
+{16:0}What else could I have done!?{16:1}
+
+{16:4}
+
+45 :
+When I opened my eyes, I was lying on a bed in
+the infirmary.
+
+I didn't know if someone had brought me there
+or I had dragged myself unconsciously.
+
+I looked at my watch without thinking.
+
+Not much time had elapsed since I had
+passed out.
+
+Lying on the bed, I looked up at the ceiling
+and thought about the events leading up to
+that point.
+
+The reason I had known that it was too hot
+inside the generator room was my infrared
+vision.
+
+And the 'moonlight' coming from the inverter
+unit had been the same thing.
+
+In the darkness, I had mistaken the heat from
+the inverter as moonlight.
+
+And the shock that I felt when I met Sara
+made sense too.
+
+We were siblings, after all.
+
+I had probably known it in the back of my mind
+even without my memory.
+
+That was why... the first time I had seen Sara...
+
+And why had she grasped my thumb in the
+darkness?
+
+Why had she sung that lullaby that time?
+
+
+46 :
+
+{S4A079}
+[Sara]
+Really? You don't know it?
+
+
+47 :
+
+{S4A080}
+[Sara]
+Oh, I see... That's right...
+
+
+48 :
+It seemed to me that Sara had probably noticed.
+
+That we were brother and sister...
+
+So...
+
+I raised myself up.
+
+Sara was still asleep in the bed next to me.
+
+I stood next to Sara's pillow and stared down
+at her face.
+
+My memory was still a little jumbled, but
+there was no mistaking that face.
+
+It was Sara.
+
+Little Sara had grown to be sixteen.
+
+It had to be her.
+
+I was sure it was Sara.
+
+The sister that I had made a promise to find
+but then broken it...
+
+I felt so guilty and ashamed. I couldn't
+look at Sara's face.
+
+It was hard just being there.
+
+I didn't know what to say to Sara.
+
+What excuses could I make to her?
+
+No matter what I said to her, it would all
+ring hollow.
+
+I wanted to get out of there before Sara
+woke up.
+
+I walked toward the door.
+
+
+49 :
+
+{S6A068}
+[Sara]
+Onii... chan?
+
+With her voice, my legs stopped.
+
+I didn't have the courage to turn around.
+
+
+{S6A069}
+[Sara]
+You... You are my onii-chan, right?
+
+Sara continued talking.
+
+Each of her words was like a stab in the heart.
+
+
+{S6A070}
+[Sara]
+Onii-chan?
+
+
+50 :
+[Kid]
+No!
+
+I spit out the words without thinking.
+
+
+{S6A071}
+[Sara]
+Huh...?
+
+[Kid]
+You're wrong... about me.
+
+
+{S6A072}
+[Sara]
+That... can't be.
+
+
+{S6A073}
+[Sara]
+You are my onii-chan, right?
+
+[Kid]
+No!
+
+I sensed that Sara was about to get up from
+the bed so I tried to leave.
+
+
+{S6A074}
+[Sara]
+Wait!
+
+
+{S6A075}
+[Sara]
+Onii-chan, wait!
+
+Her voice sounded just like when she had cried
+out to me when she was a child, and I froze,
+unable to move.
+
+
+{S6A076}
+[Sara]
+You're my onii-chan... You are, aren't you?
+
+[Kid]
+.........
+
+Sara grabbed my shoulders.
+
+
+{S6A077}
+[Sara]
+Hey, why don't you say something? Look at me!
+
+
+51 :
+Sara circled around in front of me, all the
+time holding my shoulders.
+
+But I couldn't bear to look Sara in the face
+and turned away.
+
+
+{S6A078}
+[Sara]
+Hey... Why won't you look at me?
+
+
+{S6A079}
+[Sara]
+Hey, look at me.
+
+
+{S6A080}
+[Sara]
+I said look at me!
+
+[Kid]
+No, no, no!
+
+I shook off Sara's hands.
+
+
+52 :
+
+{S6A081}
+[Sara]
+Aaah!
+
+[Kid]
+Sara!
+
+
+53 :
+Sara threw her arms around me, hugging me
+tightly.
+
+Sara's eyes stared directly at me.
+
+
+54 :
+
+{S6A082}
+[Sara]
+Why? Why are you denying me?
+
+
+{S6A083}
+[Sara]
+"You're my onii-chan, right? You are, aren't 
+you?"
+
+[Kid]
+No, no. I'm...
+
+
+{S6A084}
+[Sara]
+Why not? I know you are!
+
+
+{S6A085}
+[Sara]
+Onii-chan... You're my onii-chan...!
+
+
+{S6A086}
+[Sara]
+I waited for you. I waited and waited!
+
+
+{S6A087}
+[Sara]
+I waited forever for you to come!
+
+
+{S6A088}
+[Sara]
+Onii-chan...
+
+
+55 :
+Sara fell to the ground, and I said nothing
+to her.
+
+I just ran out of the room.
+
+That was right, I ran away.
+
+I ran from Sara and from my past...
+
+
+56 :
+I squatted in the small room in the back of
+the warehouse.
+
+All I could do was just keep running away from
+Sara and my past.
+
+I was such a coward.
+
+Overcome by the memories that had come rushing
+back to me, I had run away from my sister...
+
+I couldn't even accept my own weakness.
+
+I denied myself. It was less scary than
+acknowledging what I had done.
+
+I... I... I was such a coward.
+
+Had I known that would happen... I would have
+never wanted my memory back...
+
+Things were better when I didn't remember
+anything...
+
+Crouched there in the corner, I was paralyzed.
+
+I couldn't face Sara... My own sister... All I
+could do was let the time pass by.
+
+...
+
+
+57 :
+My memory had been completely restored apart
+from recent events.
+
+I knew my age, address, and phone number...
+
+I also remembered my foster mother and father.
+
+Still... there was just one crucial thing that
+I couldn't remember.
+
+{16:4}
+
+58 :
+{1}
+
+{16:0}That was...{16:1}
+
+{16:0}My name...{16:1}
+
+{16:0}What was my name?{16:1}
+
+{16:0}What was I called?{16:1}
+
+{16:0}I didn't know.{16:1}
+
+{16:4}
+
+59 :
+Why was that the only thing that I couldn't
+remember?
+
+As long as I couldn't remember that, I felt
+incomplete.
+
+As if the essence of my existence were
+concentrated into my name.
+
+As long as I couldn't remember my name,
+I couldn't feel whole.
+
+That was how I felt.
+
+No matter how much else I remembered, that one
+point escaped me.
+
+Then I thought back... about what it was that
+had made me lose my memory.
+
+The massive guilt I felt toward Sara...
+
+I wondered if that was why I had repressed
+my memory.
+
+But there was too much about that theory that
+didn't make sense.
+
+I had lost my memory before meeting Sara... and
+before the accident at LeMU.
+
+And I couldn't remember what I was doing just
+before then or why I had come to LeMU.
+
+
+It might have been that I had seen Sara at
+LeMU... and then it had happened...
+
+But something didn't seem right about that
+either.
+
+I couldn't imagine why only my name and recent
+events wouldn't come back to me.
+
+I had already remembered Sara...
+
+It would make sense for me to remember
+everything.
+
+I wondered what kind of amnesia... it
+might have been...
+
+
+60 :
+A sudden sound and shaking made me look up.
+
+
+61 :
+The next instant, warning alarms started
+shrieking.
+
+All around me, the squeal of straining
+metal echoed from the structure.
+
+The shaking continued on and off.
+
+Wh-what...
+
+I ran out of the room.
+
+
+62 :
+Water?
+
+I noticed something strange as I emerged in
+the corridor.
+
+Water was flowing in.
+
+I couldn't believe that water could have
+reached there.
+
+
+63 :
+
+{S6A089}
+[Y工]
+Kid!
+
+[Kid]
+Y工, what is this? Did something happen!?
+
+
+{S6A090}
+[Y工]
+"I'll explain later. For now, just hurry over 
+here."
+
+[Kid]
+Wh-what?
+
+
+{S6A091}
+[Y工]
+I found an exit we can escape through!
+
+[Kid]
+Where?
+
+
+{S6A092}
+[Y工]
+I'll explain later, just hurry!
+
+
+64 :
+With those words of encouragement, Y工 started
+running.
+
+
+65 :
+She turned the corner, heading for stairs
+leading to an emergency corridor.
+
+[Kid]
+What about everybody else?
+
+
+{S6A093}
+[Y工]
+"Kuranari is going to get Mayo. Tsugumi is 
+already at the emergency corridor."
+
+We dashed toward the stairs to the emergency
+corridor.
+
+
+66 :
+And climbed up to it.
+
+Takeshi, Tsugumi, and Sara were already
+gathered there.
+
+
+67 :
+
+{S6A094}
+[Takeshi]
+Hurry, we don't have much time.
+
+[Kid]
+What happened?
+
+
+68 :
+
+{S6A095}
+[Takeshi]
+Just hurry.
+
+
+69 :
+Saying that, he started running ahead of
+everyone else.
+
+Tsugumi followed suit.
+
+
+70 :
+
+{S6A096}
+[Y工]
+Listen. LeMU is already starting to collapse.
+
+
+71 :
+Y工 pushed on my back.
+
+I started running.
+
+
+{S6A097}
+[Y工]
+"We were finally able to make contact with 
+the surface, and now the emergency stairs 
+are accessible."
+
+
+{S6A098}
+[Y工]
+"But if we don't hurry, they're going to 
+flood."
+
+
+{S6A099}
+[Y工]
+So just hurry.
+
+Y工 explained the situation from behind me.
+
+I followed Takeshi and Tsugumi as we sprinted
+the distance of the emergency stairs.
+
+
+72 :
+We soon reached the stairs.
+
+Takeshi and Tsugumi were already climbing.
+
+
+{S6A100}
+[Takeshi]
+Hurry! This way!
+
+Takeshi's voice rang down from above.
+
+I ran, following the sound of their footsteps.
+
+As we were trying to escape, LeMU began to
+shake and screech as metal clashed with metal.
+
+But we just kept climbing, moving toward the
+top.
+
+Only the sound of everyone's labored breathing
+and running footsteps echoed throughout
+the emergency stairs.
+
+...
+
+
+{S6A101}
+[Takeshi]
+Just a little more! We're almost there!
+
+Takeshi shouted up ahead.
+
+Takeshi's voice was full of hope.
+
+It was then that we realized it.
+
+
+{S6A102}
+[Y工]
+Mayo... Mayo... Mayo isn't here!
+
+Y工 shouted that.
+
+
+73 :
+[Kid]
+Huh?
+
+
+{S6A103}
+[Takeshi]
+What'd you say?
+
+
+74 :
+I stopped and looked back.
+
+Y工 stood on the stairs, stunned and looking
+downward.
+
+
+{S6A104}
+[Y工]
+What happened? She was right behind me!
+
+
+75 :
+
+{S6A105}
+[Takeshi]
+What happened?
+
+Takeshi and the others came down the stairs.
+
+
+76 :
+
+{S6A106}
+[Y工]
+Kuranari, Mayo... Mayo isn't here!
+
+
+77 :
+
+{S6A107}
+[Takeshi]
+"God damn it... Didn't you check to see that 
+she was behind you?"
+
+
+78 :
+
+{S6A108}
+[Y工]
+She was right behind me from the start!
+
+
+{S6A109}
+[Y工]
+Partway up, I got so into climbing...
+
+
+79 :
+The stairs shook violently, and there was a
+large sound.
+
+At the same time, the lights that dimly lit
+the stairs went out.
+
+
+80 :
+
+{S6A110}
+[Takeshi]
+Damn! A blackout. We can't go back now.
+
+
+{S6A111}
+[Takeshi]
+If we double back, everyone's a goner!
+
+
+81 :
+
+{S6A112}
+[Y工]
+But!
+
+[Kid]
+I'll go.
+
+
+82 :
+
+{S6A113}
+[Y工]
+Huh?
+
+[Kid]
+I'll go back. Everybody keep going.
+
+
+83 :
+Without waiting for a reply, I started rushing
+down the stairs I had just climbed.
+
+
+{S6A114}
+[Takeshi]
+Hey, Kid!
+
+
+{S6A115}
+[Y工]
+"It's impossible! It's already starting to 
+flood. What do you think you're going to do?"
+
+Their voices rang out behind me.
+
+[Kid]
+Swim!
+
+
+{S6A116}
+[Y工]
+It's pitch black below!
+
+[Kid]
+No problem!
+
+[Kid]
+I can see!
+
+I could actually see the different parts of
+the stairs by their different temperatures.
+
+It was the first time that I had ever been
+thankful for my unusual vision.
+
+
+84 :
+I went down the stairs and came out at Zweiter
+Stock's emergency corridor.
+
+It looked like the emergency power had
+already died.
+
+I wondered where Sara might be.
+
+I thought frantically.
+
+If she had turned back partway, then she
+probably wouldn't have made it to Dritter Stock.
+
+But I couldn't be sure.
+
+If she had gone all the way down to Dritter
+Stock...
+
+...Then I would never make it in time if I
+looked around Zweiter Stock first.
+
+I didn't know what to do...
+
+I had to decided whether I would start
+looking on Dritter Stock or from Zweiter Stock...
+
+85 :
+{11:0-1c}
+{11:1}Start with Dritter Stock
+
+{11:1}Start with Zweiter Stock
+
+
+86 :
+I decided to start searching from Dritter Stock.
+
+I figured the water pressure would be higher
+there, and the flooding more serious.
+
+If she was in Dritter Stock, then I'd have to
+start there to have any hope of finding her.
+
+I headed down the stairs to Dritter Stock.
+
+
+87 :
+Reaching the emergency corridor, I arrived at
+Dritter Stock.
+
+
+If Sara was there, where would she be...?
+
+The conference room or the control room?
+
+Or could she have been at one of the
+attractions?
+
+I didn't have much time.
+
+Peering down through the emergency hatch, I
+realized that the flooding had already
+progressed a lot.
+
+It seemed best to check each room from the
+emergency corridor rather than going all
+the way down.
+
+I wondered if Sara really was on that floor...
+
+
+But having come so far, I knew there was no
+going back.
+
+I ran through the emergency corridor.
+
+
+88 :
+I exited on the emergency corridor furthest
+outside.
+
+Opening the emergency hatch to each room,
+I peeked inside.
+
+If Sara was there, I'd be able to see her
+body heat.
+
+I looked in the conference room and the
+control room, but there was no sign of her
+there. The water only continued to rise.
+
+
+89 :
+The doors beyond the elevator hall didn't open.
+
+I frantically ran down the emergency corridor,
+moving from one attraction to the next.
+
+
+90 :
+I checked the rest area and then looked down
+into the Lemurian Ruins, but Sara wasn't there.
+
+Maybe she wasn't on that floor...?
+
+The sound of the water and shaking of the
+structure both continued to intensify.
+
+If I didn't hurry, I wouldn't make it back to
+Zweiter Stock.
+
+I knew I had to hurry to the emergency stairs.
+
+
+91 :
+I sprinted to the stairs and up to Zweiter Stock.
+
+I had lost a lot of time.
+
+I had to hurry.
+
+
+92 :
+Finally, I arrived back at Zweiter Stock.
+
+LeMU was shaking terribly, and the area below
+the emergency hatch had already filled with
+water.
+
+It looked like water was about to flood into
+the corridor.
+
+I plunged into the water.
+
+
+93 :
+Swimming desperately to the security office, I
+forgot the pain in my arm and looked inside.
+
+Sara wasn't there.
+
+I was able to steal a breath using the air at
+the top of the room.
+
+(Where could... Sara... be...?)
+
+I dove into the water again and swam for the
+infirmary.
+
+The infirmary door was open.
+
+I looked inside.
+
+
+94 :
+...Sara!
+
+Sara's body stood out white in the dark water.
+
+That room also had a pocket of air near
+the ceiling.
+
+Sara was just barely floating there.
+
+I floated to the surface.
+
+
+95 :
+No, I thought Sara was somewhere in
+Zweiter Stock.
+
+I didn't know why, but I was sure of it.
+
+She was probably somewhere in Zweiter Stock...
+
+I knew it might be a meaningless hunch.
+
+But maybe it was our sibling bond talking
+to me.
+
+Sara and I had the same blood in our veins.
+
+That was my thinking.
+
+It was probably my imagination, but it was all
+I had to bet on.
+
+
+96 :
+I opened the emergency hatch and saw that
+water had already covered three-quarters of
+the corridor.
+
+Without hesitating, I threw myself in.
+
+The water flowed unpredictably, with
+whirlpools forming in various places.
+
+I endured the pain in my right arm and swam
+desperately.
+
+First, I looked in the security office.
+
+There was no source of heat that looked
+like Sara.
+
+From there I made for the warehouse,
+but Sara wasn't there.
+
+I checked the merry-go-round, but she
+wasn't there either.
+
+Ahead of me was the elevator hall. Again,
+no Sara.
+
+I swam back up the corridor.
+
+Water had completely covered the entrance
+to the infirmary.
+
+I took a breath and dove underwater.
+
+I put my hand on the door and peered inside.
+
+And there...
+
+
+97 :
+...Was Sara.
+
+Sara's body heat made her stand out brightly
+against the cool, surrounding darkness.
+
+I went into the infirmary and floated to the
+surface.
+
+Sara looked surprised when I broke through
+to the surface.
+
+
+{S6A117}
+[Sara]
+Kid... I mean, onii-chan.
+
+[Kid]
+Sara... You're alright.
+
+
+{S6A118}
+[Sara]
+Why are you...?
+
+[Kid]
+I promised, didn't I?
+
+[Kid]
+I told you that I'd come find you, didn't I?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4763 @@
+
+
+1 :
+We finished making our rounds.
+
+The Kid had gone back into the examination room
+with Y¤u and £o¢o earlier.
+
+
+2 :
+Tsugumi and I were talking in the corridor.
+
+
+[Takeshi]
+Looks like we don't have any options...
+
+
+{T6T000}
+[Tsugumi]
+Yeah...
+
+
+3 :
+
+{T6T001}
+[Tsugumi]
+So what do you want to do?
+
+[Takeshi]
+What do I...? Um, I'm thinking about it.
+
+
+4 :
+
+{T6T002}
+[Tsugumi]
+Really...
+
+Tsugumi smiled slightly.
+
+
+{T6T003}
+[Tsugumi]
+"You really like to waste your time, don't you, 
+Takeshi?"
+
+[Takeshi]
+Th-this isn't wasting time.
+
+
+5 :
+
+{T6T004}
+[Tsugumi]
+Haha, sorry... but...
+
+
+6 :
+
+{T6T005}
+[Tsugumi]
+But it seems just like something you'd do.
+
+[Takeshi]
+Thinking about things that are impossible?
+
+
+7 :
+When I said that, Tsugumi puffed up her cheeks.
+
+
+{T6T006}
+[Tsugumi]
+No...! I don't mean that.
+
+
+{T6T007}
+[Tsugumi]
+Why do you have to tease me...?
+
+[Takeshi]
+I never thought I'd hear YOU say that.
+
+
+8 :
+[Tsugumi]
+.........
+
+[Takeshi]
+I have no idea what to do, but...
+
+[Takeshi]
+"We'll find a way out of this somehow. We've 
+made it this far."
+
+Tsugumi laughed at my efforts to sound
+positive.
+
+
+9 :
+
+{T6T008}
+[Tsugumi]
+Yeah... I'm sure we'll be 'fine'.
+
+[Takeshi]
+Sure... It's gonna be alright.
+
+
+10 :
+A sound roared in the distance. It was
+probably being transmitted through the water
+to IBF, where we were.
+
+Was it... the sound of the thermal vents?
+
+
+I wondered if LeMU was still hanging in there...
+
+Although the situation we were in didn't look
+great, there were still various options
+available to us.
+
+[Takeshi]
+Hey, Tsugumi... About that old guy...
+
+
+11 :
+
+{T6T009}
+[Tsugumi]
+The researcher? Too bad, huh...
+
+[Takeshi]
+"Yeah. But I was thinking, why was he the 
+only one left here? Everyone else got out 
+earlier, right?"
+
+[Takeshi]
+Well, besides those guys that didn't make it...
+
+
+12 :
+
+{T6T010}
+[Tsugumi]
+"I'm sure some kind of circumstances kept him 
+from escaping. And circumstances that kept him 
+alive..."
+
+[Takeshi]
+Circumstances?
+
+
+{T6T011}
+[Tsugumi]
+"Do you remember the entry logs we found on 
+the terminals?"
+
+[Takeshi]
+"Yeah, there were a few of them... Ah? Wait, 
+are you saying...!?"
+
+
+{T6T012}
+[Tsugumi]
+You remember? That journal entry we found.
+
+[Takeshi]
+Oh, it was him...
+
+His last words had been, 'Take care of my
+daughter.'
+
+
+13 :
+
+{T6T013}
+[Tsugumi]
+I think that was £o¢o's dad.
+
+[Takeshi]
+"T.Y.... Doctor Yagami, huh? He probably knew 
+that £o¢o was here when the accident hit LeMU."
+
+
+14 :
+
+{T6T014}
+[Tsugumi]
+Yeah, I'm sure... he did.
+
+
+{T6T015}
+[Tsugumi]
+"Maybe he survived because he was thinking 
+about his daughter."
+
+
+15 :
+Leaning against the wall, we watched the waves
+that calmly lapped in the pool.
+
+
+16 :
+[Takeshi]
+What do you think about £o¢o's condition?
+
+[Takeshi]
+Why did £o¢o get TB anyway...?
+
+
+17 :
+
+{T6T016}
+[Tsugumi]
+"Well... £o¢o had been to IBF at least once 
+before May 1st."
+
+
+{T6T017}
+[Tsugumi]
+"Maybe there was already an outbreak of the 
+TB virus at that time."
+
+[Takeshi]
+What?
+
+
+18 :
+
+{T6T018}
+[Tsugumi]
+"TB's incubation period is two to seven 
+days... That's consistent with the timing of 
+£o¢o's symptoms, isn't it?"
+
+[Takeshi]
+Y-yeah... I guess you're right.
+
+[Takeshi]
+"When £o¢o came to IBF, she was probably 
+exposed to TB somehow..."
+
+Nodding to myself, I figured that had to be
+the most probable possibility.
+
+
+19 :
+
+{T6T019}
+[Tsugumi]
+"However, everyone at IBF probably didn't 
+realize the terrible truth that TB was 
+spreading inside the installation."
+
+
+{T6T020}
+[Tsugumi]
+"When they found that a few people had become 
+infected, they must have panicked... and the 
+situation got out of hand."
+
+
+20 :
+
+{T6T021}
+[Tsugumi]
+"As people started dying, the staff here 
+tried to escape, and when the escape pods ran 
+out..."
+
+[Takeshi]
+W-wait! That means...!
+
+[Takeshi]
+That alarm meant...
+
+[Takeshi]
+"The alarm that we heard on May 1st in Lemu 
+was...!?"
+
+I couldn't stop myself from asking. Tsugumi
+frowned and continued.
+
+
+21 :
+
+{T6T022}
+[Tsugumi]
+"Probably one of the terrified staff members 
+forced their way up from IBF to LeMU..."
+
+
+{T6T023}
+[Tsugumi]
+"Without following the standard decompression 
+procedure, they opened the emergency 
+corridors and fled up to Insel Null."
+
+
+22 :
+
+{T6T024}
+[Tsugumi]
+Those corridors remained open for a while.
+
+[Takeshi]
+"And the built-up gas inside the complex 
+quickly escaped, which brought down the pressure, 
+a section of LeMU started flooding, and the 
+watertight doors closed."
+
+[Takeshi]
+"And that's how we ended up getting stuck 
+here...?"
+
+
+23 :
+
+{T6T025}
+[Tsugumi]
+Yup, that's right.
+
+
+{T6T026}
+[Tsugumi]
+Meaning the alarm that went off in LeMU...
+
+
+{T6T027}
+[Tsugumi]
+"Was for the abnormal installation pressure 
+readings and the virus outbreak‡Lyou could 
+say it served a couple of functions."
+
+[Takeshi]
+I can't believe it...!
+
+All I could do was sigh in frustration.
+
+[Takeshi]
+"That's the reason that no rescue team is 
+coming here...?"
+
+
+24 :
+
+{T6T028}
+[Tsugumi]
+I'm sure that's it.
+
+With a solemn face, Tsugumi nodded.
+
+
+{T6T029}
+[Tsugumi]
+"If the TB virus got out to the world 
+outside, it would be devastating."
+
+
+{T6T030}
+[Tsugumi]
+"So, even if there were survivors in here, it 
+would be necessary to lock them up at the 
+bottom of the ocean."
+
+
+25 :
+
+{T6T031}
+[Tsugumi]
+"Leiblich Pharmaceuticals may even be trying 
+to hide the fact that there was an accident 
+at all."
+
+
+{T6T032}
+[Tsugumi]
+"Knowing all the while that we're trapped in 
+here..."
+
+[Takeshi]
+.........
+
+
+26 :
+I kicked a dirty old bottle that was at my 
+feet
+
+It landed in the pool and 
+slowly sunk.
+
+
+27 :
+Then I walked around, making stomping sounds
+as I went.
+
+The sounds of our feet echoed loudly off the
+walls of the narrow corridor.
+
+[Takeshi]
+Well, if that's the case, then...
+
+
+28 :
+
+{T6T033}
+[Tsugumi]
+Then?
+
+[Takeshi]
+Well, you know?
+
+[Takeshi]
+"That means we've got to get ourselves back 
+up to the surface no matter what!"
+
+
+29 :
+
+{T6T034}
+[Tsugumi]
+Hmmm, why's that?
+
+[Takeshi]
+"So that we can tell the media all about 
+what's happened here, that's why!"
+
+[Takeshi]
+We're going to put it to Leiblich!
+
+[Takeshi]
+No matter what, okay?
+
+
+30 :
+
+{T6T035}
+[Tsugumi]
+Okay.
+
+
+31 :
+
+{T6T036}
+[Tsugumi]
+"Heh heh... That's more like the Takeshi I 
+know."
+
+Puffing out her cheeks slightly, Tsugumi
+looked at me.
+
+[Takeshi]
+Really?
+
+
+{T6T037}
+[Tsugumi]
+Yeah, me too...
+
+
+32 :
+
+{T6T038}
+[Tsugumi]
+I want to go with you, Takeshi... Together...
+
+[Takeshi]
+Huh? Did you say something?
+
+
+33 :
+
+{T6T039}
+[Tsugumi]
+I-it's nothing.
+
+For some reason, Tsugumi's face was red.
+
+
+34 :
+[Takeshi]
+Huh...?
+
+I felt strange and suddenly stopped.
+
+I looked up.
+
+
+35 :
+
+{T6T040}
+[Tsugumi]
+Takeshi... What's wrong?
+
+Tsugumi followed my gaze to the ceiling.
+
+There was nothing there.
+
+She returned her gaze to me.
+
+[Takeshi]
+Uh...
+
+[Takeshi]
+I'm not really sure, but...
+
+[Takeshi]
+"For some reason, it's hard to breathe all of a 
+sudden..."
+
+
+36 :
+
+{T6T041}
+[Tsugumi]
+Takeshi...?
+
+
+{T6T042}
+[Tsugumi]
+Your... nose is bleeding...
+
+[Takeshi]
+?
+
+
+37 :
+
+{T6T043}
+[Tsugumi]
+You've got a nosebleed.
+
+[Takeshi]
+Eh?
+
+I quickly put my hand to my nose.
+
+My upper lip was wet with something.
+
+
+38 :
+
+{T6T044}
+[Tsugumi]
+He-hey? Are you okay?
+
+Tsugumi looked worriedly at my face.
+
+[Takeshi]
+I-it's fine, it's fine...
+
+I looked up and wiped under my nose as I
+replied.
+
+[Takeshi]
+"I wasn't thinking anything sexual! 
+Absolutely! Positively!"
+
+
+39 :
+
+{T6T045}
+[Tsugumi]
+I-it's not like I... I don't care about that!
+
+[Takeshi]
+Well, alright then...
+
+My nose wouldn't stop bleeding.
+
+[Takeshi]
+Aaah, I look like such a dork.
+
+
+{T6T046}
+[Tsugumi]
+Who cares what you look like?
+
+[Takeshi]
+"I care. Looking like this in front of you, 
+I... uugh..."
+
+
+40 :
+
+{T6T047}
+[Tsugumi]
+Huuuh?
+
+
+{T6T048}
+[Tsugumi]
+Huuuuh, what?
+
+
+{T6T049}
+[Tsugumi]
+Come on, what...?
+
+Tsugumi started shaking my shoulder.
+
+
+41 :
+[Takeshi]
+Wuuuuaaaachoooo!
+
+I let out a huge sneeze.
+
+
+42 :
+SPLAT!
+
+43 :
+
+
+
+44 :
+Blood flew not only from my nose, but also
+from my mouth in large amounts.
+
+It splattered all over the floor and onto the wall.
+
+
+45 :
+[Takeshi]
+Woooah...!?
+
+I was suddenly assaulted by dizziness.
+
+The world felt like it was spinning.
+
+[Takeshi]
+For some reason, I can't keep steady...
+
+Although I didn't feel so great, it seemed
+funny for some reason, and I laughed.
+
+[Takeshi]
+Ahahaha... What's with this?
+
+
+46 :
+
+{T6T050}
+[Tsugumi]
+Takeshi!
+
+
+{T6T051}
+[Tsugumi]
+Takeshi, hang in there!
+
+[Takeshi]
+"Huh... Quit shaking me, it's making me feel 
+sick."
+
+
+47 :
+
+{T6T052}
+[Tsugumi]
+S-sorry...
+
+[Takeshi]
+N-no, I'm fine. Don't worry, Tsugumi...
+
+
+48 :
+
+{T6T053}
+[Tsugumi]
+You're not fine at all!
+
+
+{T6T054}
+[Tsugumi]
+You're bleeding all over, Takeshi!
+
+
+49 :
+
+{T6T055}
+[Tsugumi]
+"We need to get you to the examination room 
+and get you looked at right away."
+
+[Takeshi]
+Y-yeah... *Cough*...
+
+
+50 :
+It wasn't a good situation...
+
+I needed to get a hold of myself...
+
+I tried to calm myself down.
+
+With Tsugumi supporting me, I walked down the
+corridor.
+
+Just then, a door flew open in front of us.
+
+It was the examination room. Out of it flew
+Y¤u.
+
+
+51 :
+
+{T6T056}
+[Y¤u]
+"Tsugumi, Kuranari! The Kid! The Kid's in bad 
+shape!"
+
+Her face changed color as she shouted.
+
+
+{T6T057}
+[Tsugumi]
+The Kid? What's wrong?
+
+
+{T6T058}
+[Y¤u]
+"He's in trouble! It'll be faster if you come 
+in and look... ah!"
+
+
+52 :
+
+{T6T059}
+[Y¤u]
+No... Kuranari, you too!?
+
+Y¤u noticed the shape I was in, and her face
+turned pale.
+
+
+{T6T060}
+[Tsugumi]
+Takeshi 'too'?
+
+[Takeshi]
+What are you talking about...?
+
+
+53 :
+The Kid was sleeping on the L-MRI table.
+
+His results from the scan came up on the
+control panel's monitor.
+
+'Tief Blau 2017-Rev.17'
+
+
+54 :
+
+{T6T061}
+[Y¤u]
+"The Kid's been infected with Tief Blau 
+too..."
+
+
+55 :
+[Takeshi]
+How could that happen!?
+
+[Takeshi]
+"Why? He's been with us the whole time. So 
+why did he get...?"
+
+[Takeshi]
+Why and where did he get TB...!? *Cough*...
+
+I mumbled to myself, finding it hard to
+breathe all of a sudden.
+
+
+56 :
+
+{T6T062}
+[Tsugumi]
+Takeshi, just calm down...
+
+
+{T6T063}
+[Tsugumi]
+None of us know where he got exposed to it.
+
+[Takeshi]
+.........
+
+
+57 :
+
+{T6T064}
+[Tsugumi]
+Takeshi, I want you to get scanned too.
+
+[Takeshi]
+Wh-why!?
+
+
+58 :
+
+{T6T065}
+[Tsugumi]
+Just let me scan you... please.
+
+
+{T6T066}
+[Tsugumi]
+"It isn't normal to start spewing blood from 
+your nose and mouth, okay?"
+
+[Takeshi]
+Yeah, I know... but...
+
+
+59 :
+Tsugumi gently took the Kid off of the L-MRI
+examination table and forcefully put me up on
+it.
+
+Pressing on both of my shoulders, she forced
+me down on the table.
+
+[Takeshi]
+"Y-you don't have to do that... Fine, I'll let 
+you check me."
+
+I brushed Tsugumi's hands off of me.
+
+[Takeshi]
+See? I'm lying down now.
+
+
+60 :
+
+{T6T067}
+[Tsugumi]
+Okay... Y¤u, please start the scan.
+
+
+{T6T068}
+[Y¤u]
+O-okay.
+
+
+61 :
+Y¤u started operating the control panel.
+
+
+62 :
+The scanning light from the laser crawled
+slowly up my body.
+
+After a while...
+
+
+63 :
+
+{T6T069}
+[Y¤u]
+The scan's finished...
+
+[Takeshi]
+Wh-what's it say?
+
+My voice cracked when I asked the question.
+
+
+64 :
+[Y¤u]
+.........
+
+[Takeshi]
+A-at least say something, Y¤u.
+
+
+{T6T070}
+[Y¤u]
+The results are...
+
+Y¤u stared at the panel without moving.
+
+
+65 :
+
+{T6T071}
+[Tsugumi]
+"The result is positive... You're infected 
+too, Takeshi."
+
+Tsugumi read the monitor for me.
+
+[Takeshi]
+...! R-really...?
+
+
+{T6T072}
+[Tsugumi]
+I'm sorry to say it, but...
+
+
+66 :
+
+{T6T073}
+[Tsugumi]
+"Since coming to IBF... No, it must've been 
+longer, since coming to LeMU... All of us..."
+
+
+{T6T074}
+[Tsugumi]
+Have been infected for quite some time.
+
+Tsugumi hung her head and let out a big sigh.
+
+
+
+67 :
+[Takeshi]
+Damn it...
+
+I stood up from the L-MRI and was assaulted
+by a terrible dizzy spell.
+
+
+68 :
+[Takeshi]
+Whooaaah...
+
+
+69 :
+
+{T6T075}
+[Kid]
+Takeshi, watch out...!
+
+The one to steady me from falling was the Kid.
+
+
+70 :
+But from the looks of it, his legs weren't
+very steady either.
+
+Putting my hand on a wall, I somehow held
+myself up.
+
+
+{T6T076}
+[Kid]
+We're in trouble, huh...?
+
+[Takeshi]
+Y-you can say that again...
+
+
+71 :
+
+{T6T077}
+[Kid]
+"If only we had that serum... The orange 
+one... agh."
+
+The Kid pressed his hand to his face.
+
+As he wiped his mouth, I noticed a thin trail
+of blood there.
+
+[Takeshi]
+"Y-yeah, the serum... If they've been 
+handling TB here at IBF, they should have 
+some of that."
+
+[Takeshi]
+"If we use that, then the symptoms should 
+lessen..."
+
+
+72 :
+I went around the examination room and
+checked to see if I could find it anywhere.
+
+
+73 :
+Tsugumi and Y¤u hurriedly started checking
+through the medicine cabinets.
+
+
+74 :
+The Kid sank to the floor. He didn't look
+very good.
+
+His breathing was ragged. He had lines of pain
+etched on his face.
+
+
+75 :
+
+{T6T078}
+[Y¤u]
+"It's no good. It doesn't look like there's 
+any here."
+
+
+{T6T079}
+[Tsugumi]
+I can't find any either.
+
+The two of them were shaking their heads.
+
+[Takeshi]
+Damn... What are we gonna do?
+
+[Y¤u]
+.........
+
+[Tsugumi]
+.........
+
+
+{PIPI_04}
+[Pipi]
+*Woof*, *woof*!
+
+
+76 :
+[Takeshi]
+"Hey, Pipi, you seem like you're doing pretty 
+well."
+
+Without me noticing, Pipi had come up and was
+darting around my legs.
+
+His tail was wagging frantically.
+
+
+77 :
+He suddenly dropped a few small objects from
+his mouth.
+
+[Takeshi]
+!?
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+[Takeshi]
+H-hey! Where'd you get...?
+
+
+{T6T080}
+[Y¤u]
+What's wrong...? Ah!
+
+Y¤u ran over to where we were.
+
+
+{T6T081}
+[Y¤u]
+This is... the orange serum.
+
+She picked up one of the fallen objects in
+front of Pipi.
+
+It was a small capsule‡La capsule with orange
+liquid inside of it.
+
+Four of them had fallen on the floor.
+
+[Takeshi]
+Where'd you find that, Pipi?
+
+I didn't know if he'd understand me, but I
+asked Pipi anyway.
+
+
+{PIPI_06}
+[Pipi]
+*Whine*...
+
+Pipi shook his head from side to side.
+
+[Takeshi]
+Were there any more of these?
+
+
+{PIPI_06}
+[Pipi]
+*Whiiiine*...
+
+He shook his head.
+
+[Takeshi]
+This is... all of them?
+
+
+{PIPI_00}
+[Pipi]
+*Woof*
+
+He nodded.
+
+[Takeshi]
+.........
+
+[Takeshi]
+W-well, we need to take these immediately...
+
+
+78 :
+[Takeshi]
+"Sorry, Y¤u, but get these ready. You're the 
+only one who knows how to give shots."
+
+
+{T6T082}
+[Tsugumi]
+I found some syringes over here, Y¤u.
+
+
+{T6T083}
+[Y¤u]
+O-okay!
+
+
+79 :
+We gathered all of the cartridges of serum
+from the floor and put them on the bed.
+
+Looking slightly doubtful, Y¤u prepared the
+syringes one at a time and gave the Kid and
+me our shots.
+
+
+80 :
+[Takeshi]
+Phew... We can relax for a while now.
+
+
+{T6T084}
+[Kid]
+Thanks, Y¤u...
+
+
+{T6T085}
+[Y¤u]
+You're welcome.
+
+
+81 :
+Sitting with his back against the wall, the
+Kid gave Y¤u a thumbs up.
+
+After that, he smiled and closed his eyes. He
+must have fallen asleep.
+
+Tsugumi and I carried the Kid over to an
+empty bed.
+
+[Takeshi]
+What do we do about £o¢o?
+
+
+82 :
+
+{T6T086}
+[Tsugumi]
+"She's still undergoing the oxygen treatment. 
+So we can't open the pod."
+
+
+{T6T087}
+[Tsugumi]
+"It looks like the treatment is progressing 
+normally. As long as she's in there, I don't 
+think her condition will get much worse..."
+
+
+{T6T088}
+[Tsugumi]
+"As soon as it's done, let's give £o¢o a 
+shot too."
+
+[Takeshi]
+Yeah, okay...
+
+[Y¤u]
+.........
+
+
+83 :
+[Takeshi]
+"Oh yeah, you should probably give yourself a 
+shot too, don't you think, Y¤u?"
+
+
+84 :
+
+{T6T089}
+[Y¤u]
+Huh? Um, no, I...
+
+[Y¤u]
+.........
+
+The next shot had already been prepared, but
+for some reason, Y¤u was stalling.
+
+
+85 :
+
+{T6T090}
+[Y¤u]
+*Cough*... *cough*!
+
+Suddenly, she started coughing.
+
+[Takeshi]
+Hey! Give yourself a shot, quickly!
+
+
+{T6T091}
+[Y¤u]
+But, I-I just...*cough*
+
+She wouldn't stop coughing.
+
+Her arm that held the syringe started to shake.
+
+
+
+86 :
+
+{T6T092}
+[Y¤u]
+Breathe deep... fuuu... haaa...
+
+Her coughing finally stopped.
+
+But her hands wouldn't go still.
+
+[Takeshi]
+"Wh-what's wrong? You aren't feeling well? You 
+want me to give the shot to you?"
+
+
+87 :
+
+{T6T093}
+[Y¤u]
+Huh, n-no way...
+
+
+{T6T094}
+[Y¤u]
+I... I don't like shots...
+
+[Takeshi]
+Huh!?
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"You didn't have any problem sticking everyone 
+else!"
+
+
+{T6T095}
+[Tsugumi]
+You don't like getting them yourself?
+
+
+88 :
+
+{T6T096}
+[Y¤u]
+Well yeah. 'Cause they hurt!
+
+Y¤u puffed out her cheeks stubbornly.
+
+[Takeshi]
+"What are you talking about!? Your life's on 
+the line here...!"
+
+[Takeshi]
+You don't have a choice, so give me the syringe!
+
+
+89 :
+
+{T6T097}
+[Y¤u]
+Aagh!
+
+
+90 :
+Reaching out quickly, I latched onto Y¤u's arm.
+
+
+[Takeshi]
+Tsugumi, hold her down!
+
+
+91 :
+
+{T6T098}
+[Tsugumi]
+Roger.
+
+
+92 :
+Tsugumi forced Y¤u to sit on the bed and
+held her so that she couldn't move.
+
+
+{T6T099}
+[Y¤u]
+Hey... *cough*, what are you doing!? Ouch!
+
+[Takeshi]
+Stop complaining!
+
+I grabbed onto Y¤u's arm and stuck the
+needle in it.
+
+
+{T6T100}
+[Y¤u]
+Hey! Where do you think you're sticking that!?
+
+
+{T6T101}
+[Y¤u]
+"You've got it all wrong! Not there! Aaaa, 
+stop mangling me!"
+
+
+{T6T102}
+[Y¤u]
+Ow! Ouch! Stop! Go more slowly!
+
+[Takeshi]
+Well, stop squirming around so much!
+
+
+{T6T103}
+[Y¤u]
+The angle's all wrong!
+
+
+{T6T104}
+[Y¤u]
+You're going to get air bubbles in it!
+
+[Takeshi]
+Stop complaining! You can't do it yourself!
+
+
+{T6T105}
+[Y¤u]
+You suck!
+
+[Takeshi]
+Shut up!
+
+
+{T6T106}
+[Y¤u]
+"Stop iiiit! Lemmee goooo! I'm dyyyinnnng! 
+Oooooowwwch!"
+
+[Takeshi]
+"You idiot! We're giving you this so you WON'T 
+die!"
+
+
+{T6T107}
+[Tsugumi]
+*Sigh...*
+
+Tsugumi slumped her shoulders.
+
+Y¤u was throwing a tantrum like a spoiled
+child.
+
+Small droplets of red stained the white
+sheets of the bed.
+
+.........
+
+......
+
+
+93 :
+After that, Y¤u got scanned on the L-MRI. As
+suspected, she had come down with TB.
+
+We didn't have room to mess around anymore.
+
+In the end, Y¤u wouldn't let me do it, so she
+ended up giving herself the shot.
+
+Complaining the whole time with tears in
+her eyes...
+
+
+94 :
+[Takeshi]
+"I'm not sure how long our condition will 
+hold with just one shot..."
+
+[Takeshi]
+"Hey, Y¤u? Do you think we can do anything 
+after it stops working?"
+
+[Y¤u]
+.........
+
+She was sitting at the computer terminal,
+silently typing on the keyboard.
+
+[Takeshi]
+Y¤u, tell me what we can expect?
+
+
+95 :
+
+{T6T108}
+[Y¤u]
+Don't talk to me, I can't concentrate.
+
+[Takeshi]
+Alright, alright.
+
+
+96 :
+
+{T6T109}
+[Y¤u]
+I'm trying my best...
+
+
+{T6T110}
+[Y¤u]
+"But someone has put a lock on the 
+communications protocol, and we can't make 
+contact with the surface."
+
+
+{T6T111}
+[Y¤u]
+"But every once in a while, I've found some 
+communication data that crosses through."
+
+
+{T6T112}
+[Y¤u]
+"If I can release that lock, or... Well, 
+anyway, we just might be able to get through 
+somehow."
+
+
+97 :
+
+{T6T113}
+[Y¤u]
+"At least it's better than LeMU, where we 
+had no way of making contact."
+
+[Takeshi]
+Alright, show me what you got, genius!
+
+
+{T6T114}
+[Y¤u]
+Okay...
+
+
+98 :
+I left Y¤u for a while and went to look at
+the monitor attached to the capsule pod.
+
+Tsugumi came over to stand next to me and
+looked at the monitor.
+
+
+99 :
+
+{T6T115}
+[Tsugumi]
+How is £o¢o doing?
+
+[Takeshi]
+She's in 'serious but stable' condition.
+
+
+{T6T116}
+[Tsugumi]
+Really...
+
+According to the monitor, it would be four
+hours before £o¢o could leave the pod.
+
+The pod was full of high-pressure oxygen.
+
+We couldn't take £o¢o out of there until the
+time had come.
+
+
+100 :
+
+{T6T117}
+[Tsugumi]
+"We should probably get the Kid into a pod, 
+don't you think?"
+
+[Takeshi]
+Yeah... let's get it ready.
+
+
+101 :
+But for some reason, we couldn't get the hatch
+on the furthest pod to close.
+
+It wasn't easy, but... I took the dead
+researcher out of his pod and set him down
+outside.
+
+Doctor T.Y....
+
+He was dead.
+
+He had looked like he was smiling at the very
+end, but...
+
+His expression had betrayed his agony after
+all.
+
+It was probably best that £o¢o hadn't seen her
+father's dead face.
+
+Tsugumi sterilized the pod and finished
+cleaning up.
+
+I shook awake the Kid, who was sleeping in
+the bed.
+
+[Takeshi]
+Hey, Kid, the pod's ready. Wake up...
+
+
+102 :
+
+{T6T118}
+[Kid]
+Unh... Takeshi?
+
+He slowly opened his eyes.
+
+[Takeshi]
+"Sorry to wake you, Kid, but I need you to 
+get in the capsule pod."
+
+
+103 :
+
+{T6T119}
+[Kid]
+Wha...
+
+He opened his eyes wide at my words.
+
+
+104 :
+
+{T6T120}
+[Kid]
+What about... everyone else?
+
+[Takeshi]
+"There's only one pod that we can really use. 
+So you get in."
+
+
+105 :
+
+{T6T121}
+[Kid]
+No... No way!
+
+[Takeshi]
+What!?
+
+
+{T6T122}
+[Kid]
+"Forget it, why should I be the only one 
+to... I can't just abandon everyone!"
+
+[Takeshi]
+"It's not like that, it's about how sick you 
+are. You're the most serious case after £o¢o."
+
+
+106 :
+[Kid]
+.........
+
+
+107 :
+
+{T6T123}
+[Kid]
+Still, forget it.
+
+
+{T6T124}
+[Kid]
+"Once I get in the pod, I can't get out for a 
+while, right?"
+
+
+108 :
+
+{T6T125}
+[Kid]
+No way... I... I want to stay by £o¢o!
+
+
+109 :
+Getting up out of bed, the Kid staggered
+quickly over to £o¢o's pod.
+
+
+110 :
+
+{T6T126}
+[Kid]
+"I'm not moving from here until we know that 
+everyone's getting out!"
+
+
+111 :
+He clung to the pod.
+
+I thought about trying to pull him off, but
+he seemed absolutely determined not to move.
+
+[Takeshi]
+"You stupid brat! What the hell are you 
+saying?"
+
+Forgetting my own exhaustion, I began
+shouting at the Kid.
+
+[Takeshi]
+"Don't you want to escape? If you want to 
+get out, you have to listen to me!"
+
+[Takeshi]
+If you get any worse...
+
+[Takeshi]
+"Even if you get in the pod, it might be too 
+late!"
+
+
+{T6T127}
+[Kid]
+But... But... *cough*...
+
+[Takeshi]
+"Listen, there's only one more shot of the 
+serum left!"
+
+I pointed to the orange capsule left on the
+empty bed.
+
+[Takeshi]
+So! So... so...
+
+
+112 :
+[Takeshi]
+What!?
+
+[Takeshi]
+Wait, why is there one left?
+
+All of a sudden, the questions flew.
+
+
+113 :
+
+{T6T128}
+[Kid]
+Hey!
+
+
+114 :
+
+{T6T129}
+[Y¤u]
+What?
+
+Y¤u turned away from the terminal as well.
+
+
+115 :
+[Tsugumi]
+.........
+
+
+116 :
+
+{T6T130}
+[Tsugumi]
+What are you talking about...?
+
+
+117 :
+
+{T6T131}
+[Tsugumi]
+That cartridge is for £o¢o, right?
+
+Tsugumi mumbled with her face slightly turned
+away.
+
+
+118 :
+[Y¤u]
+.........
+
+
+119 :
+
+{T6T132}
+[Y¤u]
+So that's it...
+
+
+120 :
+Everyone's gazes finally rested on Tsugumi.
+
+
+121 :
+
+{T6T133}
+[Y¤u]
+"You know, Tsugumi... I still haven't given 
+you an injection."
+
+[Tsugumi]
+.........
+
+
+122 :
+
+{T6T134}
+[Tsugumi]
+Yeah? So?
+
+Tsugumi mumbled with her eyes averted.
+
+
+123 :
+
+{T6T135}
+[Y¤u]
+"I had forgotten before. I injected Kuranari
+and the Kid with a shot. Then I got busy, and 
+then..."
+
+[Tsugumi]
+.........
+
+
+124 :
+
+{T6T136}
+[Y¤u]
+"So out of four of the shots, we still have 
+one left."
+
+Getting up from the terminal, Y¤u spoke acidly.
+
+
+125 :
+
+{T6T137}
+[Y¤u]
+How you feeling, Tsugumi?
+
+[Tsugumi]
+.........
+
+
+{T6T138}
+[Y¤u]
+You're not in pain?
+
+[Tsugumi]
+.........
+
+Come to think of it, Tsugumi didn't have any
+symptoms.
+
+She didn't show any signs of the TB virus.
+
+I dredged up Tsugumi's old words from the
+depths of my memory...
+
+'Highly improved immune system and
+increased metabolic efficiency'.
+
+'Telomeres that continue to rejuvenate'.
+
+.........
+
+(It couldn't be...)
+
+
+126 :
+
+{T6T139}
+[Y¤u]
+"Tsugumi, I want you to get scanned right 
+now."
+
+[Tsugumi]
+.........
+
+
+127 :
+'Curé Virus-P-Carrier'
+
+Tsugumi's genetic makeup had been altered by
+Curé, giving her incredible regenerative
+powers against illness and injuries.
+
+Tsugumi had also been infected with TB, but
+she'd already been able to make the
+antibodies and drive out the virus.
+
+Curé...
+
+Tsugumi had gone beyond the normal human
+capability...
+
+She had mentioned that she was 'special'.
+
+Successful cases of genetic manipulation were
+probably exceedingly rare.
+
+
+128 :
+
+{T6T140}
+[Y¤u]
+Curé...
+
+Looking at the results from the L-MRI scan,
+Y¤u nodded.
+
+
+{T6T141}
+[Y¤u]
+"I found it in LeMU's database... but I'd 
+heard about it once before..."
+
+
+{T6T142}
+[Y¤u]
+"I never would have imagined you're a carrier 
+of the Curé virus, Tsugumi."
+
+
+129 :
+[Tsugumi]
+.........
+
+
+130 :
+
+{T6T143}
+[Tsugumi]
+I don't care if you hate me.
+
+
+{T6T144}
+[Y¤u]
+Hate you? Why would I?
+
+
+131 :
+
+{T6T145}
+[Tsugumi]
+Well then, are you scared?
+
+
+{T6T146}
+[Tsugumi]
+You're scared of me, aren't you, Y¤u?
+
+
+{T6T147}
+[Tsugumi]
+"You're probably thinking that you don't want 
+anything more to do with me, right?"
+
+
+{T6T148}
+[Y¤u]
+I-I wouldn't think that...!
+
+Y¤u shook her head fiercely.
+
+
+132 :
+
+{T6T149}
+[Y¤u]
+Why...
+
+
+{T6T150}
+[Y¤u]
+Why would you say that?
+
+
+{T6T151}
+[Tsugumi]
+Well...
+
+Tsugumi bit her lips and said...
+
+
+133 :
+
+{T6T152}
+[Tsugumi]
+"Well, because I can be here... and I don't 
+have to suffer."
+
+
+{T6T153}
+[Tsugumi]
+"It could be that I'll just watch all of you throw 
+up blood, and eventually, when you're crawling 
+on the floor, I'll be laughing at you."
+
+
+134 :
+
+{T6T154}
+[Tsugumi]
+Because I'm just a cruel person like that...
+
+
+135 :
+[Y¤u]
+.........
+
+
+136 :
+Y¤u couldn't look Tsugumi in the eyes.
+
+
+137 :
+
+{T6T155}
+[Kid]
+I don't think that you're like that.
+
+Clutching £o¢o's pod, the Kid spoke up.
+
+
+138 :
+
+{T6T156}
+[Kid]
+"I don't think you're a bad person at all. I 
+mean..."
+
+
+139 :
+
+{T6T157}
+[Kid]
+You're the one who saved £o¢o, right?
+
+
+{T6T158}
+[Kid]
+You risked your life to save someone.
+
+
+140 :
+
+{T6T159}
+[Tsugumi]
+Yeah, so what...?
+
+
+141 :
+
+{T6T160}
+[Tsugumi]
+To tell you the truth, I regret it now.
+
+
+{T6T161}
+[Tsugumi]
+£o¢o is suffering from TB now, isn't she?
+
+
+142 :
+
+{T6T162}
+[Tsugumi]
+"She's stuck in that pod, and she's 
+suffering..."
+
+
+{T6T163}
+[Tsugumi]
+"If I hadn't had the stupid whim to do 
+that... this wouldn't be happening right now."
+
+
+143 :
+[Kid]
+.........
+
+The Kid turned away from Tsugumi.
+
+
+144 :
+[Takeshi]
+Tsugumi!
+
+[Takeshi]
+Stop it right now!
+
+I yelled at her with all of my might.
+
+I ran over to her and grabbed her by her
+collar.
+
+
+145 :
+[Takeshi]
+Are you still talking garbage like that!?
+
+[Takeshi]
+Saying things you don't really mean!?
+
+
+{T6T164}
+[Tsugumi]
+I... mean it.
+
+[Takeshi]
+Stop lying to yourself!
+
+
+146 :
+
+{T6T165}
+[Tsugumi]
+It isn't... a lie.
+
+
+{T6T166}
+[Tsugumi]
+I...
+
+
+147 :
+
+{T6T167}
+[Tsugumi]
+"It's the truth... The only one who TB isn't 
+affecting is me."
+
+[Takeshi]
+...Ha...
+
+
+148 :
+I let go of Tsugumi.
+
+
+149 :
+
+{T6T168}
+[Tsugumi]
+"So how about it, Takeshi? Are you ready to 
+accept the truth now...?"
+
+Tsugumi‡Lprobably just pretending‡Lsmiled
+and looked at me.
+
+[Takeshi]
+Yeah, it is an indisputable fact.
+
+[Takeshi]
+Fine. I'll accept it.
+
+[Takeshi]
+BUT...
+
+
+150 :
+[Takeshi]
+You might just help us get better.
+
+
+151 :
+
+{T6T169}
+[Tsugumi]
+What did you say?
+
+Just then, Tsugumi's expression became serious.
+
+
+152 :
+[Takeshi]
+"Well, I'm not a doctor, so I can't really 
+tell, but..."
+
+[Takeshi]
+Smallpox, penicillin, snake antivenom...
+
+[Takeshi]
+"You're pretty smart, so this should make sense 
+to you, right?"
+
+
+153 :
+
+{T6T170}
+[Tsugumi]
+N-no way.
+
+[Takeshi]
+It's our only chance.
+
+[Takeshi]
+"Your body is creating antibodies to the 
+Tief Blau virus, so we'll use that."
+
+[Takeshi]
+"If we can get those antibodies, then there's 
+a small chance we can fight off the Tief Blau."
+
+
+154 :
+
+{T6T171}
+[Tsugumi]
+It's too dangerous!
+
+Tsugumi's expression was getting more and more
+worked up.
+
+
+{T6T172}
+[Tsugumi]
+"Do you have any idea how hard it is to 
+make antibodies and vaccines that work!?"
+
+
+155 :
+
+{T6T173}
+[Tsugumi]
+There's almost no chance!
+
+
+{T6T174}
+[Tsugumi]
+"If you make even the slightest mistake, it 
+could kill all of you!"
+
+[Takeshi]
+If we don't do anything, we're dead anyway!
+
+
+156 :
+
+{T6T175}
+[Tsugumi]
+......!
+
+She sucked in her breath.
+
+Without moving, Tsugumi's expression turned to
+ice.
+
+
+157 :
+[Y¤u]
+.........
+
+[Kid]
+.........
+
+Y¤u and the Kid, who had been staring at the
+ground the whole time, raised their heads and
+looked at me.
+
+
+158 :
+[Takeshi]
+"That's right... If we don't do anything, we're 
+dead."
+
+[Takeshi]
+And if that's the case...
+
+[Takeshi]
+"It's better that we take this risk, no 
+matter how small our chance of survival."
+
+[Takeshi]
+...*Cough*...
+
+
+159 :
+Splash.
+
+160 :
+
+
+
+161 :
+[Takeshi]
+Damn it, not another nosebleed...
+
+[Takeshi]
+A nosebleed AND I'm coughing up blood...
+
+[Takeshi]
+I can't believe how lame this is...
+
+I wiped off my nose and my chin.
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"What? You aren't going to laugh at me 
+for being such a dork, Tsugumi?"
+
+
+162 :
+[Tsugumi]
+.........
+
+[Takeshi]
+Come on, laugh, Tsugumi.
+
+
+163 :
+I held out my hand toward her.
+
+It was covered in blood.
+
+
+164 :
+
+{T6T176}
+[Tsugumi]
+Stop it. Stay away from me...
+
+
+{T6T177}
+[Tsugumi]
+Stop... I don't want to...
+
+Shaking her head fiercely, Tsugumi backed away.
+
+
+165 :
+
+{T6T178}
+[Y¤u]
+Ku-Kuranari...
+
+[Takeshi]
+Sh...!
+
+Y¤u was moving to stand up, but I lifted a
+hand, signaling her to stop.
+
+
+166 :
+
+{T6T179}
+[Y¤u]
+Listen, Kuranari, Tsugumi...
+
+Y¤u opened her mouth to talk from where she
+was seated at the terminal.
+
+
+{T6T180}
+[Y¤u]
+"There's a simple lab in the back of the 
+examination room."
+
+
+{T6T181}
+[Y¤u]
+"I saw a centrifuge and a machine for refining 
+serum..."
+
+
+167 :
+
+{T6T182}
+[Y¤u]
+"We could probably use that to safely and 
+quickly extract the Tief Blau antibodies."
+
+
+{T6T183}
+[Y¤u]
+"If this can scan for Tief Blau, it can 
+probably scan for the antibodies and extract 
+them."
+
+She continued to talk in a low, calm voice.
+
+
+168 :
+[Takeshi]
+Tsugumi, please help us. I'm asking you.
+
+
+{T6T184}
+[Tsugumi]
+Stay away from me, Takeshi...
+
+
+{T6T185}
+[Tsugumi]
+Don't touch me...
+
+I had backed her up all the way to the bed.
+
+
+169 :
+
+{T6T186}
+[Tsugumi]
+You want to live with this disease!?
+
+
+170 :
+
+{T6T187}
+[Tsugumi]
+"Once you've got the Curé virus, you can't go 
+back!"
+
+
+{T6T188}
+[Tsugumi]
+Do you have any idea what you're in for!?
+
+She couldn't go back any farther.
+
+
+171 :
+Tsugumi searched for the bed behind her with
+her hand.
+
+With the tip of her outstretched hand, she
+brushed across the only dose of serum left.
+
+
+172 :
+[Takeshi]
+"But we don't know that the Curé virus will 
+infect everyone."
+
+[Takeshi]
+Even you, you said you were special, right?
+
+[Takeshi]
+Please... I'm begging you.
+
+[Takeshi]
+"Let me take a gamble... so that everyone can 
+live."
+
+
+173 :
+I stood quietly in front of Tsugumi.
+
+My legs were unsteady.
+
+My vision was hazy.
+
+But I stepped forward strongly and stood up
+straight.
+
+
+174 :
+I looked deeply into Tsugumi's eyes.
+
+I was trying to look inside to see what lay
+behind them.
+
+
+175 :
+
+{T6T189}
+[Tsugumi]
+You won't be able to stay with people anymore!
+
+
+{T6T190}
+[Tsugumi]
+"I don't want everyone to live with the pain 
+that I have!"
+
+Large tears welled in her eyes.
+
+
+176 :
+
+{T6T191}
+[Tsugumi]
+I hate myself!
+
+
+{T6T192}
+[Tsugumi]
+I...!
+
+
+177 :
+SMACK!
+
+I slapped Tsugumi on the side of her face.
+
+[Tsugumi]
+.........
+
+She clenched her jaw tightly against the pain
+and glared at me.
+
+Just then.
+
+I pounced on the remaining dose of the serum,
+stealing it out of Tsugumi's hand.
+
+I took it...
+
+And...
+
+Smashed it into a thousand pieces on the
+cold hard surface of the examination room
+floor!
+
+
+178 :
+Crash...
+
+It let out a sad little sound and splintered
+into powdery fragments.
+
+
+179 :
+
+{T6T193}
+[Tsugumi]
+What are you doing...!?
+
+[Takeshi]
+There's no other way.
+
+[Takeshi]
+We've only got one option open to us now.
+
+
+{T6T194}
+[Tsugumi]
+You idiot...
+
+
+180 :
+
+{T6T195}
+[Tsugumi]
+Do you know what you've done...!?
+
+
+181 :
+
+{T6T196}
+[Tsugumi]
+You didn't have to do that...
+
+
+{T6T197}
+[Tsugumi]
+You know I can't fight you...!
+
+
+182 :
+With her lips trembling and her shoulders
+shaking, Tsugumi sank down on to the bed.
+
+[Takeshi]
+Yeah, I know.
+
+
+{T6T198}
+[Tsugumi]
+You jerk...
+
+
+{T6T199}
+[Tsugumi]
+You animal...
+
+
+{T6T200}
+[Tsugumi]
+You're a coward...
+
+She nestled up close to me and began to cry.
+
+[Takeshi]
+I don't care what you say.
+
+[Takeshi]
+I don't care how much you curse me.
+
+
+{T6T201}
+[Tsugumi]
+Aaaggh...
+
+
+{T6T202}
+[Tsugumi]
+You idiot... You idiot...
+
+
+{T6T203}
+[Tsugumi]
+"If you mess this up... I'll never forgive 
+you, Takeshi..."
+
+[Takeshi]
+It's okay... It's going to be okay...
+
+[Takeshi]
+"I promise you... we're all going to get out 
+of this... okay?"
+
+
+{T6T204}
+[Tsugumi]
+Aaaagh... Uuuugh...
+
+
+{T6T205}
+[Tsugumi]
+Waaaaaaah...!
+
+She raised her voice in a loud wail.
+
+She started crying like a small child.
+
+She threw away everything that was holding
+her back and cried with everything she had.
+
+Y¤u started operating the terminal...
+
+The refining machine whirred to life.
+
+The scanner also started to move.
+
+Wiping away her tears, she stuck out her arm.
+
+Y¤u gently took her arm and drew some blood.
+
+The whole time, Tsugumi held onto my hand...
+
+She continued to cry, letting out sobs
+occasionally.
+
+
+183 :
+My consciousness started to fade.
+
+I lost all sense of time.
+
+It was hard to tell if it was reality or a
+dream.
+
+Was I alive?
+
+Was I dead?
+
+And where was the 'me' that was thinking about
+all these things?
+
+
+184 :
+
+{T6T206}
+[Y¤u]
+It's fine now...
+
+
+{T6T207}
+[Y¤u]
+I think it worked...
+
+
+{T6T208}
+[Y¤u]
+I've prepared the shots...
+
+
+{T6T209}
+[Y¤u]
+So next... it's up to you... Tsugumi.
+
+.........
+
+
+{T6T210}
+[Tsugumi]
+If...
+
+
+{T6T211}
+[Tsugumi]
+You don't wake up from this...
+
+
+{T6T212}
+[Tsugumi]
+I'll never forgive you...
+
+
+{T6T213}
+[Tsugumi]
+Not as long as I live...
+
+.........
+
+
+{T6T214}
+[Kid]
+Tsugumi, where... are you going?
+
+
+{T6T215}
+[Tsugumi]
+Well, I...
+
+
+{T6T216}
+[Tsugumi]
+I left a friend of mine upstairs.
+
+
+{T6T217}
+[Tsugumi]
+I've got to go meet him. My best friend...
+
+
+{T6T218}
+[Tsugumi]
+Djungarian hamster...
+
+
+{T6T219}
+[Tsugumi]
+His name is Chami...
+
+
+{T6T220}
+[Kid]
+...Chami...?
+
+
+{T6T221}
+[Tsugumi]
+See you.
+
+
+185 :
+.........
+
+......
+
+
+186 :
+I woke from my stupor.
+
+A stale, cold feeling...
+
+I realized I had been sleeping sprawled on the
+floor.
+
+I slowly raised my body.
+
+I tried opening and closing my fists.
+
+Strange.
+
+The movement left me with an uncomfortable
+sensation, like it wasn't my own.
+
+I shook my head.
+
+I tried slapping my cheek.
+
+
+I breathed in the cold air, then breathed out.
+
+Strange...
+
+
+The inside of my head stayed dull and murky.
+
+
+I dragged myself to consciousness, forcefully
+reeling myself back to clarity.
+
+Putting my hands on the floor, I pulled up my
+heavy, aching body.
+
+My feet faltered.
+
+But somehow, I managed to stand.
+
+I looked around the infirmary.
+
+I saw several used syringes scattered on the
+floor.
+
+The Kid was still slumped against £o¢o's pod.
+
+
+He looked disturbingly bad, just completely
+out of it.
+
+Tsugumi was nowhere to be seen.
+
+
+I wondered where she'd gone to...?
+
+Y¤u was half-slumped over the terminal
+console, snoring away.
+
+She looked like she was in some pain and was
+perspiring in her sleep.
+
+Her hand was pushed against the panel as if
+she had been in the middle of typing.
+
+On the monitor, auto-repeated strands of
+letters were lined up without meaning.
+
+
+187 :
+
+{VSE03_06}
+[???]
+...! ...!
+
+What the...?
+
+I heard a strange sound.
+
+I re-inserted the voice converter into my ear.
+
+...It wasn't a problem with the converter.
+
+
+188 :
+
+{T6T222}
+[???]
+Come in...
+
+
+{T6T223}
+[???]
+IBF Three, please respond.
+
+
+{T6T224}
+[???]
+"This is the emergency rescue team from the 
+Maritime Defense Force."
+
+
+{T6T225}
+[???]
+We are being directed by Insel Null.
+
+Was I actually hearing someone's voice over
+the speaker!?
+
+189 :
+I hurried over to the terminal and removed
+Y¤u's hands from it, taking over the control
+panel.
+
+[Takeshi]
+H-hello!
+
+[Takeshi]
+This is the IBF infirmary... over!
+
+
+{T6T226}
+[Mission Control]
+"IBF Three!? I repeat, this is the Maritime 
+Defense Force emergency rescue team calling 
+from the control center at Insel Null."
+
+
+{T6T227}
+[Mission Control]
+Can you hear me?
+
+[Takeshi]
+Yeah! Okay... loud and clear!
+
+I was somehow able to force out an answer.
+
+Voices spilled out from the other end of the
+line.
+
+'Hey, there are survivors down there!'
+
+'I can't believe it!'
+
+'That's amazing!'
+
+That was what I wanted to say.
+
+It seemed like Y¤u had been able to restore
+the communication lines...
+
+
+{T6T228}
+[Mission Control]
+"We're sending a rescue team immediately. Can 
+you access the pool in IBF Three?"
+
+[Takeshi]
+Uh, yeah, it should be fine.
+
+
+{T6T229}
+[Mission Control]
+"Do you know how many survivors there are and 
+where they are located?"
+
+[Takeshi]
+"In the examination room, there are five... no, 
+six."
+
+
+{T6T230}
+[Mission Control]
+Six. I copy.
+
+
+{T6T231}
+[Mission Control]
+"A rescue team is headed there in a private 
+sector salvage vessel. When it arrives, 
+I want you to follow its directions and 
+get out of there."
+
+[Takeshi]
+How long 'til they get here?
+
+
+{T6T232}
+[Mission Control]
+"They're going as fast as they can, but it'll 
+take about an hour."
+
+One hour...
+
+£o¢o would be able to get out of the pod by
+then.
+
+I just hoped we had that long...
+
+
+{T6T233}
+[Mission Control]
+However, if something goes wrong...
+
+
+{T6T234}
+[Mission Control]
+"There should be a small deep-exploration 
+submarine left in the research facility. I 
+hate to make you do this, but I want you to 
+escape to that area."
+
+[Takeshi]
+"S-something goes wrong...? Wh-what do you 
+mean...?"
+
+
+{T6T235}
+[Mission Control]
+"LeMU's partition strength threshold is 
+already being exceeded."
+
+
+{T6T236}
+[Mission Control]
+"If one section implodes, there's the risk 
+that another area could collapse and start 
+sinking."
+
+
+{T6T237}
+[Mission Control]
+"If that happens, we think there's a high 
+possibility that heavy pieces could crash 
+down on the research facility."
+
+[Takeshi]
+You don't say...
+
+
+{T6T238}
+[Mission Control]
+"Of course, we're doing everything we can to 
+get to you before that happens."
+
+
+{T6T239}
+[Mission Control]
+"We're heading there no matter what! 
+So please hang on a little longer!"
+
+Click...
+
+The communications cut out suddenly.
+
+[Takeshi]
+Ah, hey! W-wait a sec!
+
+I hit the call button repeatedly, but there
+was no answer.
+
+[Takeshi]
+"Damn it, we can't open up communications 
+from this side..."
+
+I didn't have any other choice.
+
+I began reading through the manual on the
+side of the communication terminal.
+
+A minisub for deep sea exploration...
+
+We hadn't found it when we'd searched the
+place...
+
+[Takeshi]
+Ah, here it is!
+
+
+190 :
+Following the instructions, I used the control
+panel to call up information on the monitor.
+
+[Takeshi]
+It's a small electric submersible...
+
+The submarine was in a separate sealed sector
+attached to IBF.
+
+The specifications said it was a 'neutral
+buoyancy' miniature submarine for saturation
+diving.
+
+The important thing was that it could be brought
+over to the pool by remote control.
+
+[Takeshi]
+"If things get dangerous, I guess they want 
+us to board this."
+
+
+191 :
+I quickly went about setting up the remote
+control program so that we could move the
+submarine at a moment's notice if we had to.
+
+[Takeshi]
+Alright...
+
+[Takeshi]
+All we have to do now is...
+
+[Takeshi]
+Get Tsugumi and Sora over here...
+
+(Sora...)
+
+(How are we going to get Sora here...?)
+
+I was overcome by unease.
+
+
+192 :
+BOOOooom!
+
+Suddenly, a low metallic sound reverberated
+throughout the complex.
+
+The sound... seemed to come from above...
+
+
+193 :
+An alarm sounded from the terminal, and the
+screen changed.
+
+'Warning: flooding has occurred in LeMU'
+
+[Takeshi]
+LeMU...!?
+
+[Takeshi]
+This is bad...
+
+[Takeshi]
+That means... Tsugumi and Sora...!
+
+
+194 :
+I ran out into the corridor.
+
+It was only slight, but the floor was
+trembling.
+
+[Takeshi]
+Agh...
+
+
+195 :
+I suddenly became dizzy again.
+
+
+196 :
+Losing my balance, I crashed into a wall.
+
+It seemed I wasn't completely recovered yet.
+
+I didn't have any idea if the antibodies were
+working or not...
+
+Not a clue.
+
+[Takeshi]
+I... still gotta go...
+
+[Takeshi]
+I have to GO!
+
+
+197 :
+I mustered all of the strength I could and
+staggered toward the elevator.
+
+
+198 :
+As soon as the door opened, I flew into the
+lift.
+
+The elevator headed up.
+
+
+{T6T240}
+[Announcement]
+<Tiefe 90 meter...>
+
+
+{T6T241}
+[Announcement]
+<Tiefe 80 meter...>
+
+
+{T6T242}
+[Announcement]
+<Tiefe 70 meter...>
+
+Upward...
+
+
+199 :
+The elevator stopped.
+
+Forcing open the door, I slipped into the
+pressurization chamber.
+
+
+200 :
+The entrance had closed automatically.
+
+
+201 :
+I pressed the intercom button repeatedly.
+
+
+[Takeshi]
+Sora! Soraaa!
+
+
+202 :
+
+{T6T243}
+[Sora]
+Ku-Kuranari-san!? What are you...?
+
+[Takeshi]
+Hey! It's been a while!
+
+I realized how much I had missed that voice.
+
+I waved to Sora as she appeared outside the
+window.
+
+
+{T6T244}
+[Sora]
+Wh-what are you doing here!?
+
+[Takeshi]
+Well, it's obvious, isn't it? I came back.
+
+[Sora]
+.........
+
+[Takeshi]
+What's the damage?
+
+
+{T6T245}
+[Sora]
+There's flooding in Zweiter Stock.
+
+
+{T6T246}
+[Sora]
+"The warehouse area has been breached, and 
+cracks are beginning to form in the elevator 
+shaft. The situation is serious."
+
+
+{T6T247}
+[Sora]
+"There is over fifteen centimeters of flooding in 
+almost all of the corridors."
+
+[Takeshi]
+Where's Tsugumi?
+
+
+{T6T248}
+[Sora]
+She's... trapped in the infirmary...
+
+[Takeshi]
+What about the door?
+
+
+{T6T249}
+[Sora]
+The electronic lock has been released. But...
+
+[Takeshi]
+It won't open 'cause of the water pressure?
+
+
+{T6T250}
+[Sora]
+Yes...
+
+
+{T6T251}
+[Sora]
+"Kuranari-san, I'm going to start decompressing the 
+chamber."
+
+[Takeshi]
+How long will it take?
+
+
+{T6T252}
+[Sora]
+I will complete it as soon as possible.
+
+[Takeshi]
+I need to know how much time!
+
+
+{T6T253}
+[Sora]
+If I hurry... twelve hours.
+
+[Takeshi]
+Tw-twelve hours!? We don't have that long!
+
+
+{T6T254}
+[Sora]
+"If we don't dissolve the nitrogen in your 
+blood, you will get decompression sickness."
+
+[Takeshi]
+I don't care! Open that door now!
+
+
+{T6T255}
+[Sora]
+I can't do that...!
+
+[Takeshi]
+If we don't act fast, Tsugumi is dead!
+
+
+{T6T256}
+[Sora]
+"If we open that door now, due to the rapid 
+decompression, the nitrogen in your 
+bloodstream will form bubbles, causing blood 
+clots, and in the worst case..."
+
+[Takeshi]
+I don't care, you get that door OPEN NOW!
+
+
+{T6T257}
+[Sora]
+I can't... It's too...
+
+
+203 :
+I found an emergency escape lever inside
+the chamber and pulled on it.
+
+
+204 :
+I kicked the door.
+
+
+205 :
+KABOooM!
+
+There was a horrible noise, as though all the
+air inside had exploded.
+
+My body was thrown from the room along with
+the high-pressure gas that had built up inside.
+
+
+
+206 :
+I was tossed like a piece of confetti,
+sliding and rolling along the floor all the
+way to the control room.
+
+My body crashed heavily against the wall.
+
+
+207 :
+[Takeshi]
+Gaagh!
+
+[Takeshi]
+...EeeaaAAAAGGHH!
+
+[Takeshi]
+WAAAAaaaah...
+
+Pain wracked my body.
+
+And it wasn't because I had smacked into a
+wall.
+
+Although I kept spewing out my breath, it
+felt like air kept bubbling up in my lungs.
+
+A terrible exhaustion.
+
+My whole body felt strung out.
+
+My eyes felt swollen and painful.
+
+The muscles in my limbs began to jerk and
+spasm.
+
+Numbness. Pain. Headache.
+
+I felt like I had no room to move.
+
+
+208 :
+[Takeshi]
+Urgh... uurrgh...
+
+According to astronomers, humans could live for
+a short period of time even if they were
+thrown out of a spaceship into space.
+
+But fish brought quickly up from the sea
+depths to sea level died instantly because
+the pressure difference caused their organs
+to burst.
+
+So was I an astronaut, or...
+
+
+209 :
+
+{T6T258}
+[Sora]
+Kuranari-san, your voice converters!
+
+
+210 :
+I felt a splitting pain deep in both ears.
+
+Repelled by my eardrums, the voice converters
+flew out of my ears.
+
+I hurriedly held both ears with the palms of
+my hands and knocked them, as though trying
+to drain water from them.
+
+
+{T6T259}
+[Sora]
+......! .........!
+
+I couldn't hear what Sora was screaming.
+
+All I could do was lie on the floor, trying
+to suck in air.
+
+Like a fish that had been pulled out of the
+water...
+
+A few minutes passed...
+
+.........
+
+
+211 :
+The earphones that I had been wearing had
+broken in half.
+
+I got up weakly.
+
+
+212 :
+I saw some extra voice converters on the edge
+of the console.
+
+I crammed them forcefully into my ears.
+
+
+213 :
+
+{T6T260}
+[Sora]
+Kuranari-san!
+
+
+214 :
+
+{T6T261}
+[Sora]
+Kuranari-san... Are you okay?
+
+Tears welling up in her eyes, Sora looked at
+me with a pained expression.
+
+[Takeshi]
+Okay, okay. I'm still alive.
+
+At least my eardrums hadn't burst...
+
+
+215 :
+I left Himmel and started heading up.
+
+I checked the screen on my PDA.
+
+It showed a map of LeMU, and a blinking dot
+showed me where Tsugumi was...
+
+From the console at Himmel, I had installed a
+program to link data from LeMU's sensors to
+my PDA.
+
+Sora had prepared it for me.
+
+
+216 :
+[Takeshi]
+"Don't you stop me, you hear? No matter what 
+you say, I'm going."
+
+
+{T6T262}
+[Sora]
+"Alright, Kuranari-san. It seems that you've made 
+up your mind..."
+
+
+{T6T263}
+[Sora]
+"I'll stay here in Himmel to keep track of 
+the situation at LeMU and send updates to 
+your PDA."
+
+
+{T6T264}
+[Sora]
+"I'll do what I can to stop the partitions 
+from failing... to see that this place stays 
+together even a little while longer. So..."
+
+
+{T6T265}
+[Sora]
+"Promise me... that you'll come back here with 
+Komachi-san..."
+
+[Takeshi]
+Yeah, it's a promise.
+
+
+217 :
+Running up the stairs, I looked down at my
+PDA again.
+
+
+218 :
+The life sign in the infirmary wasn't moving.
+
+The map showed that the surrounding corridors
+were flooded and that there was no way to
+access the area.
+
+But...
+
+I knew what I had to do.
+
+
+219 :
+The area I wanted to go was filled with water.
+
+But because the watertight doors had shut on
+all sides of the floor, the water had stopped
+flowing.
+
+In that case... I thought I could make it.
+
+
+220 :
+I went to the emergency corridor leading
+under the infirmary and dove in.
+
+How many times had I gone back and forth down
+that corridor?
+
+My PDA backlight shined a weak light on the
+area before me.
+
+Even then...
+
+I wondered how many more meters it was, but my
+body remembered.
+
+Even if I closed my eyes, I knew I could make
+it there.
+
+{16:4}
+
+221 :
+Turning off the light, I propelled myself
+forward through the darkness.
+
+I wouldn't let the darkness overtake me
+anymore.
+
+It wasn't something that I would run away from
+or be afraid of...
+
+I would take the darkness inside of me and
+make it my own...
+
+That was why I wasn't afraid.
+
+There was nothing to be afraid of.
+
+{16:4}
+
+222 :
+SPLASH!
+
+Entering the room from the hole of the
+elevator shaft, I quickly climbed into the
+infirmary.
+
+[Takeshi]
+Tsugumi! Tsugumi!
+
+
+{T6T266}
+[Tsugumi]
+.........!
+
+She was in a corner of the room, hugging her
+knees to herself.
+
+At her feet was the slightly wet, furry
+figure of Chami.
+
+
+223 :
+
+{T6T267}
+[Tsugumi]
+Ta-Takeshi... Why... Why...!?
+
+Tsugumi looked at me with wide-open eyes.
+
+
+[Takeshi]
+What are you so worked up about, Tsugumi?
+
+[Takeshi]
+I came back to pick you up! I came back for you!
+
+[Takeshi]
+Well, I guess I'm a bit late, but...
+
+I scratched my nose.
+
+
+224 :
+
+{T6T268}
+[Tsugumi]
+Y-you idiot! What are you doing here!?
+
+
+{T6T269}
+[Tsugumi]
+Do you... want do die!?
+
+One after another, large tears started falling
+from her eyes.
+
+[Takeshi]
+Listen...
+
+I was laughing as I spoke.
+
+[Takeshi]
+"I came back for something I forgot... Um, yeah, 
+that's it."
+
+
+225 :
+
+{T6T270}
+[Tsugumi]
+You... forgot...?
+
+Picking up Chami in both hands, she stood up
+slowly.
+
+[Takeshi]
+Yeah. Left it here, silly me...
+
+[Takeshi]
+My irreplaceable...
+
+[Takeshi]
+"More important to me than anything 
+else... friend..."
+
+
+226 :
+[Tsugumi]
+.........
+
+
+{T6T271}
+[Tsugumi]
+...How...
+
+
+227 :
+
+{T6T272}
+[Tsugumi]
+How...did you get here?
+
+She looked at me as though she still couldn't
+believe I was actually there.
+
+[Takeshi]
+Well, I'm a good swimmer.
+
+[Takeshi]
+"Actually, I swam down and back in a 25-meter 
+pool once."
+
+[Takeshi]
+I kicked off the wall coming back, but still...
+
+I waved my hands to dismiss it.
+
+[Takeshi]
+Wait, I think I just beat my record...
+
+[Takeshi]
+"Hey? Do you remember the furthest I've ever 
+swum underwater?"
+
+
+228 :
+
+{T6T273}
+[Tsugumi]
+...Fi...
+
+
+{T6T274}
+[Tsugumi]
+51 meters...?
+
+She answered, her expression beginning to
+break down.
+
+[Takeshi]
+Yeah...
+
+[Takeshi]
+You think I'd die in a place like this?
+
+[Takeshi]
+I mean...
+
+[Takeshi]
+"I still haven't gotten enough abuse from you 
+yet."
+
+[Takeshi]
+"I want to hear what you've got to say from 
+here on out..."
+
+
+229 :
+
+{T6T275}
+[Tsugumi]
+Aaagh...
+
+[Takeshi]
+So...
+
+[Takeshi]
+I came for you, Tsugumi.
+
+
+230 :
+
+{T6T276}
+[Tsugumi]
+Takeshi... Takeshi!
+
+We ran to one another.
+
+Reaching out our hands...
+
+We came together.
+
+I gently wiped away the teardrops around her
+mouth with my lips.
+
+And in the center of the infirmary, we held
+each other close, embracing firmly.
+
+Riding on both of our hands, Chami snorted and
+looked at us.
+
+[Takeshi]
+Alright, let's go back... together.
+
+
+231 :
+
+{T6T277}
+[Tsugumi]
+Okay...
+
+Tsugumi softly held Chami and hid him inside
+the chest of her clothing.
+
+
+232 :
+We had no time to lose.
+
+
+233 :
+It was only a matter of time before the place
+collapsed in on itself.
+
+We had to hurry.
+
+I knew that...
+
+But I wasn't in a rush.
+
+We would make it.
+
+I'd never say quit.
+
+I'd never say it was too late.
+
+I knew it was going to be okay.
+
+
+234 :
+Pulling on Tsugumi's hand, I flew like the
+wind.
+
+
+235 :
+
+{T6T278}
+[Sora]
+Kuranari-san, Komachi-san!
+
+
+{T6T279}
+[Sora]
+"I've prepared the chamber for you! Get inside, 
+quickly!"
+
+
+236 :
+I opened up the sliding door and rushed to
+the other side of the glass.
+
+
+237 :
+We went in the compression chamber for IBF.
+
+
+238 :
+
+{T6T280}
+[Tsugumi]
+*Pant*... *pant*...
+
+Slouching back in a chair, Tsugumi struggled
+to catch her breath.
+
+[Takeshi]
+*Pant*... *pant*...
+
+I didn't think that I would be able to move
+for a while.
+
+
+239 :
+[Sora]
+.........
+
+[Takeshi]
+Sora... You're coming too...
+
+[Sora]
+.........
+
+[Takeshi]
+What's wrong...?
+
+[Takeshi]
+You can't come no matter what?
+
+[Sora]
+.........
+
+The door to the room shut automatically.
+
+
+240 :
+The compression started...
+
+[Takeshi]
+Sora...
+
+Sora stood silently outside of the chamber.
+
+[Takeshi]
+Sora!
+
+I started to open up the door.
+
+Once again, I reached out to the emergency
+lever on the side of the door.
+
+
+241 :
+
+{T6T281}
+[Sora]
+Kuranari-san... it is okay.
+
+Sora smiled softly from the other side of the
+window.
+
+She scrunched her eyebrows as if perplexed.
+
+Then, slowly, she shook her head from side to
+side.
+
+
+{T6T282}
+[Sora]
+I will be fine. Don't worry about me.
+
+
+{T6T283}
+[Sora]
+I told you before, didn't I?
+
+
+{T6T284}
+[Sora]
+I am not here.
+
+
+{T6T285}
+[Sora]
+And yet I am everywhere.
+
+
+{T6T286}
+[Sora]
+I am here, and at the same time there.
+
+[Takeshi]
+.........
+
+
+242 :
+
+{T6T287}
+[Sora]
+I do not exist.
+
+
+{T6T288}
+[Sora]
+And yet‡LI exist everywhere.
+
+
+{T6T289}
+[Sora]
+"There will be a time when we meet again. I'm 
+sure of it."
+
+
+{T6T290}
+[Sora]
+"If you die, we will never be able to meet 
+again."
+
+
+243 :
+
+{T6T291}
+[Sora]
+So please...
+
+
+{T6T292}
+[Sora]
+Please don't ask me anything now.
+
+[Takeshi]
+Sora...
+
+
+244 :
+
+{T6T293}
+[Sora]
+Believe me, Kuranari-san.
+
+[Takeshi]
+.........
+
+
+{T6T294}
+[Sora]
+Thank you.
+
+Her RSD image started to warp and break up.
+
+A fog enveloped Sora from behind.
+
+Sora's image changed to a rainbow hue.
+
+And then, even the rainbow...
+
+Started to fade.
+
+Sora was disappearing...
+
+Watching that happen, I wondered where she
+really was?
+
+Would there really come a time when we would
+meet again?
+
+All I could do was trust her last words to me.
+
+
+245 :
+[Sora]
+.........
+
+But she just stood there without moving.
+
+
+She wouldn't make it...
+
+Water...
+
+Water was flooding into Himmel's control room.
+
+Her image broke up and disappeared...
+
+A fog enveloped Sora, covering her over. She
+disappeared without a word.
+
+
+246 :
+An hour later.
+
+The room on the other side of the compression
+chamber had already filled with water.
+
+The compression finished...
+
+Tsugumi and I transferred to the lift and
+went down to IBF
+
+.........
+
+
+247 :
+As soon as we entered the room, the lights
+came on.
+
+
+248 :
+
+{T6T295}
+[Tsugumi]
+It's quiet...
+
+[Takeshi]
+Yeah, you're right...
+
+The flooding should have been fairly advanced
+in the area above us.
+
+Perhaps some of the sections had started to
+collapse.
+
+But the surface of the pool hardly even
+rippled.
+
+As if there were nothing going on.
+
+I wondered how much longer the place would
+hold...
+
+[Takeshi]
+Ah...
+
+
+249 :
+
+{T6T296}
+[Tsugumi]
+What's wrong?
+
+[Takeshi]
+The time... We're past the scheduled time.
+
+
+250 :
+
+{T6T297}
+[Tsugumi]
+What schedule?
+
+[Takeshi]
+Actually, there's a rescue team on its way.
+
+
+{T6T298}
+[Tsugumi]
+Rescue...?
+
+[Takeshi]
+"Yeah. They called themselves the Maritime 
+Defense Force, I think."
+
+[Takeshi]
+"Y¤u was able to open up a communication line 
+to Insel Null."
+
+
+251 :
+I turned the handle on the door of the
+examination room.
+
+
+252 :
+The lights came back on in the room.
+
+
+253 :
+
+{T6T299}
+[Tsugumi]
+Ah...
+
+
+{T6T300}
+[Tsugumi]
+They aren't here... Nobody's here!?
+
+Tsugumi searched around the examination room.
+
+
+254 :
+Then she checked each of the capsule pods.
+
+I also did a quick search of the room.
+
+£o¢o's pod was open.
+
+The manual for the control panel was opened
+to the same page.
+
+The used bottles of serum lay strewn on the
+floor.
+
+[Takeshi]
+Yeah...
+
+[Takeshi]
+"Y¤u, the Kid, £o¢o, that researcher... 
+They're all gone."
+
+
+255 :
+
+{T6T301}
+[Tsugumi]
+Where did they go?
+
+Tsugumi was starting to panic.
+
+[Takeshi]
+"Hey, hold on. I'm sure the rescue team found 
+them."
+
+
+256 :
+Just then, a voice that I recognized came over
+the speaker.
+
+I hit the talk button.
+
+Tsugumi was next to me, staring at the monitor.
+
+
+257 :
+
+{T6T302}
+[Mission Control]
+This is Insel Null Control. Please respond.
+
+[Takeshi]
+This is the examination room in IBF Three, over!
+
+
+{T6T303}
+[Mission Control]
+Thank goodness... That's where you were.
+
+
+{T6T304}
+[Mission Control]
+"A little while ago, we got a message from the 
+dispatch team that they couldn't find you. 
+You had us worried there."
+
+[Takeshi]
+I'm sorry, I was out for a bit.
+
+
+{T6T305}
+[Mission Control]
+"We were able to rescue the other three 
+people in the examination room, and they are 
+being cared for in the salvage vessel."
+
+
+258 :
+[Takeshi]
+Is everyone okay!?
+
+
+{T6T306}
+[Mission Control]
+"We can't say for sure... Their conditions are 
+serious."
+
+
+{T6T307}
+[Mission Control]
+"We're fighting against time. The submersible 
+is going to surface soon, and we'll transfer 
+them to a floating medical center."
+
+[Takeshi]
+Okay. You take care of them.
+
+
+{T6T308}
+[Mission Control]
+How many people are there with you?
+
+[Takeshi]
+Two, including me.
+
+[Takeshi]
+There's one person that didn't make it...
+
+
+{T6T309}
+[Mission Control]
+"Roger. We'll send the team back there as 
+soon as we can."
+
+
+{T6T310}
+[Mission Control]
+"But there is the possibility that the team 
+won't be able to approach IBF if it starts to 
+break up."
+
+[Takeshi]
+"I've got the exploration vessel standing by. 
+I can call it here by remote control, right?"
+
+
+{T6T311}
+[Mission Control]
+"Ah, yeah... I'm sorry to have to ask you to 
+use it, but there's nothing else we can do."
+
+
+{T6T312}
+[Mission Control]
+"We'll do the best we can. Whatever happens, 
+you hang in there."
+
+[Takeshi]
+Roger.
+
+Click...
+
+The communications cut out.
+
+
+259 :
+
+{T6T313}
+[Tsugumi]
+What's that supposed to mean?
+
+[Takeshi]
+You weren't listening?
+
+[Takeshi]
+It means...
+
+[Takeshi]
+"All this would be for nothing if everyone 
+died while they were waiting for us."
+
+[Takeshi]
+"The rescue team decided to put a higher 
+priority on getting Y¤u, the Kid, and £o¢o to 
+the hospital rather than waiting for us."
+
+
+260 :
+[Tsugumi]
+.........
+
+
+261 :
+
+{T6T314}
+[Tsugumi]
+Yeah... You're right...
+
+
+262 :
+The color in Tsugumi's face slowly returned to
+normal as her sense of panic faded.
+
+[Takeshi]
+Well...
+
+[Takeshi]
+"I might just take a nap until the next bus 
+comes..."
+
+
+263 :
+
+{T6T315}
+[Tsugumi]
+B-bus?
+
+[Takeshi]
+"If you think the bus is going to be late, 
+call a taxi for me, will you?"
+
+
+264 :
+
+{T6T316}
+[Tsugumi]
+T-taxi?
+
+
+{T6T317}
+[Tsugumi]
+What are you talking about... Takeshi?
+
+[Takeshi]
+"If you push that button, a small submarine 
+will come over here by remote control‡Lour 
+very own private taxi should come here from 
+another area of IBF."
+
+
+265 :
+
+{T6T318}
+[Tsugumi]
+O-okay...
+
+[Takeshi]
+Anyway...
+
+[Takeshi]
+I'm just glad that everyone's alright...
+
+[Takeshi]
+Yes...
+
+The adrenaline that had kept me going earlier
+suddenly ran out.
+
+[Takeshi]
+I'm just... so... glad...
+
+
+266 :
+
+{T6T319}
+[Tsugumi]
+Ta-Takeshi!?
+
+
+267 :
+My legs suddenly gave out...
+
+
+268 :
+My head struck the hard surface of the floor...
+
+
+But before I could feel anything...
+
+I slipped into a deep sleep as Tsugumi held
+me in her tight embrace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

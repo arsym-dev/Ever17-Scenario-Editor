@@ -1,0 +1,3943 @@
+
+
+1 :
+We arrived at Zweiter Stock...
+
+And when we did, a voice came from the speaker
+above the corridor.
+
+
+{S1C000}
+[Sora]
+Right now, Komachi-san...
+
+
+{S1C001}
+[Sora]
+...Seems to be in the security office.
+
+I figured Sora was using the complex's
+intercom system to announce
+Tsugumi's location.
+
+2 :
+
+{S1C002}
+[Takeshi]
+Got it. The security office, huh?
+
+Takeshi said that toward the ceiling.
+
+
+3 :
+On the way to the office...
+
+Y¤u said...
+
+
+4 :
+
+{S1C003}
+[Y¤u]
+Hey, Kuranari, I've got an idea...
+
+
+5 :
+
+{S1C004}
+[Takeshi]
+?
+
+
+{S1C005}
+[Y¤u]
+"I think this kinda thing is, well, better 
+with just girls."
+
+
+6 :
+
+{S1C006}
+[Takeshi]
+Just girls?
+
+
+7 :
+
+{S1C007}
+[Y¤u]
+I think just Mayo and I should go.
+
+
+8 :
+
+{S1C008}
+[Y¤u]
+"That way, it might be easier to talk to 
+Tsugumi..."
+
+
+9 :
+
+{S1C009}
+[Y¤u]
+Mayo, you're okay with that, yeah?
+
+
+{S1C010}
+[Sara]
+Sure, I'm fine with that.
+
+[Kid]
+Why can't Takeshi and I come along?
+
+
+10 :
+
+{S1C011}
+[Y¤u]
+"This kinda thing gets messy when there are 
+guys around."
+
+
+11 :
+
+{S1C012}
+[Sara]
+"Four against one triggers fear, you know? 
+Fight or flight reactions."
+
+
+12 :
+
+{S1C013}
+[Y¤u]
+That and... let's call it female intuition.
+
+[Kid]
+Intuition?
+
+
+13 :
+
+{S1C014}
+[Y¤u]
+"I've got a hunch that Mayo and I can fix this 
+misunderstanding."
+
+
+14 :
+
+{S1C015}
+[Takeshi]
+Misunderstanding, huh...?
+
+
+15 :
+
+{S1C016}
+[Y¤u]
+"That's what it is, isn't it? We haven't done 
+anything to make her angry, so..."
+
+[Kid]
+That's true.
+
+[Kid]
+"It might be better to just let the two girls 
+go instead of going in a group."
+
+For some reason, I didn't have any confidence
+in my ability to get Tsugumi to open up to us,
+and I was sure that type of thing wasn't one
+of Takeshi's strong points either.
+
+
+16 :
+
+{S1C017}
+[Takeshi]
+Then I guess we'll leave it up to you.
+
+
+17 :
+So with that, Y¤u and Sara headed to the
+security office.
+
+Takeshi and I were left in the middle of the
+corridor...
+
+
+18 :
+...At a loss as to what to do.
+
+
+{S1C018}
+[Takeshi]
+So... What now?
+
+[Kid]
+What do you say?
+
+
+{S1C019}
+[Takeshi]
+Wanna wait in front of the security office?
+
+[Kid]
+"I don't think that would accomplish anything, 
+but..."
+
+
+{S1C020}
+[Takeshi]
+Then what?
+
+[Kid]
+I don't know...
+
+
+19 :
+
+{S1C021}
+[Takeshi]
+For now, we could take a look around.
+
+[Kid]
+I've had enough of that.
+
+
+20 :
+
+{S1C022}
+[Takeshi]
+Well, I haven't.
+
+[Kid]
+"Y¤u, Sara, and I walked so much that we just 
+about wore holes in our shoes."
+
+[Kid]
+Zweiter Stock, Dritter Stock, everywhere.
+
+
+21 :
+
+{S1C023}
+[Takeshi]
+"In that case, why don't we give the 
+merry-go-round a shot?"
+
+[Kid]
+"I don't know. Two guys on the 
+merry-go-round sounds kinda..."
+
+
+22 :
+
+{S1C024}
+[Takeshi]
+Yeah...
+
+
+23 :
+
+{S1C025}
+[Takeshi]
+"Well, anyway, I've decided to take a look 
+around inside LeMU."
+
+
+{S1C026}
+[Takeshi]
+"I'm the kind of guy that just has to see 
+things with his own two eyes."
+
+
+24 :
+So Takeshi and I split up to search.
+
+We agreed to meet up at 9:30 p.m.
+
+We were to meet in front of the security
+office.
+
+
+25 :
+
+{S1C027}
+[Sora]
+"LeMU has three layers below the ocean's 
+surface."
+
+
+{S1C028}
+[Sora]
+Erster Boden, Zweiter Stock, Dritter Stock...
+
+
+{S1C029}
+[Sora]
+"There are seventeen meters between each floor. 
+If you go down a floor, then you go seventeen 
+meters deeper."
+
+
+26 :
+
+{S1C030}
+[Sora]
+"Thus, the third floor, Dritter Stock, is 51 
+meters deep."
+
+With all of that time on my hands, I visited
+Sora in the control room.
+
+Sora politely, and in an easy to understand way,
+explained to me about LeMU, of which I was
+almost entirely ignorant.
+
+
+{S1C031}
+[Sora]
+"Outside of Dritter is a total of six atmospheres 
+of pressure‡Lfive atmospheres water pressure 
+and one atmosphere air pressure."
+
+
+{S1C032}
+[Sora]
+"Even if, hypothetically, you were to suddenly 
+go out into the ocean from Dritter..."
+
+
+27 :
+
+{S1C033}
+[Sora]
+"Your lungs would be crushed to about 
+one-sixth of their size, and approximately 
+five-sixths of them would be flooded. 
+You would likely die in a matter of minutes."
+
+[Kid]
+Uh, can I ask a question?
+
+
+28 :
+
+{S1C034}
+[Sora]
+Go ahead...
+
+[Kid]
+"How much pressure, exactly, is five atmospheres 
+of water pressure? It's hard to imagine..."
+
+
+{S1C035}
+[Sora]
+"One atmosphere is one kilogram of weight per 
+square centimeter."
+
+
+{S1C036}
+[Sora]
+"The difference in pressure inside and outside 
+of LeMU is five atmospheres, or a multiple of 
+five. Please think of it as five kilograms of 
+weight per square centimeter."
+
+[Kid]
+Five kilograms of weight per square centimeter...
+
+[Kid]
+"So for each meter, it would be 100 times 
+100, or..."
+
+[Kid]
+Fifty tons!?
+
+
+29 :
+
+{S1C037}
+[Sora]
+That's correct.
+
+[Kid]
+B-but...
+
+[Kid]
+What about those people that skin dive?
+
+[Kid]
+"They can dive to depths of about 30 meters, 
+right?"
+
+
+30 :
+
+{S1C038}
+[Sora]
+"The current world record for free diving is 
+150 meters."
+
+
+{S1C039}
+[Sora]
+"With an aqualung and pauses along the way, 
+probably just about anyone could dive around 
+35 meters."
+
+
+{S1C040}
+[Sora]
+"However, the air sent to your lungs would be 
+highly pressurized gas."
+
+
+{S1C041}
+[Sora]
+"But with skin diving, they don't stop to 
+breathe along the way. Amateurs can't 
+make it past 20 meters."
+
+
+{S1C042}
+[Sora]
+"Any deeper than that requires intensive 
+training."
+
+[Kid]
+Wow. Is that right...?
+
+
+31 :
+
+{S1C043}
+[Sora]
+And there is one other important thing.
+
+
+{S1C044}
+[Sora]
+"Even if you could withstand the water 
+pressure..."
+
+
+{S1C045}
+[Sora]
+"Could you really swim over 51 meters to 
+the surface?"
+
+[Kid]
+51 meters?
+
+[Kid]
+How high is that? 51 meters?
+
+
+32 :
+
+{S1C046}
+[Sora]
+Imagine a fifteen-story building.
+
+
+{S1C047}
+[Sora]
+"Or five three-story school buildings stacked 
+on top of each other."
+
+[Kid]
+Five schools stacked...
+
+[Kid]
+No way. I couldn't swim that.
+
+
+33 :
+
+{S1C048}
+[Sora]
+Well, then how about a ten-story building?
+
+
+{S1C049}
+[Sora]
+"The depth of Zweiter Stock only amounts to
+34 meters."
+
+[Kid]
+34 meters...
+
+34 :
+{11:0-42}
+{11:1}Even that would be impossible
+
+{11:1}I might be able to handle that
+
+
+35 :
+[Kid]
+I think even that would be impossible.
+
+
+36 :
+
+{S1C050}
+[Sora]
+I think you are probably correct.
+
+[Kid]
+"So basically, what you're trying to say is 
+that we can't escape by swimming. Right, Sora?"
+
+
+{S1C051}
+[Sora]
+Yes.
+
+[Kid]
+"I guess in the end, all we can do is wait 
+for help to arrive."
+
+
+37 :
+
+{S1C052}
+[Sora]
+That's what it comes down to.
+
+
+38 :
+[Kid]
+Well... somehow, I think I could...
+
+
+39 :
+
+{S1C053}
+[Sora]
+"What? You'd have to swim it, you know. 
+This isn't walking or running."
+
+[Kid]
+"But... 34 meters... that's right over 
+there..."
+
+[Kid]
+"Well, I would float... Actually, I think it 
+would be easier than walking the distance 
+on land."
+
+
+40 :
+
+{S1C054}
+[Sora]
+"You don't have any idea how severe water 
+pressure is at a 34 meter depth, do you, Kid-san?"
+
+[Kid]
+Huh? N-now hold on just a minute...
+
+[Kid]
+"Just a second ago... you were talking about 
+even if one could endure the water pressure."
+
+
+41 :
+
+{S1C055}
+[Sora]
+"That type of hypothetical talk is 
+meaningless."
+
+
+{S1C056}
+[Sora]
+"You can't discuss this problem without water 
+pressure."
+
+[Kid]
+But, Sora, you said...
+
+
+42 :
+
+{S1C057}
+[Sora]
+Listen. Try to imagine it just one more time.
+
+
+{S1C058}
+[Sora]
+"You are 34 meters deep... could you swim to 
+the top of a ten floor building?"
+
+There was a severe edge to Sora's way of
+putting it.
+
+I felt like there was something of a warning
+contained within her words.
+
+[Kid]
+...S-Sora, you don't...
+
+[Kid]
+"You don't really think that I would try 
+to break out of Zweiter Stock and swim to 
+freedom, do you?"
+
+
+43 :
+
+{S1C059}
+[Sora]
+You wouldn't, would you?
+
+[Kid]
+Hahaha. No way.
+
+[Kid]
+"Why would I do anything that reckless and 
+crazy?"
+
+
+44 :
+
+{S1C060}
+[Sora]
+Well, I should hope not...
+
+[Kid]
+It's fine. I understand.
+
+[Kid]
+"Right now, all we can do is patiently wait for 
+help... Right?"
+
+
+45 :
+
+{S1C061}
+[Sora]
+That's right.
+
+Saying that, Sora gave a big nod.
+
+
+46 :
+As I was so involved in my chat with Sora,
+I had missed the appointed meeting time.
+
+I left the control room and headed toward the
+meeting point‡Lin front of the security
+office.
+
+But...
+
+
+47 :
+Takeshi was nowhere to be seen.
+
+[Kid]
+Hey! Takeshi!
+
+I called out to him, but there was no answer.
+
+
+Glancing at the door of the security office,
+I saw that it was open.
+
+I decided to take a peek inside the room.
+
+
+48 :
+No one was there...
+
+Not Y¤u, Sara, nor Tsugumi.
+
+[Kid]
+Hey, Sora! Sora, everybody? Where are you?
+
+I looked up at the bare ceiling and called out.
+
+I figured Sora would be in the control room
+monitoring me.
+
+But apparently she wasn't...
+
+The speakers in the ceiling remained painfully
+silent.
+
+
+49 :
+[Kid]
+Hmmm. I wonder what I should do.
+
+I thought as I wandered walking through the
+corridors.
+
+
+50 :
+First...
+
+51 :
+I thought I would go somewhere else.
+
+52 :
+{11:0-44}
+{11:2-d0}To the merry-go-round
+
+{11:2-d1}To the Jellyfish Gondola
+
+{11:2-d2}To the warehouse
+
+{11:2-d3}To the control room
+
+{11:2-d4}To the security office
+
+
+53 :
+
+
+54 :
+‡LThe merry-go-round.
+
+Several dozen dolphins were connected in a
+circle.
+
+There were no horses. No carriages.
+There were no children's voices.
+
+And the blue ocean was just one paneling
+of wall away...
+
+We were all trapped in that place...
+
+
+Thinking that, it was hard to believe that the
+scenery spreading before me was reality.
+
+(What... what am I doing here...?)
+
+
+That thought popped into my mind.
+
+What I was experiencing there seemed much
+more bizarre to me than the fact that I'd lost
+my memory.
+
+In other words, my doubts about the past were
+less than my sense of unease about the present.
+
+I was overcome by a sense that my existence
+was floating away.
+
+
+55 :
+
+{S1C062}
+[Y¤u]
+Hey, Kid.
+
+
+{S1C063}
+[Y¤u]
+Are you spacing out there?
+
+Y¤u was peeking out at me from the shadow of
+a rock.
+
+[Kid]
+Uh, not exactly...
+
+
+56 :
+
+{S1C064}
+[Y¤u]
+Really?
+
+
+57 :
+[Kid]
+"Oh. I talked to Sara, and she said that things 
+were no good with Tsugumi."
+
+
+58 :
+
+{S1C065}
+[Y¤u]
+Well... You could say that.
+
+[Kid]
+What exactly happened?
+
+
+59 :
+[Kid]
+"Oh, that reminds me, how were things with 
+Tsugumi?"
+
+
+60 :
+
+{S1C066}
+[Y¤u]
+Well...
+
+
+61 :
+
+{S1C067}
+[Y¤u]
+In a nutshell, it was like we whiffed.
+
+[Kid]
+What do you mean?
+
+
+{S1C068}
+[Y¤u]
+"We started with light conversation about how 
+old she was, where she lived, if she was 
+hungry. We were biding our time, waiting 
+for the right pitch."
+
+
+{S1C069}
+[Y¤u]
+"Ultimately... Mayo asked her straight out 'Why 
+are you so mad?'..."
+
+[Kid]
+And? What did she say?
+
+
+{S1C070}
+[Y¤u]
+I said we whiffed, right?
+
+
+62 :
+
+{S1C071}
+[Y¤u]
+"It was like we waited and waited for a good 
+pitch. But we didn't get anything, so we swung."
+
+[Kid]
+So it was a big zero?
+
+
+{S1C072}
+[Y¤u]
+"I don't know if it was a zero. 
+But we sure didn't hit a home run."
+
+
+{S1C073}
+[Y¤u]
+"All we can do is wait for her to get careless 
+and throw the right pitch."
+
+[Kid]
+And get her out...
+
+
+63 :
+
+{S1C074}
+[Y¤u]
+No, get a hit.
+
+[Kid]
+?
+
+
+64 :
+
+{S1C075}
+[Y¤u]
+"I just wanted to get a sense... To feel what 
+she is all about."
+
+
+{S1C076}
+[Y¤u]
+"Reasons aside, there's just something 
+unpleasant about being disliked."
+
+
+65 :
+Saying that, Y¤u started walking.
+
+She got on the platform of the merry-go-round
+and petted the fin of a dolphin.
+
+I followed after Y¤u and jumped on the back
+of a dolphin.
+
+
+66 :
+
+{S1C077}
+[Y¤u]
+Kid, incidentally, what were you doing here?
+
+[Kid]
+"I was looking for everyone. When I went to 
+the security office, nobody was there..."
+
+[Kid]
+What about you, Y¤u? What were you doing?
+
+
+{S1C078}
+[Y¤u]
+"I was just hanging around this area, near the 
+merry-go-round."
+
+
+67 :
+
+{S1C079}
+[Y¤u]
+I just wanted to be alone, so...
+
+[Kid]
+Alone?
+
+Y¤u cast a lonely look at the dolphin as she
+patted its smooth skin.
+
+
+68 :
+
+{S1C080}
+[Y¤u]
+Hey. Why doesn't this dolphin move?
+
+[Kid]
+"Probably because it's not turned on. There 
+should be an operating panel around somewhere."
+
+
+{S1C081}
+[Y¤u]
+"You think if we turn it on, then the dolphin 
+will move?"
+
+[Kid]
+Yeah, probably.
+
+
+69 :
+
+{S1C082}
+[Y¤u]
+"And swim in the ocean and catch fish and 
+stuff?"
+
+[Kid]
+...What?
+
+
+70 :
+
+{S1C083}
+[Y¤u]
+I was just thinking...
+
+
+{S1C084}
+[Y¤u]
+"Because, inside LeMU, there are dolphins and 
+whales and fish and clams and octopuses. 
+There are even jellyfish and sea anemones, 
+but..."
+
+
+{S1C085}
+[Y¤u]
+But none of them are real living creatures.
+
+[Kid]
+"Of course not. They were all made 
+by people..."
+
+
+71 :
+
+{S1C086}
+[Y¤u]
+I wonder?
+
+[Kid]
+?
+
+
+72 :
+
+{S1C087}
+[Y¤u]
+"For example, deep in a forest, it would be 
+harder to find something that's not alive 
+than something that is, right?"
+
+
+{S1C088}
+[Y¤u]
+"There are trees and grass, birds and bugs, 
+soil and little living creatures inside of it. 
+Everything is alive."
+
+
+73 :
+
+{S1C089}
+[Y¤u]
+But how about here?
+
+
+{S1C090}
+[Y¤u]
+"The only thing that's alive in this vast 
+space is us."
+
+
+{S1C091}
+[Y¤u]
+"And they call this an underwater paradise? A 
+'utopia'?"
+
+
+{S1C092}
+[Y¤u]
+"So in this 'utopia', living things are 
+outnumbered by nonliving things."
+
+
+{S1C093}
+[Y¤u]
+Which, in a way, means we're...
+
+
+{S1C094}
+[Y¤u]
+We're 'intruders' in this world of the dead.
+
+Y¤u petted the dolphin.
+
+The dolphin's deformed plastic smile didn't
+move at all.
+
+A steel rod was stuck into its belly.
+
+
+[Kid]
+Do you hate LeMU, Y¤u?
+
+
+74 :
+
+{S1C095}
+[Y¤u]
+Well...
+
+
+{S1C096}
+[Y¤u]
+It's hard to say...
+
+
+{S1C097}
+[Y¤u]
+It's not that I like or dislike it...
+
+[Kid]
+"But you liked it enough to start working 
+here, right?"
+
+
+75 :
+
+{S1C098}
+[Y¤u]
+No.
+
+[Kid]
+No? You didn't?
+
+
+{S1C099}
+[Y¤u]
+No.
+
+[Kid]
+Well, then why...?
+
+
+76 :
+With my question, Y¤u tilted her head.
+
+Then she just clammed up and started wandering
+around one of the dolphins.
+
+Finally, her feet stopped, and Y¤u quietly
+faced me.
+
+
+77 :
+
+{S1C100}
+[Y¤u]
+I'm looking for something important.
+
+[Kid]
+Something important?
+
+
+{S1C101}
+[Y¤u]
+A clue about my father.
+
+[Kid]
+?
+
+
+78 :
+
+{S1C102}
+[Y¤u]
+"Actually, my father worked in the research 
+and development division of LeMU."
+
+[Kid]
+Research and development?
+
+
+{S1C103}
+[Y¤u]
+I don't know the details...
+
+
+{S1C104}
+[Y¤u]
+"It seems like my father made the LeMMIH 
+program."
+
+[Kid]
+"LeMMIH... LeMMIH? Wasn't that LeMU's central 
+computer?"
+
+
+{S1C105}
+[Y¤u]
+Yeah.
+
+
+79 :
+
+{S1C106}
+[Y¤u]
+Of course, he didn't do it alone.
+
+
+{S1C107}
+[Y¤u]
+"He was one of the members involved in 
+developing the project."
+
+[Kid]
+Huh? Is that so...?
+
+[Kid]
+But what did you mean by 'clue'?
+
+
+80 :
+
+{S1C108}
+[Y¤u]
+My father...
+
+
+81 :
+
+{S1C109}
+[Y¤u]
+My father... disappeared one day.
+
+
+82 :
+[Kid]
+...What?
+
+
+{S1C110}
+[Y¤u]
+He just went missing...
+
+[Kid]
+Wh-when?
+
+
+{S1C111}
+[Y¤u]
+He...
+
+
+83 :
+
+{S1C112}
+[Y¤u]
+"He's been missing as long as I can 
+remember..."
+
+
+{S1C113}
+[Y¤u]
+"It was when I was one year old, seventeen years 
+ago..."
+
+[Kid]
+So you don't remember... your father?
+
+
+84 :
+
+{S1C114}
+[Y¤u]
+No...
+
+
+{S1C115}
+[Y¤u]
+I've only seen pictures and movies of him...
+
+
+{S1C116}
+[Y¤u]
+I don't really have any memories...
+
+
+{S1C117}
+[Y¤u]
+"Everything I just told you, I heard from my 
+mother..."
+
+[Kid]
+But why? Why did he disappear?
+
+
+85 :
+
+{S1C118}
+[Y¤u]
+If I knew that, I wouldn't have come here.
+
+[Kid]
+What do you mean?
+
+
+86 :
+
+{S1C119}
+[Y¤u]
+The last time my father was seen was in LeMU.
+
+
+{S1C120}
+[Y¤u]
+"So I thought that if I came here, maybe I 
+would find some clue about my father..."
+
+
+{S1C121}
+[Y¤u]
+"It seems like my mother has already given up, 
+so I can't count on her..."
+
+[Kid]
+...?
+
+
+{S1C122}
+[Y¤u]
+"My mother has convinced herself that my father is 
+already dead..."
+
+The word 'dead' had a heavy ring to it.
+
+Y¤u looked straight at me as her eyes watered.
+
+
+87 :
+
+{S1C123}
+[Y¤u]
+But, you know?
+
+
+88 :
+
+{S1C124}
+[Y¤u]
+I believe!
+
+
+{S1C125}
+[Y¤u]
+I know that my dad is still alive somewhere!
+
+
+{S1C126}
+[Y¤u]
+He has to be!
+
+
+89 :
+
+{S1C127}
+[Y¤u]
+"My father just went missing... and his remains 
+were never found..."
+
+I couldn't find any words.
+
+I didn't know what to say to her.
+
+
+She might have been waiting for me say
+something like 'You're right! He's probably
+alive somewhere!'
+
+But I couldn't say it.
+
+I just nodded and couldn't even look back
+into her eyes.
+
+
+90 :
+Finally... we promised to meet later in the
+conference room and split up.
+
+
+91 :
+‡LThe Jellyfish Gondola.
+
+Tsugumi was there.
+
+Her back was to me, and she was looking at the
+entrance.
+
+I called out to her loudly.
+
+[Kid]
+Want to ride the gondola?
+
+Tsugumi turned to look at me.
+
+But she immediately turned on her heel and
+walked away.
+
+[Kid]
+Wait a minute...
+
+
+92 :
+
+{S1C128}
+[Tsugumi]
+I already told you.
+
+[Kid]
+?
+
+
+{S1C129}
+[Tsugumi]
+I said don't ever talk to me again.
+
+[Kid]
+But...
+
+
+93 :
+Tsugumi started walking again.
+
+[Kid]
+Hey! I said wait!
+
+
+94 :
+
+{S1C130}
+[Tsugumi]
+What is it!? You're so irritating!
+
+[Kid]
+You met Y¤u and Sara, right?
+
+
+95 :
+
+{S1C131}
+[Tsugumi]
+So what?
+
+
+96 :
+[Kid]
+What did you talk about?
+
+
+97 :
+[Kid]
+Why didn't you listen to them?
+
+
+98 :
+
+{S1C132}
+[Tsugumi]
+It's none of your business...
+
+
+99 :
+
+{S1C133}
+[Tsugumi]
+Is that why you stopped me?
+
+[Kid]
+No...
+
+[Kid]
+The real reason is something else...
+
+[Tsugumi]
+.........
+
+[Kid]
+"Before, you said something about 'those guys' 
+or something, right?"
+
+[Kid]
+What... did you mean by that?
+
+
+100 :
+Tsugumi stared at me intently.
+
+She narrowed her eyes almost as if she was
+appraising me.
+
+Intimidated by her intense glare, my body
+stiffened, and I swallowed.
+
+
+101 :
+
+{S1C134}
+[Tsugumi]
+What is with you...?
+
+[Kid]
+I don't know.
+
+[Kid]
+I wish I did know...
+
+[Tsugumi]
+.........
+
+[Kid]
+.........
+
+[Tsugumi]
+...............
+
+[Kid]
+...............
+
+
+102 :
+
+{S1C135}
+[Tsugumi]
+Fine.
+
+
+{S1C136}
+[Tsugumi]
+"Well, if you aren't lying... then I'll 
+warn you about one thing."
+
+
+103 :
+
+{S1C137}
+[Tsugumi]
+You are... just being used by them.
+
+[Kid]
+U-using me?
+
+[Kid]
+"So... So who do you mean when you say 
+those guys?"
+
+
+104 :
+
+{S1C138}
+[Tsugumi]
+I can't say more than that.
+
+
+{S1C139}
+[Tsugumi]
+I still don't trust you 100% yet.
+
+
+105 :
+
+{S1C140}
+[Tsugumi]
+And I don't want you trusting me either...
+
+[Kid]
+.........
+
+
+106 :
+
+{S1C141}
+[Tsugumi]
+Anyway, look after yourself.
+
+
+{S1C142}
+[Tsugumi]
+"If something happens, I'm not going to 
+help you..."
+
+
+107 :
+Saying only that, Tsugumi turned and left.
+
+Having no idea what had just happened,
+I simply stood there.
+
+
+108 :
+I wound up in front of the warehouse.
+
+(I don't expect anybody is here, but...)
+
+(...What's that?)
+
+The watertight door at the entrance was
+slightly open.
+
+I was sure it was closed when I had come
+by there with Y¤u and everyone.
+
+[Kid]
+Is anyone there?
+
+I softly opened the door.
+
+
+109 :
+
+{S1C143}
+[Sara]
+Ah.
+
+[Kid]
+Huh? Sara?
+
+Sara was inside.
+
+She was sitting on top of a pile of boxes.
+
+I didn't know if I'd surprised her,
+but her face seemed to stiffen.
+
+
+110 :
+
+{S1C144}
+[Sara]
+Oh, Kid... Don't scare me like that.
+
+[Kid]
+S-sorry...
+
+After shooting me a slight glare, Sara stuck
+her hands in her pockets and dropped to the
+floor.
+
+[Kid]
+But what are you doing here?
+
+
+111 :
+
+{S1C145}
+[Sara]
+Huh? Oh... I just wanted some time alone.
+
+[Kid]
+Alone?
+
+
+112 :
+(Y¤u had said almost the same thing...)
+
+[Kid]
+What happened with Tsugumi?
+
+
+{S1C146}
+[Sara]
+Nothing, really.
+
+[Kid]
+Well, you seem pretty down...
+
+
+113 :
+
+{S1C147}
+[Sara]
+"In the end, she didn't tell us anything. 
+We were just running in circles... and it wore 
+me out..."
+
+[Kid]
+I see...
+
+
+114 :
+
+{S1C148}
+[Sara]
+"Actually, Nakkyu said that she wanted to be 
+alone, so we just went our separate ways."
+
+[Kid]
+Hmmm.
+
+[Kid]
+"Oh, that reminds me, how were things with 
+Tsugumi?"
+
+
+115 :
+[Sara]
+...
+
+Sara sighed slightly and held her hands out,
+palms facing up.
+
+[Kid]
+I see...
+
+
+116 :
+Feminine intuition aside, not even the two
+girls had been able to get through to her.
+Even though there was no apparent reason for
+Tsugumi to hold a grudge...
+
+What could Tsugumi have been so angry with
+us about?
+
+
+117 :
+Finally... we promised to meet later in the
+conference room and split up.
+
+
+118 :
+I went to the control room again.
+
+[Kid]
+What's up? Any progress?
+
+
+119 :
+
+{S1C149}
+[Sora]
+Unfortunately, no...
+
+
+{S1C150}
+[Sora]
+"It appears that even LeMMIH is not able to 
+accurately gauge the situation."
+
+
+{S1C151}
+[Sora]
+"This is... It is something that would 
+normally be unthinkable."
+
+
+120 :
+[Kid]
+Oh, that reminds me. Sora, did you know...?
+
+
+121 :
+
+{S1C152}
+[Sora]
+Know? Know what?
+
+[Kid]
+That Y¤u's father made LeMMIH.
+
+
+122 :
+
+{S1C153}
+[Sora]
+Huh? Is that right? That's... news to me.
+
+[Kid]
+Of course, he didn't make it all by himself.
+
+[Kid]
+"She said her dad was a member of the 
+development project team."
+
+
+{S1C154}
+[Sora]
+Is that right...?
+
+
+123 :
+
+{S1C155}
+[Sora]
+That's very interesting.
+
+
+124 :
+I turned my eyes to the massive monitor behind
+Sora.
+
+A flat map of LeMU's Zweiter Stock and Dritter
+Stock floors was displayed.
+
+LeMMIH was monitoring LeMU, wall-to-wall,
+24 hours a day.
+
+If LeMMIH couldn't survey the situation, then
+what in the world...?
+
+
+125 :
+[Kid]
+By the way... Why is LeMMIH called 'LeMMIH'?
+
+
+126 :
+
+{S1C156}
+[Sora]
+Oh, haven't I told you?
+
+[Kid]
+No. I haven't heard...
+
+
+127 :
+
+{S1C157}
+[Sora]
+LeMMIH's proper name is...
+
+
+128 :
+
+{S1C158A}
+[Sora]
+"<Leiblich Medizin: Multiverfahren{1}
+
+{S1C158B}
+Intelligentes Hirnsystem.>{1}
+
+{S1C158C}
+...That is its name."
+
+129 :
+[Kid]
+"Uh... what was that? Can you give it to me one 
+more time?"
+
+
+130 :
+
+{S1C159A}
+[Sora]
+"<Leiblich Medizin: Multiverfahren{1}
+
+{S1C159B}
+Intelligentes Hirnsystem.>{1}
+
+{S1C159C}
+...That is its name."
+
+131 :
+[Kid]
+What language is that?
+
+
+{S1C160}
+[Sora]
+It's German.
+
+[Kid]
+What does it mean?
+
+
+132 :
+
+{S1C161A}
+[Sora]
+"The first part,
+
+{S1C161B}
+<Leiblich Medizin>, indicates{1}
+
+{S1C161C}
+the name of a pharmaceutical company."
+
+133 :
+
+{S1C162}
+[Sora]
+"The bit after that means something along the 
+lines of 'parallel processing artificial 
+intelligence system'."
+
+
+{S1C163}
+[Sora]
+"The first letter of each word created the 
+acronym 'LeMMIH', so they called the 
+system 'LeMMIH'."
+
+[Kid]
+Uh-huh... I see.
+
+[Kid]
+"Hey, there are two things I wanted to 
+ask you..."
+
+
+134 :
+
+{S1C164}
+[Sora]
+What might they be?
+
+[Kid]
+That Leibl... Uh... What was it again?
+
+
+135 :
+
+{S1C165}
+[Sora]
+"<Leiblich Medizin>... In Japan, it is known as 
+Leiblich Pharmaceuticals."
+
+[Kid]
+"So what is the relationship between Leiblich 
+and LeMU?"
+
+
+{S1C166}
+[Sora]
+"The company managing this theme park is 
+called LeMU."
+
+
+{S1C167}
+[Sora]
+"And the largest stockholder is Leiblich 
+Pharmaceuticals."
+
+[Kid]
+I see...
+
+[Kid]
+"So essentially, I guess that Leiblich has the 
+right to say whatever happens at LeMU."
+
+
+136 :
+
+{S1C168}
+[Sora]
+"I suppose that is a reasonable 
+interpretation."
+
+
+137 :
+
+{S1C169}
+[Sora]
+The origin of the name of this theme park...
+
+
+{S1C170}
+[Sora]
+"The official line is that it was named 
+after the phantom continent Lemuria."
+
+
+{S1C171}
+[Sora]
+"But actually, I've heard that it is just a 
+combination of the first letters of <Leiblich 
+Medizin> and <utopie>."
+
+
+{S1C172}
+[Sora]
+<Utopie> means 'utopia'.
+
+
+138 :
+
+{S1C173}
+[Sora]
+"In other words, Leiblich created this place 
+to be a dream-like utopia..."
+
+
+{S1C174}
+[Sora]
+So that is why they named it that.
+
+[Kid]
+A utopia, huh...?
+
+
+139 :
+
+{S1C175}
+[Sora]
+And what was your second question?
+
+[Kid]
+Uh, well...
+
+[Kid]
+It's about German...
+
+
+140 :
+
+{S1C176}
+[Sora]
+German?
+
+[Kid]
+Yeah.
+
+[Kid]
+"You just said that LeMMIH's official name is 
+German, right?"
+
+[Kid]
+"And all around LeMU are these German signs 
+and stuff..."
+
+[Kid]
+I just... I wondered why German...
+
+
+141 :
+
+{S1C177}
+[Sora]
+"That's because Leiblich Pharmaceuticals is a 
+joint venture between a Japanese and a 
+German company."
+
+
+{S1C178}
+[Sora]
+"Its headquarters are in Frankfurt and the 
+majority of officials are German."
+
+[Kid]
+So that's why it's all in German...
+
+[Kid]
+"So Leiblich Pharmaceuticals has a pretty 
+strong relationship with LeMU, then?"
+
+[Sora]
+.........
+
+[Kid]
+Since I'm asking, can I ask one more thing?
+
+
+142 :
+
+{S1C179}
+[Sora]
+Go ahead.
+
+[Kid]
+"Why did Leiblich Pharmaceuticals want to run a 
+theme park anyhow?"
+
+[Kid]
+"I mean, we're talking about Leiblich 
+Pharmaceuticals. They make medicine, right? 
+That doesn't seem to have anything to do 
+with a theme park."
+
+[Kid]
+"And, and this is right in the middle of the 
+ocean, right? Why go to all of the 
+trouble of..."
+
+
+143 :
+
+{S1C180}
+[Sora]
+Because...
+
+
+{S1C181}
+[Sora]
+Because...
+
+
+{S1C182}
+[Sora]
+I'm sorry.
+
+
+{S1C183}
+[Sora]
+I can't answer that question.
+
+[Kid]
+...What...? Why not?
+
+
+144 :
+
+{S1C184}
+[Sora]
+It is confidential information.
+
+
+145 :
+[Kid]
+Confidential?
+
+[Kid]
+Haha. What in the...
+
+[Kid]
+Who could I possibly tell?
+
+[Sora]
+.........
+
+[Kid]
+"I can't imagine that a 'kid' like me finding 
+out could cause any damage."
+
+[Sora]
+.........
+
+[Kid]
+You really can't even tell little old me?
+
+[Sora]
+.........
+
+Sora had gone quiet and wasn't answering.
+
+
+[Kid]
+Okay. I understand.
+
+[Kid]
+We'll just forget about it...
+
+
+146 :
+
+{S1C185}
+[Sora]
+I'm really sorry.
+
+[Kid]
+It's alright. You don't have to apologize...
+
+[Kid]
+"You have to keep the secret as part of your 
+job, right? There's nothing you can do about 
+it..."
+
+[Sora]
+.........
+
+[Kid]
+.........
+
+[Sora]
+...............
+
+[Kid]
+...............
+
+
+147 :
+
+{S1C186}
+[Sora]
+Alright. I'll tell you one thing.
+
+
+148 :
+
+{S1C187}
+[Sora]
+"LeMU does not rely on energy provided from 
+the outside, but generates all of its energy 
+in this complex."
+
+
+{S1C188}
+[Sora]
+"And directly under us, at a depth of 119 
+meters, is the seafloor..."
+
+
+149 :
+
+{S1C189}
+[Sora]
+"There is a thermal vent on the surface of the 
+sea floor where water of several hundred 
+degrees is pumped out, and heat from that is used 
+to operate generators."
+
+
+150 :
+I waited for the rest of the explanation.
+
+But Sora didn't say anything more.
+
+[Kid]
+"And? What does that have to do with what we 
+were just talking about?"
+
+Sora let the question go...
+
+
+151 :
+
+{S1C190}
+[Sora]
+Do you mind if I get back to work?
+
+[Kid]
+Oh? Uh... Sorry to bother you.
+
+[Sora]
+.........
+
+I gave up and left.
+
+
+152 :
+LeMU was controlled by a Japanese-German joint
+venture called Leiblich Pharmaceuticals...
+
+Why would they build a theme park?
+
+
+And what could it have to do with the fact
+that they generated their own energy...?
+
+I left with that mystery spinning in my mind.
+
+
+153 :
+(Oh... Takeshi!)
+
+I was surprised upon returning to the security
+office.
+
+Takeshi was there.
+
+(I wonder what he's up to...)
+
+He had both hands on the operating panel and
+was staring into the monitor intently.
+
+I was about to call out to him...
+
+But I hesitated.
+
+The gaze that Takeshi had leveled on the
+monitor...
+
+It was so intense that it made my spine
+tingle...
+
+He had the eyes of a hawk scouring the
+horizon for prey.
+
+[Kid]
+...Take... shi...
+
+I finally got out the words.
+
+Takeshi slowly looked back at me.
+
+[Kid]
+.........
+
+
+154 :
+
+{S1C191}
+[Takeshi]
+"Hey, Kid, you finally made it. I'm beat from 
+waiting."
+
+The look on Takeshi's face was his normal old
+goofy expression.
+
+I felt relieved.
+
+[Kid]
+"What were you doing? You looked so intense 
+that it was scary."
+
+
+155 :
+
+{S1C192}
+[Takeshi]
+Huh? Scary?
+
+[Kid]
+Yeah. Just now. You looked scary.
+
+
+156 :
+
+{S1C193}
+[Takeshi]
+"That's kind of rude. What's so scary about 
+my face?"
+
+[Kid]
+It's different now, but before it was scary.
+
+
+157 :
+
+{S1C194}
+[Takeshi]
+Then how about you show me how scary it was?
+
+[Kid]
+Huh? Uh... Um...
+
+[Kid]
+"I think your face was kind of like 
+this... Glaring at the monitor..."
+
+I tried to mimic how Takeshi had looked by
+using my fingers to pull up both of my eyes.
+
+
+158 :
+
+{S1C195}
+[Takeshi]
+GAHAHAHA... That? That's not scary at all.
+
+[Kid]
+Don't try to pretend it was nothing!
+
+
+{S1C196}
+[Takeshi]
+Oh, sorry, sorry. I...
+
+
+159 :
+
+{S1C197}
+[Takeshi]
+...I was looking for you, my dear.
+
+[Kid]
+For me?
+
+
+{S1C198}
+[Takeshi]
+"Because you never showed up. I thought 
+I'd call you on the complex intercom system."
+
+[Kid]
+Huh?
+
+
+{S1C199}
+[Takeshi]
+"I figured you were probably lost somewhere 
+and crying yourself silly..."
+
+[Kid]
+"What are you talking about? I was about to 
+say the same thing to you!"
+
+[Kid]
+"You weren't here at the time we set up. Where 
+have you been until now?"
+
+
+160 :
+
+{S1C200}
+[Takeshi]
+"Stupid! You're the one that wasn't here, 
+right? You're totally late."
+
+[Kid]
+"Oh... Sorry... about that. B-but you could have 
+waited a little longer."
+
+
+161 :
+
+{S1C201}
+[Takeshi]
+"Hey, I'm a busy guy. I'm not here to look 
+after you."
+
+[Kid]
+Busy...? You?
+
+
+{S1C202}
+[Takeshi]
+Yup. I'm horribly busy.
+
+[Kid]
+"Liar. Until a while ago, we were wasting 
+time together."
+
+
+162 :
+
+{S1C203}
+[Takeshi]
+.........
+
+[Kid]
+.........
+
+
+{S1C204}
+[Takeshi]
+.........
+
+[Kid]
+..............
+
+
+163 :
+
+{S1C205}
+[Takeshi]
+...Hey.
+
+[Kid]
+?
+
+
+{S1C206}
+[Takeshi]
+Can we stop this meaningless conversation?
+
+[Kid]
+Y-yeah. It is kind of stupid.
+
+
+164 :
+
+{S1C207}
+[Takeshi]
+Isn't it?
+
+We both laughed wryly.
+
+That dissolved any tension that was in the
+atmosphere.
+
+I didn't get it...
+
+But at some point, I had begun to feel
+comfortable with him.
+
+I thought there was something about
+him... Something like me, maybe...
+
+
+165 :
+
+{S1C208}
+[Takeshi]
+"So how's your condition coming along? 
+Any changes?"
+
+Saying that, Takeshi sat down in a chair.
+
+His eyes were at the same height as mine.
+
+[Kid]
+Any changes... You mean my memory?
+
+Takeshi nodded.
+
+I shook my head.
+
+
+166 :
+
+{S1C209}
+[Takeshi]
+I see.
+
+
+167 :
+
+{S1C210}
+[Takeshi]
+"Well, don't force it. It's like Sora said. 
+Memory loss can be totally cured with 
+no warning."
+
+[Kid]
+Easy for you to say. It's not your problem...
+
+
+168 :
+
+{S1C211}
+[Takeshi]
+Sure. It's not my problem.
+
+[Kid]
+You say it like you've seen it happen.
+
+
+169 :
+
+{S1C212}
+[Takeshi]
+Well, I've been around the block a few times.
+
+[Kid]
+Sure, sure... Tell me about it.
+
+I didn't feel like prying.
+
+
+170 :
+
+{S1C213}
+[Takeshi]
+"Well, for now... why don't you just try to 
+remember things, starting with stuff familiar 
+to you?"
+
+
+{S1C214}
+[Takeshi]
+Yeah, things like your birthday...
+
+(My birthday...)
+
+[Kid]
+.........
+
+
+171 :
+
+{S1C215}
+[Takeshi]
+Huh? What's wrong?
+
+[Kid]
+Hey, what year is it?
+
+
+172 :
+
+{S1C216}
+[Takeshi]
+You forgot that, too?
+
+[Kid]
+Yeah...
+
+
+173 :
+
+{S1C217}
+[Takeshi]
+It's 20...
+
+
+174 :
+
+{S1C218}
+[Takeshi]
+...Uh, what year IS it?
+
+Saying that, Takeshi fished his entrance ticket
+stub from his pocket...
+
+
+175 :
+
+{S1C219}
+[Takeshi]
+Oh, that's right.
+
+
+{S1C220}
+[Takeshi]
+It's 2017.
+
+Takeshi crumpled the stub back up and pushed
+it back into his pocket.
+
+[Kid]
+2017...
+
+
+176 :
+
+{S1C221}
+[Takeshi]
+Is there something up with that?
+
+[Kid]
+Yeah, kind of.
+
+
+177 :
+
+{S1C222}
+[Takeshi]
+Kind of?
+
+[Kid]
+"I thought that if I heard the year, then 
+I might be able to remember at least 
+my birthday."
+
+
+{S1C223}
+[Takeshi]
+"I see. Come to think of it, you don't even 
+know how old you are, huh?"
+
+[Kid]
+No...
+
+
+178 :
+
+{S1C224}
+[Takeshi]
+"By the looks of it, I'd say you're not 
+a day over 42."
+
+[Kid]
+What!?
+
+
+179 :
+
+{S1C225}
+[Takeshi]
+HAHAHA. I'm kidding! Relax!
+
+
+180 :
+
+{S1C226}
+[Takeshi]
+There's no way.
+
+
+{S1C227}
+[Takeshi]
+"You're probably in the neighborhood
+of fourteen or fifteen."
+
+
+{S1C228}
+[Takeshi]
+If you're eighteen, then you've got a baby face.
+
+[Kid]
+Fourteen or fifteen, huh...?
+
+I muttered that.
+
+
+181 :
+
+{S1C229}
+[Takeshi]
+"Well, I'm getting out of here. Actually, 
+I haven't finished looking around."
+
+[Kid]
+"Oh hey, Takeshi! It seems like everybody is 
+scattered all over right now..."
+
+
+182 :
+
+{S1C230}
+[Takeshi]
+"Yeah? We'll have to arrange to meet somewhere 
+sooner or later."
+
+[Kid]
+I think the conference room would be good.
+
+
+{S1C231}
+[Takeshi]
+"Got it. If I see the others, then 
+I'll give 'em the word."
+
+
+183 :
+Takeshi left.
+
+I also decided to go somewhere else.
+
+
+184 :
+On the way down the corridor...
+
+I noticed a sound.
+
+I looked for the source of the sound.
+
+Someone was crossing the corridor where it
+came to a T ahead of me.
+
+A girl!?
+
+It was a girl that I had never seen before.
+
+I followed after her as if
+I were being pulled in by her.
+
+[Kid]
+Hey! Hey! Wait! You there!
+
+
+185 :
+The girl went into the infirmary.
+
+
+186 :
+No one was inside...
+
+I carefully crept toward the rear of the room.
+
+I noticed a squarish hole cut out of the floor.
+
+
+I peeked inside.
+
+Down below, a small lift was stopped.
+
+It appeared that there was another room
+directly below the infirmary.
+
+I pushed the button calling the lift
+and hopped in.
+
+
+187 :
+In the darkness, a girl sat on a bed.
+
+
+188 :
+[Kid]
+Uh, um... I...
+
+I was at a loss for words.
+
+I didn't know where to start.
+
+[Young Girl]
+.........
+
+The girl just stared at me intently.
+
+[Kid]
+It's... al-alright...
+
+[Kid]
+Don't worry... Everything is alright...
+
+She didn't answer.
+
+[Kid]
+Uh... Um...
+
+[Kid]
+Anyway, let's go to where everybody else is!
+
+
+{S1C232}
+[Young Girl]
+Everybody?
+
+[Kid]
+Yeah, it's not just me.
+
+[Kid]
+There are lots of other people...
+
+
+{S1C233}
+[Young Girl]
+Help...? Did you come to help?
+
+[Kid]
+Y-yeah... That's right.
+
+
+189 :
+
+{S1C234}
+[Young Girl]
+But... it's probably impossible...
+
+[Kid]
+Huh?
+
+
+{C1S299}
+[Young Girl]
+There is... no way out anymore...
+
+The girl's eyes were sad and moist.
+
+[Kid]
+Why do you say that?
+
+[Kid]
+"We'll be fine! A rescue team should be here 
+any time!"
+
+
+190 :
+
+{S1C236}
+[Young Girl]
+Liar...
+
+[Kid]
+It's not a lie!
+
+[Kid]
+"The people who escaped know that we're 
+here..."
+
+[Kid]
+Someone will come for sure!
+
+[Young Girl]
+.........
+
+[Kid]
+Why are you saying that's wrong?
+
+
+{S1C237}
+[Young Girl]
+Because... Because...
+
+191 :
+Then, suddenly, a shocked look appeared on the
+girl's face as her eyes focused behind me.
+
+I followed her gaze.
+
+
+192 :
+On the other side of the door... was Takeshi,
+peeking in.
+
+
+193 :
+
+{S1C238}
+[Takeshi]
+Who are you talking to?
+
+[Kid]
+Takeshi! What great timing...!
+
+[Kid]
+"It seems like this girl here didn't get out 
+either..."
+
+
+194 :
+
+{S1C239}
+[Takeshi]
+Girl?
+
+
+{S1C240}
+[Takeshi]
+What girl...?
+
+
+195 :
+
+{S1C241}
+[Takeshi]
+...There's nobody there.
+
+[Kid]
+Huh!?
+
+
+196 :
+I looked back.
+
+The girl had vanished, and there was no sign
+that anyone had been sitting where she had
+been.
+
+[Kid]
+Im-impossible...
+
+
+197 :
+
+{S1C242}
+[Takeshi]
+"Stop it already. What? Are you tired of 
+memory loss and working on hallucinations now?"
+
+
+{S1C243}
+[Takeshi]
+You're worse off than we thought...
+
+[Kid]
+No! No! I'm not seeing things!
+
+[Kid]
+"There was a girl here! She was sitting on 
+this bed!"
+
+
+198 :
+
+{S1C244}
+[Takeshi]
+Listen, Kid...
+
+[Kid]
+Wh-what...?
+
+
+199 :
+
+{S1C245}
+[Takeshi]
+Aren't you hungry?
+
+[Kid]
+Hungry...?
+
+[Kid]
+Wh-who cares about that right now?
+
+[Kid]
+There was a girl here... A girl, I tell you...
+
+
+200 :
+
+{S1C246}
+[Takeshi]
+I know, I know.
+
+
+{S1C247}
+[Takeshi]
+There was a girl there. I heard you...
+
+[Kid]
+You don't get it at all!
+
+
+{S1C248}
+[Takeshi]
+"Alright, alright. I'll listen to the whole 
+story later."
+
+[Kid]
+But...
+
+
+201 :
+
+{S1C249}
+[Takeshi]
+"But nothing! You're going to piss me off 
+if you keep this up!"
+
+
+202 :
+
+{S1C250}
+[Takeshi]
+"Everyone is waiting for you... to eat 
+together..."
+
+[Kid]
+"Well, then, what are we going to do about 
+the girl!?"
+
+[Kid]
+"I'm sure the girl is probably starving 
+too..."
+
+
+203 :
+
+{S1C251}
+[Takeshi]
+Oh man... You've completely lost it...
+
+[Kid]
+I'm not crazy!
+
+[Kid]
+There was a girl... A girl... Right here...
+
+In the end, I couldn't get Takeshi to listen
+to me.
+
+
+204 :
+Before going to the conference room, I peeked
+into the control room.
+
+The bio scan figure was eating at my mind.
+
+
+205 :
+'Life readings: 5'
+
+The number had dropped from six to five.
+
+
+206 :
+Everyone was in the conference room.
+
+There were fried tuna sandwiches and drinks
+secured from the sandwich shop for everyone.
+
+Only Tsugumi was absent.
+
+I wondered where she had gone... but more
+than that, I was worried about her.
+
+I told everyone about the girl.
+
+But...
+
+Everyone just laughed, and not one of them listened.
+
+No one else had seen the girl.
+
+Then I remembered the bio scan figure.
+
+
+207 :
+'7'
+
+That girl was probably person number seven.
+
+But the number had been five and six as well.
+
+
+208 :
+What could it mean?
+
+The image of the girl had been burned into
+my mind, and there was no getting away from it.
+
+I wondered if it was, like Takeshi had
+said, a hallucination.
+
+If not, then... a ghost?
+
+Haha. That was crazy...
+
+I shook my head at my own silliness.
+
+Maybe I was losing it...
+
+Something had to be wrong with me.
+
+I needed to calm down and collect myself.
+
+While I thought that, I flipped up the tab on
+the can of cola.
+
+
+209 :
+Fushaaaww!
+
+At first, I didn't know what had happened.
+
+I licked the liquid around my lips.
+
+It was sweet.
+
+It seemed as if the cola had exploded
+into my face.
+
+
+210 :
+
+{S1C252}
+[Sara]
+KYAHAHAHA~
+
+
+{S1C253}
+[Y¤u]
+AHHAHAHA~
+
+
+{S1C254}
+[Sora]
+FUFUFUFUFU~
+
+
+{S1C255}
+[Everyone]
+GAHAHAHAHA~
+
+Everyone exploded in a chorus of laughter.
+
+
+211 :
+
+{S1C256}
+[Y¤u]
+Hey, what the heck are you doing, Kid?
+
+Y¤u said that, laughing.
+
+
+{S1C257}
+[Y¤u]
+"These cans contain special gas so that they can 
+be used at six atmospheres."
+
+
+{S1C258}
+[Y¤u]
+But right now, we're at one atmosphere, right?
+
+
+{S1C259}
+[Y¤u]
+"So if you don't hold it down when you open 
+it, the soda inside explodes..."
+
+
+212 :
+As she laughed, Sara took out a handkerchief.
+
+I took it and wiped my face.
+
+I was enveloped in laughter...
+
+Without noticing, I'd forgotten about
+everything that had been weighing on my mind.
+
+
+213 :
+Almost an hour had passed.
+
+No help had come. There was no contact.
+
+The people on the floating island should have
+known that we were all trapped down below.
+
+So why didn't anyone come?
+
+Even if they couldn't open the watertight
+doors, there should have been divers that could
+tap on the window glass or something...
+
+
+214 :
+
+{S1C260}
+[Sora]
+"Everyone, I think it is best that we go to 
+sleep this evening."
+
+
+215 :
+
+{S1C261}
+[Sora]
+Please leave the rest to me.
+
+Saying that, Sora grinned.
+
+
+216 :
+
+{S1C262}
+[Takeshi]
+Sleep... But where?
+
+
+{S1C263}
+[Sara]
+Are there any places to lie down or anything?
+
+
+217 :
+
+{S1C264}
+[Sora]
+"In the sectors that were submerged in water, 
+but unfortunately not in the dry areas..."
+
+
+218 :
+
+{S1C265}
+[Sora]
+"Instead, I have prepared another place for 
+you."
+
+
+219 :
+[Kid]
+Another...
+
+
+220 :
+
+{S1C266}
+[Y¤u]
+...Place?
+
+
+221 :
+
+{S1C267}
+[Y¤u]
+Wa-wait a second, Sora!
+
+[Kid]
+"You're not saying that four people have to 
+sleep in this cramped space?"
+
+It was the place was where I had seen the girl.
+
+
+222 :
+
+{S1C268}
+[Sara]
+What is this room anyway?
+
+
+223 :
+
+{S1C269}
+[Sora]
+Let me explain.
+
+
+{S1C270}
+[Sora]
+"This is a decompression room for medical 
+purposes."
+
+
+{S1C271}
+[Sora]
+"Here, people suffering from decompression 
+sickness, or the bends, are treated."
+
+
+224 :
+
+{S1C272}
+[Takeshi]
+The bends?
+
+
+225 :
+
+{S1C273}
+[Sora]
+Yes.
+
+
+{S1C274}
+[Sora]
+"Normally, when people leave LeMU, they spend an 
+extended period of time going through 
+decompression and adjusting from six atmospheres 
+to one atmosphere."
+
+
+{S1C275}
+[Sora]
+"However, as a result of the accident, 
+everyone has experienced a sudden change 
+in pressure."
+
+
+{S1C276}
+[Sora]
+You may be suffering from the bends.
+
+
+226 :
+
+{S1C277}
+[Sora]
+"So, just to be safe, I want to have everyone 
+undergo repressurization in this room..."
+
+[Kid]
+But... there's nothing wrong with us.
+
+
+{S1C278}
+[Sora]
+"In cases of light decompression sickness, 
+you are not necessarily aware of it 
+immediately."
+
+
+{S1C279}
+[Sora]
+"There are cases where the pain doesn't start 
+for a day or two."
+
+
+227 :
+
+{S1C280}
+[Takeshi]
+"After you figure out you're in trouble, 
+it's too late...?"
+
+
+228 :
+
+{S1C281}
+[Sora]
+Correct.
+
+
+{S1C282}
+[Sora]
+"In other words, this is just to be completely 
+safe."
+
+
+229 :
+
+{S1C283}
+[Y¤u]
+"Hey, Sora. What about the... uh, that thing...
+in the infirmary?"
+
+
+{S1C284}
+[Y¤u]
+"Wasn't there some device that can diagnose 
+medical conditions?"
+
+
+230 :
+
+{S1C285}
+[Sora]
+Do you mean the L-MRI?
+
+
+231 :
+
+{S1C286}
+[Y¤u]
+Yeah, yeah, that's it.
+
+
+232 :
+
+{S1C287}
+[Y¤u]
+"If you do a scan with that, can't we tell 
+for sure if it's decompression sickness?"
+
+
+233 :
+
+{S1C288}
+[Sora]
+Unfortunately, no, we cannot.
+
+
+234 :
+
+{S1C289}
+[Y¤u]
+Really? Why not?
+
+
+{S1C290}
+[Sora]
+"As you saw before, that device is out of 
+order. Discovering the problem and repairing 
+it would take time and energy."
+
+
+235 :
+
+{S1C291}
+[Y¤u]
+Oh, really...
+
+
+236 :
+
+{S1C292}
+[Sara]
+Sora, can I ask you something?
+
+
+237 :
+
+{S1C293}
+[Sora]
+What?
+
+
+{S1C294}
+[Sara]
+"I want to know more about this decompression 
+sickness..."
+
+
+238 :
+
+{S1C295}
+[Sora]
+I see.
+
+
+239 :
+
+{S1C296}
+[Sora]
+"Decompression sickness occurs when there is a 
+sudden change in the surrounding air pressure 
+and gas bubbles that can't be discharged 
+accrue in the body."
+
+
+{S1C297}
+[Sora]
+"Gas becomes air bubbles, and these gather 
+in tissues or veins."
+
+
+{S1C298}
+[Sora]
+"When gas bubbles remain inside the body, 
+the oxygen respiration efficiency drops 
+dramatically."
+
+
+240 :
+
+{S1C299}
+[Takeshi]
+"So... No matter how many deep breaths you 
+take, it feels like you're suffocating?"
+
+
+241 :
+
+{S1C300}
+[Sora]
+Yes.
+
+
+242 :
+
+{S1C301}
+[Sora]
+"So we will seal this room and pump in a high 
+concentration of oxygen, slowly taking it up to 
+approximately three atmospheres..."
+
+
+{S1C302}
+[Sora]
+"After that, we slowly decompress it back down to 
+one atmosphere."
+
+
+{S1C303}
+[Sora]
+"Using this difference in pressure, we 
+dissolve the gas bubbles in your body 
+back into the blood, where you get 
+rid of them naturally by breathing."
+
+
+243 :
+
+{S1C304}
+[Takeshi]
+"So basically, you make us like a can of cola 
+that won't blow up..."
+
+
+244 :
+
+{S1C305}
+[Sora]
+Yes, precisely.
+
+
+245 :
+
+{S1C306}
+[Takeshi]
+Okay, I got it.
+
+
+246 :
+The decompression process took place over
+several hours.
+
+But boy, it was... cramped...
+
+
+247 :
+I wondered where in the world Tsugumi could
+have gone.
+
+
+248 :
+And shouldn't Sora have been undergoing
+decompression as well?
+
+
+249 :
+I was so tired that my mind and body felt
+numb, but strangely, sleep didn't come for me.
+
+Takeshi had monopolized the bed.
+
+He was breathing deeply and peacefully.
+
+Sleeping so well in an emergency like that...
+
+Y¤u, Sara, and I sat on the floor.
+
+I gradually got annoyed with Takeshi sleeping
+like a log.
+
+There were still four hours until the
+decompression was complete.
+
+The night was long...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

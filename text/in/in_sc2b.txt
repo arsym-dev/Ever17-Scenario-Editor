@@ -1,0 +1,1682 @@
+
+
+1 :
+
+{C2S103}
+[Takeshi]
+Hey, Kid. So what're you gonna do?
+
+[Kid]
+Huh? Me...?
+
+2 :
+{11:0-13}
+{11:1}I'll help Y¤u
+
+{11:1}I'll wait here
+
+{11:1}Why don't we go together?
+
+
+3 :
+[Kid]
+I'm going to help out Y¤u.
+
+
+4 :
+
+{C2S104}
+[Takeshi]
+"Okay. In that case, Sara and I will hold down 
+the fort here."
+
+
+5 :
+
+{C2S105}
+[Takeshi]
+You can't complain about that, right?
+
+
+{C2S106}
+[Y¤u]
+Okay.
+
+
+6 :
+
+{C2S107}
+[Takeshi]
+Geez. Damned if I do, damned if I don't.
+
+It seemed that Takeshi was oblivious to his
+disturbing dream the night before.
+
+[Kid]
+"I figure that Y¤u is concerned about you in 
+her own way."
+
+[Kid]
+"Like when she had you carry the heavy 
+toolbox... Maybe it was her way of saying 
+'rest a bit' or 'take it easy'."
+
+
+7 :
+
+{C2S108}
+[Takeshi]
+"You think so? That's a pretty generous 
+interpretation, I'd say."
+
+
+{C2S109}
+[Takeshi]
+"Oh well. In that case, I guess Sara and 
+I will just have to sit back and relax together."
+
+
+8 :
+
+{C2S110}
+[Sara]
+"Just so you know, I'm a third-degree black 
+belt in Aikido."
+
+
+9 :
+
+{C2S111}
+[Takeshi]
+Huh?
+
+
+{C2S112}
+[Sara]
+"Also in karate, and second-degree in 
+kendo, and in archery, and a seventh in Iga 
+Style Ninjutsu."
+
+
+{C2S113}
+[Takeshi]
+?
+
+
+{C2S114}
+[Sara]
+"So basically... you'd better not try anything 
+on me, you got it?"
+
+
+10 :
+[Takeshi]
+..........
+
+
+{C2S115}
+[Y¤u]
+Kid, should we get going?
+
+[Kid]
+Uh, yeah...
+
+Y¤u and I left the increasingly tense
+atmosphere behind.
+
+
+11 :
+The room was covered in a massive web of pipes.
+
+The pipes continued into the adjacent
+generator room. It seemed that by opening
+and closing the valves, the water and oil
+pressure could be adjusted.
+
+
+12 :
+'Normally, LeMMIH is responsible for
+maintaining the generator room, but even
+it can't do much when the generator
+itself goes out.'
+
+'Anyhow, this is all because the power supply
+is down.'
+
+'This room is designed so that maintenance can
+be performed manually at times like this, or
+during blackouts.'
+
+
+13 :
+...That was what Y¤u told me.
+
+Y¤u selected one pipe from the countless rows
+of them and instructed me to close its valve.
+
+
+14 :
+As ordered, I turned the valve around and
+around.
+
+[Kid]
+Hey, Y¤u?
+
+I said that as I was closing the valve.
+
+
+15 :
+
+{C2S116}
+[Y¤u]
+What?
+
+[Kid]
+It's about the girl from yesterday.
+
+
+{C2S117}
+[Y¤u]
+"Yesterday? You mean the seventh survivor you 
+said you saw?"
+
+[Kid]
+Yeah.
+
+
+16 :
+
+{C2S118}
+[Y¤u]
+"You're sure your eyes weren't playing tricks 
+on you?"
+
+[Kid]
+I'm positive. These eyes saw her.
+
+
+{C2S119}
+[Y¤u]
+Maybe you've got some kind of eye disease.
+
+[Kid]
+Huh? Di-disease...?
+
+
+17 :
+
+{C2S120}
+[Y¤u]
+"I'm kidding... It's a joke. Why do you always 
+take everything seriously?"
+
+[Kid]
+Enough already!
+
+
+18 :
+
+{C2S121}
+[Y¤u]
+"Alright, alright... I'll listen to your 
+stories of unidentified survivors later."
+
+
+{C2S122}
+[Y¤u]
+Right now, we have to work.
+
+
+19 :
+[Kid]
+...
+
+
+20 :
+Finally, the valve was completely shut.
+
+
+21 :
+
+{C2S123}
+[Y¤u]
+That should do it.
+
+[Kid]
+Y¤u, can we talk now...?
+
+
+22 :
+
+{C2S124}
+[Y¤u]
+Let's get back to Kuranari and Sara.
+
+
+23 :
+Y¤u took off from the room as if she were a
+fugitive on the run.
+
+I was left in the room alone...
+
+I felt an unclear mess of feelings stewing
+inside my mind.
+
+
+24 :
+With that, we had been able to shut off the
+hot water flowing to the generator room.
+
+Even so, on the other side of the door, it was
+still hot enough to scald.
+
+The four of us waited outside the generator
+room until we could be sure that the
+temperature inside had cooled enough.
+
+
+25 :
+[Kid]
+I'll... wait here.
+
+
+26 :
+
+{C2S125}
+[Takeshi]
+So what are we going to do?
+
+
+{C2S126}
+[Y¤u]
+"Oh well... Then I'll have to make do with 
+Kuranari."
+
+
+27 :
+
+{C2S127}
+[Takeshi]
+"Geez. You're a piece of work. Can't you let 
+your real feelings show?"
+
+
+28 :
+
+{C2S128}
+[Y¤u]
+"Don't be getting any strange ideas. You do 
+and I'll knock you down. Got it?"
+
+
+29 :
+
+{C2S129}
+[Takeshi]
+"...Take it easy. There's no way I'd try 
+something on you, even by mistake."
+
+
+30 :
+When the two of them disappeared at the far
+end of the corridor, they were still going at it.
+
+
+
+31 :
+
+{C2S130}
+[Sara]
+Those two...
+
+[Kid]
+Yeah?
+
+
+32 :
+
+{C2S131}
+[Sara]
+"I don't know, I think they make a pretty good 
+couple, don't you?"
+
+[Kid]
+Think so?
+
+
+{C2S132}
+[Sara]
+"Yeah. Nakkyu is the kind of person who tells 
+people she likes what she really thinks... She 
+speaks her mind."
+
+[Kid]
+Hmmmm.
+
+
+33 :
+
+{C2S133}
+[Sara]
+Takeshi kind of seems like that too.
+
+I wasn't sure why... but somehow, I was a little
+jealous of Y¤u and Takeshi.
+
+Even if I wanted to, I couldn't open up to
+anyone like that... I had nothing to share...
+
+
+34 :
+A while after the two had disappeared...
+
+Sara and I hadn't spoken another word.
+
+The two of us just leaned against a wall and
+stared into the darkness.
+
+I was desperately trying to think of some way
+to break through the wall that had formed
+between us.
+
+[Kid]
+Sara, how old are you?
+
+Finally, the words tumbled out of my mouth.
+
+
+35 :
+
+{C2S134}
+[Sara]
+"Where did that come from...? I thought 
+I told you?"
+
+[Kid]
+I don't think so.
+
+
+36 :
+
+{C2S135}
+[Sara]
+"I'm a junior. I'm sixteen, and I was born January 
+21st. Oh, and I'm an Aquarius."
+
+Sara recited it so smoothly that it was like
+she was singing a song.
+
+
+37 :
+
+{C2S136}
+[Sara]
+And you, Kid?
+
+[Kid]
+I'm...
+
+I didn't know.
+
+When I tried to remember, it was like my mind
+would fog over.
+
+I couldn't get close to it. It was like a
+mirage in the desert.
+
+[Kid]
+I... wonder how old I am.
+
+
+{C2S137}
+[Sara]
+You don't know that either?
+
+[Kid]
+Nope.
+
+
+38 :
+
+{C2S138}
+[Sara]
+Hmmm, that's kind of sad.
+
+[Kid]
+Yeah...
+
+
+39 :
+
+{C2S139}
+[Sara]
+But maybe it's good in a way.
+
+[Kid]
+What do you mean?
+
+
+40 :
+
+{C2S140}
+[Sara]
+"Well, maybe it was something that you wanted 
+to forget about..."
+
+[Kid]
+.........
+
+
+41 :
+
+{C2S141}
+[Sara]
+Just kidding.
+
+Sara's expression relaxed into a silly look.
+
+[Kid]
+Wh-what... Don't scare me like that.
+
+
+42 :
+
+{C2S142}
+[Sara]
+Sorry.
+
+
+43 :
+
+{C2S143}
+[Sara]
+"I know. Maybe if I chopped you down we'd 
+find out how old you are."
+
+[Kid]
+Huh?
+
+
+{C2S144}
+[Sara]
+"You know, maybe you've got rings like a tree 
+stump."
+
+
+44 :
+[Kid]
+...
+
+For some reason, my eyes strayed to the palms
+of my hands.
+
+In the darkness, only dimly illuminated by the
+emergency lights, my fingers appeared to glow
+slightly white.
+
+I still didn't know what had happened to my
+finger.
+
+
+45 :
+
+{C2S145}
+[Sara]
+Your finger...
+
+
+46 :
+Muttering that, Sara grabbed my finger.
+
+[Kid]
+...
+
+It was so sudden that it put me at a loss for words.
+
+In the darkness, Sara whispered words like she was
+confirming something as she gripped my thumb.
+
+
+{C2S146}
+[Sara]
+Moon sprite... shouldering... a long bow...
+
+
+{C2S147}
+[Sara]
+Waiting... inside a dream...
+
+............
+
+[Kid]
+What does that mean?
+
+Sara just shook her head. There was no sign
+that she was going to answer me.
+
+She just murmured the words like a spell or a
+nursery rhyme as she gently held my thumb.
+
+
+(A moon sprite...)
+
+I wondered why Sara had suddenly grabbed my
+thumb.
+
+Still, I didn't have any urge to pull it away
+from her...
+
+As I remained aware of my thumb, I searched
+for an answer from Sara's slightly sweaty,
+warm palm.
+
+
+47 :
+
+{C2S148}
+[Y¤u]
+Thanks for waiting~
+
+
+48 :
+
+{C2S149}
+[Takeshi]
+I think we'll be okay now.
+
+
+{C2S150}
+[Y¤u]
+It was a hassle looking for the valve, but...
+
+
+49 :
+With the two of them back, Sara finally released my
+thumb.
+
+In the darkness, I couldn't make out Sara's expression
+very well.
+
+The area around her mouth pulled down
+slightly in a sad motion.
+
+Warmth lingered around my thumb...
+
+I didn't know why, but I hesitated to wipe the
+warmth away and gently inserted my hand into
+my pocket, leaving my thumb extended.
+
+
+50 :
+With that, we had been able to shut off the
+hot water flowing to the generator room.
+
+Even so, on the other side of the door, it was
+still hot enough to scald.
+
+The four of us waited outside the generator
+room until we could be sure that the
+temperature inside had cooled enough.
+
+
+51 :
+[Kid]
+Why doesn't everyone go?
+
+That was my idea.
+
+
+52 :
+[Y¤u]
+...
+
+[Takeshi]
+...
+
+[Sara]
+...
+
+
+{C2S151}
+[Y¤u]
+Well, I guess that is an option...
+
+
+{C2S152}
+[Takeshi]
+"There's no reason we have to split into 
+teams of two..."
+
+
+53 :
+
+{C2S153}
+[Sara]
+"And Takeshi won't go putting the 
+moves on me that way."
+
+
+54 :
+
+{C2S154}
+[Takeshi]
+I said I'm not interested.
+
+
+55 :
+So all four of us ended up moving to the room
+together.
+
+The room was covered in a massive web of pipes.
+
+
+The pipes continued into the generator room
+next door. It seemed that opening and closing
+the valves could adjust the water and oil
+pressure.
+
+'Normally, LeMMIH is responsible for
+maintaining the generator room, but even
+it can't do much when the generator
+itself goes out.'
+
+'Anyhow, this is all because the power supply
+is down.'
+
+'This room is designed so that maintenance can
+be performed manually at times like this, or
+during blackouts.'
+
+...That was what Y¤u told me.
+
+Y¤u selected one pipe from the countless rows
+of them and instructed Takeshi to close its valve.
+
+
+
+56 :
+
+{C2S155}
+[Takeshi]
+"Geez. You sure have a knack for abusing 
+folk..."
+
+Takeshi turned the valve shut, as Y¤u had ordered,
+through his complaints.
+
+Sara and I just stood off to the side and watched
+the work unfold.
+
+Finally...
+
+
+{C2S156}
+[Takeshi]
+Uggghh. Arggh!
+
+
+{C2S157}
+[Takeshi]
+Damn. It's no good...
+
+
+57 :
+
+{C2S158}
+[Takeshi]
+Y¤u, this won't close...
+
+
+58 :
+
+{C2S159}
+[Y¤u]
+Geez. You wimp... You're a man, right?
+
+
+59 :
+
+{C2S160}
+[Takeshi]
+"You can say what you want, but this valve 
+ain't gonna get shut any faster!"
+
+
+{C2S161}
+[Takeshi]
+It's rusted solid! It won't even budge!
+
+
+60 :
+
+{C2S162}
+[Y¤u]
+Well, how about trying a wrench?
+
+
+61 :
+
+{C2S163}
+[Takeshi]
+Wrench?
+
+
+{C2S164}
+[Y¤u]
+There's a bolt on the handle, right?
+
+
+{C2S165}
+[Y¤u]
+If you can get a wrench on it, it might move.
+
+
+{C2S166}
+[Takeshi]
+Oh. A wrench, huh...?
+
+
+62 :
+
+{C2S167}
+[Takeshi]
+"Hey, Kid...! You heard her. Gimme the toolbox 
+already, would ya?"
+
+I peered around in the darkness.
+
+
+63 :
+
+{C2S168}
+[Takeshi]
+What're you doing? I said get me the toolbox!
+
+[Kid]
+But... there isn't one here.
+
+
+64 :
+
+{C2S169}
+[Takeshi]
+Huh?
+
+
+{C2S170}
+[Sara]
+Takeshi, did you forget to bring it?
+
+
+65 :
+
+{C2S171}
+[Takeshi]
+"Oh! Crap! I left it in front of the Generator 
+Room..."
+
+
+66 :
+
+{C2S172}
+[Y¤u]
+*Sigh*... This sucks...
+
+[Kid]
+Alright, alright, I'll go get it.
+
+
+67 :
+I ran, heading for the exit.
+
+
+68 :
+Water splashed as I ran along the route we had
+come along.
+
+But the generator room was practically
+next door.
+
+Less than ten meters later, I turned the corner
+and entered the corridor leading to the front
+of the generator room.
+
+
+69 :
+[Kid]
+Oh, there it is!
+
+The toolbox was sitting right in front of the
+door.
+
+I headed toward it.
+
+Every time I put my foot down on the floor,
+little ripples formed on the surface of the
+water.
+
+The tiny circles of waves collided with the
+wall and bounced off of the side of the
+toolbox, rippling out in regular
+concentric rings.
+
+It was dark. Still, I was able to sense the
+changes and coldness in the movement of the
+water.
+
+My vision felt surprisingly sharp.
+
+
+70 :
+It happened just then...
+
+
+71 :
+‡LSplash!
+
+There was a big splash and spray of water.
+
+It came from around the right side of the
+wall... nearly below the operating console.
+
+The droplets of water scattered gently around
+my legs.
+
+The resulting waves stroked my feet.
+
+
+A fear like I had never felt chilled me to my core.
+
+
+I readied myself for anything, facing the
+darkness.
+
+Just then...
+
+
+{C2S173}
+[???]
+Moon sprite shouldering a long bow.
+
+{C2S174}
+[???]
+Waiting inside a dream.
+
+[Kid]
+Wh-who's there...?
+
+
+{C2S175}
+[???]
+Tonight, a story by moonlight.
+
+{C2S176}
+[???]
+Hoping the wait will be short.
+
+[Kid]
+H-hey... Who's there...?
+
+
+{C2S177}
+[???]
+Sleeping curled and snug.
+
+{C2S178}
+[???]
+Sleeping in mother's arms.
+
+72 :
+[Kid]
+£o-£o¢o...
+
+I said the name without thinking.
+
+The shape that suddenly swelled out of the
+darkness was undoubtedly the girl from the
+compression chamber, the one from the day
+before.
+
+And £o¢o was singing a song...
+
+
+{C2S179}
+[£o¢o]
+I was waiting for you.
+
+She spoke before I could.
+
+
+{C2S180}
+[£o¢o]
+I waited and waited... for you to come...
+
+
+{C2S181}
+[£o¢o]
+"I was waiting... all alone like a moon 
+sprite..."
+
+[Kid]
+Th-then you should have come to me...
+
+
+{C2S182}
+[£o¢o]
+I couldn't...
+
+
+{C2S183}
+[£o¢o]
+That's... impossible...
+
+[Kid]
+Why...?
+
+
+{C2S184}
+[£o¢o]
+Because you wouldn't take me with you...
+
+[Kid]
+...What?
+
+
+{C2S185}
+[£o¢o]
+Will you take me to where everybody is?
+
+[Kid]
+"Of course I will! Let's go together right 
+now!"
+
+Just as I said that...
+
+
+73 :
+‡LSplash!
+
+A wall of water exploded from near £o¢o's feet.
+
+
+74 :
+Droplets of water scattered everywhere like
+mist...
+
+
+{C2S186}
+[£o¢o]
+Farewell.
+
+
+75 :
+£o¢o disappeared in the spray.
+
+The resulting waves stroked my feet.
+
+A fine spray of mist erupted skyward and
+rained down gently on the waves.
+
+There was the toolbox, left in the darkness...
+
+
+That was all that I saw.
+
+I forgot myself. All I could do was stand
+in that narrow corridor.
+
+
+76 :
+I didn't know how much time had passed.
+
+Dragging the heavy toolbox and my heavier
+legs, I returned to the room with the pipes.
+
+
+77 :
+
+{C2S187}
+[Takeshi]
+This should just about do it.
+
+
+{C2S188}
+[Sara]
+You're not done, are you?
+
+
+{C2S189}
+[Y¤u]
+Nope. We're still getting ready.
+
+
+78 :
+
+{C2S190}
+[Takeshi]
+Oh, I see...
+
+
+79 :
+
+{C2S191}
+[Takeshi]
+"We have to repair the generator next door 
+after we finish here."
+
+Takeshi wiped away the sweat from his forehead.
+
+
+80 :
+
+{C2S192}
+[Y¤u]
+Huh? Kid... what're you doing there?
+
+
+81 :
+Noticing me, Y¤u turned around.
+
+[Kid]
+I brought the... toolbox...
+
+
+{C2S193}
+[Takeshi]
+Toolbox?
+
+
+82 :
+
+{C2S194}
+[Sara]
+It doesn't look like they need it anymore.
+
+[Kid]
+...What?
+
+
+83 :
+
+{C2S195}
+[Y¤u]
+Oops. Sorry 'bout that.
+
+
+{C2S196}
+[Y¤u]
+Turns out the valve was closed to begin with.
+
+
+84 :
+
+{C2S197}
+[Takeshi]
+"So, no matter how much I tried to close it, it 
+wouldn't budge because it was already shut."
+
+[Kid]
+I heard you... the first time...
+
+
+85 :
+
+{C2S198}
+[Takeshi]
+Is that right?
+
+[Kid]
+...
+
+
+86 :
+
+{C2S199}
+[Takeshi]
+"Hey, don't be like that. These things happen 
+sometimes."
+
+[Kid]
+I'm not... mad...
+
+
+87 :
+[Sara]
+...
+
+
+88 :
+
+{C2S201}
+[Y¤u]
+What's wrong?
+
+I decided to...
+
+89 :
+{11:0-16}
+{11:1}Tell them about £o¢o
+
+{11:1}Not tell them about £o¢o
+
+
+90 :
+...I told them.
+
+[Kid]
+Actually...
+
+[Kid]
+I saw that girl again.
+
+
+91 :
+
+{C2S202}
+[Y¤u]
+Whaddya mean by 'that girl'?
+
+[Kid]
+"The girl that disappeared in the compression 
+chamber."
+
+[Kid]
+I told you last night. Don't you remember?
+
+
+92 :
+
+{C2S203}
+[Takeshi]
+Oh, your invisible friend.
+
+[Kid]
+SHE'S NOT INVISIBLE!
+
+
+93 :
+I screamed at them as loudly as possible.
+
+
+{C2S204}
+[Sara]
+K-Kid, take it easy...
+
+
+{C2S205}
+[Sara]
+Just calm down...
+
+[Kid]
+...
+
+
+94 :
+
+{C2S206}
+[Sara]
+Where did you see the girl?
+
+[Kid]
+In front... of the generator room...
+
+
+95 :
+
+{C2S207}
+[Y¤u]
+Did she say anything?
+
+[Kid]
+Yeah...
+
+[Kid]
+"I think she said something about being all 
+alone like a moon sprite."
+
+[Kid]
+Oh, that's right!
+
+[Kid]
+She... She was singing a lullaby.
+
+
+{C2S208}
+[Takeshi]
+A lullaby?
+
+[Kid]
+"It was the same as the lullaby that Sara sang 
+before..."
+
+
+96 :
+Takeshi and Y¤u looked at Sara.
+
+I focused my eyes on her too.
+
+
+97 :
+
+{C2S209}
+[Sara]
+I... didn't...
+
+
+98 :
+
+{C2S210}
+[Sara]
+Sing any... lullaby...
+
+[Kid]
+Liar!
+
+
+99 :
+[Kid]
+You did too sing a lullaby before, Sara!
+
+[Kid]
+I remember it!
+
+
+100 :
+Sara stared at me as if she felt sorry for me.
+
+
+Y¤u looked like she had a bad taste in her
+mouth.
+
+
+101 :
+Takeshi avoided my eyes and leaned in close to
+say something to Y¤u and Sara.
+
+
+102 :
+Y¤u and Sara listened to Takeshi whispering.
+
+[Kid]
+What are you whispering about?
+
+[Kid]
+I'm fine! I'm not crazy!
+
+[Kid]
+Don't... Don't you look at me like that!
+
+
+103 :
+
+{C2S211}
+[Takeshi]
+Okay. Everything is fine.
+
+
+104 :
+
+{C2S212}
+[Takeshi]
+"So why don't we all go to the place where you 
+saw the girl."
+
+[Kid]
+She's not there... anymore.
+
+[Kid]
+She disappeared...
+
+
+{C2S213}
+[Takeshi]
+I see... but maybe she'll show up again.
+
+[Kid]
+It's no good. She won't...
+
+
+{C2S214}
+[Takeshi]
+I... Uh... Look, we believe you.
+
+
+{C2S215}
+[Takeshi]
+I mean, we've decided to believe you.
+
+
+105 :
+
+{C2S216}
+[Takeshi]
+"Alright? So... So you just keep your cool, 
+okay, Kid?"
+
+
+106 :
+I didn't feel like saying anything else.
+
+Their agreeing with me was somehow sad.
+
+I was sure that the little whispering
+conference they had just held went something
+along the lines of, 'Just agree with whatever
+he says.'
+
+It depressed me and sapped all my energy.
+
+I didn't feel like resisting the three of
+them or trying to give myself a pep talk.
+
+I was tired. I thought they could do what they
+wanted.
+
+'You just keep your cool, okay, Kid?'
+
+Takeshi's words lacked conviction.
+
+
+107 :
+After that...
+
+When we went back in front of the generator
+room there was, of course, no sign of the girl.
+
+The four of us waited outside the generator
+room until we could be sure that the
+temperature inside had cooled enough.
+
+Time was cruel but forgiving.
+
+My feelings smoothed over slowly with time...
+
+
+Like protruding bits of a beach rounded by an
+endless progression of waves.
+
+
+After a while, I was back to my normal self.
+
+
+Only £o¢o's parting word‡L'Farewell'‡Lseemed
+to linger in my mind, echoing without end.
+
+
+
+108 :
+...I decided not to tell them.
+
+The whole story wouldn't have been convincing
+anyway.
+
+I knew that for a fact.
+
+So I handled it that way...
+
+[Kid]
+Nothing... Nothing at all.
+
+
+109 :
+Then I showed them a gleaming smile.
+
+
+110 :
+With that, we had been able to shut off the
+hot water flowing to the generator room.
+
+Even so, on the other side of the door, it was
+still hot enough to scald.
+
+The four of us waited outside the generator
+room until we could be sure that the
+temperature inside had cooled enough.
+
+Time was cruel but forgiving.
+
+My feelings smoothed over slowly with time,
+like protruding bits of a beach rounded by an
+endless progression of waves.
+
+After a while, I found that I could even think
+of my meeting with £o¢o in a detached,
+objective way.
+
+Only £o¢o's parting word‡L'Farewell'‡Lseemed
+to linger in my mind, echoing without end.
+
+
+
+111 :
+When we thought the time had come, we timidly
+opened the door.
+
+It was like opening the door to a public bath. A
+cloud of steam hissed out of the door.
+
+
+112 :
+The heat inside just about defied imagination.
+
+The air in the steam-filled room was heavy and
+stuck to the skin.
+
+Inhaling felt like swallowing globs of sticky
+hot steam.
+
+Takeshi was opening and closing his mouth like
+a fish out of water.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

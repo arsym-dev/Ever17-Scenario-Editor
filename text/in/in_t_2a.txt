@@ -1,0 +1,3372 @@
+
+
+1 :
+[Takeshi]
+*Yaaaaaaaaawn*...
+
+[Takeshi]
+I'm sleepy...
+
+The lack of sleep made the echo of the shoes
+scraping the ground seem louder than usual.
+
+As I walked down the emergency corridor, I
+stretched.
+
+Y¤u was next to me.
+
+£o¢o and the Kid trailed a little way behind
+us.
+
+
+2 :
+
+{T2A000}
+[Y¤u]
+And you slept so hard...
+
+[Takeshi]
+"Yeah, but what time is it right 
+now?"
+
+
+{T2A001}
+[Y¤u]
+5:30 a.m.
+
+[Takeshi]
+"That's right. So that means I only 
+slept four and a half hours."
+
+
+3 :
+
+{T2A002}
+[Y¤u]
+Not 'only'. You slept that much!
+
+
+{T2A003}
+[Y¤u]
+"I don't know how you could sleep like that 
+given our situation..."
+
+[Takeshi]
+"It's because it is this kinda situation that 
+we've gotta sleep."
+
+[Takeshi]
+"Our minds have to be sharp. We have to be 
+ready for anything, right?"
+
+
+4 :
+
+{T2A004}
+[Y¤u]
+So your mind is sharp right now?
+
+
+5 :
+[Takeshi]
+"Well, I'm still a bit sleep-deprived, so not 
+all my pistons are firing..."
+
+[Takeshi]
+"But I think I'm doing about as good as the 
+next guy."
+
+[Takeshi]
+Hey, aren't you...?
+
+The next thing I noticed, Y¤u was no longer
+next to me.
+
+I stopped and looked back.
+
+
+6 :
+I saw the Kid and £o¢o vanish into a small
+side corridor to the right.
+
+I hurried after the three of them.
+
+
+7 :
+
+{T2A005}
+[Y¤u]
+And? How is sleeping beauty...?
+
+Y¤u spoke to me sarcastically once I'd caught
+up.
+
+[Takeshi]
+"I just told you. I'm not running at full 
+power."
+
+
+8 :
+
+{T2A006}
+[Y¤u]
+*Sigh*...
+
+Y¤u let out an exasperated sigh and shrugged
+her shoulders.
+
+She also arched an eyebrow as if annoyed.
+
+
+9 :
+
+{T2A007}
+[Y¤u]
+Kuranari...
+
+
+{T2A008}
+[Y¤u]
+"You know, I think you'd better take a look 
+in the mirror."
+
+[Takeshi]
+Huh? Mirror?
+
+
+10 :
+
+{T2A009}
+[Y¤u]
+You'd... really better wash your face.
+
+
+11 :
+We entered the emergency stairs from the
+emergency corridor.
+
+We had just been roused from sleep by Sora,
+and the four of us shuffled to the control
+room on the third floor, Dritter Stock.
+
+We seemed to have passed through the
+decompression process without a hitch, as no
+one had any complaints.
+
+Even £o¢o, who had seemed to be having such a
+rough time, was...
+
+
+12 :
+
+{T2A010}
+[£o¢o]
+Sunny, sunny, Sunday~
+
+
+{T2A011}
+[£o¢o]
+Windy, windy, Wednesday~
+
+
+{T2A012}
+[£o¢o]
+Pretty, pretty Pipi today~
+
+
+{PIPI_02}
+[Pipi]
+*Woof*!
+
+Even the dog seemed in high spirits.
+
+They looked even happier than the day before.
+
+
+13 :
+The water on the corridor floor splashed and
+sprayed as we walked.
+
+Y¤u, walking next to me, had clammed up.
+
+
+(I wonder what she's peeved about...)
+
+I slowed down my pace to walk with the Kid.
+
+[Takeshi]
+"Hey, you got any idea what Y¤u's all miffed 
+about?"
+
+
+14 :
+
+{T2A013}
+[Kid]
+Who knows?
+
+The Kid answered, grinning.
+
+[Takeshi]
+"Hey, what're you laughing about? Do you know 
+something that I don't?"
+
+
+15 :
+
+{T2A014}
+[Kid]
+"You sure you don't have any ideas what it 
+could be?"
+
+[Takeshi]
+If I did, I wouldn't be asking you.
+
+[Takeshi]
+Y¤u told me to 'look in the mirror', but...
+
+
+16 :
+
+{T2A015}
+[Kid]
+Huh?
+
+[Takeshi]
+Huh?
+
+
+{T2A016}
+[Kid]
+That's no fun...
+
+
+17 :
+The Kid kept glancing at my face and trying
+not to smile.
+
+(My face...?)
+
+I wiped the palm of my hand on my face.
+
+It looked like black ink was smeared there.
+
+
+[Takeshi]
+What's this?
+
+I tried to wipe it off with my shirt collar.
+
+But it wouldn't come off.
+
+
+18 :
+
+{T2A017}
+[Kid]
+Haha...
+
+
+{T2A018}
+[Kid]
+Oh, there's a toilet over there.
+
+[Takeshi]
+.........
+
+
+19 :
+The faucet was broken, and the sink was
+overflowing with water.
+
+
+20 :
+I hurriedly washed my hands and then my face.
+
+The mirror in front of me was shattered into
+so many shards that it was useless.
+
+But most of the black had come off of my
+hands, so I thought my face was probably
+alright.
+
+[Takeshi]
+Damn, that girl...
+
+I said it disgustedly and hurried out of the
+bathroom.
+
+
+21 :
+I went up to Y¤u again.
+
+[Takeshi]
+Hey, you! What did you write on my face?
+
+
+22 :
+
+{T2A019}
+[Y¤u]
+Huh?
+
+[Takeshi]
+"While I was asleep, you scribbled all over my 
+face, didn't you?"
+
+
+{T2A020}
+[Y¤u]
+Scribble?
+
+As she walked, Y¤u gaped at my face.
+
+
+23 :
+
+{T2A021}
+[Y¤u]
+What are you talking about...?
+
+
+{T2A022}
+[Y¤u]
+You're probably still asleep.
+
+[Takeshi]
+Don't play dumb with me, Y¤u!
+
+[Takeshi]
+You were just talking about a mirror.
+
+
+{T2A023}
+[Y¤u]
+Oh, was I? A mirror?
+
+[Takeshi]
+You said it. I know you said it.
+
+
+{T2A024}
+[Y¤u]
+"Are you sure your ears aren't playing tricks 
+on you? I'm pretty sure you're still half 
+asleep."
+
+[Takeshi]
+Then what's this?
+
+I showed her my shirt collar where I had
+wiped the ink.
+
+
+24 :
+
+{T2A025}
+[Y¤u]
+Hmmm, what...?
+
+Y¤u mumbled that, so I stepped closer...
+
+
+{T2A026}
+[Y¤u]
+Well...
+
+Suddenly she grabbed my hand and stared at my
+palm intently.
+
+
+25 :
+
+{T2A027}
+[Y¤u]
+"Oh! Your palm has an interesting future 
+for you."
+
+[Takeshi]
+Palm reading? Is that what you're into now?
+
+
+26 :
+
+{T2A028}
+[Y¤u]
+"Your palm tells me that your fate diverges 
+into two distinctly different futures."
+
+
+{T2A029}
+[Y¤u]
+It's kind of an all or nothing outcome.
+
+
+{T2A030}
+[Y¤u]
+You will either acquire or lose everything...
+
+[Takeshi]
+.........
+
+
+{T2A031}
+[Y¤u]
+"One path will put you on the road to riches, 
+a good job, an encounter with a beautiful 
+woman, and bless you with a strong home and 
+offspring."
+
+
+{T2A032}
+[Y¤u]
+And you will be as healthy as possible...
+
+
+{T2A033}
+[Y¤u]
+"You will live to a ripe old age that will 
+make those around you jealous."
+
+
+{T2A034}
+[Y¤u]
+HOWEVER! HOWEVER!
+
+
+{T2A035}
+[Y¤u]
+"If you take the other path... you will be in 
+dire straits."
+
+[Takeshi]
+D-dire...?
+
+
+27 :
+
+{T2A036}
+[Y¤u]
+Yes... but I can tell you no more.
+
+
+{T2A037}
+[Y¤u]
+"You should take a good look at the middle of 
+your lifeline."
+
+
+{T2A038}
+[Y¤u]
+"Because that is where the answer can be 
+found."
+
+
+28 :
+
+{T2A039}
+[Y¤u]
+Heeheehee...
+
+
+29 :
+I looked down at the palm of my hand.
+
+My eyes traced a line down my lifeline.
+
+Wide-eyed, I scrutinized each wrinkle and line.
+
+
+But I didn't see an answer anywhere.
+
+There was still black ink in the creases of
+my hand.
+
+Black ink...
+
+Black ink...
+
+Black ink!?
+
+I remembered what I was angry about. Forget
+fortune telling!
+
+[Takeshi]
+Y-you! You're trying to trick me...
+
+[Takeshi]
+...Hey, what!?
+
+The next thing I noticed, Y¤u was no longer
+next to me.
+
+I stopped and looked back.
+
+
+30 :
+I saw the Kid and £o¢o vanish into a small
+side corridor to the left.
+
+[Takeshi]
+Whoa! Geez! I don't believe these guys!
+
+I hurried after the three of them.
+
+
+31 :
+Tsugumi was in front of the control room.
+
+She was leaning against the wall with her arms
+folded and head down.
+
+32 :
+{11:0-93}
+{11:1}Talk to her
+
+{11:1}Wait and see what she says
+
+
+33 :
+I wondered where she could have run off to
+the day before... but decided not to ask.
+
+I decided to shower her with the cheeriest
+greeting I could muster.
+
+
+34 :
+[Takeshi]
+GOOD MORNING!
+
+[Takeshi]
+"How are you feeling? If you aren't feeling 
+good, you should probably get to the 
+decompression chamber!"
+
+[Tsugumi]
+.........
+
+Tsugumi didn't budge.
+
+She stood there with her mouth half-open, only
+blinking her eyes a couple of times.
+
+[Takeshi]
+"What's the matter? You tired? Low blood 
+pressure?"
+
+[Takeshi]
+"Well, I didn't exactly sleep like a baby 
+either. That damn room was so small that I ended 
+up sitting on the floor all night..."
+
+I yawned and rubbed my eyes with both hands
+as I spoke.
+
+
+35 :
+But then Tsugumi's eyes narrowed into slits,
+and she leveled a steely glare at me.
+
+It was the kind of look that could kill.
+
+
+{T2A040}
+[Tsugumi]
+You...
+
+
+36 :
+
+{T2A041}
+[Tsugumi]
+...Are the absolute worst.
+
+
+37 :
+I peered at Tsugumi's face.
+
+I was curious where she had gone off to the
+day before...
+
+She could at least have given me a hint.
+
+[Takeshi]
+.........
+
+[Tsugumi]
+.........
+
+[Takeshi]
+.........
+
+[Tsugumi]
+.........
+
+Tsugumi didn't budge.
+
+She stood there with her mouth half-open, only
+blinking her eyes a couple of times.
+
+[Takeshi]
+.........
+
+[Tsugumi]
+.........
+
+
+38 :
+
+{T2A042}
+[Tsugumi]
+What?
+
+Tsugumi finally spoke.
+
+
+39 :
+
+{T2A043}
+[Tsugumi]
+You got a problem?
+
+Then she scowled.
+
+[Takeshi]
+Huh? Oh... good... morning...
+
+[Takeshi]
+"Did you get a good sleep last night? I 
+didn't. That damn room was so small that I ended 
+up sitting on the floor all night..."
+
+I yawned and rubbed my eyes with both hands
+as I spoke.
+
+[Takeshi]
+So what did you do after that yesterday?
+
+
+40 :
+But then Tsugumi's eyes narrowed into slits,
+and she leveled a steely glare at me.
+
+It was the kind of look that could kill.
+
+
+{T2A044}
+[Tsugumi]
+Your face is...
+
+
+41 :
+
+{T2A045}
+[Tsugumi]
+...The absolute worst.
+
+
+42 :
+[Takeshi]
+Huh?
+
+
+43 :
+Tsugumi shook her head as if she was fed up
+with me and vanished inside the control room.
+
+(...A-absolute worst?)
+
+[Takeshi]
+Hey! Hold on a sec!
+
+
+{T2A046}
+[Sora]
+Kuranari-san...
+
+Sora's voice came from behind me.
+
+
+44 :
+
+{T2A047}
+[Sora]
+What are you doing there?
+
+
+{T2A048}
+[Sora]
+Please hurry inside.
+
+[Takeshi]
+But...
+
+
+{T2A049}
+[Sora]
+Just please... go inside.
+
+The expression on her face appeared more
+stressed than the day before.
+
+It seemed as if her face said... that something
+serious was unfolding...
+
+
+45 :
+
+{T2A050}
+[Sora]
+"I'm sorry that I had to have you gather 
+so early. There was no other way."
+
+
+{T2A051}
+[Sora]
+"Actually, everyone, there is something 
+I need to tell you right away."
+
+Sora paused for a second.
+
+Sora looked at all five of us in turn... Y¤u,
+Tsugumi, £o¢o, the Kid, and me.
+
+The cooling fan whirred away in the silence.
+
+
+Occasionally, the sound of metal on metal
+rang through the room.
+
+The five of us waited on Sora's next words.
+
+
+{T2A052}
+[Sora]
+"Last night, after the four of you apart from 
+Komachi-san entered the pressurization chamber..."
+
+
+{T2A053}
+[Sora]
+"I was in the control room here, thinking 
+about ways to escape or contact the outside."
+
+
+{T2A054}
+[Sora]
+And...
+
+
+{T2A055}
+[Sora]
+"While I was checking the internal status of 
+LeMU, I discovered something."
+
+
+{T2A056}
+[Y¤u]
+You found a way to escape!?
+
+
+{T2A057}
+[Sora]
+No.
+
+
+{T2A058}
+[Kid]
+Then a way to contact the outside?
+
+
+{T2A059}
+[Sora]
+Not yet.
+
+[Takeshi]
+Then what did you figure out?
+
+
+46 :
+
+{T2A060}
+[Sora]
+Actually...
+
+
+47 :
+
+{T2A061}
+[Sora]
+"I discovered the amount of pressure the 
+bulkheads can withstand... I found their 
+limits."
+
+
+48 :
+Saying that, Sora turned her eyes to the side
+of the console.
+
+
+49 :
+In the darkness, a three-dimensional image of
+LeMU sprung up.
+
+
+50 :
+
+{T2A062}
+[£o¢o]
+What's the... pressure bulkhead thingy...?
+
+£o¢o held Pipi tightly as she asked.
+
+
+{T2A063}
+[Sora]
+"I mean LeMU's walls. The partitions between 
+the outer seawater and the inner air."
+
+
+{T2A064}
+[Kid]
+"What do you mean... when you say you found the 
+limit?"
+
+
+{T2A065}
+[Sora]
+"Like I said yesterday, LeMU is a structure 
+basically constructed on a saturation diving 
+specification design."
+
+
+{T2A066}
+[Sora]
+"In other words, the internal air pressure 
+equals or is greater than the external water 
+pressure."
+
+
+{T2A067}
+[Sora]
+"However, the complex's internal air pressure 
+is currently at one atmosphere..."
+
+
+{T2A068}
+[Sora]
+Therefore...
+
+
+{T2A069}
+[Y¤u]
+"LeMU's outer shell is constantly being 
+subjected to severe water pressure."
+
+
+{T2A070}
+[Sora]
+Correct.
+
+
+{T2A071}
+[Y¤u]
+"But LeMU is not constructed to endure this 
+situation for a long period of time."
+
+
+51 :
+
+{T2A072}
+[Y¤u]
+"Inevitably, it will, at some point, reach its 
+limit..."
+
+
+{T2A073}
+[Sora]
+Well put, Tanaka-san.
+
+[Takeshi]
+So... when is this limit...?
+
+
+{T2A074}
+[Sora]
+"According to LeMMIH's calculations, 119 
+hours from now..."
+
+
+{T2A075}
+[Tsugumi]
+119 hours...
+
+
+{T2A076}
+[Tsugumi]
+Five days, huh?
+
+
+{T2A077}
+[Sora]
+"The estimated time of implosion is 
+approximately 4:30 a.m. on May 7th."
+
+
+{T2A078}
+[Sora]
+"Of course, it is only a calculation, and 
+there is a margin of error."
+
+
+{T2A079}
+[Tsugumi]
+What is the margin of error?
+
+
+{T2A080}
+[Sora]
+Plus or minus twelve hours.
+
+[Takeshi]
+Hmmm...
+
+Everyone went silent, lost in thought.
+
+Sora's talk had made it clear that we were in
+a crisis.
+
+But I still didn't know what to make of it.
+
+I didn't know if five days was a long time
+or a short one.
+
+We didn't have a schedule... but if we could
+find a way out, I didn't figure we'd be
+sticking around five days.
+
+Even if we didn't call anyone, a rescue team
+might have been on its way anyway...
+
+
+52 :
+
+{T2A081}
+[£o¢o]
+Hey, hey! Sora-san?
+
+
+{T2A082}
+[£o¢o]
+"I'm not very smart, so I'm not sure I 
+understand... What does all that mean?"
+
+
+53 :
+
+{T2A083}
+[Sora]
+?
+
+
+{T2A084}
+[£o¢o]
+"Does that mean at 4:30 a.m. on May 7th, LeMU 
+will get squashed like a pancake?"
+
+
+{T2A085}
+[£o¢o]
+"But that might happen at around 4:30 p.m. 
+on the 6th or at 4:30 p.m. on the 7th."
+
+
+{T2A086}
+[£o¢o]
+Is that okay so far?
+
+
+{T2A087}
+[Sora]
+Yes...
+
+
+{T2A088}
+[£o¢o]
+"So doesn't that mean the opposite is also 
+true?"
+
+
+{T2A089}
+[£o¢o]
+"I mean, at the worst, LeMU will last until 
+4:30 p.m. on May 6th."
+
+
+54 :
+
+{T2A090}
+[£o¢o]
+"So we're fine until then. There's nothing to 
+worry about. Hooray~"
+
+
+55 :
+
+{T2A091}
+[£o¢o]
+Right? Is that what it means?
+
+
+{T2A092}
+[Sora]
+"We can't be absolutely certain that we will 
+be safe..."
+
+
+{T2A093}
+[Sora]
+"But judging from the results of LeMMIH's 
+calculations, that would appear to be the case."
+
+
+{T2A094}
+[£o¢o]
+Oh, goodie. Then no problem.
+
+
+{T2A095}
+[£o¢o]
+"Sora-san, you looked all serious, and so I 
+got kind of scared."
+
+
+{PIPI_28}
+[Pipi]
+*Bow-wow*! *Wooooooof*!
+
+
+{T2A096}
+[£o¢o]
+"'Geez, don't scare me, babe.' I think that's 
+what Pipi's trying to say."
+
+
+{PIPI_01}
+[Pipi]
+*Woof*!
+
+
+56 :
+
+{T2A097}
+[Y¤u]
+"I see... If you had said, 'We only have one 
+more day', or something, I might have burst 
+out crying."
+
+
+{T2A098}
+[Y¤u]
+"So we still have lots of time... Someone 
+will surely come to help us before that, right?"
+
+
+57 :
+The Kid, standing next to Y¤u, agreed.
+
+He nodded rhythmically, as if answering a
+question.
+
+
+58 :
+The tension in the air gave way and smiles
+returned to the faces around the room.
+
+
+59 :
+Even Tsugumi, who didn't smile, looked
+relieved.
+
+
+60 :
+It was 5:50 a.m.
+
+I gave a large yawn.
+
+
+61 :
+[Takeshi]
+Alright, all done!
+
+[Takeshi]
+One, two, three, four, five, six... That's all of them.
+
+I was in the narrow space of the tuna
+sandwich stand where the cooking equipment was.
+
+I was wrapping and placing the freshly made
+breakfast sandwiches on a tray.
+
+[Takeshi]
+"Why is it that I have to make breakfast for 
+everyone?"
+
+Complaining, I took the tray in both hands and
+opened the small door of the stand.
+
+
+62 :
+
+{T2A099}
+[Y¤u]
+"That's the way it goes. We decided it 
+democratically, you know."
+
+Y¤u was waiting in front of the shop and
+snatched a sandwich from the tray.
+
+She peeled back the wrapping and opened up her
+mouth.
+
+[Takeshi]
+Democracy... is overrated...
+
+[Takeshi]
+It just means the majority rules.
+
+
+63 :
+
+{T2A100}
+[Y¤u]
+You got it.
+
+Y¤u said it flatly as she munched on her
+sandwich.
+
+
+{T2A101}
+[Y¤u]
+"It is a reflection of the majority of the 
+people's will."
+
+It was true that it had been an overwhelming
+vote.
+
+I had only been appointed breakfast chief
+minutes before...
+
+I hadn't even run for the office.
+
+[Takeshi]
+"I know that you're the one in the shadows 
+running this conspiracy."
+
+
+64 :
+
+{T2A102}
+[Y¤u]
+Whoa, that's low! I wouldn't do that!
+
+
+65 :
+
+{T2A103}
+[Y¤u]
+"I'm pretty sure it's just because everyone 
+sincerely thought that you would be the best 
+cook."
+
+[Takeshi]
+...You're sure full of it.
+
+
+66 :
+
+{T2A104}
+[Y¤u]
+Tee heeeee...
+
+
+{T2A105}
+[Y¤u]
+Thanks for the sandwich!
+
+[Takeshi]
+You already ate it? That's so fast...
+
+
+{T2A106}
+[Y¤u]
+Yummy. I'll have another...
+
+
+67 :
+Tsk!
+
+
+68 :
+I slapped away Y¤u's outstretched hand.
+
+[Takeshi]
+I've only made one for each person.
+
+[Takeshi]
+If you want another one, you make it.
+
+
+69 :
+
+{T2A107}
+[Y¤u]
+Hey...
+
+
+{T2A108}
+[Y¤u]
+"Come on. Oh, great Takeshi, make me one more...
+pretty pleeeeeeease~"
+
+
+70 :
+First, I wanted to get away from Y¤u.
+
+I took the remaining four sandwiches over to
+the rest area to hand them out.
+
+
+71 :
+[Takeshi]
+Breakfast is ready! Come and get it!
+
+As I called out, I set the tray on a bench.
+
+
+{T2A109}
+[£o¢o]
+Yeah! Yeah! Food, glorious food~
+
+
+72 :
+£o¢o came running and splashing toward me.
+Pipi the dog paddled along behind her.
+
+
+73 :
+
+{T2A110}
+[Kid]
+Oh, this looks good!
+
+All of a sudden, I noticed the Kid beside me.
+
+[Takeshi]
+Hey. Where are Tsugumi and Sora?
+
+
+74 :
+
+{T2A111}
+[Kid]
+Sora went back to the control room.
+
+
+{T2A112}
+[Kid]
+"She said there was still stuff she had to 
+look into..."
+
+[Takeshi]
+Oh, that again...
+
+
+75 :
+
+{T2A113}
+[£o¢o]
+Hmmm. I think Tsugumin took off somewhere...
+
+[Takeshi]
+Same old, same old...
+
+
+76 :
+I turned my eyes to the three tuna
+sandwiches left on the tray.
+
+(What to do...)
+
+77 :
+{11:0-95}
+{11:1}Look for Tsugumi
+
+{11:1}Go see Sora in the control room
+
+
+78 :
+First, I decided to go look for Tsugumi.
+
+I would go see Sora after that.
+
+I took their sandwiches in hand and left the
+room.
+
+
+79 :
+[Takeshi]
+Hey, Tsugumi!
+
+I called out as I walked corridors at random.
+
+'Choooowww tiiiimmmme!'
+
+I knew she wasn't the type to answer to that...
+
+
+80 :
+Finally...
+
+At the end of a corridor, I spied Tsugumi.
+
+
+81 :
+[Takeshi]
+Oh, there she is.
+
+[Takeshi]
+What are you doing here?
+
+'HIMMEL' was written on the door...
+
+Tsugumi wasn't really doing anything. She just
+stood in front of the door.
+
+
+{T2A114}
+[Tsugumi]
+Nothing...
+
+
+{T2A115}
+[Tsugumi]
+It's none of your business...
+
+[Takeshi]
+'None of my business', huh...?
+
+[Takeshi]
+Sure... Whatever.
+
+
+{T2A116}
+[Tsugumi]
+What are YOU doing here?
+
+[Takeshi]
+This.
+
+I held out one of the tuna sandwiches to
+Tsugumi.
+
+
+82 :
+
+{T2A117}
+[Tsugumi]
+What's this?
+
+[Takeshi]
+Breakfast.
+
+
+{T2A118}
+[Tsugumi]
+Hmmmm...
+
+[Takeshi]
+You're not gonna eat?
+
+Tsugumi tilted her head a little and stared
+at the sandwich.
+
+[Takeshi]
+If you don't want it, I'll give it to Y¤u.
+
+
+83 :
+
+{T2A119}
+[Tsugumi]
+I didn't say I don't want it...
+
+Tsugumi indifferently took the sandwich from
+me.
+
+[Takeshi]
+Good. I went to a lot of pain to make that.
+
+[Takeshi]
+"If you said you didn't want it, I don't know 
+what I'd..."
+
+
+84 :
+Tsugumi began to walk away without listening
+as I was talking.
+
+[Takeshi]
+H-hey! Hold on a second!
+
+
+85 :
+I suddenly grabbed Tsugumi's shoulder.
+
+[Takeshi]
+You should at least say thanks.
+
+Tsugumi didn't try to turn around.
+
+She shook my hand off of her shoulder
+effortlessly.
+
+
+86 :
+
+{T2A120}
+[Tsugumi]
+*Sigh*...
+
+She let out an annoyed sigh.
+
+
+{T2A121}
+[Tsugumi]
+Don't... touch me...
+
+Tsugumi said it in a low voice without turning
+around.
+
+My shrugged-off hand floated in the air with
+nowhere to go.
+
+
+87 :
+
+{T2A122}
+[Tsugumi]
+Don't...
+
+
+{T2A123}
+[Tsugumi]
+Touch me...
+
+
+88 :
+Tsugumi repeated the same words again and
+silently started walking away.
+
+Down the water-covered floor of the corridor...
+
+Rings rippled out slowly from where Tsugumi
+stepped as she walked away.
+
+
+89 :
+Just then, the lights in the corridor began to
+flicker uneasily.
+
+I instinctively glanced up at the ceiling.
+
+Listening carefully, I heard a sound like the
+rumble of thunder far away.
+
+90 :
+[Takeshi]
+Wh-what...?
+
+[Takeshi]
+What is happening...? It couldn't be...
+
+Tiny waves formed in the water pooled on the floor.
+
+
+The walls and ceiling trembled slightly.
+Metal screeched on metal.
+
+I could see Tsugumi's back down the corridor.
+
+
+91 :
+The lights clicked and flickered. Tsugumi
+turned and looked back at me.
+
+
+92 :
+As if she wanted to say something to me...
+
+
+93 :
+Darkness blanketed us.
+
+The tremors and sounds stopped, but an eerie
+silence filled the area.
+
+Only the emergency lights glowed dimly.
+
+
+94 :
+[Takeshi]
+...Is this a blackout?
+
+[Takeshi]
+Tsugumi!
+
+I kicked up water as I ran.
+
+
+95 :
+I ran to where Tsugumi was, shouting.
+
+
+96 :
+[Takeshi]
+Tsugumi! It's a blackout! A blackout!
+
+
+{T2A124}
+[Tsugumi]
+I know...
+
+[Takeshi]
+What should we do?
+
+
+97 :
+
+{T2A125}
+[Tsugumi]
+Why're you asking me...?
+
+[Takeshi]
+Oh yeah... Right...
+
+[Takeshi]
+So what should we do?
+
+[Tsugumi]
+.........
+
+[Takeshi]
+"I know! First, we should go to where everyone 
+is."
+
+
+98 :
+We cut through a nearby door and came out in
+front of the kiosk.
+
+Y¤u wasn't there.
+
+
+99 :
+I sprinted to the room next door. There was
+no sign of anyone there either.
+
+I scanned the area.
+
+My eyes weren't used to the darkness yet, and I
+couldn't see into the corners of the room.
+
+[Takeshi]
+Hey! £o¢o! Kid! Y¤u!
+
+The echo of my voice was swallowed, vanishing
+into the darkness.
+
+[Takeshi]
+Where could they have gone?
+
+My eyes stopped on the bench.
+
+On top of the tray I'd left, there was one
+tuna sandwich remaining.
+
+I still had one of the sandwiches in my
+hand...
+
+The emergency didn't seem to faze Tsugumi, who
+was stuffing her face with the sandwich I'd
+given her.
+
+
+100 :
+
+{T2A126}
+[Tsugumi]
+Hey...
+
+[Takeshi]
+?
+
+
+{T2A127}
+[Tsugumi]
+This...
+
+Tsugumi handed me something.
+
+It was the balled up sandwich wrapper.
+
+
+{T2A128}
+[Tsugumi]
+...Needs to be thrown away.
+
+
+101 :
+Saying that, Tsugumi left the room.
+
+(Geez. I can't believe that girl...)
+
+I took the crumpled-up wrapper, put it
+back on the tray, and soon followed after
+Tsugumi.
+
+
+102 :
+‡LIn front of the control room.
+
+In the far darkness, I could just make out
+three familiar outlines.
+
+
+103 :
+
+{T2A129}
+[Y¤u]
+Hey, Kuranari!
+
+
+{T2A130}
+[£o¢o]
+Tsugumin!
+
+
+104 :
+Splashing through the water, the three of them
+walked over.
+
+
+105 :
+
+{T2A131}
+[Kid]
+Hey, have you seen Sora?
+
+I looked at Tsugumi.
+
+She shook her head.
+
+[Takeshi]
+Wasn't she in the control room?
+
+
+{T2A132}
+[Y¤u]
+It's empty now.
+
+[Takeshi]
+You sure? Let's check...
+
+
+106 :
+I pushed the panel next to the door, but the
+button remained lifeless.
+
+[Takeshi]
+"Hey, how do you open this? Does the 
+electricity have to be on?"
+
+
+{T2A133}
+[Y¤u]
+"Oh, there is an emergency mechanism for 
+opening the door near the bottom of it..."
+
+
+107 :
+I decided to look in on Sora first.
+
+I'd look for Tsugumi later.
+
+I took their sandwiches in hand and left the
+room.
+
+
+108 :
+[Takeshi]
+Which way was it?
+
+I'd gone as far as the corner before I
+realized that I didn't know the route.
+
+[Takeshi]
+Maybe it's this way...
+
+
+109 :
+Finally...
+
+
+110 :
+I found a room where the corridor played out.
+
+'HIMMEL' was written on the door...
+
+[Takeshi]
+No, this isn't it.
+
+I retraced my route.
+
+
+111 :
+[Takeshi]
+Alright, here it is...
+
+[Takeshi]
+Hey, Sora! It's time for dinner!
+
+
+112 :
+I pushed the open button next to the door.
+
+But the door didn't open.
+
+[Takeshi]
+"Hey, Sora! Open up! I brought you food! Time 
+to eat!"
+
+
+113 :
+I shouted into the interphone as I pushed the
+button to talk.
+
+
+{T2A134}
+[Sora]
+Eat?
+
+She replied to me through the speaker.
+
+
+{T2A135}
+[Sora]
+"Thanks for going to the trouble, but I don't 
+need any food..."
+
+[Takeshi]
+You don't? Don't say that.
+
+[Takeshi]
+Sora, have you been eating okay?
+
+[Takeshi]
+"You have to eat, or you're not going to have 
+any energy."
+
+[Sora]
+.........
+
+
+{T2A136}
+[Sora]
+I'm sorry, but I'm occupied at the moment.
+
+I remembered that we'd had the same
+exchange the day before.
+
+[Takeshi]
+"Hurry it up. These sandwiches are gonna get 
+cold."
+
+[Takeshi]
+Besides, I made them special for you~
+
+[Takeshi]
+"Listen... I just wanna give these to you, so 
+will you open the door?"
+
+
+{T2A137}
+[Sora]
+I really can't...
+
+[Takeshi]
+C'mon. Please, just open the door, Sora-san.
+
+[Takeshi]
+"...I'll throw in a coupon for a beer if you 
+want."
+
+
+{T2A138}
+[Sora]
+I'm sorry...
+
+We kept arguing through the speaker.
+
+[Takeshi]
+.........
+
+[Takeshi]
+"Alright then! I'm only going to wait out 
+here for one more minute!"
+
+
+{T2A139}
+[Sora]
+"One more minute? You're giving me a hard 
+time..."
+
+
+{T2A140}
+[Sora]
+I have to go somewhere...
+
+[Takeshi]
+Huh? Somewhere where?
+
+[Sora]
+...
+
+[Takeshi]
+Hey, Sora, where are you going? Hello? Hello?
+
+
+114 :
+I pushed the button again and again, shouting.
+
+But Sora didn't answer.
+
+
+115 :
+Just then, the lights in the corridor began to
+flicker uneasily.
+
+Instinctively, I looked to the ceiling.
+
+Listening carefully, I heard a sound like the
+rumble of thunder far away.
+
+
+116 :
+[Takeshi]
+Wh-what...?
+
+[Takeshi]
+What's happening? It couldn't be...
+
+Tiny waves formed in the water pooled on the floor.
+
+
+The walls and ceiling trembled slightly.
+Metal screeched on metal.
+
+As if they were trying to say something to
+me...
+
+
+117 :
+Darkness blanketed me.
+
+The tremors and sounds stopped, but an eerie
+silence filled the area.
+
+Only the emergency lights glowed dimly.
+
+
+118 :
+[Takeshi]
+...Is this a blackout?
+
+(I wonder what happened to Sora?)
+
+[Takeshi]
+Hey, Sora! Answer me!
+
+
+119 :
+Bang, bang!
+
+I pounded the door.
+
+I thought she might not be able to hear me
+inside...
+
+
+120 :
+Bang, bang!
+
+
+121 :
+Then I tapped the interphone button.
+
+But there was no response.
+
+(Oh... I wonder if the interphone needs
+electricity to work...)
+
+I had no clue what was happening on the other
+side of the door.
+
+(I figured the only thing I could do was get
+the door open...)
+
+I heard footsteps approaching from the
+darkened corridor.
+
+[Takeshi]
+Who's there?
+
+In the far darkness, I could just make out four
+familiar outlines.
+
+
+122 :
+
+{T2A141}
+[Y¤u]
+Oh, Kuranari!
+
+
+{T2A142}
+[£o¢o]
+Takepyon!
+
+
+123 :
+Splashing through the water, the four of them
+walked over.
+
+
+124 :
+[Tsugumi]
+.........
+
+
+125 :
+
+{T2A143}
+[Kid]
+Hey, have you seen Sora?
+
+[Takeshi]
+"No, but she was inside here until just a bit 
+ago. But now she won't answer. And it seems 
+like the door is locked..."
+
+
+{T2A144}
+[Y¤u]
+What happened?
+
+[Takeshi]
+"I dunno. Anyway, let's get inside. How do we 
+get this open?"
+
+
+{T2A145}
+[Y¤u]
+"Oh, there is an emergency mechanism for 
+opening the door near the bottom of it..."
+
+
+126 :
+Pulling on the lever, I pushed the door over
+to the side.
+
+The door opened just wide enough for a person
+to squeeze through.
+
+
+127 :
+I peeked inside the room.
+
+It was pitch black. I couldn't see a thing.
+
+
+{T2A146}
+[Kid]
+Do you want a flashlight?
+
+[Takeshi]
+Oh, thanks.
+
+
+128 :
+I gave the Kid the sandwich and took the
+flashlight.
+
+I turned it on and stepped into the room.
+
+
+129 :
+Taking the flashlight, I turned it on and
+stepped into the room.
+
+
+130 :
+A white circle of light appeared on the wall.
+
+I shined the flashlight left and right,
+lighting up all corners of the room.
+
+The electrical system was completely down.
+
+Like an abandoned castle, there was no sign of
+warmth left.
+
+There was clearly nobody there.
+
+
+131 :
+[Takeshi]
+Well... what should we do?
+
+I joined everyone and asked that calmly.
+
+It had been one crisis after another since
+the day before...
+
+I guessed we were already used to the situation
+because nobody had lost it.
+
+
+{T2A147}
+[Y¤u]
+"I can't believe Sora would take off without 
+saying anything first."
+
+Y¤u tilted her head as she said that.
+
+
+132 :
+[Takeshi]
+Hmmm?
+
+Looking at her then, I noticed something.
+
+[Takeshi]
+Y¤u, when did you change clothes?
+
+
+133 :
+
+{T2A148}
+[Y¤u]
+Huh? Oh, this...?
+
+Y¤u was wearing clothes I hadn't remembered
+seeing.
+
+
+134 :
+
+{T2A149}
+[Y¤u]
+I spilled sauce all over my uniform...
+
+
+{T2A150}
+[Y¤u]
+"I had one change of clothes in the changing 
+room. These are my everyday clothes."
+
+[Takeshi]
+Hmm, I see... So you had a change of clothes.
+
+[Takeshi]
+"Spilling sauce on your uniform? That's pretty 
+clumsy."
+
+
+{T2A151}
+[Y¤u]
+Hahaha...
+
+Y¤u scratched her head as if to offset her
+embarrassment.
+
+[Takeshi]
+Anyway, we should be thinking about Sora.
+
+
+{T2A152}
+[£o¢o]
+Yeah. For now...
+
+
+135 :
+
+{T2A153}
+[£o¢o]
+Everybody, let's split up and look for Sora-san.
+
+
+{T2A154}
+[£o¢o]
+"Without Sora-san around, we won't know why there 
+was a blackout or anything..."
+
+
+{T2A155}
+[Kid]
+Yeah. Sora knows more about LeMU than anyone.
+
+[Takeshi]
+Hmmm... Alright, let's do this.
+
+[Takeshi]
+"Y¤u and the Kid, you guys check this floor. 
+Tsugumi, £o¢o, and I will hit the second 
+floor..."
+
+[Takeshi]
+Okay?
+
+
+136 :
+
+{T2A156}
+[Y¤u]
+Huh? Alright.
+
+
+{T2A157}
+[Kid]
+Roger that.
+
+
+{T2A158}
+[£o¢o]
+Uh... Um... What about Pipi?
+
+[Takeshi]
+He'll go with you, of course.
+
+I petted Pipi's head.
+
+[Takeshi]
+Alright, let's go search!
+
+
+{PIPI_01}
+[Pipi]
+*Woof*!
+
+
+137 :
+[Takeshi]
+Sora! Sora!
+
+The three people and one mutt (myself,
+Tsugumi, £o¢o, and Pipi) split up once we
+reached Zweiter Stock.
+
+
+138 :
+‡LThe entrance to the neutral buoyancy elevator.
+
+
+139 :
+‡LInside the infirmary.
+
+
+140 :
+‡LThe changing room.
+
+
+141 :
+‡LThe security office.
+
+
+142 :
+‡LThe merry-go-round.
+
+
+143 :
+We searched everything, even the Jellyfish
+Gondola...
+
+
+144 :
+Then we retraced our way back to the front of
+the infirmary.
+
+And then...
+
+
+{T2A159}
+[£o¢o]
+Takepyon! Takepyon!
+
+
+{PIPI_27}
+[Pipi]
+*Woof*, *woof*! *Woof*!
+
+
+145 :
+£o¢o was shaking the flashlight and signaling
+to me.
+
+I had handed it to her before we started
+searching.
+
+[Takeshi]
+How'd it go? Any luck?
+
+£o¢o used the flashlight to make a big X,
+signifying nothing found.
+
+
+146 :
+
+{T2A160}
+[£o¢o]
+How about you?
+
+[Takeshi]
+Nothing. She's not on this floor.
+
+[Takeshi]
+What about Tsugumi?
+
+
+{T2A161}
+[£o¢o]
+Tsugumin just passed by in front of me.
+
+[Takeshi]
+Passed by?
+
+
+147 :
+
+{T2A162}
+[£o¢o]
+"She went that way... toward the entrance to 
+Ei the egg elevator."
+
+[Takeshi]
+The neutral buoyancy elevator, huh?
+
+
+148 :
+
+{T2A163}
+[£o¢o]
+Yeah.
+
+
+{T2A164}
+[£o¢o]
+She was carrying something big.
+
+Something big?
+
+It sounded like Tsugumi was up to something
+solo again...
+
+[Takeshi]
+I'll go check it out.
+
+£o¢o and I moved to the room next door.
+
+
+149 :
+There were signs of someone there.
+
+Ahead, in the total darkness, was something
+rustling around.
+
+
+{T2A165}
+[£o¢o]
+Tsugumin?
+
+Calling out, £o¢o shined the light on the
+shadow.
+
+
+150 :
+
+{T2A166}
+[Tsugumi]
+...Hey, that's bright.
+
+As expected, it was Tsugumi. She held out the
+palms of her hands as she stood up.
+
+
+151 :
+£o¢o hurried to turn off the flashlight and
+rushed over by Tsugumi.
+
+I followed her over with Pipi.
+
+
+152 :
+
+{T2A167}
+[£o¢o]
+What are you doing here?
+
+
+{T2A168}
+[Tsugumi]
+Huh? Hmph...
+
+
+{T2A169}
+[£o¢o]
+I don't understand what you mean by 'Hmph'.
+
+[Tsugumi]
+...
+
+
+{T2A170}
+[£o¢o]
+Hey, what were you doing?
+
+
+153 :
+
+{T2A171}
+[Tsugumi]
+Looking into something.
+
+
+{T2A172}
+[£o¢o]
+What?
+
+
+{T2A173}
+[Tsugumi]
+This elevator.
+
+
+{T2A174}
+[£o¢o]
+Ei, the egg elevator?
+
+
+{T2A175}
+[Tsugumi]
+Yes...
+
+
+{T2A176}
+[£o¢o]
+"What do you need this big thing to 
+investigate for?"
+
+£o¢o pointed down by Tsugumi's feet.
+
+There lay a massive plastic case.
+
+
+I was sure I'd seen it... in the warehouse the
+day before.
+
+It looked like a toolbox, but...
+
+
+154 :
+
+{T2A177}
+[Tsugumi]
+I'm gonna need this later.
+
+
+{T2A178}
+[Tsugumi]
+"Right now, I'm just checking the status of the 
+elevator."
+
+
+{T2A179}
+[Tsugumi]
+"Whether it'll move or the doors open 
+manually..."
+
+Tsugumi was way more talkative than usual.
+
+Her attitude toward £o¢o was much nicer than
+the one she had toward me.
+
+It seemed to me that £o¢o's unique
+personality kept even Tsugumi off balance.
+
+
+{T2A180}
+[£o¢o]
+Hmmm...
+
+
+{T2A181}
+[£o¢o]
+"So how about it? Does it look like the 
+elevator will move?"
+
+
+155 :
+
+{T2A182}
+[Tsugumi]
+Maybe.
+
+Tsugumi glanced at me as she said that.
+
+
+{T2A183}
+[£o¢o]
+"Hey, but what good would using the elevator 
+do you?"
+
+
+156 :
+
+{T2A184}
+[Tsugumi]
+I thought we'd go down to the third floor...
+
+
+{T2A185}
+[£o¢o]
+"Third floor? Why don't we just use the 
+emergency stairs like we always do?"
+
+
+{T2A186}
+[Tsugumi]
+"Because those stairs won't get us where we 
+need to go."
+
+
+157 :
+
+{T2A187}
+[£o¢o]
+Huh?
+
+
+{T2A188}
+[Tsugumi]
+They won't get us to the generator room.
+
+
+{T2A189}
+[£o¢o]
+Generator room?
+
+That reminded me of what Y¤u had said.
+
+LeMU didn't receive any power from the
+outside, but had an in-house generator
+system.
+
+There was a thermal seafloor vent where hot
+water was pumped out of the seabed, and heat
+from that was used to operate the generator.
+
+
+158 :
+
+{T2A190}
+[£o¢o]
+But why do you need to go there?
+
+
+{T2A191}
+[Tsugumi]
+Because it's a pain with the lights off.
+
+
+{T2A192}
+[£o¢o]
+Huh?
+
+
+{T2A193}
+[Tsugumi]
+To make repairs.
+
+
+{T2A194}
+[Tsugumi]
+"I think the cause of the blackout is the 
+generator."
+
+
+159 :
+
+{T2A195}
+[£o¢o]
+Oh, I see!
+
+
+{T2A196}
+[£o¢o]
+So that's why you need this big box?
+
+
+{T2A197}
+[Tsugumi]
+Yes.
+
+
+160 :
+
+{T2A198}
+[£o¢o]
+Oh, I get it now... That makes sense.
+
+Tsugumi was finally freed from £o¢o's barrage
+of questions.
+
+
+{T2A199}
+[Tsugumi]
+Alright. I'm going down...
+
+
+161 :
+
+{T2A200}
+[Tsugumi]
+Takeshi... could you come along?
+
+[Takeshi]
+Huh? Me?
+
+Without thinking, I shot a question back at
+her.
+
+
+162 :
+Her question was pretty sudden and caught me
+off balance.
+
+Besides, I thought that it was the first time
+she had called me by my name.
+
+[Takeshi]
+"First, there is one thing that I want to ask 
+you..."
+
+
+{T2A201}
+[Tsugumi]
+What?
+
+[Takeshi]
+"You just said something about the emergency 
+stairs not leading to the generator room, 
+right?"
+
+[Takeshi]
+So... why's that?
+
+
+{T2A202}
+[Tsugumi]
+"Don't you remember the map of LeMU that we 
+saw yesterday?"
+
+[Takeshi]
+Map? Map... Map...
+
+I pressed on my temples with my fingers,
+trying to tease out a buried memory.
+
+
+163 :
+
+{T2A203}
+[Tsugumi]
+"The map of the third floor was divided into 
+two areas."
+
+
+{T2A204}
+[Tsugumi]
+Do you remember?
+
+[Takeshi]
+"I can't say I remember it exactly... but 
+kinda, yeah."
+
+
+{T2A205}
+[Tsugumi]
+And what was between those two areas?
+
+[Takeshi]
+Between them? How am I supposed to know...?
+
+[Takeshi]
+There wasn't anything there.
+
+
+{T2A206}
+[Tsugumi]
+Exactly.
+
+
+{T2A207}
+[Tsugumi]
+Which means?
+
+[Takeshi]
+"The two areas are divided by a block 
+which is now underwater...?"
+
+
+{T2A208}
+[Tsugumi]
+So?
+
+
+164 :
+[Takeshi]
+"We can't move directly from the control room 
+area to the generator room area."
+
+
+{T2A209}
+[Tsugumi]
+So what?
+
+[Takeshi]
+Oh, I see...
+
+[Takeshi]
+"To get to the generator room's area, 
+we have to access the second floor..."
+
+
+165 :
+[Takeshi]
+"And the only way we can do that is by 
+using the neutral buoyancy elevator."
+
+
+{T2A210}
+[Tsugumi]
+Could you... help me out?
+
+[Takeshi]
+"But do you think it's alright? I mean, we 
+haven't asked Sora's opinion..."
+
+[Takeshi]
+"And we don't know if the cause of the 
+blackout is really the generator..."
+
+
+166 :
+
+{T2A211}
+[Tsugumi]
+I don't think that'd do any good.
+
+[Takeshi]
+Huh?
+
+
+{T2A212}
+[Tsugumi]
+I don't think you're going to find Sora.
+
+
+{T2A213}
+[Tsugumi]
+Because of the blackout...
+
+[Takeshi]
+?
+
+
+167 :
+
+{T2A214}
+[Tsugumi]
+"The control room computer is going to be 
+down."
+
+
+{T2A215}
+[Tsugumi]
+"Even if Sora were around, she wouldn't be 
+able to contact LeMMIH."
+
+
+{T2A216}
+[Tsugumi]
+"So the only thing that we can do is go check 
+out the generator, right?"
+
+[Takeshi]
+Well, I suppose so, but...
+
+
+168 :
+
+{T2A217}
+[Tsugumi]
+So what're you going to do?
+
+
+{T2A218}
+[Tsugumi]
+Will you come along?
+
+[Takeshi]
+.........
+
+
+169 :
+
+{T2A219}
+[Tsugumi]
+Takeshi...
+
+
+170 :
+
+{T2A220}
+[Tsugumi]
+I really... need... you...
+
+Those words shocked me. I thought my heart
+stopped for a second.
+
+'I really... need... you...'
+
+They were not words that I ever expected to
+hear from Tsugumi's mouth.
+
+Tsugumi stared straight at me.
+
+Her intense gaze made me uncomfortable.
+
+
+{T2A221}
+[Tsugumi]
+Please...
+
+171 :
+{11:0-97}
+{11:1}Help Tsugumi
+
+{11:1}Look for Sora first
+
+
+172 :
+[Takeshi]
+A-alright...
+
+[Takeshi]
+I'll go with you.
+
+I stared back into Tsugumi's eyes.
+
+I didn't think about going against her.
+
+Tsugumi nodded.
+
+
+173 :
+
+{T2A222}
+[£o¢o]
+Hey, what about £o¢o?
+
+
+174 :
+
+{T2A223}
+[Tsugumi]
+I've got another job I want £o¢o to do.
+
+
+{T2A224}
+[£o¢o]
+Another job? What's that?
+
+
+{T2A225}
+[Tsugumi]
+"I want you to tell Y¤u and the Kid what I 
+just told you."
+
+
+{T2A226}
+[Tsugumi]
+"I mean, tell them that Takeshi and I are 
+going to the generator room..."
+
+
+{T2A227}
+[£o¢o]
+Oh, that.
+
+
+175 :
+
+{T2A228}
+[£o¢o]
+Roger! Ten-four that!
+
+£o¢o clicked her heels together and gave a
+kind of salute.
+
+
+176 :
+[Takeshi]
+N-no...
+
+[Takeshi]
+I don't want to go.
+
+I turned my face to avoid Tsugumi's eyes.
+
+I didn't want her eyes to drag me in.
+
+[Takeshi]
+"We've got to look for Sora first. This isn't 
+a time to be acting selfishly."
+
+
+177 :
+
+{T2A229}
+[Tsugumi]
+...I see.
+
+Tsugumi frowned.
+
+She gave me that look that could kill again.
+
+
+178 :
+
+{T2A230}
+[£o¢o]
+Hey, hey. Do you want me to go instead?
+
+£o¢o asked the question innocently.
+
+
+179 :
+
+{T2A231}
+[Tsugumi]
+Uh... Let's see...
+
+Tsugumi's expression soon returned to normal.
+
+
+{T2A232}
+[Tsugumi]
+"But I don't think it's possible with just 
+you alone."
+
+
+180 :
+
+{T2A233}
+[Tsugumi]
+First, I want to ask you to do another job.
+
+
+{T2A234}
+[£o¢o]
+Another job? What's that?
+
+
+{T2A235}
+[Tsugumi]
+"I want you to tell Y¤u and the Kid that I'm 
+going to the generator room."
+
+
+181 :
+
+{T2A236}
+[Tsugumi]
+"And... that Takeshi put me in a difficult spot 
+because he was scared and wouldn't come along 
+with me..."
+
+[Takeshi]
+Hey, hold on! When did I say I was scared?
+
+I jumped in between £o¢o and Tsugumi.
+
+
+182 :
+
+{T2A237}
+[Tsugumi]
+"'No. I don't want to go.' That sounds pretty 
+scared to me."
+
+[Takeshi]
+"Hey! Who do you think you're calling scared? 
+I just think that we should do something else 
+first."
+
+
+183 :
+
+{T2A238}
+[Tsugumi]
+"See what I mean. Something happens and you 
+start whining like a baby..."
+
+
+184 :
+
+{T2A239}
+[Tsugumi]
+You are a gutless man...
+
+
+185 :
+
+{T2A240}
+[Tsugumi]
+Or maybe you're not even a man yet...?
+
+
+{T2A241}
+[Tsugumi]
+"£o¢o, hurry and get Y¤u and the Kid. Takeshi 
+isn't going to be any use."
+
+[Takeshi]
+Tsugumi! You don't have to talk like that!
+
+I was peeved.
+
+
+186 :
+
+{T2A242}
+[Tsugumi]
+So how do you want me to say it?
+
+Without hesitating, Tsugumi shot the question
+right back at me.
+
+[Takeshi]
+.........
+
+For one moment, I thought I'd grab her by her
+collar and show her.
+
+But I dropped my hand...
+
+[Takeshi]
+Okay, okay. Fine. I'll go with you.
+
+[Takeshi]
+"I'll go with you because you are too scared 
+to go alone."
+
+
+187 :
+
+{T2A243}
+[Tsugumi]
+...Hmmph.
+
+Tsugumi laughed through her nose.
+
+
+188 :
+
+{T2A244}
+[£o¢o]
+So what am I supposed to do?
+
+
+189 :
+
+{T2A245}
+[Tsugumi]
+"...Just tell Y¤u that I'm going to the 
+generator room."
+
+
+{T2A246}
+[Tsugumi]
+And I'm taking Takeshi along.
+
+
+190 :
+
+{T2A247}
+[£o¢o]
+Roger! Ten-four that!
+
+
+{PIPI_01}
+[Pipi]
+*Woof*!
+
+£o¢o clicked her heels together and gave a
+kind of salute.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3348 @@
+
+
+1 :
+There were still fish flopping around on the
+floor, but the water had receded a while
+earlier.
+
+
+2 :
+
+{T1A034}
+[Park staff]
+"This sector is confirmed to be drained 
+of water..."
+
+
+{T1A035}
+[Park staff]
+"However, 30% of the facility is 
+already..."
+
+
+3 :
+
+{T1A036}
+[Park staff]
+"Believed to be submerged or completely 
+flooded..."
+
+[Takeshi]
+Hey, wait just a second...
+
+[Takeshi]
+I thought we were going to escape UP!
+
+[Takeshi]
+If we go down...!
+
+[Takeshi]
+Hey! What are we supposed to do now?
+
+
+4 :
+
+{T1A037}
+[Girl]
+There's no point arguing about this.
+
+
+{T1A038}
+[Park staff]
+I'm sorry, but...
+
+The employee looked extremely sorry and was
+bowing.
+
+
+5 :
+
+{T1A039}
+[Park staff]
+It is my responsibility.
+
+6 :
+{11:0-80}
+{11:1}That's it! Get me the person in charge!
+
+{11:1}It's not your fault
+
+{11:1}That's not important right now...
+
+
+7 :
+[Takeshi]
+That's it! Get me the person in charge!
+
+[Takeshi]
+"It's no good blaming someone that works here 
+like you, but..."
+
+[Takeshi]
+How could this happen? I want an explanation!
+
+[Takeshi]
+"I came here with my friends and just missed 
+taking the elevator..."
+
+[Takeshi]
+I don't believe this..!
+
+
+8 :
+
+{T1A040}
+[Girl]
+Take it easy...
+
+[Takeshi]
+You be quiet...
+
+
+9 :
+
+{T1A041}
+[Girl]
+Stop it!
+
+The girl was glaring at me intensely.
+
+
+10 :
+
+{T1A042}
+[Girl]
+Why don't you just be quiet...
+
+Her icy, threatening voice overwhelmed me.
+
+[Takeshi]
+Al-alright.
+
+
+11 :
+[Takeshi]
+It's not your fault.
+
+[Takeshi]
+"I don't think that this is any one person's 
+fault."
+
+[Takeshi]
+But why has this happened?
+
+[Takeshi]
+That's... the issue.
+
+[Takeshi]
+"Sorry. I'm just a little aggravated. I 
+didn't mean to take it out on you..."
+
+
+{T1A043}
+[Park staff]
+It's okay...
+
+
+12 :
+[Takeshi]
+No, relax... Yeah, let's all relax...
+
+[Takeshi]
+"I'm glad to be safe, but more important than 
+that right now is... Who are you guys?"
+
+[Takeshi]
+"The chick in black ran like something 
+bionic..."
+
+[Takeshi]
+"When the glass broke, that attendant was 
+right next to it. But she took off at warp 
+speed..."
+
+[Takeshi]
+What's up with that?
+
+[Takeshi]
+"And don't tell me that this is part of the 
+theme park atmosphere?"
+
+
+13 :
+[Girl]
+.........
+
+[Park staff]
+.........
+
+Neither of them tried to answer.
+
+
+14 :
+The fish on the floor were still jumping
+around.
+
+
+15 :
+
+{T1A044}
+[Park staff]
+I'm really, really sorry...
+
+The park employee was bowing so low that her
+head approached the floor.
+
+For some reason, her clothes were completely
+dry.
+
+
+16 :
+
+{T1B000}
+[Girl]
+"It doesn't do us any good just standing 
+around here. Can you show us the way?"
+
+
+{T1B001}
+[Park staff]
+"Certainly. There is a relatively safe place 
+nearby. I will take you there..."
+
+(RELATIVELY safe...?)
+
+That was about the same as saying that
+everywhere else was dangerous.
+
+
+17 :
+We turned around and started heading back the
+corridor we'd been washed down.
+
+I looked at a panel and finally realized that
+we were in Zweiter Stock‡Lbasement level two.
+
+
+18 :
+We went in a nearby attraction.
+
+[Takeshi]
+So are we the only folks here?
+
+
+19 :
+
+{T1B002}
+[Park staff]
+I do not know. I am currently investigating.
+
+'Yeah right, investigating what?', I thought
+as we walked...
+
+
+20 :
+
+{T1B003}
+[Park staff]
+Ah!
+
+[Takeshi]
+What is it?
+
+
+21 :
+
+{T1B004}
+[Park staff]
+Three other people are approaching.
+
+[Takeshi]
+...What?
+
+
+22 :
+
+{T1B005}
+[Park staff]
+*Sigh*...
+
+
+{T1B006}
+[Park staff]
+"For a while, I wondered what was going to 
+happen to us, but..."
+
+It was one of the female employees that
+I'd met once before.
+
+
+23 :
+
+{T1B007}
+[Park staff]
+I'm glad we survived...
+
+
+24 :
+
+{T1B008}
+[Park staff]
+Hey, aren't you...?
+
+The girl finally noticed us.
+
+[Takeshi]
+I didn't think there'd be anybody else here.
+
+
+25 :
+
+{T1B009}
+[Park staff]
+Yeah. How are you?
+
+[Takeshi]
+About as good as I look, I suppose.
+
+
+{T1B010}
+[Park staff]
+Seems like you had a rough time of it too...
+
+[Takeshi]
+Hey, lucky guess...
+
+Relaxing a bit, I returned her smile.
+
+
+26 :
+There were two people behind the girl.
+
+One of them was the girl who I thought was
+named £o¢o.
+
+
+27 :
+When our eyes met, £o¢o grinned.
+
+
+{T1B011}
+[£o¢o]
+Oh, we meet again.
+
+[Takeshi]
+It's been a while.
+
+[Takeshi]
+"It doesn't have to be right now, but £o¢o, 
+will you tell me a joke later? I'm really in 
+the mood for one."
+
+
+28 :
+
+{T1B012}
+[£o¢o]
+Sure. No problem, I'll think of one.
+
+She nodded brightly.
+
+
+29 :
+
+{T1B013}
+[Kid]
+.........
+
+The other person was the kid I brought to the
+infirmary.
+
+His expression looked darker somehow.
+
+If he'd become super upbeat all of a
+sudden, that would have been weird too, but...
+
+For some reason, it bothered me.
+
+[Takeshi]
+"Is something wrong with him? He doesn't look 
+so hot."
+
+
+30 :
+
+{T1B014}
+[Park staff]
+Oh, he's... a bit...
+
+The attendant hesitated.
+
+
+31 :
+
+{T1B015}
+[Park staff]
+By the way...
+
+
+32 :
+
+{T1B016}
+[Park staff]
+"Hey, Sora, do you have any idea what 
+our situation is?"
+
+The girl attendant addressed the question to
+the staff member in the dress.
+
+
+33 :
+
+{T1B017}
+[Sora]
+"Well, the communication lines are down... 
+I've been investigating ways to restore our 
+connection, but it's going to take some time."
+
+The attendant called Sora said that.
+
+
+34 :
+
+{T1B018}
+[Park staff]
+"In that case, let's go to the central 
+control room. We can monitor things in detail 
+from there, right?"
+
+
+35 :
+
+{T1B019}
+[Sora]
+"That sounds good. I wish I were more 
+useful..."
+
+
+{T1B020}
+[Park staff]
+Don't worry about it, Sora.
+
+
+36 :
+With that, the girl addressed me again.
+
+
+{T1B021}
+[Park staff]
+"We're going down to Dritter Stock‡Lthe third 
+floor underwater."
+
+
+{T1B022}
+[Park staff]
+You're coming, right?
+
+[Takeshi]
+Y-yeah. I'll go.
+
+
+37 :
+We took an emergency corridor behind one of
+the attractions.
+
+It looked like there were a number of similar
+narrow corridors above and below other
+corridors and rooms.
+
+I figured that they were probably used as
+shortcuts by employees as well.
+
+
+38 :
+
+{T1B023}
+[Park staff]
+My name is Tanaka.
+
+
+39 :
+
+{T1B024}
+[Y¤u]
+"Tanaka Y¤u. My real name is a lot 
+longer, but just call me Y¤u. What's your 
+name?"
+
+[Takeshi]
+I'm Kuranari Takeshi.
+
+
+40 :
+
+{T1B025}
+[Y¤u]
+Kuranari, eh? Nice to meet you, Kuranari.
+
+[Takeshi]
+Good to know you, Y¤u.
+
+
+41 :
+[Girl]
+.........
+
+The whole time, the girl in the dark clothes
+silently watched our exchange.
+
+
+42 :
+We went down the stairs together.
+
+Me, £o¢o, Y¤u, Sora, the kid, the girl in
+black, six of us total...
+
+
+43 :
+We arrived at Dritter Stock‡Lthe third floor
+underwater.
+
+
+44 :
+We used the ladder in the emergency corridor
+to descend to another corridor and turned
+around the corner.
+
+
+45 :
+'Kontrollzentrum'
+
+It seemed that it was the central control
+room.
+
+
+46 :
+
+{T1B026}
+[Y¤u]
+"What do you think? Can you learn anything 
+from the computers here?"
+
+
+{T1B027}
+[Sora]
+"Let's see. It looks like directly accessing 
+it would be the fastest route."
+
+
+47 :
+Sora faced the monitor and held up both hands.
+
+
+48 :
+Instantly, the content of the screen began to
+change, with a number of windows opening and
+closing while the search for data was underway.
+
+
+49 :
+[Takeshi]
+"Hey... you can operate these computers 
+without even touching them?"
+
+[Takeshi]
+"I've got the latest cell phone, and it's 
+got a touch panel."
+
+[Takeshi]
+And it's got a kinetic recharge function...
+
+
+50 :
+
+{T1B028}
+[£o¢o]
+What's that?
+
+[Takeshi]
+"Huh? Oh, it means that even if the battery 
+dies, if you walk around with it or shake it, 
+it'll recharge itself. It takes a while, though."
+
+I took my PDA from my pocket and loaned it to
+£o¢o.
+
+
+51 :
+
+{T1B029}
+[£o¢o]
+Like this?
+
+£o¢o took the PDA and shook it using short
+movements like she was shaking maracas.
+
+[Takeshi]
+Yeah, like that.
+
+The light that indicated the battery had
+died lit up.
+
+
+52 :
+
+{T1B030}
+[£o¢o]
+Oh, you're right.
+
+[Takeshi]
+"The harder you shake it, the more it lights 
+up."
+
+The lamp flickered.
+
+I didn't know if she was having fun or what,
+but £o¢o kept up her maraca act for a while.
+
+
+53 :
+It looked like the PDA wasn't broken. All I
+had to do was wait and it would probably work
+again.
+
+It seemed the professional diving waterproof
+specifications it had boasted were actually
+true.
+
+[Sora]
+........
+
+
+54 :
+Sora typed quietly on the keyboard.
+
+(Huh?)
+
+She was typing on the keyboard, but...
+
+It looked like her hands weren't even
+touching the keyboard. I figured that was my
+imagination.
+
+
+55 :
+
+{T1B031}
+[Sora]
+...I've learned something.
+
+Sora said it in a businesslike manner. She
+seemed done with the computer.
+
+Everyone looked in her direction.
+
+
+{T1B032}
+[Sora]
+Everyone, please be calm.
+
+As she said that, I noticed she looked a
+little pale.
+
+The room went quiet as the focus shifted to
+her.
+
+
+56 :
+
+{T1B033}
+[Sora]
+First, the first floor, Erster Boden...
+
+
+{T1B034}
+[Sora]
+"The whole floor is flooded, except for one 
+segment of stairs."
+
+
+{T1B035}
+[Y¤u]
+Flooded? The whole first floor?
+
+
+{T1B036}
+[Sora]
+"Yes. All of the partitions have dropped, and 
+it isn't possible to get through any of its 
+corridors."
+
+
+{T1B037}
+[Girl]
+In other words... there's no way up.
+
+
+{T1B038}
+[Sora]
+That is correct.
+
+[Takeshi]
+...
+
+
+{T1B039}
+[Sora]
+And as for Zweiter Stock and Dritter Stock...
+
+
+{T1B040}
+[Sora]
+"The watertight doors did not close in time,
+and Sector Three is completely flooded."
+
+
+57 :
+
+{T1B041}
+[Sora]
+"All other sectors on the other floors are 
+currently fine."
+
+
+{T1B042}
+[Sora]
+"However, some rooms do have water from the 
+flood we just experienced."
+
+
+{T1B043}
+[Sora]
+"Currently, the bilge pumps are functioning, 
+but it will take a lot of time for the water 
+to completely drain."
+
+
+{T1B044}
+[Y¤u]
+Bilge pumps?
+
+
+{T1B045}
+[£o¢o]
+Does that mean that we have electricity?
+
+
+{T1B046}
+[Sora]
+Let's see...
+
+
+{T1B901}
+[Sora]
+"Some electrical systems, including the 
+elevators, are not functioning."
+
+{T1B902}
+[Sora]
+"The cause of this is unclear, 
+but it would seem that circuit damage 
+in each section is playing a role."
+
+{T1B048}
+[Sora]
+"That is another reason that I was not able 
+to survey the situation adequately before."
+
+(What does she mean 'she' wasn't able to...?)
+
+Something about her words nagged at my mind,
+but I listened to the rest of what she had to
+say.
+
+
+{T1B049}
+[Sora]
+"However, the generator is functioning 
+normally and supplying power."
+
+
+{T1B050}
+[Sora]
+"So as long as the generator is operating as 
+well as the circuitry, the water should be 
+cleared with time."
+
+
+{T1B051}
+[Sora]
+"Incidentally, the internal air pressure of 
+the complex is one atmosphere."
+
+
+{T1B052}
+[Sora]
+"The air is 22% oxygen, 75% 
+nitrogen, and 3% helium. The 
+temperature is 24 degrees Celsius..."
+
+
+{T1B053}
+[Girl]
+"So what you're basically saying is we're 
+safe for a while, right?"
+
+
+{T1B054}
+[Sora]
+I'm sorry, but that is the current situation...
+
+
+{T1B055}
+[Sora]
+"Everyone, we will be forced to wait 
+inside the complex for a while."
+
+
+58 :
+[Takeshi]
+For a while? How long is that?
+
+
+{T1B056}
+[Sora]
+Until help comes.
+
+
+{T1B057}
+[Sora]
+"I am continuously sending out a request for 
+assistance. However..."
+
+
+{T1B058}
+[Sora]
+"Right now, there is no guarantee that it will 
+reach anyone."
+
+
+{T1B059}
+[Sora]
+"All communication lines to Insel Null, 
+including the emergency ones, have been 
+physically severed and are unusable."
+
+
+{T1B060}
+[Sora]
+"I have also been attempting to make contact 
+via a seafloor cable network, using sonar..."
+
+
+{T1B061}
+[Sora]
+"Right now, I cannot estimate when the network 
+will be back online."
+
+[Takeshi]
+"So we're like little kids lost smack in the 
+middle of the ocean, and nobody can hear our 
+SOS..."
+
+
+{T1B062}
+[Sora]
+Exactly.
+
+
+59 :
+The gravity of the situation was
+descending on us.
+
+There was every reason for everyone to get
+depressed.
+
+I sighed...
+
+
+60 :
+
+{T1B063}
+[Y¤u]
+Alright! We've got to stay in good spirits!
+
+One of the group was determined to dispel the
+gloomy atmosphere.
+
+Y¤u spoke so fast that it was almost scary.
+
+
+{T1B064}
+[Y¤u]
+"I'm a first year student at Kyumeikan Women's 
+College, and I work here part-time. My name is 
+Tanaka Yubiseiharukana. I will be your guide 
+until the rescue team comes."
+
+
+{T1B065}
+[Y¤u]
+Rap-tap-tap-tap~ Ta-da~
+
+[Takeshi]
+...Hey, wait, wait! What did you just say?
+
+
+61 :
+
+{T1B066}
+[Y¤u]
+I'm a freshman at Kyumeikan Women's College.
+
+
+{T1B067}
+[Y¤u]
+"I work here part-time and only over the 
+holidays."
+
+
+62 :
+
+{T1B068}
+[Y¤u]
+"Well, I'm kind of new to this whole tour 
+thing, but I will be leading the tour..."
+
+[Takeshi]
+No, no. After that.
+
+
+63 :
+
+{T1B069}
+[Y¤u]
+Huh? You mean my name?
+
+
+64 :
+
+{T1B070}
+[Y¤u]
+Tanaka Yubiseiharukana.
+
+[Takeshi]
+Yubise... what?
+
+
+{T1B071}
+[Y¤u]
+Tanaka Yubiseiharukana.
+
+[Takeshi]
+I can't get my tongue around that.
+
+
+65 :
+
+{T1B072}
+[Y¤u]
+"That's why I said you can call me 'Y¤u'. The 
+long name is a pain, isn't it?"
+
+
+{T1B073}
+[£o¢o]
+Hey, I have a question.
+
+
+66 :
+Another gloom destroyer appeared...
+
+
+{T1B074}
+[Y¤u]
+What might that be?
+
+
+67 :
+
+{T1B075}
+[£o¢o]
+Can I call you 'Nakkyu'?
+
+
+68 :
+
+{T1B076}
+[Y¤u]
+Yes, please do. And what is your name?
+
+
+{T1B077}
+[£o¢o]
+Yagami £o¢o!
+
+
+{T1B078}
+[£o¢o]
+And this is Pipi!
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+Her pet dog appeared from nowhere.
+
+Boy, was she full of energy. Leave it to
+elementary school kids...
+
+
+69 :
+
+{T1B079}
+[Y¤u]
+And how old are you?
+
+
+{T1B080}
+[£o¢o]
+I'm in ninth grade.
+
+[Takeshi]
+Wh-what?
+
+
+70 :
+
+{T1B081}
+[£o¢o]
+What? What's the matter?
+
+[Takeshi]
+No... it's nothing...
+
+It seemed the surprises would never cease.
+
+
+71 :
+
+{T1B082}
+[Y¤u]
+Okay, nice to meet you, £o¢o and Pipi!
+
+
+72 :
+
+{T1B083}
+[£o¢o]
+Thank you~
+
+
+{PIPI_01}
+[Pipi]
+*Woof*!
+
+
+73 :
+
+{T1B084}
+[Y¤u]
+What a cute dog!
+
+
+{PIPI_04}
+[Pipi]
+*Bow-wow*!
+
+
+74 :
+
+{T1B085}
+[Y¤u]
+And so smart too!
+
+
+{T1B086}
+[£o¢o]
+I think so too.
+
+I wondered if maybe there wasn't enough
+oxygen in the room...
+
+I was getting a headache...
+
+
+75 :
+[Girl]
+...
+
+The girl in the black clothes gave our upbeat
+companions a cool stare.
+
+Y¤u noticed the look.
+
+
+76 :
+
+{T1B087}
+[Y¤u]
+Uh, and how about you over there?
+
+[Takeshi]
+Huh? Why're you asking me?
+
+
+77 :
+
+{T1B088}
+[Y¤u]
+Aren't you together?
+
+[Takeshi]
+Stupid. What are you talking about?
+
+
+78 :
+
+{T1B089}
+[Y¤u]
+Hmmmm...
+
+[Takeshi]
+What's that supposed to mean?
+
+
+79 :
+
+{T1B090}
+[Tsugumi]
+Tsugumi.
+
+
+80 :
+I realized the girl had spoken.
+
+
+{T1B091}
+[Tsugumi]
+Komachi Tsugumi.
+
+It was just loud enough to make out what she
+was saying.
+
+
+81 :
+
+{T1B092}
+[Tsugumi]
+That's my name...
+
+
+82 :
+
+{T1B093}
+[Y¤u]
+Hi, Tsugumi! Nice to meet you!
+
+
+83 :
+[Tsugumi]
+.........
+
+
+84 :
+She turned her back. Y¤u shrugged slightly.
+
+
+85 :
+I thought Tsugumi might have been embarrassed.
+
+There was something kinda cute about her.
+
+(Tsugumi, Tsugumi...)
+
+(I think that's a bird's name...)
+
+I remembered her tugging me along in the
+aquarium and running like the wind.
+
+86 :
+{11:0-83}
+{11:1}Thanks for helping back there
+
+{11:1}What are you so mad about?
+
+
+87 :
+[Takeshi]
+Hey, Tsugumi... Thanks for helping back there.
+
+I walked over to her and said that.
+
+
+88 :
+
+{T1B094}
+[Tsugumi]
+What are you talking about?
+
+[Takeshi]
+You saved me in the aquarium, right?
+
+
+{T1B095}
+[Tsugumi]
+I didn't mean to save you.
+
+
+{T1B096}
+[Tsugumi]
+You were in the way.
+
+[Takeshi]
+...What?
+
+
+{T1B097}
+[Tsugumi]
+"If you had tumbled there, you would have 
+been in the way."
+
+
+89 :
+
+{T1B098}
+[Tsugumi]
+I mean you were an obstacle.
+
+Tsugumi looked annoyed as she said that.
+
+
+90 :
+[Takeshi]
+What are you so mad about?
+
+I walked over to her and said that.
+
+
+91 :
+
+{T1B099}
+[Tsugumi]
+This is how I am normally.
+
+[Takeshi]
+I won't ask you to pretend to be happy...
+
+[Takeshi]
+"But how about being a little more friendly? 
+We're gonna have to put up with each other 
+until we get outta here."
+
+
+{T1B100}
+[Tsugumi]
+Why?
+
+
+{T1B101}
+[Tsugumi]
+"I don't know any of you. We just happen to 
+all be here together."
+
+
+{T1B102}
+[Tsugumi]
+"That's right, we don't have any connection to 
+each other..."
+
+
+92 :
+
+{T1B103}
+[Tsugumi]
+We're just an unlucky gathering of strangers.
+
+Tsugumi looked annoyed as she said that.
+
+
+93 :
+(This chick's intense! And scary...!)
+
+In my mind, I retracted my earlier thoughts
+about her being cute.
+
+Tsugumi and I glared at each other for a while.
+
+
+94 :
+
+{T1B104}
+[Y¤u]
+Hey, hey! You two! Let's get along now!
+
+Y¤u jumped in between us.
+
+
+95 :
+I walked away from Tsugumi, and she looked
+away from me.
+
+
+96 :
+
+{T1B105}
+[Y¤u]
+Sora, it's your turn to introduce yourself.
+
+
+97 :
+Y¤u, who was totally in control of the
+situation, turned to Sora, who was working on
+the computer.
+
+
+{T1B106}
+[Sora]
+Oh, you mean me?
+
+Sora took her hands from the machine and came
+toward us as if she were gliding.
+
+
+98 :
+
+{T1B107}
+[Sora]
+"Pardon me for the belated introduction. I am 
+Akanegasaki Sora. I am a system engineer in 
+LeMU's Development Division."
+
+
+{T1B108}
+[Sora]
+Basically... the assistant chief.
+
+99 :
+{11:0-85}
+{11:1}...Is that right?
+
+{11:1}Assistant chief...
+
+
+100 :
+(...Is that right?)
+
+But something struck me as strange.
+
+Actually, it had been bothering me since
+before...
+
+'Basically... the assistant chief.'
+
+She spoke about herself as if she were
+someone else.
+
+'I was not able to gauge the situation.'
+
+She spoke as if the problems in the system
+were her own.
+
+'Please do excuse me.'
+
+(System engineer... I wonder if she talks like
+that because of her job?)
+
+That was what I thought... but I held my tongue.
+
+[Takeshi]
+"...I'm Kuranari Takeshi. I'm 20 years old 
+and a junior in college. Thanks."
+
+
+{T1B109}
+[Sora]
+Kuranari-san, nice to meet you.
+
+
+{T1B110}
+[£o¢o]
+Yeah, it sure is!
+
+
+101 :
+[Takeshi]
+"Assistant chief... So you're pretty 
+high up?"
+
+
+{T1B111}
+[Sora]
+"Only in name. I'm really just an 
+assistant. It's no big deal."
+
+[Takeshi]
+"But hey, Sora, weren't you up at the gate 
+above ground?"
+
+[Takeshi]
+"You were giving some kind of explanation at 
+the entrance, right? I only heard half of it, 
+but..."
+
+
+102 :
+
+{T1B112}
+[£o¢o]
+"Oh, you might be right. Are you the girl from 
+before?"
+
+
+103 :
+
+{T1B113}
+[Sora]
+That's right. So you noticed...
+
+
+104 :
+
+{T1B114}
+[Sora]
+"We are short of people here. From time to 
+time, I do that kind of work."
+
+Sora smiled.
+
+[Takeshi]
+Uh, I'm Kuranari Takeshi.
+
+[Takeshi]
+I'm 20. I'm a junior in college.
+
+
+105 :
+
+{T1B115}
+[£o¢o]
+Nice to meet you!
+
+
+106 :
+
+{T1B116}
+[Sora]
+Yes. Nice to meet you.
+
+
+107 :
+
+{T1B117}
+[Y¤u]
+Yup. Mucho gusto.
+
+Everyone laughed cheerfully.
+
+
+{T1B118}
+[Tsugumi]
+...Hmph.
+
+Everyone except Tsugumi...
+
+It took a little effort, but the atmosphere
+finally loosened up.
+
+Y¤u started gathering us up.
+
+
+{T1B119}
+[Y¤u]
+Okay now, everyone!
+
+
+108 :
+
+{T1B120}
+[Y¤u]
+"Now that we've just started having so much 
+fun, it's time to say goodbye‡L"
+
+
+109 :
+
+{T1B121}
+[£o¢o]
+Uh, Nakkyu! Wait a second!
+
+
+{T1B122}
+[£o¢o]
+We haven't asked somebody's name yet.
+
+£o¢o pointed to the corner of the room.
+
+
+110 :
+
+{T1B123}
+[Kid]
+Uh... Do you mean me?
+
+
+{PIPI_00}
+[Pipi]
+*Woof*
+
+We'd completely forgotten him.
+
+He'd been quiet the whole time, trying to
+stay out of the way, and mostly kept to the
+corner of the room.
+
+
+111 :
+[Y¤u]
+.........
+
+Y¤u looked at the boy, and it looked like her
+face stiffened a little.
+
+
+112 :
+
+{T1B124}
+[£o¢o]
+So let's ask...
+
+
+113 :
+
+{T1B126}
+[£o¢o]
+What is your name?
+
+£o¢o tilted her head as she asked him the
+question.
+
+
+114 :
+[Kid]
+.........
+
+
+{T1B127}
+[Kid]
+I...
+
+
+115 :
+
+{T1B128}
+[Kid]
+My...
+
+[Kid]
+.........
+
+He looked down.
+
+I couldn't figure out what he was waiting for...
+
+
+116 :
+
+{T1B129}
+[Kid]
+I...
+
+
+117 :
+
+{T1B130}
+[Kid]
+Who am I...?
+
+
+118 :
+
+{T1B131}
+[Tsugumi]
+Huh?
+
+[Takeshi]
+What?
+
+
+{T1B132}
+[£o¢o]
+Huh?
+
+
+{T1B133}
+[Sora]
+...?
+
+
+119 :
+
+{T1B134}
+[Kid]
+I can't remember...
+
+
+{T1B135}
+[Kid]
+My... name...
+
+[Takeshi]
+Maybe you've got amnesia.
+
+
+120 :
+Memory impairment: Erinnerungsstörung
+
+
+121 :
+Amnesia:
+
+Refers to memories lost for a certain period
+of time. It is more common with new memories
+than with old memories.
+
+During the period of memory loss, if the
+person has no memories at all, it is called
+'complete amnesia', but in instances in which
+some memories can be recalled, it is called
+'partial amnesia'.
+
+{16:4}
+
+122 :
+Generally, amnesia results from trauma to the
+head, epileptic seizures, mental diseases, and
+disorders that manifest themselves as memory
+impairments.
+
+When a person has trouble recollecting events
+prior to the impairment, it is known as
+'retrograde amnesia'. If new memories cannot
+be formed after the onset of the impairment, it
+is known as 'anterograde amnesia'.
+
+
+{16:4}
+
+123 :
+Amnesia caused by inherent mental factors is
+referred to as 'organic amnesia', while that
+induced by psychological stress is typically
+known as 'psychogenic amnesia', with 'hysterical
+amnesia' being the most typical example.
+
+This is an affliction in which the victim
+often cannot recall knowledge relating to his
+or her personal history, such as one's name,
+history, family, or friends...
+
+And is often a reaction to incidents too hard
+to endure: those which incite an unconscious desire
+to escape, forget, or repress those
+experiences or events.
+
+{16:4}
+
+124 :
+Symptoms do not manifest in any particular way
+physically, and a person's brain function
+remains normal.
+
+People found wandering in this state are
+often taken in or seek help from authorities,
+such as the police.
+
+{16:4}
+
+
+
+125 :
+Young people in their twenties under severe
+psychological stress, such as those facing
+domestic violence, academic problems,
+marriage issues, or financial difficulties, are the
+most typical victims. However, this illness
+can be used as a cover for criminal
+activities, and it can be difficult to detect
+the difference.
+
+{16:4}
+
+126 :
+This is especially seen in individuals with
+demonstrative personalities or pathological
+tendencies to lie.
+
+Normally, in a few days or months, or with the
+help of hypnosis or shock therapy, the
+memories should return.
+
+Complete amnesia can be spurred by retrograde
+life amnesia. Memories are usually restored
+gradually, beginning with older ones, and
+treatment methods include psychiatric care
+and hypnosis, both narcotic and naturally
+induced.
+
+{16:4}
+
+127 :
+[Takeshi]
+Amnesia?
+
+
+{T1B136}
+[Y¤u]
+That's right... He can't remember anything.
+
+
+{T1B137}
+[Sora]
+Did you suffer a concussion?
+
+
+{T1B138}
+[Sora]
+"You might have bumped your head severely 
+somewhere."
+
+[Takeshi]
+"Yeah, you coulda taken a tumble... like when 
+trying to escape."
+
+
+{T1B139}
+[Tsugumi]
+Hmmph...
+
+Tsugumi had let loose a nasty snort when I
+said 'tumble'.
+
+
+{T1B140}
+[Kid]
+I don't know... I don't remember anything.
+
+
+{T1B141}
+[Kid]
+Hey. Where is this?
+
+
+{T1B142}
+[Y¤u]
+We are in LeMU, a marine theme park.
+
+
+{T1B143}
+[Kid]
+Lay... myu...?
+
+
+128 :
+The kid glanced at £o¢o.
+
+He tilted his head.
+
+
+129 :
+£o¢o was playing rock, paper, scissors with
+her dog, Pipi...
+
+
+130 :
+We moved to a room with a kiosk in it.
+
+Thankfully, at least the electric drink
+dispenser was working.
+
+Each person poured the drink they wanted in a
+paper cup.
+
+
+131 :
+
+{T1B144}
+[Y¤u]
+"For now, let's just make a toast and a 
+prayer to everyone's safety!"
+
+
+132 :
+
+{T1B145}
+[£o¢o]
+Cheers!
+
+[Takeshi]
+Okay then. Cheers.
+
+
+133 :
+
+{T1B146}
+[Kid]
+Ch-cheers.
+
+
+134 :
+[Tsugumi]
+...
+
+
+135 :
+The string of events leading to the sudden
+toast went something like...
+
+'Hey, kid, don't you know anything about
+before?'
+
+'Not even something personal about yourself?'
+
+'What do I know... Oh!'
+
+'I know... I'm kinda thirsty.'
+
+‡LAnd that was how it started.
+
+But reason aside, we needed a breather, so the
+timing was good.
+
+[Takeshi]
+"Hey, Sora, what about you? Don't you want a 
+drink?"
+
+Sora was standing stiffly.
+
+
+136 :
+
+{T1B147}
+[Sora]
+Uh, no thanks. I'm not thirsty.
+
+[Takeshi]
+"Well, how about taking a load off? You've been 
+standing the whole time."
+
+
+{T1B148}
+[Sora]
+I'm fine. But thanks for your concern.
+
+
+137 :
+Sure... I thought.
+
+Sora seemed older than me. She seemed polite
+and serious.
+
+She seemed the typical Japanese woman.
+
+'Prim and proper' could be one way of
+describing Sora.
+
+I looked around at my surroundings.
+
+Y¤u was next to the kid and chatting with him.
+
+Sometimes, he would laugh or shake his head
+weakly.
+
+I could overhear bits of their conversation.
+They were talking about his memory.
+
+
+{T1B149}
+[Y¤u]
+It's not that out of the ordinary.
+
+
+{T1B150}
+[Y¤u]
+You'll be fine. It'll fix itself in time.
+
+It looked like the two of them were drinking
+orange juice.
+
+Tsugumi was a way off from everyone and
+looking into the distance.
+
+I had no idea what she was drinking.
+
+I didn't have any idea what she was thinking
+either.
+
+After agonizing over whether to drink apple
+juice or cocoa, £o¢o finally decided on both.
+
+But she proceeded to forget about her drink
+immediately, and £o¢o took a hold of Pipi's
+front legs and started dancing around.
+
+It was a cute scene...
+
+After things had calmed down, Y¤u and everyone else
+gathered in front of the kiosk.
+
+
+138 :
+
+{T1B151}
+[Y¤u]
+"It looks like we're going to be in LeMU for a while...
+so there are a few things I would like to go over."
+
+
+{T1B152}
+[Y¤u]
+First, what's happened.
+
+
+{T1B153}
+[Y¤u]
+Next, what we should do now.
+
+
+139 :
+
+{T1B154}
+[Sora]
+"Tanaka-san, would you mind if I addressed the
+first of those topics?"
+
+
+{T1B155}
+[Y¤u]
+Please do, Sora.
+
+
+140 :
+Sora stood in front of everyone and held out
+her arms.
+
+
+141 :
+Suddenly, a holographic window materialized
+in the air.
+
+I had no idea how the whole system worked,
+but I figured that it was the same one they
+had used at the entrance to the park.
+
+
+142 :
+
+{T1B156}
+[Sora]
+I will explain...
+
+And then she said...
+
+
+143 :
+12:45 p.m.‡L
+
+A blackout suddenly occurred, cause unknown.
+
+Next, the emergency alarms began ringing.
+The cause of this was also unknown.
+
+{16:4}
+
+144 :
+12:54 p.m.‡L
+
+The Insel Null elevator shifted to its
+emergency power source, and an evacuation
+order was issued for the entire complex.
+Employees and visitors evacuated the premises.
+
+{16:4}
+
+145 :
+At this point, some people panicked and opened
+the emergency corridor to the outside in their confusion
+without going through decompression.
+It is highly probable that they are
+experiencing serious decompression sickness
+at this moment.
+
+The emergency corridor to the outside was
+left open for several minutes.
+
+{16:4}
+
+146 :
+1:03 p.m.‡L
+
+The opening of the emergency corridor disrupted
+the air pressure balance inside the
+complex, and the devices responsible for
+adjusting the air pressure encountered
+problems. The complex started automatically
+pulling in air from the outside.
+
+{16:4}
+
+147 :
+As a result, the mixture of gas in the complex
+designed to maintain six atmospheres of air
+pressure escaped.
+
+Apparently helium, which is lighter than
+oxygen or nitrogen, leaked out first.
+
+Air pressure in the complex dropped to one
+atmosphere, the same as the level outside.
+
+{16:4}
+
+148 :
+2:39 p.m.‡L
+
+The major power source came back online.
+LeMMIH, the computer system responsible for
+overseeing LeMU, rebooted and reset the air
+pressure adjustment mechanism. The air
+ventilation ducts were closed.
+
+However, LeMU was built to saturation diving
+specifications, meaning that as long as the
+internal air pressure was the same level or
+higher than the outside water pressure, it
+was designed not to collapse.
+
+Which meant...
+
+{16:4}
+
+149 :
+3:55 p.m.‡L
+
+When the internal air pressure dropped to one
+atmosphere, it became impossible for the
+external partitions to withstand the external
+water pressure, causing the glass to crack
+under the pressure, thus resulting in flooding.
+
+Subsequently, to minimize the damage from the
+flooding, the emergency watertight doors had
+automatically shut.
+
+Which brought us up to speed.
+
+{16:4}
+
+150 :
+.........
+
+
+{T1B157}
+[Sora]
+"I would like to be able to gauge the current 
+situation more accurately... however, some 
+monitors and sensors are still not 
+functioning normally."
+
+
+{T1B158}
+[Sora]
+"As a result, I can't obtain accurate data 
+and can only provide an outline of the 
+situation..."
+
+[Takeshi]
+"Hey, sorry to ask you the same question 
+again, but..."
+
+[Takeshi]
+The first floor... above us is flooded, yeah?
+
+
+151 :
+
+{T1B159}
+[Sora]
+"Correct. I have requested confirmation from 
+our complex management system, LeMMIH, and it 
+has been confirmed."
+
+[Takeshi]
+So we can't get outta here.
+
+
+{T1B160}
+[Sora]
+"Currently, the top priority is requesting 
+assistance, so I am doing my utmost to get the 
+communications system back online. I must 
+request your patience..."
+
+
+152 :
+Sora bowed her head.
+
+I was feeling depressed again.
+
+I didn't want to admit it, but we were in deep
+trouble.
+
+
+153 :
+
+{T1B161}
+[Y¤u]
+"Well, all we can do for now is just wait for 
+help, right?"
+
+[Takeshi]
+"You just keep trying to make everyone feel 
+better, don't you?"
+
+
+154 :
+
+{T1B162}
+[Y¤u]
+"Oh, I'm sorry. Would you prefer my dark, 
+despondent, and desperate approach?"
+
+[Takeshi]
+That's not what I'm saying...
+
+
+155 :
+
+{T1B163}
+[Y¤u]
+Anyway, how about another drink?
+
+Y¤u came out with a huge industrial-sized
+bottle and held it up comically.
+
+[Takeshi]
+"I just can't get over how cheerful you are 
+given how totally screwed we are."
+
+I complained again without thinking.
+
+
+156 :
+
+{T1B164}
+[Y¤u]
+"I said that's not it at all. I'm like this 
+precisely BECAUSE of the situation."
+
+Y¤u said that with a bit of a sulk.
+
+[Takeshi]
+Yeah, you're right... Sorry.
+
+
+157 :
+
+{T1B165}
+[Y¤u]
+There's no need to apologize. Here you go.
+
+
+158 :
+Glup, glup, glup...
+
+She filled my cup to the brim with juice.
+
+
+[Takeshi]
+Hey, hey...
+
+
+159 :
+Sluuuuuuuurp.
+
+But most of it was just bubbles.
+
+[Takeshi]
+This is good!
+
+
+160 :
+
+{T1B166}
+[Y¤u]
+Isn't it?
+
+
+161 :
+Sluuuuuuuurp.
+
+[Takeshi]
+Thanks for the juice.
+
+
+162 :
+
+{T1B167}
+[Y¤u]
+Any time. And it's on the house.
+
+
+163 :
+Y¤u shouldered the massive bottle and took it
+back inside the shop.
+
+Carrying it, she teetered like a penguin,
+which was funny because it really didn't suit
+her.
+
+(Geez, she's a funny one...)
+
+I laughed without thinking.
+
+
+164 :
+[Tsugumi]
+.........
+
+Tsugumi was leaning against the shop wall and
+staring after Y¤u.
+
+Her face was expressionless.
+
+I wondered what she was thinking...
+
+I had no idea.
+
+[Takeshi]
+Even if we are going to wait for help...
+
+[Takeshi]
+"We can't just sit on our butts doing nothing. 
+Right?"
+
+I casually tried to strike up a conversation
+with Tsugumi.
+
+
+165 :
+
+{T1B168}
+[Tsugumi]
+You...
+
+
+{T1B169}
+[Tsugumi]
+"You act like you're all serious, but there's 
+really nothing going on in that head of yours, 
+is there?"
+
+[Takeshi]
+What? That's not true!
+
+[Takeshi]
+I'm thinking. I'm always thinking.
+
+[Takeshi]
+"Yeah. I was just thinking of a way to keep 
+us from getting bored..."
+
+I rattled off the first thing that jumped to
+mind.
+
+
+166 :
+
+{T1B170}
+[Tsugumi]
+...Sure. Whatever.
+
+Tsugumi gave me an annoyed look.
+
+
+167 :
+She seemed exasperated...
+
+I didn't want her to expect anything from me,
+but her attitude was frustrating.
+
+[Takeshi]
+Arrghh...
+
+[Takeshi]
+Hey! Alright, everyone, listen up.
+
+I had an idea.
+
+I called to everybody.
+
+
+168 :
+
+{T1B171}
+[Tsugumi]
+Huh?
+
+
+169 :
+
+{T1B172}
+[£o¢o]
+What?
+
+
+170 :
+
+{T1B173}
+[Sora]
+What's the matter, Kuranari-san?
+
+
+171 :
+
+{T1B174}
+[Y¤u]
+What? What? What happened?
+
+
+172 :
+
+{T1B175}
+[Kid]
+...?
+
+Everybody gathered around.
+
+[Takeshi]
+"We're not gonna accomplish anything just 
+spending time like this, right?"
+
+[Takeshi]
+"So I just thought, why don't we all split up 
+and look around the complex?"
+
+
+173 :
+
+{T1B176}
+[Sora]
+"Why? Don't you think that staying in one 
+place would be safer?"
+
+[Takeshi]
+"No. I think we should check to see if 
+'staying in one place' and doing nothing is 
+really the safest thing to do."
+
+[Takeshi]
+"You know, walk around, see what we can find, 
+and scope out any dangers..."
+
+[Takeshi]
+"If we find some, we can tell everyone to 
+watch out for them or do something to get rid 
+of them."
+
+[Takeshi]
+"And we can see if there is a safer 
+place... and then we could all gather there."
+
+
+{T1B177}
+[Sora]
+But Kuranari-san...
+
+[Takeshi]
+"It's not like the rescue squad is about to 
+burst in the door."
+
+[Takeshi]
+"So if we're going to have to be here in LeMU 
+for half a day or a day or so, then..."
+
+[Takeshi]
+"We should find out what kinda place this is 
+and get to know it like our own house."
+
+
+174 :
+
+{T1B178}
+[Sora]
+"In that case, I can provide you with an 
+abundance of information..."
+
+[Takeshi]
+"No, that's not what I mean. Listen. Sora, you 
+have to look after the communications 
+network, right?"
+
+[Takeshi]
+"You were just talking about how some sensors 
+or monitors weren't working right and you 
+can't get a full sense of the current 
+situation."
+
+
+175 :
+
+{T1B179}
+[Y¤u]
+Oh, I see.
+
+Y¤u clapped her hands together.
+
+
+176 :
+
+{T1B180}
+[Y¤u]
+"So while Sora is trying to send an SOS, we 
+should use our own two legs to see what kind 
+of a situation we're in."
+
+
+177 :
+
+{T1B181}
+[Y¤u]
+"How about it? Sora, that would be easier on 
+you, wouldn't it?"
+
+
+178 :
+
+{T1B182}
+[Sora]
+"Yes... I suppose it would. But there are 
+still dangers..."
+
+It seemed that Sora was unsure.
+
+
+179 :
+
+{T1B183}
+[Tsugumi]
+Alright, I'll go then.
+
+
+180 :
+Tsugumi suddenly laughed.
+
+It looked like she was laughing, but her lips
+curled nastily.
+
+[Takeshi]
+Hey, Tsugumi! Where are you going?
+
+
+181 :
+
+{T1B184}
+[Tsugumi]
+"We're going to split up and check things 
+out, right?"
+
+Tsugumi's expression was blank again.
+
+
+182 :
+Turning around, she headed for the entrance to
+the emergency corridor.
+
+[Takeshi]
+Hey, you can't just...
+
+[Takeshi]
+Come back here! Hey, idiot!
+
+
+183 :
+She was already out of sight.
+
+Her shoes clacked on the metal stairs as she
+climbed.
+
+
+184 :
+
+{T1B185}
+[£o¢o]
+Tsugumin is gone. What are we going to do?
+
+
+{T1B186}
+[Sora]
+I'm worried...
+
+Sora's brow furrowed and her expression
+stiffened.
+
+
+185 :
+
+{T1B187}
+[Kid]
+I think it's alright.
+
+
+186 :
+The kid had broken his silence, and I was a
+little surprised.
+
+
+{T1B188}
+[Kid]
+"It's like Takeshi says. It doesn't do us any 
+good to just stay here..."
+
+He continued without pausing.
+
+
+{T1B189}
+[Kid]
+"Tsugumi just went to the second floor. I'll 
+bet she's just going to look around there."
+
+
+{T1B190}
+[Kid]
+So why don't we look around the third floor?
+
+
+187 :
+
+{T1B191}
+[Y¤u]
+Hmmm...
+
+
+188 :
+
+{T1B192}
+[Y¤u]
+Alright then. I'm in.
+
+
+189 :
+
+{T1B193}
+[£o¢o]
+Okay. Let's do that then.
+
+[Takeshi]
+Sounds like a plan...
+
+I gave a big nod.
+
+
+190 :
+
+{T1B194}
+[Sora]
+"I suppose there is nothing I can do to stop 
+you. Please, be careful, everyone."
+
+Sora finally nodded slightly.
+
+Once everyone's minds were set, things picked
+up.
+
+
+191 :
+Sora said she was going back to the control
+room to get data, so we went our separate ways.
+
+Y¤u, £o¢o, the kid, and I went to search
+around the complex.
+
+
+192 :
+We decided to check the normal corridors and
+the emergency corridors above and below them
+on the third floor.
+
+Splitting into pairs where the corridor
+forked, we agreed to meet back at the fork
+when we had checked the corridor ahead...
+
+We did that over and over.
+
+
+193 :
+We walked every corridor that we could walk
+down.
+
+I wondered if water was leaking anywhere.
+
+I figured that the water pressure would send
+water spurting through any crack it could find.
+
+
+194 :
+Also, I thought there might be other people
+who had been left behind.
+
+According to Sora, the system had told her
+that there were six people in the complex.
+Still, there was no guarantee that was right.
+
+I thought that if we found somebody else, it
+might change our situation.
+
+
+195 :
+There could also have been a corridor that the
+broken sensors weren't picking up.
+
+I hoped there might be a door to the surface
+that we were simply unaware of... I couldn't
+throw away that shred of hope.
+
+
+196 :
+While we were out searching, Sora continued
+to try to get into contact with LeMU's
+central computer, LeMMIH, and gather more
+information.
+
+Sora had said that she wanted to establish a
+means of communicating with the outside.
+
+
+197 :
+We returned to the front of the kiosk. Sora had
+arrived first and was waiting.
+
+But Tsugumi was nowhere to be seen.
+
+
+{T1B195}
+[Y¤u]
+Tsugumi hasn't come back.
+
+[Takeshi]
+"We can't just let her run loose... I wonder 
+where she is."
+
+
+{T1B196}
+[Sora]
+Shall I check?
+
+
+198 :
+We all went into the central control room.
+
+
+199 :
+
+{T1B197}
+[Sora]
+"We checked the life reading scan of people 
+inside the complex. Even if Komachi-san were 
+moving around, she should still appear in the 
+results of the scan."
+
+
+{T1B198}
+[Sora]
+That is, of course, if she is in the complex...
+
+
+200 :
+(And if she is alive...)
+
+I managed to keep that thought from coming
+out of my mouth.
+
+It only took a moment for a map of LeMU and
+data from the sensors to appear.
+
+There was one fuzzy light on the second floor.
+
+
+{T1B199}
+[Sora]
+That would be Komachi-san...
+
+There were a number of lights in a room on
+the third floor. I figured that was the
+control room where we were.
+
+
+201 :
+
+{T1B200}
+[Kid]
+Oh!
+
+
+202 :
+
+{T1B201}
+[Y¤u]
+What is it?
+
+
+203 :
+
+{T1B202}
+[Kid]
+Hey, isn't that strange?
+
+
+{T1B203}
+[Kid]
+Look...
+
+
+204 :
+The kid pointed at a corner of the monitor.
+
+It indicated a single digit number.
+
+
+205 :
+'Life readings: 6'
+
+
+{T1B204}
+[Kid]
+Watch it closely...
+
+
+206 :
+'Life readings: 5'
+
+
+207 :
+'Life readings: 7'
+
+
+208 :
+'Life readings: 6'
+
+
+209 :
+5
+
+210 :
+7
+
+211 :
+6
+
+212 :
+5
+
+213 :
+7
+
+214 :
+6...
+
+
+215 :
+
+{T1B205}
+[Sora]
+"Oh my. You're right... I wonder what it 
+could be..."
+
+
+216 :
+Sora fiddled with the console, but the
+numbers on the monitor continued to fluctuate.
+
+
+217 :
+The number changed every few seconds.
+
+
+218 :
+But even while the life scan numbers changed,
+no new lights appeared or disappeared.
+
+
+219 :
+
+{T1B206}
+[Kid]
+Maybe...
+
+
+{T1B207}
+[Kid]
+Maybe there is somebody besides us in LeMU.
+
+
+{T1B208}
+[Kid]
+"If the number really is supposed to be 
+'seven'..."
+
+
+{T1B209}
+[Y¤u]
+That's what it would mean.
+
+
+{T1B210}
+[Kid]
+"Don't you think we should go look for that 
+person?"
+
+
+220 :
+
+{T1B211}
+[Kid]
+"I mean... they could be in trouble. We have 
+to help them!"
+
+[Takeshi]
+Hang on, kid. Calm down.
+
+
+221 :
+For a while, all of our eyes were glued to the
+changing numbers.
+
+Watching them change was unsettling...
+
+Finally...
+
+
+222 :
+'Life readings: 6'
+
+The monitor settled on the number six.
+
+The light on the second floor was moving
+around slowly.
+
+The five lights on the third floor were all
+in one room, unmoving.
+
+
+223 :
+
+{T1B212}
+[Sora]
+"Perhaps it... was just because of a 
+malfunctioning sensor. The cause is unclear. 
+Would you like to see what else we can find 
+out?"
+
+[Takeshi]
+"Nah. Tsugumi's on the second floor, and there 
+are five of us here..."
+
+[Takeshi]
+"So that number 'six' is probably right. Don't 
+you think?"
+
+
+{T1B213}
+[Kid]
+But...
+
+[Takeshi]
+"Well, I figure if we go look around a little 
+more, we'll find out soon enough."
+
+[Kid]
+.........
+
+
+{T1B214}
+[Y¤u]
+...Yeah.
+
+[Takeshi]
+Alright then.
+
+[Takeshi]
+"So do you all wanna head to the second 
+floor...?"
+
+I thought it was best if we actually took in
+the situation with our own eyes.
+
+
+224 :
+We climbed to the top of the long emergency
+stairs together.
+
+In the end, we didn't find anybody else on
+the third floor.
+
+We didn't see any routes that looked like
+they might lead out either.
+
+Sora had told us there was no schedule for the
+communications system to be back online.
+
+We could look at the information displayed on
+some of the LeMMIH terminals which were set
+in some attractions and in the corridors, but
+we couldn't operate them in any way.
+
+The cause for that was unclear too.
+
+The fact that there were no leaks on that
+floor was our one saving grace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

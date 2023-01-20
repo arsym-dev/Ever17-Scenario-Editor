@@ -1,0 +1,1169 @@
+
+
+1 :
+
+{C2T000}
+[Sora]
+Someone has to 'see' me.
+
+
+{C2T001}
+[Sora]
+I have to be seen in order to exist.
+
+
+{C2T002}
+[Sora]
+Vision‡La viewpoint.
+
+
+{C2T003}
+[Sora]
+Someone's perspective actually creates me.
+
+
+{C2T004}
+[Sora]
+Kuranari-san...
+
+
+{C2T005}
+[Sora]
+When you close your eyes, I disappear.
+
+2 :
+{11:0-7a}
+{11:2-d0}Try it
+
+{11:1}.........
+
+
+3 :
+[Takeshi]
+.........
+
+I said nothing and did nothing.
+
+No, it would be better to say that I couldn't
+say or do anything.
+
+It was hard for me to grasp the meaning of
+Sora's words.
+
+
+4 :
+Going into the room, I could hear the beeping
+of the console, indicating someone was
+calling.
+
+
+5 :
+
+{T2C238}
+[Sora]
+Well, Kuranari-san...
+
+
+{T2C239}
+[Sora]
+"LeMMIH is calling for me, so I will leave 
+and then come back shortly."
+
+
+6 :
+And saying that, Sora disappeared.
+
+Only the three-dimensional hologram depicting
+LeMU hovered silently in the darkness.
+
+
+
+7 :
+[Takeshi]
+When I close my eyes...?
+
+I decided to test it and covered my eyes with
+one hand.
+
+8 :
+Instantly, Sora vanished.
+
+If Sora did exist, I should have been able to
+see her head above my hand and her feet below.
+
+But Sora wasn't there.
+
+My hand kept the laser from reaching my eye,
+so I couldn't see Sora.
+
+Something about it made her seem fragile and
+temporary. It scared me.
+
+I quickly put down my hand.
+
+
+9 :
+She appeared without a sound.
+
+She smiled gently.
+
+[Takeshi]
+Sora...?
+
+
+{C2T006}
+[Sora]
+Yes...?
+
+There was no real meaning in my question.
+
+Maybe it was just that I wanted to see whether
+or not she would answer me.
+
+Given her fragile existence, there seemed to
+be a danger that she might slip away at any
+moment...
+
+I was uneasy about it, and at the same time
+felt a sort of awe about the mystery of it.
+
+
+10 :
+
+{C2T007}
+[Sora]
+"Is there anything else? Please don't stare 
+at me like that."
+
+Sora was blushing.
+
+[Takeshi]
+Oh... No. Nothing else.
+
+
+11 :
+Sora pinched her lips closed as if she was
+slightly embarrassed.
+
+
+{C2T008}
+[Sora]
+By the way, Kuranari-san...
+
+[Takeshi]
+Yeah?
+
+
+12 :
+
+{C2T009}
+[Sora]
+Kuranari-san... Have you ever seen the moon?
+
+The question came out of nowhere.
+
+But it was one that caused me to burst out
+laughing.
+
+[Takeshi]
+Hahaha! Yeah, of course I have.
+
+I replied immediately.
+
+
+13 :
+
+{C2T010}
+[Sora]
+"Well, now let's say that you have seen a full 
+moon."
+
+
+{C2T011}
+[Sora]
+"And let's say that you closed your eyes. Do 
+you think the moon would still be there?"
+
+[Takeshi]
+Why are you asking such obvious questions?
+
+[Takeshi]
+Of course it would.
+
+
+14 :
+
+{C2T012}
+[Sora]
+"And how about if everyone in the world closed 
+their eyes all at the same time?"
+
+[Takeshi]
+"I don't know what your point is, but... even if 
+everyone in the world closed their eyes, the 
+moon wouldn't disappear."
+
+
+15 :
+
+{C2T013}
+[Sora]
+Really?
+
+[Takeshi]
+Yeah.
+
+
+{C2T014}
+[Sora]
+How can you be sure?
+
+[Takeshi]
+Just open your eyes, right?
+
+
+16 :
+
+{C2T015}
+[Sora]
+"That goes against the purpose of this 
+exercise."
+
+
+{C2T016}
+[Sora]
+"My question was whether or not there is 
+any way of verifying that the moon exists 
+if someone closes their eyes."
+
+[Takeshi]
+?
+
+
+{C2T017}
+[Sora]
+"When you close your eyes, do you think this 
+world still exists?"
+
+
+{C2T018}
+[Sora]
+"What if I told you that not only myself, but 
+all of LeMU was nothing but an RSD-generated 
+illusion... What would you do then?"
+
+[Takeshi]
+...Huh?
+
+
+{C2T019}
+[Sora]
+"Can you prove that the walls, the ceiling, 
+and all of the scenery that you are 
+observing actually exist?"
+
+(So everything I'm looking at... is RSD...?)
+
+
+I panicked, glancing around at my surroundings.
+
+
+17 :
+
+{C2T020}
+[Sora]
+Haha, I'm sorry. I was only joking.
+
+[Takeshi]
+That's a joke?
+
+
+{C2T021}
+[Sora]
+Yes. LeMU really does exist.
+
+
+{C2T022}
+[Sora]
+"You sounded so full of confidence when you 
+answered... I thought I would tease you just 
+a bit."
+
+Sora giggled, covering her mouth.
+
+
+18 :
+
+{C2T023}
+[Sora]
+However, I can say this.
+
+
+{C2T024}
+[Sora]
+"For humans to know the world around them, 
+they must use one of their five senses."
+
+
+{C2T025}
+[Sora]
+"If they lose all of these, they lose the 
+ability to tell whether this world exists 
+or not."
+
+
+19 :
+
+{C2T026}
+[Sora]
+"Another way of putting it might be to say 
+that the perspective is in the eye of the 
+beholder."
+
+
+{C2T027}
+[Sora]
+"In this instance, I don't mean just sight, 
+but hearing, smell, taste, and touch as well. All of 
+the senses."
+
+
+{C2T028}
+[Sora]
+"The point at which we perceive the world‡Lthat 
+is perspective."
+
+
+20 :
+
+{C2T029}
+[Sora]
+And I...
+
+
+21 :
+
+{C2T030}
+[Sora]
+I... I am the same as the moon.
+
+
+{C2T031}
+[Sora]
+Do you understand?
+
+I felt like I had been able to get the gist of
+what she meant.
+
+Still... I didn't know exactly what she meant
+by 'I am the same as the moon.'
+
+I mustered an image of a silvery blue moon,
+its light piercing through the dark night.
+
+
+22 :
+(I see... That's what she means.)
+
+The answer came to me surprisingly quickly.
+
+The moon didn't bark like a dog, it didn't
+smell, and it didn't taste tart like an
+apple, at least not as far as I knew.
+
+The only way to be sure of the existence of
+the moon was through its small gravitational
+pull and its blue-white light.
+
+Thinking of it in that way, the mysterious
+charm of the moon and its transience were
+things that Sora shared.
+
+I believed the moon was there, so it was
+there...
+
+I believed that Sora was there, so she was
+there...
+
+Maybe that was what Sora wanted to say.
+
+
+23 :
+[Takeshi]
+Aah, I got it.
+
+That was how I answered.
+
+
+24 :
+Sora's eyes lit up and her cheeks wrinkled
+into a big smile.
+
+And it might have been my imagination,
+but I thought I smelled the tart scent of an apple
+from somewhere.
+
+
+25 :
+After seeing Sora off to the control room...
+
+I didn't have anything in particular to do,
+so I wandered aimlessly down the corridors of
+Dritter Stock.
+
+Ahead of me, I could see the door leading to
+the Lemurian Ruins. The door was open.
+
+Walking by, I glanced briefly inside.
+
+I saw someone.
+
+
+26 :
+(Huh? Who's that?)
+
+27 :
+{11:0-7c}
+{11:1}I was curious
+
+{11:1}I didn't really care
+
+
+28 :
+I was curious, so I ducked inside the room
+with the ruins.
+
+
+29 :
+(Hmm. Who is in here?)
+
+
+30 :
+(Ah... Who cares?)
+
+Not paying it any more of my attention, I
+quickly passed by the entrance.
+
+
+31 :
+And letting my legs lead the way, I roamed
+without any destination in mind. Eventually, I
+ended up resting on a bed in the infirmary,
+staring out into the ocean depths...
+
+And before I knew it, a few hours had passed...
+
+
+32 :
+It turned out the figures in the room were
+Y¤u and £o¢o.
+
+
+33 :
+Y¤u had been leaning up against the stone wall.
+
+In the palm of Y¤u's hand was... some kind of
+journal or notebook. She had it opened and
+was staring at a page.
+
+£o¢o was standing next to her, peering
+over her shoulder.
+
+The two of them were flush up against one
+another, speaking in two and three word
+sentences. They looked like they were having
+fun.
+
+
+{PIPI_09}
+[Pipi]
+*Woof*, *woof*! *Woof*, *woof*!
+
+From out of nowhere, Pipi appeared and rushed
+up to my legs.
+
+I lifted up the sopping wet Pipi and went
+over to stand by the two girls.
+
+[Takeshi]
+What'cha looking at?
+
+I stood beside them and asked.
+
+
+34 :
+Y¤u and £o¢o looked up and noticed me.
+
+
+{C2T032}
+[£o¢o]
+"Um, uh, we were, um, looking at these 
+pictures."
+
+[Takeshi]
+Pictures?
+
+
+{C2T033}
+[Y¤u]
+You want to see them?
+
+[Takeshi]
+Sure.
+
+
+{C2T034}
+[Y¤u]
+Okay, I'll show you.
+
+
+35 :
+What Y¤u handed over to me was neither a
+journal nor notebook, but a single file.
+
+One small enough to fit in the palm of my hand.
+
+It was already open, and it had several pictures
+taken from an instant camera stuffed between
+the pages.
+
+They were baby pictures.
+
+[Takeshi]
+It can't be...
+
+[Takeshi]
+Your baby!?
+
+
+36 :
+
+{C2T035}
+[Y¤u]
+Nooo, stupid!
+
+
+37 :
+Y¤u hit me on the head.
+
+
+38 :
+
+{C2T036}
+[Y¤u]
+I'm eighteen, okay? And I'm single. Single!
+
+[Takeshi]
+Yeah right...
+
+[Takeshi]
+Which means that this baby is...?
+
+
+39 :
+
+{C2T037}
+[£o¢o]
+It's Nakkyu, dummy.
+
+
+{C2T038}
+[£o¢o]
+"These are from when Nakkyu was a little bitty 
+baby!"
+
+[Takeshi]
+So this is what you were laughing about?
+
+
+{C2T039}
+[Y¤u]
+Something wrong with that?
+
+
+40 :
+
+{C2T040}
+[Y¤u]
+"I mean, they're adorable, right? My baby 
+pictures."
+
+
+{C2T041}
+[Y¤u]
+"Uh, and of course the fact that I'm cute 
+hasn't changed a bit, you know."
+
+[Takeshi]
+.........
+
+
+41 :
+
+{C2T042}
+[Y¤u]
+Oh, and... um... can you hand those back?
+
+And saying that, Y¤u snatched the file out of
+my hands...
+
+
+42 :
+
+{C2T043}
+[Y¤u]
+"This picture is from when I was dressed up 
+in a kimono as a kid..."
+
+
+{C2T044}
+[Y¤u]
+"And in this, I was head cheerleader for an 
+athletic event at school."
+
+
+{C2T045}
+[Y¤u]
+"And... Oh, this one's from my first day of 
+middle school."
+
+Y¤u continued to flip through the pages.
+
+
+43 :
+
+{C2T046}
+[Y¤u]
+"And here's one that I took at the talent 
+show my freshman year in high school."
+
+
+{C2T047}
+[Y¤u]
+"Here's Keiko, Min-min, Betty, Chi-chan, Beef 
+Yamamoto... Oh, and I couldn't forget my 
+teacher, right?"
+
+
+{C2T048}
+[Y¤u]
+"And the fireworks festival... Here's my 
+trip to the hot springs... Oh! And one from 
+that time I stayed at Ami-chan's!"
+
+
+44 :
+
+{C2T049}
+[Y¤u]
+And here we have... Huh? What is this?
+
+
+45 :
+
+{C2T050}
+[Y¤u]
+"Oooh, that's riiight. This is when we 
+sneaked into school that one night..."
+
+
+{C2T051}
+[Y¤u]
+"And of course, the graduation ceremony... 
+There was one more... Uuummm..."
+
+
+46 :
+
+{C2T052}
+[Y¤u]
+"Here it is, heh heh. It's hideous, right? 
+I'd been crying and crying..."
+
+So much of Y¤u's history was there...
+
+Smiling faces, sad faces, silly faces,
+surprised faces, even shy faces...
+
+There were girlfriends, boyfriends, teachers,
+people, afternoons, nights, good times, and
+hard times...
+
+It went without saying, but shown in those
+photos were people I didn't know, places I
+didn't know, and a Y¤u that I didn't know.
+
+
+{C2T053}
+[Y¤u]
+Oh, and, and...
+
+Y¤u looked like she had no intention of
+stopping, so I rushed to get a word in.
+
+[Takeshi]
+"Um, Y¤u? So what is this, your life's 
+history album or something?"
+
+
+47 :
+
+{C2T054}
+[Y¤u]
+"A history album... Well, I've never called it 
+that before..."
+
+
+{C2T055}
+[Y¤u]
+"But if you had to label it, I guess you 
+could call it that."
+
+[Takeshi]
+Uh, so why are you carrying that with you?
+
+
+{C2T056}
+[Y¤u]
+Huh? Why do you even need to ask?
+
+
+48 :
+
+{C2T057}
+[£o¢o]
+"Takepyon, you don't know? All girls carry 
+around things like this. It's normal."
+
+[Takeshi]
+You don't say?
+
+
+49 :
+
+{C2T058}
+[Y¤u]
+Yeah.
+
+
+{C2T059}
+[£o¢o]
+Well, all the girls I know carry them around.
+
+
+50 :
+Come to think about it, I'd heard rumors of
+something like that before.
+
+But I wouldn't have expected it to be
+anything more than a fleeting fad. There was
+no way I had any idea it was a deep-rooted
+girl tradition.
+
+The album had probably been with Y¤u's
+things from the changing room.
+I wonder what everyone is doing right about
+now...
+
+51 :
+
+{C2T060}
+[Y¤u]
+"I wonder what everyone is doing right about 
+now..."
+
+
+Y¤u murmured softly to herself as she flipped
+through the pages.
+
+
+{C2T061}
+[Y¤u]
+Do any of these people ever worry about me?
+
+[Takeshi]
+.........
+
+
+52 :
+
+{C2T062}
+[£o¢o]
+Oh yeah...
+
+
+{C2T063}
+[£o¢o]
+Do you live with your mom and dad, Takepyon?
+
+[Takeshi]
+Eh?
+
+
+{C2T064}
+[£o¢o]
+Or do you live by yourself?
+
+53 :
+{11:0-7e}
+{11:1}I'm living with my parents
+
+{11:1}I live alone
+
+
+54 :
+[Takeshi]
+I'm living with my parents.
+
+
+{C2T065}
+[£o¢o]
+"So I'll bet your mom and dad are worried 
+about you."
+
+[Takeshi]
+"Well, they're parents. Parents worry, it's 
+what they're good at..."
+
+[Takeshi]
+"Buuut, that's only if they know we're stuck 
+in here."
+
+
+{C2T066}
+[£o¢o]
+Well, they've got to know.
+
+
+{C2T067}
+[£o¢o]
+"An accident as big as this? It's probably 
+all over the news. They might even be doing a 
+huge TV special about it."
+
+
+55 :
+[Takeshi]
+I live alone.
+
+[Takeshi]
+"I get a phone call every couple of months 
+from home, and I don't really call them much 
+myself."
+
+[Takeshi]
+"So... there's probably no way that my 
+parents know that I'm trapped in a place like 
+this."
+
+
+56 :
+
+{C2T068}
+[Y¤u]
+That's not true! They've got to know.
+
+
+{C2T069}
+[Y¤u]
+"An accident as big as this? It's probably 
+all over the newspapers and television."
+
+
+57 :
+[Takeshi]
+You think so? I'm not sure about that...
+
+
+58 :
+Y¤u kept flipping through the pages.
+
+It didn't seem like she was very interested
+in what I had to say.
+
+[Takeshi]
+"How about you, £o¢o? You're probably still 
+living with your parents, aren't you?"
+
+
+59 :
+
+{C2T070}
+[£o¢o]
+Well, I'm fourteen, aren't I? Of course I am.
+
+
+60 :
+
+{C2T071}
+[£o¢o]
+"Ah, well, right now my dad isn't at home, 
+but..."
+
+[Takeshi]
+Hmm? Why not?
+
+
+61 :
+
+{C2T072}
+[£o¢o]
+"Because he's on a 'business trip', that's 
+why."
+
+[Takeshi]
+Oh, I see.
+
+
+62 :
+[Takeshi]
+"And what about you, Y¤u? Are you living with 
+your parents, or..."
+
+
+63 :
+(Oh! Duh! Why did I ask that!?)‡LI realized
+it'd been a mistake to ask that.
+
+Y¤u's dad had been missing for seventeen years.
+
+
+I checked Y¤u's expression.
+
+But it didn't seem as if she cared one way or
+another.
+
+
+64 :
+
+{C2T073}
+[Y¤u]
+I'm living with my mom.
+
+
+{C2T074}
+[Y¤u]
+But I doubt she's really worried about me.
+
+
+{C2T075}
+[Y¤u]
+"That's just the kind of person she is, my 
+mom..."
+
+[Takeshi]
+What do you mean?
+
+
+{C2T076}
+[Y¤u]
+"I guess you could call her a positive 
+thinker... She isn't the type to really let 
+herself get caught up in things."
+
+
+{C2T077}
+[Y¤u]
+She doesn't care if I stay out all night...
+
+
+{C2T078}
+[Y¤u]
+"I've been living with her for eighteen years... but 
+she's never raised her voice at me once."
+
+
+{C2T079}
+[Y¤u]
+"I grew up pretty much doing whatever I 
+wanted."
+
+
+65 :
+
+{C2T080}
+[Y¤u]
+"I suppose that's why I turned out the way I 
+did."
+
+
+66 :
+Y¤u showed me a page from her album that she'd
+turned to.
+
+There was Y¤u, putting the hurt on some
+wrestler.
+
+And the guy looked like a bulky jock of sorts.
+
+
+{C2T081}
+[Y¤u]
+So...
+
+Y¤u said that as she snapped the album shut.
+
+
+67 :
+
+{C2T082}
+[Y¤u]
+Hey, £o¢o? You want to go take a nap?
+
+
+{C2T083}
+[Y¤u]
+"I don't know why, but... *yaaawn*... I'm kind 
+of tired all of a sudden..."
+
+
+{C2T084}
+[£o¢o]
+Okay, let's take a nap.
+
+
+68 :
+
+{C2T085}
+[Y¤u]
+I wonder why I'm so tired this early?
+
+
+{C2T086}
+[Y¤u]
+Right, £o¢o?
+
+
+{C2T087}
+[£o¢o]
+Right, Nakkyu?
+
+
+69 :
+Y¤u and £o¢o looked over at me disapprovingly
+and... left the room fighting off yawns.
+
+
+Holding Pipi, I watched the two disappear from
+sight.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
